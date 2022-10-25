@@ -1,8 +1,8 @@
 {"number":"1012","name":"가디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1012.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1012_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1012_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012_main.png"},
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다."],
 "specie":"강아지","height":"19.0 kg (41.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
@@ -12,10 +12,10 @@
 "abilities":[{"name":"위협","description":"상대의 공격을 떨어뜨린다."},{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"¼","Water":"4","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"½","Ground":"4","Flying":"½","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"1012","name":"가디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1012_thumb.png","type":"FIRST"},{"number":"1013","name":"윈디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1013_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012_thumb.png","type":"FIRST"},{"number":"1013","name":"윈디",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013_thumb.png","type":"LAST",
 "requirement":"불꽃의돌 사용"}],"previousEvolutions":[],"nextEvolutions":[{"number":"1013","name":"윈디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1013_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013_thumb.png","type":"LAST",
 "requirement":"불꽃의돌 사용"}],"superEvolutions":[],
 "baseStats":{"hp":60,"attack":75,"defense":45,"spAtk":65,"spDef":50,"speed":55,"total":350},"cards":[{"number":"27","name":"가디","expansionName":"Rebel Clash",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/SWSH2_EN_27.png"},{"number":"21","name":"가디","expansionName":"Unbroken Bonds",

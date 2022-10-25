@@ -1,12 +1,12 @@
 {"number":"1024","name":"또도가스",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1024.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1024_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1024_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1024.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1024.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1024.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1024.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif"},
 "types":["Poison","Fairy"],"weaknesses":["Psychic","Ground"],
 "descriptions":["공장이 모여 있어 공기가 오염되었던 과거에 무슨 이유에서인지 이 모습으로 변했다."],
 "specie":"독가스","height":"9.5 kg (20.9 lbs)","weight":"1.2 m (3′11″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"¼","Poison":"1","Ground":"2","Flying":"1","Psychic":"2","Bug":"¼","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"2","Fairy":"½"},"evolutionChain":[{"number":"109","name":"또가스",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/109.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/109.png","type":"FIRST"},{"number":"1024","name":"또도가스",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1024.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1024_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024_thumb.png","type":"LAST",
 "requirement":"Level 35"}],"previousEvolutions":[{"number":"109","name":"또가스",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/109.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/109.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":65,"attack":90,"defense":120,"spAtk":85,"spDef":70,"speed":60,"total":490},"cards":[{"number":"95","name":"또도가스","expansionName":"Chilling Reign",

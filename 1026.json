@@ -1,8 +1,8 @@
 {"number":"1026","name":"블레이범",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1026.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1026_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1026.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1026_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1026_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1026_main.png"},
 "types":["Fire","Ghost"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다."],
 "specie":"화산","height":"79.5 kg (175.3 lbs)","weight":"1.7 m (5′07″)","breeding":{
@@ -15,7 +15,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/156.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/156.png","type":"MIDDLE",
 "requirement":"Level 14"},{"number":"1026","name":"블레이범",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1026.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1026_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1026.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1026_thumb.png","type":"LAST",
 "requirement":"Level 36"}],"previousEvolutions":[{"number":"155","name":"브케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/156.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/156.png","type":"MIDDLE",

@@ -1,12 +1,12 @@
 {"number":"1027","name":"코산호",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1027.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1027_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1027_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1027.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1027.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1027.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1027.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.gif"},
 "types":["Water","Rock"],"weaknesses":["Grass","Electric","Fighting","Ground"],
 "descriptions":["갑작스러운 환경 변화로 죽은 태고의 코산호. 가지로 사람의 생기를 빨아들인다."],
 "specie":"산호","height":"5.0 kg (11.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"1027","name":"코산호",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1027.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1027_thumb.png","type":"FIRST"},{"number":"864","name":"산호르곤",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1027_thumb.png","type":"FIRST"},{"number":"864","name":"산호르곤",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/864.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/864.png","type":"LAST",
 "requirement":"Level 38"}],
 "previousEvolutions":[],

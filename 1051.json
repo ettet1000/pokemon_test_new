@@ -1,7 +1,7 @@
 {"number":"1051","name":"미끄네일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1051.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1051_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/1051_main.png"},
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051_thumb.png",
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1051_main.png"},
 "types":["Steel","Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["음침한 성격을 가졌다. 히스이 땅에 흐르는 물에 함유된 철이 피부의 점액에 작용하여 금속 껍질로 변한 것으로 추측된다."],
 "specie":"연체","height":"17.5 kg (38.6 lbs)","weight":"0.8 m (2′07″)","breeding":{
@@ -11,20 +11,20 @@
 "typesEffectiveness":{"Normal":"½","Fire":"1","Water":"½","Electric":"½","Grass":"¼","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"2"},
 "evolutionChain":[{"number":"704","name":"미끄메라",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/704.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/704.png","type":"FIRST"},{"number":"1051","name":"미끄네일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1051.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1051_thumb.png","type":"MIDDLE","requirement":"Level 40"},{"number":"1052","name":"미끄래곤",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1052.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1052_thumb.png","type":"LAST","requirement":"Level 50, 안개낀 날씨"}],"previousEvolutions":[{"number":"704","name":"미끄메라",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051_thumb.png","type":"MIDDLE","requirement":"Level 40"},{"number":"1052","name":"미끄래곤",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1052.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1052_thumb.png","type":"LAST","requirement":"Level 50, 안개낀 날씨"}],"previousEvolutions":[{"number":"704","name":"미끄메라",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/704.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/704.png"
 ,"type":"FIRST"}],"nextEvolutions":[{"number":"1052","name":"미끄래곤",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1052.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1052_thumb.png"
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1052.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1052_thumb.png"
 ,"type":"LAST",
 "requirement":"Level 50, 안개낀 날씨"}],"superEvolutions":[],
 "baseStats":{"hp":58,"attack":75,"defense":83,"spAtk":83,"spDef":113,"speed":40,"total":452},"cards":[{"number":"93","name":"미끄네일","expansionName":"Forbidden Light",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/705/SM6_EN_93.png"},{"number":"95","name":"미끄네일","expansionName":"SM—Guardians Rising",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/705/SM2_EN_95.png"},{"number":"59","name":"미끄네일","expansionName":"XY—Ancient Origins",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/705/XY7_EN_59.png"},{"number":"76","name":"미끄네일","expansionName":"XY—Phantom Forces",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/705/XY4_EN_76.png"},{"number":"73","name":"미끄네일","expansionName":"XY—Flashfire",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/705/XY2_EN_73.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test/sounds/705.mp3","moves":{
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/705/SM6_EN_93.png"},{"number":"95","name":"미끄네일","expansionName":"SM—Guardians Rising",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/705/SM2_EN_95.png"},{"number":"59","name":"미끄네일","expansionName":"XY—Ancient Origins",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/705/XY7_EN_59.png"},{"number":"76","name":"미끄네일","expansionName":"XY—Phantom Forces",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/705/XY4_EN_76.png"},{"number":"73","name":"미끄네일","expansionName":"XY—Flashfire",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/705/XY2_EN_73.png"}],
+"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/705.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"거품",

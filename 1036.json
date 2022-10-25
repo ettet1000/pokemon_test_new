@@ -1,8 +1,8 @@
 {"number":"1036","name":"모크나이퍼",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1036.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1036_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1036.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1036_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1036_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1036_main.png"},
 "types":["Grass","Fighting"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다."],
 "specie":"화살깃","height":"36.6 kg (80.7 lbs)","weight":"1.6 m (5′03″)","breeding":{
@@ -14,7 +14,7 @@
 "Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"4","Psychic":"2","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"722","name":"나몰빼미",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","type":"FIRST"},{"number":"723","name":"빼미스로우",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","type":"MIDDLE","requirement":"Level 17"},{"number":"1036","name":"모크나이퍼",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1036.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1036_thumb.png","type":"LAST","requirement":"Level 36, 히스이지방에서"}],"previousEvolutions":[{"number":"722","name":"나몰빼미",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1036.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1036_thumb.png","type":"LAST","requirement":"Level 36, 히스이지방에서"}],"previousEvolutions":[{"number":"722","name":"나몰빼미",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png"
 ,"type":"FIRST"},{"number":"723","name":"빼미스로우",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png"

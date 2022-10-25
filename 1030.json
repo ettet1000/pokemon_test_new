@@ -1,8 +1,8 @@
 {"number":"1030","name":"대검귀",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1030.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1030_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1030.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1030_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1030_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1030_main.png"},
 "types":["Water","Dark"],"weaknesses":["Grass","Electric"],
 "descriptions":["히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도와 같은 연격은 천 겹의 파도와도 같다."],
 "specie":"관록","height":"94.6 kg (208.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
@@ -15,7 +15,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/501.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/501.png","type":"FIRST"},{"number":"502","name":"쌍검자비",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/502.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/502.png","type":"MIDDLE",
 "requirement":"Level 17"},{"number":"1030","name":"대검귀",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1030.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1030_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1030.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1030_thumb.png","type":"LAST",
 "requirement":"Level 36"}],"previousEvolutions":[{"number":"501","name":"수댕이",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/501.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/501.png","type":"FIRST"},{"number":"502","name":"쌍검자비",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/502.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/502.png","type":"MIDDLE",

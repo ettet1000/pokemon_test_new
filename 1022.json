@@ -1,12 +1,12 @@
 {"number":"1022","name":"나시",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1022.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1022_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1022_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1022.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1022.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1022.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1022.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.gif"},
 "types":["Grass","Dragon"],"weaknesses":["Ghost","Fire","Flying","Ice","Dark","Poison","Bug"],
 "descriptions":["에스퍼 능력은 약해졌다. 꼬리의 머리가 미약한 텔레파시로 주위를 살핀다."],
 "specie":"야자나무","height":"120.0 kg (264.6 lbs)","weight":"2.0 m (6′07″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"¼","Electric":"¼","Grass":"¼","Ice":"4","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"102","name":"아라리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/102.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/102.png","type":"FIRST"},{"number":"1022","name":"나시",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1022.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1022_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022_thumb.png","type":"LAST",
 "requirement":"알로라 외부에서 리프의돌 사용"}],"previousEvolutions":[{"number":"102","name":"아라리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/102.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/102.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":95,"attack":105,"defense":85,"spAtk":125,"spDef":75,"speed":45,"total":530},"cards":[{"number":"5","name":"나시","expansionName":"Vivid Voltage",

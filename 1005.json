@@ -1,12 +1,12 @@
 {"number":"1005","name":"식스테일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1005.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1005_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1005_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1005.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1005.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1005.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1005.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.gif"},
 "types":["Ice"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["현미경으로 머리나 꼬리의 곱슬한 털을 관찰하면 얼음 알맹이가 생성되는 모습을 알 수 있다."],
 "specie":"여우","height":"9.9 kg (21.8 lbs)","weight":"0.6 m (2′00″)","breeding":{
@@ -16,10 +16,10 @@
 "abilities":[{"name":"눈숨기","description":"불꽃을 받으면 불꽃 기술이 강해진다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"1005","name":"식스테일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1005.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1005_thumb.png","type":"FIRST"},{"number":"1006","name":"나인테일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1006.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1006_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1005_thumb.png","type":"FIRST"},{"number":"1006","name":"나인테일",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1006.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1006_thumb.png","type":"LAST",
 "requirement":"얼음의돌 사용"}],"previousEvolutions":[],"nextEvolutions":[{"number":"1006","name":"나인테일",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1006.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1006_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1006.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1006_thumb.png","type":"LAST",
 "requirement":"얼음의돌 사용"}],"superEvolutions":[],
 "baseStats":{"hp":38,"attack":41,"defense":40,"spAtk":50,"spDef":65,"speed":65,"total":299},
 "cards":[{

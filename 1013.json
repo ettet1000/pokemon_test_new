@@ -1,8 +1,8 @@
 {"number":"1013","name":"윈디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1013.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1013_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1013_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013_main.png"},
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 날듯이 경쾌하게 달린다."],
 "specie":"전설","height":"155.0 kg (341.7 lbs)","weight":"1.9 m (6′03″)","breeding":{
@@ -12,10 +12,10 @@
 "abilities":[{"name":"위협","description":"상대의 공격을 떨어뜨린다."},{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"¼","Water":"4","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"½","Ground":"4","Flying":"½","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"1012","name":"가디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1012_thumb.png","type":"FIRST"},{"number":"1013","name":"윈디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1013_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012_thumb.png","type":"FIRST"},{"number":"1013","name":"윈디",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1013_thumb.png","type":"LAST",
 "requirement":"불꽃의돌 사용"}],"previousEvolutions":[{"number":"1012","name":"가디",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1012_thumb.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1012_thumb.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":95,"attack":115,"defense":80,"spAtk":95,"spDef":80,"speed":90,"total":555},"cards":[{"number":"28","name":"윈디","expansionName":"Rebel Clash",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/059/SWSH2_EN_28.png"},{"number":"22","name":"윈디","expansionName":"Unbroken Bonds",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/059/SM10_EN_22.png"},{"number":"6","name":"윈디","expansionName":"Detective 피카츄",

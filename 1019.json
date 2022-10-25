@@ -1,12 +1,12 @@
 {"number":"1019","name":"파오리",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1019.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1019_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1019_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1019.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1019.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1019.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1019.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.gif"},
 "types":["Fighting"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["굵고 긴 가라르의 파를 자유자재로 구사하는 과정에서 독자적인 모습으로 변화한 파오리."],
 "specie":"청둥오리","height":"15.0 kg (33.1 lbs)","weight":"0.8 m (2′07″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},
 "evolutionChain":[{"number":"1019","name":"파오리",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1019.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1019_thumb.png","type":"FIRST"},{"number":"865","name":"창파나이트",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1019_thumb.png","type":"FIRST"},{"number":"865","name":"창파나이트",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/865.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/865.png","type":"LAST",
 "requirement":"한 배틀에서 상대의 급소를 3번 맞춘다."}],
 "previousEvolutions":[],

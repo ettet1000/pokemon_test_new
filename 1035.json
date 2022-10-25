@@ -1,12 +1,12 @@
 {"number":"1035","name":"메더",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1035.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1035_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1035_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1035.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1035.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1035.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1035.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.gif"},
 "types":["Ground","Steel"],"weaknesses":["Water","Grass","Ice","Ground"],
 "descriptions":["진흙에 숨어 눈에 띄는 입술로 먹이를 유인한다. 들쭉날쭉한 강철 지느러미로 단단히 잡는다."],
 "specie":"트랩","height":"11.0 kg (24.3 lbs)","weight":"0.7 m (2′04″)","breeding":{
@@ -16,7 +16,7 @@
 "abilities":[{"name":"의태","description":"접촉한 상대를 마비시킬 때가 있다."},{"name":"유연","description":"마비 상태가 되지 않는다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"¼","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"1035","name":"메더",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1035.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1035_thumb.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1035_thumb.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":109,"attack":81,"defense":99,"spAtk":66,"spDef":84,"speed":32,"total":471},"cards":[{"number":"SV088","name":"가라르 메더","expansionName":"Shining Fates: Shiny Vault",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/618/SWSH45_EN_SV088.png"},{"number":"125","name":"가라르 메더","expansionName":"Vivid Voltage",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/618/SWSH4_EN_125.png"},{"number":"128","name":"가라르 메더 V","expansionName":"Darkness Ablaze",

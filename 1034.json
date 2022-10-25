@@ -1,12 +1,12 @@
 {"number":"1034","name":"데스마스",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1034.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1034_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1034_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1034.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1034.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1034.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1034.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.gif"},
 "types":["Ground","Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["강한 원한을 가진 영혼이 고대의 점토판에 깃들어 포켓몬이 되었다고 전해진다."],
 "specie":"영혼","height":"1.5 kg (3.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"2","Electric":"1","Grass":"2","Ice":"2","Fighting":"1","Poison":"¼","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"½","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"1034","name":"데스마스",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1034.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1034.png","type":"FIRST"},
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1034.png","type":"FIRST"},
 {"number":"867","name":"데스판",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/867.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/867.png","type":"LAST",
 "requirement":"49이상의 대미지 누적을 받은 후 와일드에리어 모래먼지구덩이에 있는 고인돌 형태의 바위 아래로 통과"}],

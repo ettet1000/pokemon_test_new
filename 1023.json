@@ -1,12 +1,12 @@
 {"number":"1023","name":"텅구리",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1023.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1023_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1023_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1023.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1023.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1023.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1023.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.gif"},
 "types":["Fire","Ghost"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["뼈에서 불타고 있는 저주의 불꽃은 영원히 치유되지 않는 아픔을 몸과 마음에 남긴다고 한다."],
 "specie":"뼈다귀","height":"45.0 kg (99.2 lbs)","weight":"1.0 m (3′03″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"0","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"104","name":"탕구리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/104.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/104.png","type":"FIRST"},{"number":"1023","name":"텅구리",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1023.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1023_thumb.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1023_thumb.png","type":"LAST",
 "requirement":"Level 28, 알로라에서 밤에"}],"previousEvolutions":[{"number":"104","name":"탕구리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/104.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/104.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":60,"attack":80,"defense":110,"spAtk":50,"spDef":80,"speed":45,"total":425},"cards":[{"number":"70","name":"텅구리","expansionName":"Battle Styles",

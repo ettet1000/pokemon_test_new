@@ -1,12 +1,12 @@
 {"number":"1025","name":"마임맨",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1025.png",
-"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1025_thumb.png",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1025_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1025.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1025.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1025.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1025.gif"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.gif"},
 "types":["Ice","Psychic"],"weaknesses":["Ghost","Steel","Poison"],
 "descriptions":["발바닥에서 냉기를 내뿜는다. 얼린 바닥 위에서 온종일 탭 댄스에 열중한다."],
 "specie":"배리어","height":"54.5 kg (120.2 lbs)","weight":"1.3 m (4′03″)","breeding":{
@@ -17,7 +17,7 @@
 "typesEffectiveness":{
 "Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"439","name":"흉내내",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/439.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/439.png","type":"FIRST"},{"number":"1025","name":"마임맨",
-"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1025.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1025_thumbs.png","type":"LAST",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1025_thumbs.png","type":"LAST",
 "requirement":"흉내내기를 배운 뒤"}],"previousEvolutions":[{"number":"439","name":"흉내내",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/439.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/439.png","type":"FIRST"}],
 "nextEvolutions":[],"superEvolutions":[],
