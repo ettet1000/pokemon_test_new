@@ -1,0 +1,36 @@
+{"number":"100","name":"찌리리공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/100.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/100.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/100/100_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/100/100_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/100/100_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/100/100_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/100/100_back_shiny_animated.gif"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["자신을 포켓볼로 위장한다고 합니다. 아주 작은 자극으로 스스로 파괴됩니다."],
+"specie":"볼","height":"10.4 kg (22.9 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"1 스피드","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"66",
+"growthRate":"중간 빠름"},"abilities":[{"name":"정전기","description":"접촉한 상대를 마비시킬 때가 있다."},{"name":"방음","description":"소리 기술을 받지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"100","name":"찌리리공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/100.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/100.png","type":"FIRST"},{"number":"101","name":"붐볼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/101.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/101.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[],"nextEvolutions":[{"number":"101","name":"붐볼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/101.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/101.png","type":"LAST",
+"requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":30,"defense":50,"spAtk":55,"spDef":55,"speed":100,"total":330},"cards":[{"number":"45","name":"찌리리공","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SWSH4_EN_45.png"},{"number":"56","name":"찌리리공","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SWSH2_EN_56.png"},{"number":"SV13","name":"찌리리공","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SMA_EN_SV13.png"},{"number":"21","name":"찌리리공","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SM115_EN_21.png"},{"number":"38","name":"찌리리공","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SM9_EN_38.png"},{"number":"47","name":"찌리리공","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SM7_EN_47.png"},{"number":"30","name":"찌리리공","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/SM35_EN_30.png"},{"number":"39","name":"찌리리공","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/XY12_EN_39.png"},{"number":"21","name":"찌리리공","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/XY6_EN_21.png"},{"number":"44","name":"찌리리공","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/100/XY1_EN_44.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/100.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":3,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":6,"category":"특수","move":"소닉붐","type":"Normal","power":"—","accuracy":"90"}
+,{"level":9,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":14,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"level":19,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":31,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"level":38,"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}
+,{"level":45,"category":"물리","move":"대폭발","type":"Normal","power":"250","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":2,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":4,"category":"변화","move":"순간이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":21,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":36,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":38,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}
+,{"technicalMachine":42,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

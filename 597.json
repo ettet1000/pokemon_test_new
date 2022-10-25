@@ -1,0 +1,57 @@
+{"number":"597","name":"철시드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/597.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/597.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/597/597_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/597/597_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/597/597_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/597/597_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/597/597_back_shiny_animated.gif"},"types":["Grass","Steel"],"weaknesses":["Fire","Fighting"],
+"descriptions":["이끼 낀 동굴이 그들이 선호하는 주거지입니다. 이끼에 함유된 효소는 철시드의 가시가 크고 강하게 자라도록 도와줍니다.","이끼를 발사하여 스스로를 방어하지만, 처음에는 명중률이 좋지 않습니다. 많은 연습을 해야만 좋아질 것입니다."],
+"specie":"가시열매","height":"18.8 kg (41.4 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["식물","광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"철가시","description":"Inflicts damage on the attacker upon contact with iron barbs."}],"typesEffectiveness":{"Normal":"½","Fire":"4","Water":"½","Electric":"½","Grass":"¼","Ice":"1","Fighting":"2","Poison":"0","Ground":"1","Flying":"1","Psychic":"½","Bug":"1","Rock":"½","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"597","name":"철시드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/597.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/597.png","type":"FIRST"},{"number":"598","name":"너트령","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/598.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/598.png","type":"LAST","requirement":"Level 40"}],"previousEvolutions":[],"nextEvolutions":[{"number":"598","name":"너트령","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/598.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/598.png"
+,"type":"LAST",
+"requirement":"Level 40"}],"superEvolutions":[],"baseStats":{"hp":44,"attack":50,"defense":91,"spAtk":24,"spDef":86,"speed":10,"total":305},"cards":[{"number":"123","name":"철시드","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/SWSH4_EN_123.png"},{"number":"130","name":"철시드","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/SWSH1_EN_130.png"},{"number":"102","name":"철시드","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/SM9_EN_102.png"},{"number":"79","name":"철시드","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/XY9_EN_79.png"},{"number":"77","name":"철시드","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/BW4_EN_77.png"},{"number":"70","name":"철시드","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/BW2_EN_70.png"},{"number":"71","name":"철시드","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/597/BW2_EN_71.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/597.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"},{"level":10,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"},{"level":15,"category":"변화","move":"뿌리박기","type":"Grass","power":"—","accuracy":"—"},{"level":20,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},{"level":25,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},{"level":30,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"},{"level":35,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":41,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":45,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},{"level":50,"category":"물리","move":"대폭발","type":"Normal","power":"250","accuracy":"100"}],"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"}
+,{"technicalMachine":50,"category":"물리","move":"기관총"
+,"type":"Grass","power":"25","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기"
+,"type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄"
+,"type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"}]
+,"egg":[{"category":"특수","move":"애시드봄"
+,"type":"Poison","power":"40","accuracy":"100"}
+,{"category":"변화","move":"중력"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탁쳐서떨구기"
+,"type":"Dark","power":"65","accuracy":"100"}
+,{"category":"변화","move":"씨뿌리기"
+,"type":"Grass","power":"—","accuracy":"90"}
+,{"category":"변화","move":"맹독"
+,"type":"Poison","power":"—","accuracy":"90"}]
+,"tutor":[{"category":"물리","move":"아이언롤러"
+,"type":"Steel","power":"130","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

@@ -1,0 +1,77 @@
+{"number":"471","name":"글레이시아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/471.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/471.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/471/471_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/471/471_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/471/471_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/471/471_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/471/471_back_shiny_animated.gif"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+"descriptions":["글레이시아의 차가움으로 가루눈을 만드는 스키장에서 대인기 포켓몬입니다.","글레이시아가 만들어내는 강설의 아름다움에 매료되는 사람은 자신도 모르게 얼어붙습니다."],
+"specie":"신설","height":"25.9 kg (57.1 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"35 (보통보다 낮음)","baseExp":"184",
+"growthRate":"중간 빠름"},"abilities":[{"name":"눈숨기","description":"Boosts evasiveness in a hailstorm."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"133","name":"이브이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/133.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/133.png","type":"FIRST"},{"number":"471","name":"글레이시아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/471.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/471.png","type":"LAST",
+"requirement":"얼음의돌 사용"}],"previousEvolutions":[{"number":"133","name":"이브이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/133.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/133.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":65,"attack":60,"defense":110,"spAtk":130,"spDef":95,"speed":65,"total":525},"cards":[{"number":"174","name":"글레이시아 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SWSH7_EN_174.png"},{"number":"175","name":"글레이시아 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SWSH7_EN_175.png"},{"number":"40","name":"글레이시아 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SWSH7_EN_40.png"},{"number":"41","name":"글레이시아 VMAX","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SWSH7_EN_41.png"},{"number":"SV55","name":"글레이시아-GX","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SMA_EN_SV55.png"},{"number":"39","name":"글레이시아-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SM5_EN_39.png"},{"number":"141","name":"글레이시아-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SM5_EN_141.png"},{"number":"159","name":"글레이시아-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SM5_EN_159.png"},{"number":"SM147","name":"글레이시아-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/SMP_EN_SM147.png"},{"number":"116","name":"글레이시아-EX","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/471/XY10_EN_116.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/471.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"level":1,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"level":1,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":5,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":10,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":15,"category":"변화","move":"초롱초롱눈동자","type":"Fairy","power":"—","accuracy":"100"}
+,{"level":20,"category":"물리","move":"얼음뭉치","type":"Ice","power":"40","accuracy":"100"}
+,{"level":25,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":30,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"level":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"level":40,"category":"특수","move":"프리즈드라이","type":"Ice","power":"70","accuracy":"100"}
+,{"level":45,"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}
+,{"level":50,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"}
+,{"level":55,"category":"물리","move":"뒀다쓰기","type":"Normal","power":"140","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":2,"category":"물리","move":"고양이돈받기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태","type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워","type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"변화","move":"판별","type":"Fighting","power":"—","accuracy":"—"}
+,{"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Triple Axel","type":"Ice","power":"20","accuracy":"90"}]
+,"evolution":[{"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}],"preEvolution":[]},"generation":"GENERATION_IV"}

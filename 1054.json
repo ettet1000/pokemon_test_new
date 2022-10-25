@@ -1,0 +1,33 @@
+{"number":"1054","name":"우파",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1054.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1054_thumb.png",
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/1054_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1054.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1054.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1054.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/1054.gif"},
+"types":["Poison","Ground"],"weaknesses":["식물"],
+"descriptions":["먼 옛날에는 팔데아지방의 물속에서 살았으나, 영역 다툼에서 밀려 육지의 진흙탕에서 살게 되었다고 합니다. 육지에서 살면서 건조해지는 것을 막기 위해, 독성을 띠는 점막을 몸에 두르게 되었습니다."],
+"specie":"독물고기","height":"8.5 kg (18.7 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"42",
+"growthRate":"중간 빠름"},"abilities":[{"name":"독가시","description":"누구도 폭발 할 수 없게 된다."},{"name":"저수","description":"물을 받으면 회복한다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"0","Grass":"1","Ice":"2","Fighting":"½","Poison":"¼","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},
+"evolutionChain":[],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":55,"attack":45,"defense":45,"spAtk":25,"spDef":25,"speed":15,"total":210},"cards":[{"number":"83","name":"우파","expansionName":"Vivid Voltage",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/SWSH4_EN_83.png"},{"number":"SV9","name":"우파","expansionName":"Yellow A Alternate",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/SMA_EN_SV9.png"},{"number":"96","name":"우파","expansionName":"Unbroken Bonds",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/SM10_EN_96.png"},{"number":"25","name":"우파","expansionName":"Dragon Majesty",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/SM75_EN_25.png"},{"number":"38","name":"우파","expansionName":"XY—Ancient Origins",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/XY7_EN_38.png"},{"number":"21","name":"우파","expansionName":"Black & White—Plasma Freeze",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/BW9_EN_21.png"},{"number":"88","name":"우파","expansionName":"HeartGold & SoulSilver",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/HGSS1_EN_88.png"},{"number":"81","name":"우파","expansionName":"EX Team Rocket Returns",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/EX7_EN_81.png"},{"number":"79","name":"우파","expansionName":"EX Unseen Forces",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/EX10_EN_79.png"},{"number":"71","name":"우파 δ","expansionName":"EX Dragon Frontiers",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/cards/194/EX15_EN_71.png"}],
+"soundUrl":"https://ettet1000.github.io/pokemon_test/sounds/194.mp3","moves":{
+"levelUp":[]
+,"technicalMachine":[],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"PALDEA"}

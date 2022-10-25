@@ -1,0 +1,67 @@
+{"number":"683","name":"프레프티르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/683.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/683.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/683/683_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+"descriptions":["프레프티르의 향기는 아군을 든든하게 해주는 달콤한 냄새부터 상대의 전투 의지를 꺾는 역한 냄새까지 다양합니다."],
+"specie":"방향","height":"15.5 kg (34.2 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 HP","catchRate":"140 (18.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"162",
+"growthRate":"중간 빠름"},"abilities":[{"name":"치유의마음","description":"Sometimes heals an ally's status condition."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"2","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"682","name":"슈쁘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/682.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/682.png","type":"FIRST"},{"number":"683","name":"프레프티르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/683.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/683.png","type":"LAST","requirement":"향기주머니를 지니고 통신교환"}],"previousEvolutions":[{"number":"682","name":"슈쁘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/682.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/682.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":101,"attack":72,"defense":72,"spAtk":99,"spDef":89,"speed":29,"total":462},"cards":[{"number":"142","name":"프레프티르","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/683/SM10_EN_142.png"},{"number":"85","name":"프레프티르","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/683/XY9_EN_85.png"},{"number":"106","name":"프레프티르","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/683/XY8_EN_106.png"},{"number":"93","name":"프레프티르","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/683/XY1_EN_93.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/683.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"아로마미스트","type":"Fairy","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"요정의바람","type":"Fairy","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"치유파동","type":"Psychic","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"},{"level":1,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"},{"level":9,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"},{"level":12,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"},{"level":15,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"},{"level":18,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"level":21,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"미스트필드","type":"Fairy","power":"—","accuracy":"—"},{"level":27,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},{"level":30,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"level":33,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},{"level":36,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"},{"level":39,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},{"level":42,"category":"변화","move":"자기암시","type":"Normal","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치"
+,"type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스"
+,"type":"Fairy","power":"50","accuracy":"100"}
+,{"technicalMachine":89,"category":"변화","move":"미스트필드"
+,"type":"Fairy","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크"
+,"type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"당신먼저"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"사슬묶기"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"희망사항"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"특수","move":"미스트버스트"
+,"type":"Fairy","power":"100","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

@@ -1,0 +1,68 @@
+{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/291/291_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/291/291_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/291/291_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/291/291_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/291/291_back_shiny_animated.gif"},"types":["Bug","비행"],"weaknesses":["Fire","Flying","Electric","Ice","Rock"],
+"descriptions":["이 포켓몬은 매우 빨라 어떤 공격도 피할 수 있다고 합니다. 나무 수액을 먹는 것을 좋아합니다.","그 울음 소리는 너무 오래 들으면 머리가 아픕니다. 거의 보이지 않을 정도로 빠르게 움직입니다."],
+"specie":"시노비","height":"12.0 kg (26.5 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 스피드","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"160",
+"growthRate":"Erratic"},"abilities":[{"name":"가속","description":"조금씩 스피드가 높아진다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"¼","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"2","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","type":"FIRST"},{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","type":"LAST",
+"requirement":"Level 20"}],"previousEvolutions":[{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":61,"attack":90,"defense":45,"spAtk":50,"spDef":50,"speed":160,"total":456},"cards":[{"number":"14","name":"아이스크","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/SWSH4_EN_14.png"},{"number":"30","name":"아이스크","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/SM8_EN_30.png"},{"number":"10","name":"아이스크","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/XY6_EN_10.png"},{"number":"11","name":"아이스크","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/BW6_EN_11.png"},{"number":"18","name":"아이스크","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/EX3_EN_18.png"},{"number":"38","name":"아이스크","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/EX3_EN_38.png"},{"number":"13","name":"아이스크","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/EX8_EN_13.png"},{"number":"67","name":"아이스크","expansionName":"Diamond & Pearl—Legends Awakened","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/DP6_EN_67.png"},{"number":"73","name":"아이스크","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/291/PL3_EN_73.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/291.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"level":1,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"level":1,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
+,{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
+,{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
+,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":15,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":23,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":29,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"level":36,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":43,"category":"변화","move":"마음의눈","type":"Normal","power":"—","accuracy":"—"}
+,{"level":50,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":57,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"level":64,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":18,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"바람일으키기","type":"Flying","power":"40","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}
+,{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[{"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
+,{"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}],"preEvolution":[]},"generation":"GENERATION_III"}

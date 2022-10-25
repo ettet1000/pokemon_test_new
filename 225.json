@@ -1,0 +1,62 @@
+{"number":"225","name":"딜리버드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/225.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/225.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/225/225_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/225/225_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/225/225_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/225/225_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/225/225_back_shiny_animated.gif"},"types":["Ice","비행"],"weaknesses":["Steel","Fire","Electric","Rock"],
+"descriptions":["먹이를 사람과 포켓몬과 나누어 먹는 습성이 있어 항상 먹이를 찾아 돌아다닙니다.","하루 종일 먹이를 나릅니다. 그 음식으로 구원받은 길 잃은 사람들에 대한 이야기가 있습니다."],
+"specie":"배달","height":"16.0 kg (35.3 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"116",
+"growthRate":"빠름"},"abilities":[{"name":"의기양양","description":"The Pokémon is full of vitality, and that prevents it from falling asleep."},{"name":"의욕","description":"공격은 높지만 빗나가기 쉽다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"½","Ice":"1","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"225","name":"딜리버드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/225.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/225.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":45,"attack":55,"defense":45,"spAtk":65,"spDef":45,"speed":75,"total":330},"cards":[{"number":"32","name":"딜리버드","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/SWSH6_EN_32.png"},{"number":"57","name":"딜리버드","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/SM8_EN_57.png"},{"number":"26","name":"딜리버드","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/SM2_EN_26.png"},{"number":"38","name":"딜리버드","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/BW7_EN_38.png"},{"number":"39","name":"딜리버드","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/HGSS1_EN_39.png"},{"number":"21","name":"딜리버드","expansionName":"EX Team Rocket Returns","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/EX7_EN_21.png"},{"number":"36","name":"딜리버드","expansionName":"Diamond & Pearl—Great Encounters","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/DP4_EN_36.png"},{"number":"6","name":"딜리버드","expansionName":"POP Series 7","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/225/POP_7_6.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/225.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
+,{"level":25,"category":"물리","move":"회전부리","type":"Flying","power":"80","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태","type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기","type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":34,"category":"특수","move":"미래예지","type":"Psychic","power":"120","accuracy":"100"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":66,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트","type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"}]
+,"egg":[{"category":"특수","move":"오로라빔","type":"Ice","power":"65","accuracy":"100"}
+,{"category":"변화","move":"오로라베일","type":"Ice","power":"—","accuracy":"—"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"길동무","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
+,{"category":"특수","move":"프리즈드라이","type":"Ice","power":"70","accuracy":"100"}
+,{"category":"물리","move":"얼음뭉치","type":"Ice","power":"40","accuracy":"100"}
+,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"튀어오르기","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}
+,{"category":"물리","move":"Triple Axel","type":"Ice","power":"20","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

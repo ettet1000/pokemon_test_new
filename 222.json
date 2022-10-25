@@ -1,0 +1,53 @@
+{"number":"222","name":"코산호","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/222.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/222.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/222/222_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/222/222_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/222/222_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/222/222_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/222/222_back_shiny_animated.gif"},"types":["Water","Rock"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+"descriptions":["따뜻한 바다에 사는 포켓몬입니다. 선사시대에는 가라르 지역 주변의 바다에도 많은 사람들이 살았습니다.","머리에서 부러진 가지가 있으면 다시 자랍니다. 특히 아름다운 코산호 가지를 부적으로 보관하여 순산을 기원합니다."],
+"specie":"산호","height":"5.0 kg (11.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["수중1","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},
+"training":{"evYield":"1 방어, 1 특수방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"144",
+"growthRate":"빠름"},"abilities":[{"name":"자연회복","description":"배틀에서 일단 물러나면 상태 이상이 회복된다."},{"name":"의욕","description":"공격은 높지만 빗나가기 쉽다."}],"typesEffectiveness":{"Normal":"½","Fire":"¼","Water":"1","Electric":"2","Grass":"4","Ice":"½","Fighting":"2","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":65,"attack":55,"defense":95,"spAtk":65,"spDef":95,"speed":35,"total":410},"cards":[{"number":"SV049","name":"Galarian 코산호","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/SWSH45_EN_SV049.png"},{"number":"78","name":"Galarian 코산호","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/SWSH2_EN_78.png"},{"number":"27","name":"코산호","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/SM75_EN_27.png"},{"number":"36","name":"코산호","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/SM1_EN_36.png"},{"number":"29","name":"코산호","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/XY9_EN_29.png"},{"number":"36","name":"코산호","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/XY1_EN_36.png"},{"number":"37","name":"코산호","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/HGSS1_EN_37.png"},{"number":"32","name":"코산호","expansionName":"EX Hidden Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/EX5_EN_32.png"},{"number":"37","name":"코산호","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/EX10_EN_37.png"},{"number":"84","name":"코산호","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/222/DP3_EN_84.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/222.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":5,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":10,"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"}
+,{"level":15,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":20,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
+,{"level":25,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":30,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"level":35,"category":"변화","move":"생명의물방울","type":"Water","power":"—","accuracy":"—"}
+,{"level":40,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"}
+,{"level":45,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
+,{"level":50,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"}
+,{"level":55,"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"양날박치기","type":"Rock","power":"150","accuracy":"80"}
+,{"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"}
+,{"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

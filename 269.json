@@ -1,0 +1,58 @@
+{"number":"269","name":"독케일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/269.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/269.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/269/269_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/269/269_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/269/269_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/269/269_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/269/269_back_shiny_animated.gif"},"types":["Bug","Poison"],"weaknesses":["Fire","Psychic","Flying","Rock"],
+"descriptions":["독케일이 날개를 펄럭이면 미세한 먼지가 사방에 흩날립니다. 이 먼지는 실제로 프로 레슬러를 병들게 하는 강력한 독입니다. 레이더처럼 안테나로 먹이를 찾는 포켓몬입니다.","독케일은 본능적으로 빛에 끌립니다. 이 포켓몬 떼는 도시의 밝은 빛에 이끌려 길가의 나뭇잎을 뜯어 먹으며 파괴합니다."],
+"specie":"독케일","height":"31.6 kg (69.7 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"3 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"173",
+"growthRate":"중간 빠름"},"abilities":[{"name":"인분","description":"기술의 추가 효과를 받지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"¼","Ice":"1","Fighting":"¼","Poison":"½","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"265","name":"개무소","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/265.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/265.png","type":"FIRST"},{"number":"266","name":"실쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/266.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/266.png","type":"MIDDLE",
+"requirement":"Level 7, 성격에 따라 랜덤"},{"number":"268","name":"카스쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/268.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/268.png","type":"MIDDLE",
+"requirement":"Level 10"},{"number":"269","name":"독케일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/269.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/269.png","type":"LAST",
+"requirement":"Level 10"}],"previousEvolutions":[{"number":"265","name":"개무소","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/265.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/265.png","type":"FIRST"},{"number":"266","name":"실쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/266.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/266.png","type":"MIDDLE",
+"requirement":"Level 7, 성격에 따라 랜덤"},{"number":"268","name":"카스쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/268.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/268.png","type":"MIDDLE",
+"requirement":"Level 10"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":50,"defense":70,"spAtk":50,"spDef":90,"speed":65,"total":385},"cards":[{"number":"28","name":"독케일","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/SM8_EN_28.png"},{"number":"7","name":"독케일","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/XY6_EN_7.png"},{"number":"8","name":"독케일","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/XY6_EN_8.png"},{"number":"47","name":"독케일","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/BW6_EN_47.png"},{"number":"6","name":"독케일","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/EX1_EN_6.png"},{"number":"86","name":"독케일 ex","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/EX12_EN_86.png"},{"number":"25","name":"독케일","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/DP1_EN_25.png"},{"number":"25","name":"독케일","expansionName":"Platinum","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/269/PL1_EN_25.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/269.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"바람일으키기","type":"Flying","power":"40","accuracy":"100"}
+,{"level":12,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":15,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":17,"category":"변화","move":"달의불빛","type":"Fairy","power":"—","accuracy":"—"}
+,{"level":20,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"level":22,"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"level":25,"category":"특수","move":"은빛바람","type":"Bug","power":"60","accuracy":"100"}
+,{"level":27,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":30,"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":32,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":35,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"}
+,{"level":37,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"level":40,"category":"변화","move":"나비춤","type":"Bug","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":9,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":29,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"technicalMachine":30,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":83,"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":89,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[{"category":"특수","move":"바람일으키기","type":"Flying","power":"40","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_III"}

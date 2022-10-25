@@ -1,0 +1,62 @@
+{"number":"613","name":"코고미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/613.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/613.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/613/613_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/613/613_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/613/613_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/613/613_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/613/613_back_shiny_animated.gif"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+"descriptions":["움직임을 수행하기 전에 코를 킁킁거리며 서리가 내린 코를 사용하여 필요한 모든 움직임에 얼음 요소를 제공합니다.","이 포켓몬이 건강하면 코의 코는 두꺼워지고 끈적해집니다. 좋아하지 않는 사람에게 콧물을 묻힐 것입니다."],
+"specie":"빙결","height":"8.5 kg (18.7 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"눈숨기","description":"Boosts evasiveness in a hailstorm."},{"name":"눈치우기","description":"Boosts the Pokémon's Speed stat in a hailstorm."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"613","name":"코고미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/613.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/613.png","type":"FIRST"},{"number":"614","name":"툰베어","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/614.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/614.png","type":"LAST","requirement":"Level 37"}],"previousEvolutions":[],"nextEvolutions":[{"number":"614","name":"툰베어","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/614.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/614.png"
+,"type":"LAST",
+"requirement":"Level 37"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":70,"defense":40,"spAtk":60,"spDef":40,"speed":40,"total":305},"cards":[{"number":"48","name":"코고미","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/SWSH3_EN_48.png"},{"number":"61","name":"코고미","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/SM8_EN_61.png"},{"number":"21","name":"코고미","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/XY3_EN_21.png"},{"number":"40","name":"코고미","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/BW8_EN_40.png"},{"number":"36","name":"코고미","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/BW4_EN_36.png"},{"number":"28","name":"코고미","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/BW2_EN_28.png"},{"number":"29","name":"코고미","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/613/BW2_EN_29.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/613.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"특수","move":"눈싸라기","type":"Ice","power":"40","accuracy":"100"},{"level":3,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":6,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"},{"level":9,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"level":12,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"},{"level":15,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"},{"level":18,"category":"특수","move":"얼음숨결","type":"Ice","power":"60","accuracy":"90"},{"level":21,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":27,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"level":30,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"},{"level":33,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"},{"level":36,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"level":39,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},{"level":42,"category":"특수","move":"절대영도","type":"Ice","power":"—","accuracy":"30"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기"
+,"type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인"
+,"type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":55,"category":"특수","move":"소금물"
+,"type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태"
+,"type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니"
+,"type":"Ice","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":4,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"}]
+,"egg":[{"category":"물리","move":"힘껏펀치"
+,"type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기"
+,"type":"Dark","power":"70","accuracy":"100"}
+,{"category":"변화","move":"하품"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

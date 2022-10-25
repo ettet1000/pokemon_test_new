@@ -1,0 +1,71 @@
+{"number":"121","name":"아쿠스타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/121.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/121.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/121/121_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/121/121_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/121/121_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/121/121_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/121/121_back_shiny_animated.gif"},"types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
+"descriptions":["아쿠스타는 몸을 빠르게 회전시키며 헤엄칩니다. 바다를 항해하면서 작은 플랑크톤을 흡수합니다.","핵이라는 장기를 가지고 있습니다. 아쿠스타가 강력한 초능력을 발휘할 때 코어는 일곱 가지 색으로 빛납니다."],
+"specie":"수수께끼","height":"80.0 kg (176.4 lbs)","weight":"1.1 m (3′07″)","breeding":{
+"egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"2 스피드","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"182",
+"growthRate":"느린"},"abilities":[{"name":"자연회복","description":"배틀에서 일단 물러나면 상태 이상이 회복된다."},{"name":"발광","description":"야생 포켓몬과 만나기 쉬워진다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"120","name":"별가사리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/120.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/120.png","type":"FIRST"},{"number":"121","name":"아쿠스타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/121.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/121.png","type":"LAST",
+"requirement":"물의돌 사용"}],"previousEvolutions":[{"number":"120","name":"별가사리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/120.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/120.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":75,"defense":85,"spAtk":100,"spDef":85,"speed":115,"total":520},"cards":[{"number":"14","name":"아쿠스타-GX","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/SM115_EN_14.png"},{"number":"65","name":"아쿠스타","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/SM9_EN_65.png"},{"number":"16","name":"아쿠스타","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/SM4_EN_16.png"},{"number":"31","name":"아쿠스타","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/XY12_EN_31.png"},{"number":"32","name":"아쿠스타 BREAK","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/XY12_EN_32.png"},{"number":"30","name":"아쿠스타","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/XY8_EN_30.png"},{"number":"73","name":"아쿠스타","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/XY5_EN_73.png"},{"number":"34","name":"아쿠스타","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/XY1_EN_34.png"},{"number":"24","name":"아쿠스타","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/BW4_EN_24.png"},{"number":"53","name":"아쿠스타","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/121/HGSS1_EN_53.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/121.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"level":1,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
+,{"level":1,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"}
+,{"level":1,"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"level":1,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
+,{"level":1,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"level":1,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태","type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터","type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":19,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":44,"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":63,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

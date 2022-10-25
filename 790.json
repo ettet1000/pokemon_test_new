@@ -1,0 +1,35 @@
+{"number":"790","name":"코스모움","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/790/790_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+"descriptions":["대기의 티끌을 굉장한 기세로 발아들여 진화 에너지를 코어에서 열심히 만들고 있습니다.","인간의 지식을 뛰어넘는 강도를 가진 껍질에 둘러싸여 있습니다. 별의 빛을 받아서 성장합니다."],
+"specie":"원시성","height":"999.9 kg (2204.4 lbs)","weight":"0.1 m (0′04″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"1 방어, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"140",
+"growthRate":"느린"},"abilities":[{"name":"옹골참","description":"일격으로 쓰러지지 않는다."}],
+"typesEffectiveness":
+{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
+"evolutionChain":[{"number":"789","name":"코스모그","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/789.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/789.png","type":"FIRST"},{"number":"790","name":"코스모움",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png",
+"type":"MIDDLE","requirement":"Level 43"},{"number":"791","name":"솔가레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/791.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/791.png","type":"LAST","requirement":"Level 53, 포켓몬스터 썬, 울트라썬, 소드"},
+{"number":"792","name":"루나아라",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png",
+"type":"LAST",
+"requirement":"Level 53, 포켓몬스터 문, 울트라문, 실드"
+}],
+"previousEvolutions":[{"number":"789","name":"코스모그"
+,"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/789.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/789.png"
+,"type":"FIRST"}],
+"nextEvolutions":[
+    {"number":"791","name":"솔가레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/791.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/791.png"
+,"type":"LAST",
+"requirement":"Level 53, 포켓몬스터 썬, 울트라썬, 소드"},{"number":"792","name":"루나아라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png"
+,"type":"LAST",
+"requirement":"Level 53, 포켓몬스터 문, 울트라문, 실드"}],"superEvolutions":[],"baseStats":{"hp":43,"attack":29,"defense":131,"spAtk":29,"spDef":131,"speed":37,"total":400},"cards":[{"number":"101","name":"코스모움","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/790/SM12_EN_101.png"},{"number":"70","name":"코스모움","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/790/SM9_EN_70.png"},{"number":"61","name":"코스모움","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/790/SM5_EN_61.png"},{"number":"65","name":"코스모움","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/790/SM1_EN_65.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/790.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"순간이동"
+,"type":"Psychic","power":"—","accuracy":"—"}],"technicalMachine":[],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[{"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VII"}

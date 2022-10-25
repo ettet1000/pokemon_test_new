@@ -1,0 +1,65 @@
+{"number":"123","name":"스라크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/123.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/123/123_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/123/123_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/123/123_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/123/123_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/123/123_back_shiny_animated.gif"},"types":["Bug","Flying"],"weaknesses":["Fire","Flying","Electric","Ice","Rock"],
+"descriptions":["숲에서 나무가 많이 베어진 지역을 발견하면 발견한 것은 스라크의 영토입니다.","스라크가 전투를 거듭할수록 낫은 점점 날카로워집니다. 스라크는 일도양단으로 거대한 나무를 쓰러뜨릴 수 있습니다."],
+"specie":"버마재비","height":"56.0 kg (123.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"100",
+"growthRate":"중간 빠름"},"abilities":[{"name":"벌레의알림","description":"Powers up Bug-type moves when the Pokémon's HP is low."},{"name":"테크니션","description":"Powers up the Pokémon's weaker moves."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"¼","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"2","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"123","name":"스라크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/123.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/123.png","type":"FIRST"},{"number":"212","name":"핫삼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/212.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/212.png","type":"LAST",
+"requirement":"금속코트를 지니게 한 뒤 통신교환"}],"previousEvolutions":[],
+"nextEvolutions":[{"number":"212","name":"핫삼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/212.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/212.png","type":"LAST",
+"requirement":"금속코트를 지니게 한 뒤 통신교환"}],"superEvolutions":[],"baseStats":{"hp":70,"attack":110,"defense":80,"spAtk":55,"spDef":80,"speed":105,"total":500},"cards":[{"number":"4","name":"스라크","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/SWSH2_EN_4.png"},{"number":"SV1","name":"스라크","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/SMA_EN_SV1.png"},{"number":"5","name":"스라크","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/SM115_EN_5.png"},{"number":"3","name":"스라크","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/SM8_EN_3.png"},{"number":"4","name":"스라크","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/SM7_EN_4.png"},{"number":"7","name":"스라크","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/BW7_EN_7.png"},{"number":"4","name":"스라크","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/BW5_EN_4.png"},{"number":"36","name":"스라크","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/HGSS3_EN_36.png"},{"number":"65","name":"스라크","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/HGSS3_EN_65.png"},{"number":"102","name":"스라크 ex","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/123/EX1_EN_102.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/123.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
+,{"level":8,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":12,"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"}
+,{"level":16,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"level":20,"category":"물리","move":"더블어택","type":"Normal","power":"35","accuracy":"90"}
+,{"level":24,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":28,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":32,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":36,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}
+,{"level":40,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
+,{"level":44,"category":"변화","move":"예민해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":48,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터","type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"변화","move":"퍼스트가드","type":"Fighting","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

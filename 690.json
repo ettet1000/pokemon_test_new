@@ -1,0 +1,59 @@
+{"number":"690","name":"수레기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/690.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/690.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/690/690_main.png"},"types":["Poison","Water"],"weaknesses":["Psychic","Electric","Ground"],
+"descriptions":["수레기는 썩은 김 조각처럼 보이기 때문에 바다에 떠다니는 해초와 섞여 적에게 들키지 않습니다.", "바다에 떠다니는 해초와 섞여 다른 포켓몬이 미역을 먹으러 오면 대신 수레기가 잡아 먹습니다."],
+"specie":"풀모방","height":"7.3 kg (16.1 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["드래곤","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 특수방어","catchRate":"225 (29.4% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"64",
+"growthRate":"중간 빠름"},"abilities":[{"name":"독가시","description":"접촉한 상대를 중독시킬 때가 있다."},{"name":"독수","description":"May poison a target when the Pokémon makes contact."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"1","Ice":"½","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"690","name":"수레기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/690.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/690.png","type":"FIRST"},{"number":"691","name":"드래캄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/691.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/691.png","type":"LAST","requirement":"Level 48"}],"previousEvolutions":[],"nextEvolutions":[{"number":"691","name":"드래캄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/691.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/691.png"
+,"type":"LAST",
+"requirement":"Level 48"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":60,"defense":60,"spAtk":60,"spDef":60,"speed":30,"total":320},"cards":[{"number":"91","name":"수레기","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/690/SM12_EN_91.png"},{"number":"52","name":"수레기","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/690/SM6_EN_52.png"},{"number":"63","name":"수레기","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/690/XY9_EN_63.png"},{"number":"44","name":"수레기","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/690/XY2_EN_44.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/690.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":10,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":15,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"level":25,"category":"물리","move":"포이즌테일*","type":"Poison","power":"50","accuracy":"100"},{"level":30,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":35,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"level":40,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":45,"category":"물리","move":"아쿠아테일","type":"Water","power":"90","accuracy":"90"},{"level":50,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},{"level":55,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"},{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"},{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"},{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프"
+,"type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":24,"category":"물리","move":"역린"
+,"type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"녹기"
+,"type":"Poison","power":"—","accuracy":"—"}
+,{"category":"물리","move":"드래곤테일"
+,"type":"Dragon","power":"60","accuracy":"90"}
+,{"category":"변화","move":"흑안개"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"category":"특수","move":"회오리"
+,"type":"Dragon","power":"40","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Flip Turn"
+,"type":"Water","power":"60","accuracy":"100"}
+,{"category":"물리","move":"Scale Shot"
+,"type":"Dragon","power":"25","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

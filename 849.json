@@ -1,0 +1,77 @@
+{"number":"849","name":"스트린더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/849.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/849.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/849/849_main.png"},"types":["Electric","Poison"],"weaknesses":["Psychic","Ground"],
+"descriptions":["독이 뇌까지 퍼져 폭주하게 되었습니다. 날뛸 때마다 독으로 된 땀이 사방으로 퍼져 대지를 오염시킵니다.","남아도는 전력이 무기입니다. 비축된 전기의 양은 번개 구름을 능가할 정도입니다."],
+"specie":"펑크","height":"40.0 kg (88.2 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"176",
+"growthRate":"중간 느림"},"abilities":[{"name":"마이너스","description":"플러스나 마이너스가 있으면 특수공격이 올라간다."},{"name":"펑크록","description":"Boosts the power of sound-based moves. The Pokémon also takes half the damage from these kinds of moves."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"½","Ice":"1","Fighting":"½","Poison":"½","Ground":"4","Flying":"½","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"848","name":"일레즌","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/848.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/848.png","type":"FIRST"},{"number":"849","name":"스트린더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/849.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/849.png","type":"LAST","requirement":"Level 30, 성격에 따라"}],"previousEvolutions":[{"number":"848","name":"일레즌","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/848.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/848.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[{"name":"거다이맥스 스트린더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/849_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/849_gigantamax_1.png"
+,"type":"GIGANTAMAX"}],"baseStats":{"hp":75,"attack":98,"defense":70,"spAtk":114,"spDef":70,"speed":75,"total":502},"cards":[{"number":"SV042","name":"스트린더","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH45_EN_SV042.png"},{"number":"SV112","name":"스트린더 V","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH45_EN_SV112.png"},{"number":"SV113","name":"스트린더 VMAX","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH45_EN_SV113.png"},{"number":"63","name":"스트린더","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH3_EN_63.png"},{"number":"SWSH017","name":"스트린더 V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSHP_EN_SWSH017.png"},{"number":"182","name":"스트린더 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH2_EN_182.png"},{"number":"196","name":"스트린더 VMAX","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH2_EN_196.png"},{"number":"69","name":"스트린더","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH2_EN_69.png"},{"number":"70","name":"스트린더 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH2_EN_70.png"},{"number":"71","name":"스트린더 VMAX","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/849/SWSH2_EN_71.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/849.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"애시드봄","type":"Poison","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"트림","type":"Poison","power":"120","accuracy":"90"},{"level":1,"category":"변화","move":"괴전파","type":"Electric","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"부르짖기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"볼부비부비","type":"Electric","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":1,"category":"변화","move":"눈물그렁그렁","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"},{"level":4,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":8,"category":"특수","move":"전격파","type":"Electric","power":"60","accuracy":"∞"},{"level":12,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":16,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},{"level":20,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"},{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"level":28,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"},{"level":32,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"level":36,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"},{"level":40,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},{"level":44,"category":"특수","move":"오버드라이브","type":"Electric","power":"80","accuracy":"100"},{"level":48,"category":"특수","move":"폭음파","type":"Normal","power":"140","accuracy":"100"},{"level":52,"category":"변화","move":"자기장조작","type":"Electric","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"},{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"},{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"},{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"},{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기"
+,"type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타"
+,"type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치"
+,"type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지"
+,"type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
+,"type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":93,"category":"변화","move":"괴전파"
+,"type":"Electric","power":"—","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":80,"category":"특수","move":"일렉트릭볼"
+,"type":"Electric","power":"—","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워"
+,"type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"},
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기"
+,"type":"Dark","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

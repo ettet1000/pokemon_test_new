@@ -1,0 +1,66 @@
+{"number":"672","name":"메이클","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/672/672_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+"descriptions":["햇빛과 물만 있으면 등의 잎사귀에서 에너지를 낼 수 있기 때문에 먹을 필요가 없습니다.","인간과 공생한 최초의 포켓몬으로 생각되는 온순한 성격을 가지고 있습니다."],
+"specie":"라이드","height":"31.0 kg (68.3 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"200 (26.1% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"70",
+"growthRate":"중간 빠름"},"abilities":[{"name":"초식","description":"Boosts the Attack stat if hit by a Grass-type move instead of taking damage."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"672","name":"메이클","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","type":"FIRST"},{"number":"673","name":"고고트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/673.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/673.png","type":"LAST","requirement":"Level 32"}],"previousEvolutions":[],"nextEvolutions":[{"number":"673","name":"고고트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/673.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/673.png"
+,"type":"LAST",
+"requirement":"Level 32"}],"superEvolutions":[],"baseStats":{"hp":66,"attack":65,"defense":48,"spAtk":62,"spDef":57,"speed":52,"total":350},"cards":[{"number":"17","name":"메이클","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/SWSH4_EN_17.png"},{"number":"35","name":"메이클","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/SM8_EN_35.png"},{"number":"9","name":"메이클","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/SM6_EN_9.png"},{"number":"10","name":"메이클","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/SM4_EN_10.png"},{"number":"16","name":"메이클","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/XY8_EN_16.png"},{"number":"XY11","name":"메이클","expansionName":"XY—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/XYP_EN_XY11.png"},{"number":"18","name":"메이클","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/672/XY1_EN_18.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/672.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":7,"category":"물리","move":"덩굴채찍","type":"Grass","power":"45","accuracy":"100"},{"level":9,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":12,"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"},{"level":13,"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"},{"level":16,"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"},{"level":20,"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"},{"level":22,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"},{"level":26,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"},{"level":30,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},{"level":34,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},{"level":38,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"},{"level":42,"category":"물리","move":"우드호른","type":"Grass","power":"75","accuracy":"100"},{"level":45,"category":"물리","move":"리프블레이드","type":"Grass","power":"90","accuracy":"100"},{"level":50,"category":"변화","move":"우유마시기","type":"Normal","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":8,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"그림자분신"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":66,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워"
+,"type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기"
+,"type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":93,"category":"물리","move":"와일드볼트"
+,"type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":94,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"}
+,{"technicalMachine":96,"category":"변화","move":"자연의힘"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기"
+,"type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"웅크리기"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"그래스필드"
+,"type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"우유마시기"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"구르기"
+,"type":"Rock","power":"30","accuracy":"90"}]
+,"tutor":[{"category":"특수","move":"기가드레인"
+,"type":"Grass","power":"75","accuracy":"100"}
+,{"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"}
+,{"category":"물리","move":"씨폭탄"
+,"type":"Grass","power":"80","accuracy":"100"}
+,{"category":"특수","move":"코골기"
+,"type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"광합성"
+,"type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"고민씨"
+,"type":"Grass","power":"—","accuracy":"100"}
+,{"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

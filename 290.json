@@ -1,0 +1,46 @@
+{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/290/290_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/290/290_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/290/290_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/290/290_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/290/290_back_shiny_animated.gif"},"types":["Bug","Ground"],"weaknesses":["Fire","Water","Flying","Ice"],
+"descriptions":["때로는 10년 이상 지하에서 살 수도 있습니다. 나무 뿌리에서 영양분을 흡수합니다.","거의 완전히 지하에 살았기 때문에 거의 실명에 가깝습니다. 대신 안테나를 사용합니다."],
+"specie":"신참","height":"5.5 kg (12.1 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"53",
+"growthRate":"Erratic"},"abilities":[{"name":"복안","description":"기술의 명중률이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"2","Fighting":"½","Poison":"½","Ground":"½","Flying":"2","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","type":"FIRST"},{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","type":"LAST",
+"requirement":"Level 20"},{"number":"292","name":"껍질몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/292.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/292.png","type":"LAST",
+"requirement":"Level 20, 몬스터볼을 가지고 있고 파티에 빈 공간이 있을 때"}],"previousEvolutions":[],"nextEvolutions":[{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","type":"LAST",
+"requirement":"Level 20"},{"number":"292","name":"껍질몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/292.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/292.png","type":"LAST",
+"requirement":"Level 20, 몬스터볼을 가지고 있고 파티에 빈 공간이 있을 때"}],"superEvolutions":[],"baseStats":{"hp":31,"attack":45,"defense":90,"spAtk":30,"spDef":30,"speed":40,"total":266},"cards":[{"number":"13","name":"토중몬","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/SWSH4_EN_13.png"},{"number":"29","name":"토중몬","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/SM8_EN_29.png"},{"number":"9","name":"토중몬","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/XY6_EN_9.png"},{"number":"10","name":"토중몬","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/BW6_EN_10.png"},{"number":"66","name":"토중몬","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/EX3_EN_66.png"},{"number":"67","name":"토중몬","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/EX3_EN_67.png"},{"number":"68","name":"토중몬","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/EX3_EN_68.png"},{"number":"67","name":"토중몬","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/EX8_EN_67.png"},{"number":"108","name":"토중몬","expansionName":"Diamond & Pearl—Legends Awakened","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/DP6_EN_108.png"},{"number":"117","name":"토중몬","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/290/PL3_EN_117.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/290.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":5,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":10,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":15,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
+,{"level":21,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":25,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
+,{"level":30,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":35,"category":"변화","move":"마음의눈","type":"Normal","power":"—","accuracy":"—"}
+,{"level":40,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":18,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"바람일으키기","type":"Flying","power":"40","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

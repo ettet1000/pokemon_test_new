@@ -1,0 +1,563 @@
+{"number":"024",
+"name":"아보크",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
+"thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
+"sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/024/024_main.png",
+"frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/024/024_front_animated.gif",
+"backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/024/024_back_animated.gif",
+"frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/024/024_front_shiny_animated.gif",
+"backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/024/024_back_shiny_animated.gif"},
+"types":["Poison"],
+"weaknesses":["Psychic",
+"Ground"],
+"descriptions":["배에 있는 무서운 문양의 6가지 변형이 확인되었습니다."],
+"specie":"코브라",
+"height":"65.0 kg (143.3 lbs)",
+"weight":"3.5 m (11′06″)",
+"breeding":{"egg":{"groups":["드래곤",
+"육상"],
+"cycle":"20 (4,884–5,140 steps)"},
+"genders":[{"type":"MALE",
+"percentage":"50%"},{"type":"FEMALE",
+"percentage":"50%"}]},
+"training":{"evYield":"2 공격",
+"catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)",
+"baseFriendship":"50 (보통)",
+"baseExp":"157",
+"growthRate":"중간 빠름"},
+"abilities":[{"name":"탈피",
+"description":"상태 이상을 회복할 때가 있다."},{"name":"위협",
+"description":"상대의 공격을 떨어뜨린다."}],"typesEffectiveness":{"Normal":"1",
+"Fire":"1",
+"Water":"1",
+"Electric":"1",
+"Grass":"½",
+"Ice":"1",
+"Fighting":"½",
+"Poison":"½",
+"Ground":"2",
+"Flying":"1",
+"Psychic":"2",
+"Bug":"½",
+"Rock":"1",
+"Ghost":"1",
+"Dragon":"1",
+"Dark":"1",
+"Steel":"1",
+"Fairy":"½"},
+"evolutionChain":[{"number":"023",
+"name":"아보",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/023.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/023.png",
+"type":"FIRST"},{"number":"024",
+"name":"아보크",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
+"type":"LAST",
+"requirement":"Level 22"}],"previousEvolutions":[{"number":"023",
+"name":"아보",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/023.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/023.png",
+"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":95,"defense":69,"spAtk":65,"spDef":79,"speed":80,"total":448},
+"cards":[{"number":"34",
+"name":"아보크",
+"expansionName":"Champion’s Path",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/SWSH35_EN_34.png"},{"number":"27",
+"name":"아보크",
+"expansionName":"Hidden Fates",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/SM115_EN_27.png"},{"number":"63",
+"name":"아보크",
+"expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/SM10_EN_63.png"},{"number":"37",
+"name":"아보크",
+"expansionName":"Shining Legends",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/SM35_EN_37.png"},{"number":"48",
+"name":"아보크",
+"expansionName":"XY",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/XY1_EN_48.png"},{"number":"29",
+"name":"아보크",
+"expansionName":"EX Sandstorm",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/EX2_EN_29.png"},{"number":"29",
+"name":"Dark 아보크",
+"expansionName":"EX Team Rocket Returns",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/EX7_EN_29.png"},{"number":"13",
+"name":"아보크 δ",
+"expansionName":"EX Dragon Frontiers",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/EX15_EN_13.png"},{"number":"33",
+"name":"아보크",
+"expansionName":"Diamond & Pearl—Great Encounters",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/024/DP4_EN_33.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/024.mp3",
+"moves":{"levelUp":[
+    {
+        "level": 1,
+        "move": "깨물어부수기",
+        "type": "Dark",
+        "category": "물리",
+        "power": "80",
+        "accuracy": "100 "
+    },
+    {
+        "level": 1,
+        "move": "얼음엄니",
+        "type": "Ice",
+        "category": "물리",
+        "power": "65",
+        "accuracy": "95 "
+    },
+    {
+        "level": 1,
+        "move": "번개엄니",
+        "type": "Electric",
+        "category": "물리",
+        "power": "65",
+        "accuracy": "95 "
+    },
+    {
+        "level": 1,
+        "move": "불꽃엄니",
+        "type": "Fire",
+        "category": "물리",
+        "power": "65",
+        "accuracy": "95 "
+    },
+    {
+        "level": 1,
+        "move": "김밥말이",
+        "type": "Normal",
+        "category": "물리",
+        "power": "15",
+        "accuracy": "90 "
+    },
+    {
+        "level": 1,
+        "move": "째려보기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "level": 1,
+        "move": "독침",
+        "type": "Poison",
+        "category": "물리",
+        "power": "15",
+        "accuracy": "100 "
+    },
+    {
+        "level": 1,
+        "move": "물기",
+        "type": "Dark",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "100 "
+    },
+    {
+        "level": 4,
+        "move": "독침",
+        "type": "Poison",
+        "category": "물리",
+        "power": "15",
+        "accuracy": "100 "
+    },
+    {
+        "level": 9,
+        "move": "물기",
+        "type": "Dark",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "100 "
+    },
+    {
+        "level": 12,
+        "move": "뱀눈초리",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "level": 17,
+        "move": "싫은소리",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "85 "
+    },
+    {
+        "level": 20,
+        "move": "용해액",
+        "type": "Poison",
+        "category": "특수",
+        "power": "40",
+        "accuracy": "100 "
+    },
+    {
+        "level": 27,
+        "move": "비축하기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "level": 27,
+        "move": "꿀꺽",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "level": 27,
+        "move": "토해내기",
+        "type": "Normal",
+        "category": "특수",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "level": 32,
+        "move": "애시드봄",
+        "type": "Poison",
+        "category": "특수",
+        "power": "40",
+        "accuracy": "100 "
+    },
+    {
+        "level": 39,
+        "move": "오물폭탄",
+        "type": "Poison",
+        "category": "특수",
+        "power": "90",
+        "accuracy": "100 "
+    },
+    {
+        "level": 44,
+        "move": "위액",
+        "type": "Poison",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "level": 48,
+        "move": "트림",
+        "type": "Poison",
+        "category": "특수",
+        "power": "120",
+        "accuracy": "90 "
+    },
+    {
+        "level": 51,
+        "move": "흑안개",
+        "type": "Ice",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "level": 56,
+        "move": "똬리틀기",
+        "type": "Poison",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "level": 63,
+        "move": "더스트슈트",
+        "type": "Poison",
+        "category": "물리",
+        "power": "120",
+        "accuracy": "90"
+    }
+],
+"technicalMachine":[
+    {
+        "technicalMachine": 11,
+        "move": "쾌청",
+        "type": "Fire",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 15,
+        "move": "파괴광선",
+        "type": "Normal",
+        "category": "특수",
+        "power": "150",
+        "accuracy": "90 "
+    },
+    {
+        "technicalMachine": 17,
+        "move": "방어",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 18,
+        "move": "비바라기",
+        "type": "Water",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 19,
+        "move": "기가드레인",
+        "type": "Grass",
+        "category": "특수",
+        "power": "75",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 23,
+        "move": "아이언테일",
+        "type": "Steel",
+        "category": "물리",
+        "power": "100",
+        "accuracy": "75 "
+    },
+    {
+        "technicalMachine": 26,
+        "move": "지진",
+        "type": "Ground",
+        "category": "물리",
+        "power": "100",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 28,
+        "move": "구멍파기",
+        "type": "Ground",
+        "category": "물리",
+        "power": "80",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 32,
+        "move": "그림자분신",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 36,
+        "move": "오물폭탄",
+        "type": "Poison",
+        "category": "특수",
+        "power": "90",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 39,
+        "move": "암석봉인",
+        "type": "Rock",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "95 "
+    },
+    {
+        "technicalMachine": 41,
+        "move": "트집",
+        "type": "Dark",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 42,
+        "move": "객기",
+        "type": "Normal",
+        "category": "물리",
+        "power": "70",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 44,
+        "move": "잠자기",
+        "type": "Psychic",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 45,
+        "move": "헤롱헤롱",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 46,
+        "move": "도둑질",
+        "type": "Dark",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 58,
+        "move": "버티기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 66,
+        "move": "보복",
+        "type": "Dark",
+        "category": "물리",
+        "power": "50",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 68,
+        "move": "기가임팩트",
+        "type": "Normal",
+        "category": "물리",
+        "power": "150",
+        "accuracy": "90 "
+    },
+    {
+        "technicalMachine": 79,
+        "move": "악의파동",
+        "type": "Dark",
+        "category": "특수",
+        "power": "80",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 80,
+        "move": "스톤샤워",
+        "type": "Rock",
+        "category": "물리",
+        "power": "75",
+        "accuracy": "90 "
+    },
+    {
+        "technicalMachine": 82,
+        "move": "잠꼬대",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 83,
+        "move": "땅고르기",
+        "type": "Ground",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 84,
+        "move": "독찌르기",
+        "type": "Poison",
+        "category": "물리",
+        "power": "80",
+        "accuracy": "100 "
+    },
+    {
+        "technicalMachine": 87,
+        "move": "뽐내기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "85 "
+    },
+    {
+        "technicalMachine": 90,
+        "move": "대타출동",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "— "
+    },
+    {
+        "technicalMachine": 96,
+        "move": "괴력",
+        "type": "Normal",
+        "category": "물리",
+        "power": "80",
+        "accuracy": "100"
+    }
+],"technicalRecords":[],
+"egg":[
+        {
+            "move": "집단구타",
+            "type": "Dark",
+            "category": "물리",
+            "power": "—",
+            "accuracy": "100 "
+        },
+        {
+            "move": "사슬묶기",
+            "type": "Normal",
+            "category": "변화",
+            "power": "—",
+            "accuracy": "100 "
+        },
+        {
+            "move": "독엄니",
+            "type": "Poison",
+            "category": "물리",
+            "power": "50",
+            "accuracy": "100 "
+        },
+        {
+            "move": "포이즌테일",
+            "type": "Poison",
+            "category": "물리",
+            "power": "50",
+            "accuracy": "100 "
+        },
+        {
+            "move": "겁나는얼굴",
+            "type": "Normal",
+            "category": "변화",
+            "power": "—",
+            "accuracy": "100 "
+        },
+        {
+            "move": "힘껏치기",
+            "type": "Normal",
+            "category": "물리",
+            "power": "80",
+            "accuracy": "75 "
+        },
+        {
+            "move": "원한",
+            "type": "Ghost",
+            "category": "변화",
+            "power": "—",
+            "accuracy": "100 "
+        },
+        {
+            "move": "기습",
+            "type": "Dark",
+            "category": "물리",
+            "power": "70",
+            "accuracy": "100 "
+        },
+        {
+            "move": "바꿔치기",
+            "type": "Dark",
+            "category": "변화",
+            "power": "—",
+            "accuracy": "100"
+        }
+],"tutor":[],"evolution":[{"category":"Physical",
+"move":"Crunch",
+"type":"Dark",
+"power":"80",
+"accuracy":"100"}],"preEvolution":[]},
+"generation":"GENERATION_I"}

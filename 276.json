@@ -1,0 +1,66 @@
+{"number":"276","name":"테일로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/276.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/276.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/276/276_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/276/276_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/276/276_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/276/276_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/276/276_back_shiny_animated.gif"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+"descriptions":["테일로는 이제 막 둥지를 떠났습니다. 그 결과 때때로 외로워져서 밤에 웁니다. 이 포켓몬은 숲에 사는 개무소를 잡아먹습니다.","헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤헤. 이 용기있는 포켓몬은 패배 후에도 도전적인 태도를 유지합니다. 반면 배고프면 크게 웁니다."],
+"specie":"아기제비","height":"2.3 kg (5.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"200 (26.1% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"54",
+"growthRate":"중간 느림"},"abilities":[{"name":"근성","description":"상태 이상이 되면 공격이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"276","name":"테일로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/276.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/276.png","type":"FIRST"},{"number":"277","name":"스왈로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/277.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/277.png","type":"LAST",
+"requirement":"Level 22"}],"previousEvolutions":[],"nextEvolutions":[{"number":"277","name":"스왈로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/277.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/277.png","type":"LAST",
+"requirement":"Level 22"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":55,"defense":30,"spAtk":30,"spDef":30,"speed":85,"total":270},"cards":[{"number":"133","name":"테일로","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/SWSH4_EN_133.png"},{"number":"103","name":"테일로","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/SM2_EN_103.png"},{"number":"70","name":"테일로","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/XY6_EN_70.png"},{"number":"102","name":"테일로","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/XY1_EN_102.png"},{"number":"112","name":"테일로","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/BW7_EN_112.png"},{"number":"72","name":"테일로","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/EX1_EN_72.png"},{"number":"76","name":"테일로","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/EX3_EN_76.png"},{"number":"80","name":"테일로","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/EX8_EN_80.png"},{"number":"68","name":"테일로","expansionName":"EX Emerald","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/EX9_EN_68.png"},{"number":"86","name":"테일로","expansionName":"EX Delta Species","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/276/EX11_EN_86.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/276.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"}
+,{"level":5,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":9,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":13,"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"}
+,{"level":17,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"level":21,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"level":25,"category":"변화","move":"퍼스트가드","type":"Fighting","power":"—","accuracy":"—"}
+,{"level":29,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":33,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}
+,{"level":37,"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":41,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"}
+,{"level":45,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":49,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"technicalMachine":76,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":89,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"특수","move":"폭음파","type":"Normal","power":"140","accuracy":"100"}
+,{"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"}
+,{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"특수","move":"폭풍","type":"Flying","power":"110","accuracy":"70"}
+,{"category":"변화","move":"따라하기","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"물리","move":"따라가때리기","type":"Dark","power":"40","accuracy":"100"}
+,{"category":"물리","move":"분노","type":"Normal","power":"20","accuracy":"100"}
+,{"category":"변화","move":"리프레쉬","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"물리","move":"불새","type":"Flying","power":"140","accuracy":"90"}
+,{"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"}
+,{"category":"물리","move":"불새","type":"Flying","power":"140","accuracy":"90"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

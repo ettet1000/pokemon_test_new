@@ -1,0 +1,68 @@
+{"number":"045","name":"라플레시아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/045.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/045.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/045/045_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/045/045_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/045/045_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/045/045_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/045/045_back_shiny_animated.gif"},"types":["Grass","Poison"],"weaknesses":["Fire","Psychic","Flying","Ice"],
+"descriptions":["꽃잎이 클수록 독성이 강한 꽃가루가 들어 있습니다. 큰 머리는 무겁고 들기 어렵습니다.","세계에서 가장 큰 꽃잎을 가지고 있습니다. 걸을 때마다 꽃잎은 유독성 꽃가루의 무거운 구름을 털어냅니다."],
+"specie":"꽃","height":"18.6 kg (41.0 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"221",
+"growthRate":"중간 느림"},"abilities":[{"name":"엽록소","description":"맑을 때 스피드가 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"¼","Ice":"2","Fighting":"½","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"043","name":"뚜벅쵸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/043.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/043.png","type":"FIRST"},{"number":"044","name":"냄새꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/044.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/044.png","type":"MIDDLE",
+"requirement":"Level 21"},{"number":"045","name":"라플레시아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/045.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/045.png","type":"LAST",
+"requirement":"리프의돌 사용"}],"previousEvolutions":[{"number":"043","name":"뚜벅쵸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/043.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/043.png","type":"FIRST"},{"number":"044","name":"냄새꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/044.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/044.png","type":"MIDDLE",
+"requirement":"Level 21"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":75,"attack":80,"defense":85,"spAtk":110,"spDef":90,"speed":50,"total":490},"cards":[{"number":"211","name":"라플레시아-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/SM12_EN_211.png"},{"number":"250","name":"라플레시아-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/SM12_EN_250.png"},{"number":"4","name":"라플레시아-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/SM12_EN_4.png"},{"number":"8","name":"라플레시아","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/SM10_EN_8.png"},{"number":"6","name":"라플레시아","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/SM3_EN_6.png"},{"number":"3","name":"라플레시아","expansionName":"XY—Ancient Origins","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/XY7_EN_3.png"},{"number":"3","name":"라플레시아","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/BW7_EN_3.png"},{"number":"24","name":"라플레시아","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/HGSS3_EN_24.png"},{"number":"100","name":"라플레시아 ex","expansionName":"EX Hidden Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/EX5_EN_100.png"},{"number":"17","name":"라플레시아 δ","expansionName":"EX Holon Phantoms","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/045/EX13_EN_17.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/045.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":1,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"level":1,"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"}
+,{"level":1,"category":"변화","move":"달의불빛","type":"Fairy","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"꽃보라","type":"Grass","power":"90","accuracy":"100"}
+,{"level":1,"category":"특수","move":"꽃잎댄스","type":"Grass","power":"120","accuracy":"100"}
+,{"level":1,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":1,"category":"변화","move":"수면가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":1,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":1,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":50,"category":"물리","move":"기관총","type":"Grass","power":"25","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":88,"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"},
+{"technicalRecord":96,"category":"특수","move":"꽃가루경단","type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"당신먼저","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"뿌리박기","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"}
+,{"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"}
+,{"category":"변화","move":"힘흡수","type":"Grass","power":"—","accuracy":"100"}
+,{"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"흔들흔들댄스","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"변화","move":"Corrosive Gas","type":"Poison","power":"—","accuracy":"100"}
+,{"category":"물리","move":"Grassy Glide","type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[{"category":"물리","move":"꽃보라","type":"Grass","power":"90","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

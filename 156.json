@@ -1,0 +1,72 @@
+{"number":"156","name":"마그케인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/156.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/156.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/156/156_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/156/156_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/156/156_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/156/156_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/156/156_back_shiny_animated.gif"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+"descriptions":["마그케인은 강렬한 화염과 과열된 공기의 돌풍으로 적을 막아냅니다. 이 포켓몬은 뛰어난 민첩성을 발휘하여 적을 불태우면서도 공격을 회피합니다."],
+"specie":"화산","height":"19.0 kg (41.9 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 특수공격, 1 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"142",
+"growthRate":"중간 느림"},"abilities":[{"name":"맹화","description":"위급할 때 불꽃타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"0","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"1","Poison":"1","Ground":"2","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"155","name":"브케인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/156.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/156.png","type":"MIDDLE",
+"requirement":"Level 14"},{"number":"157","name":"블레이범","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/157.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/157.png","type":"LAST",
+"requirement":"Level 36"}],"previousEvolutions":[{"number":"155","name":"브케인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"}],"nextEvolutions":[{"number":"157","name":"블레이범","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/157.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/157.png","type":"LAST",
+"requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":58,"attack":64,"defense":58,"spAtk":80,"spDef":65,"speed":80,"total":405},"cards":[{"number":"41","name":"마그케인","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/SM8_EN_41.png"},{"number":"19","name":"마그케인","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/XY8_EN_19.png"},{"number":"49","name":"마그케인","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/COL1_EN_49.png"},{"number":"49","name":"마그케인","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/HGSS1_EN_49.png"},{"number":"51","name":"마그케인","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/EX2_EN_51.png"},{"number":"45","name":"마그케인","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/EX10_EN_45.png"},{"number":"36","name":"마그케인 δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/EX15_EN_36.png"},{"number":"60","name":"마그케인","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/156/DP2_EN_60.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/156.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":6,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"}
+,{"level":10,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"}
+,{"level":13,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":20,"category":"물리","move":"화염자동차","type":"Fire","power":"60","accuracy":"100"}
+,{"level":24,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":31,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"level":35,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"}
+,{"level":42,"category":"특수","move":"분연","type":"Fire","power":"80","accuracy":"100"}
+,{"level":46,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"level":53,"category":"특수","move":"연옥","type":"Fire","power":"100","accuracy":"50"}
+,{"level":57,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
+,{"level":64,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"level":68,"category":"특수","move":"불사르기","type":"Fire","power":"130","accuracy":"100"}
+,{"level":75,"category":"특수","move":"분화","type":"Fire","power":"150","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"technicalMachine":38,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":50,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"}
+,{"technicalMachine":61,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":93,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":96,"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"브레이크크루","type":"Normal","power":"75","accuracy":"95"}
+,{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"category":"특수","move":"신통력","type":"Psychic","power":"80","accuracy":"100"}
+,{"category":"특수","move":"불꽃튀기기","type":"Fire","power":"70","accuracy":"100"}
+,{"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"}
+,{"category":"변화","move":"꿰뚫어보기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"특수","move":"불꽃의맹세","type":"Fire","power":"80","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

@@ -1,0 +1,79 @@
+{"number":"758","name":"염뉴트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/758.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/758.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/758/758_main.png"},"types":["Poison","Fire"],"weaknesses":["Water","Psychic","Ground","Rock"],
+"descriptions":["염뉴트들의 싸움은 거느리고 있는 수컷 야도뇽의 수로 승패가 정해지는 듯합니다.","염뉴트는 암컷만이 존재합니다. 페로몬 가스를 발생시켜 수컷 야도뇽을 매료시킵니니다."],
+"specie":"독도마뱀","height":"22.2 kg (48.9 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["드래곤","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"2 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"168",
+"growthRate":"중간 빠름"},"abilities":[{"name":"부식","description":"The Pokémon can poison the target even if it's a Steel or Poison type."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"2","Electric":"1","Grass":"¼","Ice":"½","Fighting":"½","Poison":"½","Ground":"4","Flying":"1","Psychic":"2","Bug":"¼","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"¼"},"evolutionChain":[{"number":"757","name":"야도뇽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/757.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/757.png","type":"FIRST"},{"number":"758","name":"염뉴트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/758.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/758.png","type":"LAST","requirement":"Level 33, 암컷만"}],"previousEvolutions":[{"number":"757","name":"야도뇽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/757.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/757.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":68,"attack":64,"defense":60,"spAtk":111,"spDef":60,"speed":117,"total":480},"cards":[{"number":"28","name":"염뉴트","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SWSH5_EN_28.png"},{"number":"28","name":"염뉴트","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SWSH1_EN_28.png"},{"number":"34","name":"염뉴트","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM11_EN_34.png"},{"number":"99","name":"염뉴트","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM11_EN_99.png"},{"number":"31","name":"염뉴트","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM10_EN_31.png"},{"number":"14","name":"염뉴트","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM75_EN_14.png"},{"number":"26","name":"염뉴트","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM5_EN_26.png"},{"number":"47","name":"염뉴트","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM4_EN_47.png"},{"number":"132","name":"염뉴트-GX","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM3_EN_132.png"},{"number":"151","name":"염뉴트-GX","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/758/SM3_EN_151.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/758.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"불꽃채찍","type":"Fire","power":"80","accuracy":"100"},{"level":1,"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"},{"level":1,"category":"변화","move":"독가스","type":"Poison","power":"—","accuracy":"90"},{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"스모그","type":"Poison","power":"30","accuracy":"70"},{"level":1,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"},{"level":1,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"},{"level":15,"category":"물리","move":"독엄니","type":"Poison","power":"50","accuracy":"100"},{"level":20,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"},{"level":25,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":30,"category":"특수","move":"불태우기","type":"Fire","power":"60","accuracy":"100"},{"level":37,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"},{"level":44,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":51,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"},{"level":58,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},{"level":65,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"},{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌"
+,"type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크"
+,"type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":99,"category":"물리","move":"와이드브레이커"
+,"type":"Dragon","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사"
+,"type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":15,"category":"특수","move":"불대문자"
+,"type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":18,"category":"물리","move":"흡혈"
+,"type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":43,"category":"특수","move":"오버히트"
+,"type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":47,"category":"물리","move":"드래곤크루"
+,"type":"Dragon","power":"80","accuracy":"100"},
+{"technicalRecord":51,"category":"변화","move":"용의춤"
+,"type":"Dragon","power":"—","accuracy":"—"},
+{"technicalRecord":55,"category":"물리","move":"플레어드라이브"
+,"type":"Fire","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":81,"category":"물리","move":"속임수"
+,"type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"트림"
+,"type":"Poison","power":"120","accuracy":"90"}
+,{"category":"물리","move":"속이다"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기"
+,"type":"Ground","power":"20","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기"
+,"type":"Ground","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"변화","move":"Corrosive Gas"
+,"type":"Poison","power":"—","accuracy":"100"}
+,{"category":"물리","move":"Scale Shot"
+,"type":"Dragon","power":"25","accuracy":"90"}
+,{"category":"물리","move":"Skitter Smack"
+,"type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[{"category":"물리","move":"불꽃채찍"
+,"type":"Fire","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VII"}

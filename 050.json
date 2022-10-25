@@ -1,0 +1,28 @@
+{"number":"050","name":"디그다","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/050.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/050.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/050/050_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/050/050_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/050/050_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/050/050_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/050/050_back_shiny_animated.gif"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+"descriptions":["얕은 깊이의 땅을 파고 있습니다. 그 뒤를 따라 솟아오른 흙을 남기므로 쉽게 알아볼 수 있습니다.","디그다가 밭을 파면 흙이 완벽하게 경작되어 농작물을 심기에 이상적입니다."],
+"specie":"두더지","height":"0.8 kg (1.8 lbs)","weight":"0.2 m (0′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"53",
+"growthRate":"중간 빠름"},"abilities":[{"name":"모래숨기","description":"모래바람으로 회피율이 올라간다."},{"name":"개미지옥","description":"Prevents opposing Pokémon from fleeing."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"0","Grass":"2","Ice":"2","Fighting":"1","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"050","name":"디그다","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/050.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/050.png","type":"FIRST"},{"number":"051","name":"닥트리오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/051.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/051.png","type":"LAST",
+"requirement":"Level 26"}],"previousEvolutions":[],"nextEvolutions":[{"number":"051","name":"닥트리오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/051.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/051.png","type":"LAST",
+"requirement":"Level 26"}],"superEvolutions":[],"baseStats":{"hp":10,"attack":55,"defense":25,"spAtk":35,"spDef":45,"speed":95,"total":265},"cards":[{"number":"76","name":"디그다","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SWSH6_EN_76.png"},{"number":"84","name":"디그다","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SWSH3_EN_84.png"},{"number":"92","name":"디그다","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SWSH1_EN_92.png"},{"number":"85","name":"디그다","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SM10_EN_85.png"},{"number":"121","name":"Alolan 디그다","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SM10_EN_121.png"},{"number":"122","name":"Alolan 디그다","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SM8_EN_122.png"},{"number":"78","name":"Alolan 디그다","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SM5_EN_78.png"},{"number":"86","name":"Alolan 디그다","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/SM1_EN_86.png"},{"number":"55","name":"디그다","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/XY12_EN_55.png"},{"number":"36","name":"디그다","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/050/XY10_EN_36.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/050.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":8,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"}
+,{"level":12,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
+,{"level":16,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"level":20,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}
+,{"level":24,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":28,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"level":32,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"level":36,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}
+,{"level":40,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"level":44,"category":"물리","move":"땅가르기","type":"Ground","power":"—","accuracy":"30"}],"technicalMachine":[],"technicalRecords":[]
+,"egg":[{"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
+,{"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
+,{"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

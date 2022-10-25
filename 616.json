@@ -1,0 +1,52 @@
+{"number":"616","name":"쪼마리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/616.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/616.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/616/616_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/616/616_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/616/616_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/616/616_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/616/616_back_shiny_animated.gif"},"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
+"descriptions":["전기에 반응하는 이상한 생리를 가지고 있습니다. 딱정곤과 함께 있으면 무슨 이유인지 진화합니다.","공격을 받으면 껍데기의 뚜껑을 단단히 닫습니다. 그러나 이러한 반응은 딱정곤으로부터 보호하는 데 실패했습니다. 왜냐하면 그들이 여전히 껍질에 들어갈 수 있기 때문입니다."],
+"specie":"달팽이","height":"7.7 kg (17.0 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"200 (26.1% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"촉촉바디","description":"Heals status conditions if it's raining."},{"name":"조가비갑옷","description":"A hard shell protects the Pokémon from critical hits."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"1","Ground":"½","Flying":"2","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"616","name":"쪼마리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/616.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/616.png","type":"FIRST"},{"number":"617","name":"어지리더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/617.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/617.png","type":"LAST","requirement":"딱정곤과 통신교환"}],"previousEvolutions":[],"nextEvolutions":[{"number":"617","name":"어지리더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/617.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/617.png"
+,"type":"LAST",
+"requirement":"딱정곤과 통신교환"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":40,"defense":85,"spAtk":40,"spDef":65,"speed":25,"total":305},"cards":[{"number":"9","name":"쪼마리","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/SWSH3_EN_9.png"},{"number":"8","name":"쪼마리","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/SM4_EN_8.png"},{"number":"8","name":"쪼마리","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/XY3_EN_8.png"},{"number":"7","name":"쪼마리","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/BW10_EN_7.png"},{"number":"10","name":"쪼마리","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/BW5_EN_10.png"},{"number":"11","name":"쪼마리","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/616/BW3_EN_11.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/616.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"},{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":4,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":8,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":12,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"},{"level":16,"category":"특수","move":"벌레의저항","type":"Bug","power":"50","accuracy":"100"},{"level":20,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"},{"level":24,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"},{"level":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"level":32,"category":"변화","move":"가드스웹","type":"Psychic","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},{"level":40,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"},{"level":44,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"},{"level":48,"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":53,"category":"특수","move":"머드숏"
+,"type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":61,"category":"변화","move":"가드스웹"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크"
+,"type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":18,"category":"물리","move":"흡혈"
+,"type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기"
+,"type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석"
+,"type":"Bug","power":"90","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"이판사판태클"
+,"type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"페인트"
+,"type":"Normal","power":"30","accuracy":"100"}
+,{"category":"변화","move":"가드셰어"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"변화","move":"마음의눈"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Skitter Smack"
+,"type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

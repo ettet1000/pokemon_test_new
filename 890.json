@@ -1,0 +1,59 @@
+{"number":"890","name":"무한다이노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/890.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/890.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/890/890_main.png"},"types":["Poison","드래곤"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
+"descriptions":["거대해진 코어에서 무한한 파워가 방출되기 때문에 주위 시공을 일그러뜨립니다.","로즈의 소행으로 인해 가라르 전역의 에너지를 흡수해서 과부하된 모습입니다."],
+"specie":"거대","height":"950.0 kg (2094.4 lbs)","weight":"20.0 m (65′07″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 HP","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"345",
+"growthRate":"느린"},"abilities":[{"name":"프레셔","description":"상대가 사용하는 기술의 PP를 많이 줄인다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"½","Grass":"¼","Ice":"2","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"890","name":"무한다이노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/890.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/890.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":140,"attack":85,"defense":95,"spAtk":145,"spDef":95,"speed":130,"total":690},"cards":[{"number":"SV122","name":"무한다이노 VMAX","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSH45_EN_SV122.png"},{"number":"SV121","name":"무한다이노 V","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSH45_EN_SV121.png"},{"number":"116","name":"무한다이노 V","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSH3_EN_116.png"},{"number":"117","name":"무한다이노 VMAX","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSH3_EN_117.png"},{"number":"192","name":"무한다이노 VMAX","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSH3_EN_192.png"},{"number":"SWSH044","name":"무한다이노 V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSHP_EN_SWSH044.png"},{"number":"SWSH045","name":"무한다이노 VMAX","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSHP_EN_SWSH045.png"},{"number":"SWSH064","name":"무한다이노 V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/890/SWSHP_EN_SWSH064.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/890.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"드래곤테일","type":"Dragon","power":"60","accuracy":"90"},{"level":1,"category":"물리","move":"포이즌테일*","type":"Poison","power":"50","accuracy":"100"},{"level":8,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"level":16,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"},{"level":24,"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"},{"level":32,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"},{"level":40,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":48,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},{"level":56,"category":"특수","move":"다이맥스포","type":"Dragon","power":"100","accuracy":"100"},{"level":64,"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"},{"level":72,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"},{"level":80,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"level":88,"category":"특수","move":"Eternabeam","type":"Dragon","power":"160","accuracy":"90"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌"
+,"type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크"
+,"type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":92,"category":"특수","move":"매지컬플레임"
+,"type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사"
+,"type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":44,"category":"변화","move":"코스믹파워"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":51,"category":"변화","move":"용의춤"
+,"type":"Dragon","power":"—","accuracy":"—"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

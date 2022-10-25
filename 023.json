@@ -1,0 +1,404 @@
+{
+"number":"023",
+"name":"아보",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/023.png",
+"thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/023.png",
+"sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/023/023_main.png",
+"frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/023/023_front_animated.gif",
+"backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/023/023_back_animated.gif",
+"frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/023/023_front_shiny_animated.gif",
+"backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/023/023_back_shiny_animated.gif"},
+"types":["Poison"],
+"weaknesses":["Psychic",
+"Ground"],
+"descriptions":["나이가 들수록 더 오래 자랍니다. 밤에는 긴 몸을 나뭇가지에 감아 휴식을 취합니다."],
+"specie":"뱀",
+"height":"6.9 kg (15.2 lbs)",
+"weight":"2.0 m (6′07″)",
+"breeding":{"egg":{"groups":["드래곤",
+"Field"],
+"cycle":"20 (4,884–5,140 걸음)"},
+"genders":[{"type":"MALE",
+"percentage":"50%"},
+{"type":"FEMALE",
+"percentage":"50%"}]},
+"training":{"evYield":"1 공격",
+"catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)",
+"baseFriendship":"50 (보통)",
+"baseExp":"58",
+"growthRate":"중간 빠름"},
+"abilities":[{"name":"탈피",
+"description":"상태 이상을 회복할 때가 있다."},{"name":"위협",
+"description":"상대의 공격을 떨어뜨린다."}],
+"typesEffectiveness":{"Normal":"1",
+"Fire":"1",
+"Water":"1",
+"Electric":"1",
+"Grass":"½",
+"Ice":"1",
+"Fighting":"½",
+"Poison":"½",
+"Ground":"2",
+"Flying":"1",
+"Psychic":"2",
+"Bug":"½",
+"Rock":"1",
+"Ghost":"1",
+"Dragon":"1",
+"Dark":"1",
+"Steel":"1",
+"Fairy":"½"},"evolutionChain":[{
+"number":"023",
+"name":"아보",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/023.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/023.png",
+"type":"FIRST"},{
+"number":"024",
+"name":"아보크",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
+"type":"LAST",
+"requirement":"Level 22"}],"previousEvolutions":[],
+"nextEvolutions":[{
+"number":"024",
+"name":"아보크",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/024.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/024.png",
+"type":"LAST",
+"requirement":"Level 22"}],"superEvolutions":[],"baseStats":{"hp":35,"attack":60,"defense":44,"spAtk":40,"spDef":54,"speed":55,"total":288},"cards":[{
+"number":"33",
+"name":"아보",
+"expansionName":"Champion’s Path",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/SWSH35_EN_33.png"},{
+"number":"25",
+"name":"아보",
+"expansionName":"Hidden Fates",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/SM115_EN_25.png"},{
+"number":"26",
+"name":"아보",
+"expansionName":"Hidden Fates",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/SM115_EN_26.png"},{
+"number":"62",
+"name":"아보",
+"expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/SM10_EN_62.png"},{
+"number":"36",
+"name":"아보",
+"expansionName":"Shining Legends",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/SM35_EN_36.png"},{
+"number":"47",
+"name":"아보",
+"expansionName":"XY",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/XY1_EN_47.png"},{
+"number":"64",
+"name":"아보",
+"expansionName":"EX Sandstorm",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/EX2_EN_64.png"},{
+"number":"55",
+"name":"아보",
+"expansionName":"EX Team Rocket Returns",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/EX7_EN_55.png"},{
+"number":"47",
+"name":"아보 δ",
+"expansionName":"EX Dragon Frontiers",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/EX15_EN_47.png"},{
+"number":"66",
+"name":"아보",
+"expansionName":"Diamond & Pearl—Great Encounters",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/023/DP4_EN_66.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/023.mp3",
+"moves":{"levelUp":[
+    {
+        "level": 1,
+        "move": "김밥말이",
+        "type": "Normal",
+        "category": "물리",
+        "power": "15",
+        "accuracy": "90"
+    },
+    {
+        "level": 1,
+        "move": "째려보기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100"
+    },
+    {
+        "level": 4,
+        "move": "독침",
+        "type": "Poison",
+        "category": "물리",
+        "power": "15",
+        "accuracy": "100"
+    },
+    {
+        "level": 9,
+        "move": "물기",
+        "type": "Dark",
+        "category": "물리",
+        "power": "60",
+        "accuracy": "100"
+    },
+    {
+        "level": 12,
+        "move": "뱀눈초리",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100"
+    },
+    {
+        "level": 17,
+        "move": "싫은소리",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "85"
+    },
+    {
+        "level": 20,
+        "move": "용해액",
+        "type": "Poison",
+        "category": "특수",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "level": 25,
+        "move": "비축하기",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 25,
+        "move": "꿀꺽",
+        "type": "Normal",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 25,
+        "move": "토해내기",
+        "type": "Normal",
+        "category": "특수",
+        "power": "—",
+        "accuracy": "100"
+    },
+    {
+        "level": 28,
+        "move": "애시드봄",
+        "type": "Poison",
+        "category": "특수",
+        "power": "40",
+        "accuracy": "100"
+    },
+    {
+        "level": 33,
+        "move": "오물폭탄",
+        "type": "Poison",
+        "category": "특수",
+        "power": "90",
+        "accuracy": "100"
+    },
+    {
+        "level": 36,
+        "move": "위액",
+        "type": "Poison",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "100"
+    },
+    {
+        "level": 38,
+        "move": "트림",
+        "type": "Poison",
+        "category": "특수",
+        "power": "120",
+        "accuracy": "90"
+    },
+    {
+        "level": 41,
+        "move": "흑안개",
+        "type": "Ice",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 44,
+        "move": "똬리틀기",
+        "type": "Poison",
+        "category": "변화",
+        "power": "—",
+        "accuracy": "—"
+    },
+    {
+        "level": 49,
+        "move": "더스트슈트",
+        "type": "Poison",
+        "category": "물리",
+        "power": "120",
+        "accuracy": "90"
+    }
+],
+"technicalMachine":[
+{
+    "technicalMachine": 11,
+    "move": "쾌청",
+    "type": "Fire",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 17,
+    "move": "방어",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 18,
+    "move": "비바라기",
+    "type": "Water",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 19,
+    "move": "기가드레인",
+    "type": "Grass",
+    "category": "특수",
+    "power": "75",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 23,
+    "move": "아이언테일",
+    "type": "Steel",
+    "category": "물리",
+    "power": "100",
+    "accuracy": "75"
+},
+{
+    "technicalMachine": 26,
+    "move": "지진",
+    "type": "Ground",
+    "category": "물리",
+    "power": "100",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 28,
+    "move": "구멍파기",
+    "type": "Ground",
+    "category": "물리",
+    "power": "80",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 32,
+    "move": "그림자분신",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 36,
+    "move": "오물폭탄",
+    "type": "Poison",
+    "category": "특수",
+    "power": "90",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 39,
+    "move": "암석봉인",
+    "type": "Rock",
+    "category": "물리",
+    "power": "60",
+    "accuracy": "95"
+},
+{
+    "technicalMachine": 41,
+    "move": "트집",
+    "type": "Dark",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 42,
+    "move": "객기",
+    "type": "Normal",
+    "category": "물리",
+    "power": "70",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 44,
+    "move": "잠자기",
+    "type": "Psychic",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 45,
+    "move": "헤롱헤롱",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 46,
+    "move": "도둑질",
+    "type": "Dark",
+    "category": "물리",
+    "power": "60",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 58,
+    "move": "버티기",
+    "type": "Normal",
+    "category": "변화",
+    "power": "—",
+    "accuracy": "—"
+},
+{
+    "technicalMachine": 66,
+    "move": "보복",
+    "type": "Dark",
+    "category": "물리",
+    "power": "50",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 79,
+    "move": "악의파동",
+    "type": "Dark",
+    "category": "특수",
+    "power": "80",
+    "accuracy": "100"
+},
+{
+    "technicalMachine": 80,
+    "move": "스톤샤워",
+    "type": "Rock",
+    "category": "물리",
+    "power": "75",
+    "accuracy": "90"
+}
+],
+"technicalRecords":[],"egg":[],"tutor":[],"evolution":[],
+"preEvolution":[]},
+"generation":"GENERATION_I"}

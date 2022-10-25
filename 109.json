@@ -1,0 +1,64 @@
+{"number":"109","name":"또가스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/109.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/109.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/109/109_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/109/109_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/109/109_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/109/109_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/109/109_back_shiny_animated.gif"},"types":["Poison"],"weaknesses":["Psychic","Ground"],
+"descriptions":["오염된 공기를 좋아합니다. 옛날 가라르지방에는 지금보다 많은 또가스가 있었다고 합니다.", "독가스로 몸 안이 가득 차 있습니다. 음식물 쓰레기의 악취에 이끌려 쓰레기장을 찾아갑니다."],
+"specie":"독가스","height":"1.0 kg (2.2 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"68",
+"growthRate":"중간 빠름"},"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."},{"name":"화학변화가스","description":"If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon's Abilities will be nullified or will not be triggered."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"109","name":"또가스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/109.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/109.png","type":"FIRST"},{"number":"110","name":"또도가스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/110.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/110.png","type":"LAST",
+"requirement":"Level 35"}],"previousEvolutions":[],"nextEvolutions":[{"number":"110","name":"또도가스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/110.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/110.png","type":"LAST",
+"requirement":"Level 35"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":65,"defense":95,"spAtk":60,"spDef":45,"speed":35,"total":340},"cards":[{"number":"94","name":"또가스","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SWSH6_EN_94.png"},{"number":"SV076","name":"또가스","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SWSH45_EN_SV076.png"},{"number":"41","name":"또가스","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SWSH45_EN_41.png"},{"number":"112","name":"또가스","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SWSH2_EN_112.png"},{"number":"243","name":"또가스","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SM12_EN_243.png"},{"number":"76","name":"또가스","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SM12_EN_76.png"},{"number":"28","name":"또가스","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SM115_EN_28.png"},{"number":"73","name":"또가스","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/SM10_EN_73.png"},{"number":"50","name":"또가스","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/XY12_EN_50.png"},{"number":"27","name":"또가스","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/109/XY10_EN_27.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/109.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"독가스","type":"Poison","power":"—","accuracy":"90"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"특수","move":"스모그","type":"Poison","power":"30","accuracy":"70"}
+,{"level":8,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"}
+,{"level":12,"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"}
+,{"level":16,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":20,"category":"특수","move":"오물공격","type":"Poison","power":"65","accuracy":"100"}
+,{"level":24,"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"}
+,{"level":28,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"level":32,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"level":36,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":40,"category":"특수","move":"트림","type":"Poison","power":"120","accuracy":"90"}
+,{"level":44,"category":"물리","move":"대폭발","type":"Normal","power":"250","accuracy":"100"}
+,{"level":48,"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}
+,{"level":52,"category":"변화","move":"길동무","type":"Ghost","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":15,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":58,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"변화","move":"원념","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"변화","move":"아픔나누기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"category":"특수","move":"토해내기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"원한","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"비축하기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"꿀꺽","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"변화","move":"Corrosive Gas","type":"Poison","power":"—","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

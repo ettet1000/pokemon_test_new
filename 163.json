@@ -1,0 +1,63 @@
+{"number":"163","name":"부우부","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/163.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/163.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/163/163_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/163/163_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/163/163_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/163/163_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/163/163_back_shiny_animated.gif"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+"descriptions":["매일 같은 시간에 짖기 시작합니다. 일부 트레이너는 시계 대신 사용합니다.","항상 한 발로 서 있습니다. 발이 너무 빨리 변해 움직임을 거의 볼 수 없습니다."],
+"specie":"부엉이","height":"21.2 kg (46.7 lbs)","weight":"0.7 m (2′04″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"52",
+"growthRate":"중간 빠름"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"불면","description":"잠듦 상태가 되지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"163","name":"부우부","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/163.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/163.png","type":"FIRST"},{"number":"164","name":"야부엉","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/164.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/164.png","type":"LAST",
+"requirement":"Level 20"}],"previousEvolutions":[],"nextEvolutions":[{"number":"164","name":"야부엉","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/164.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/164.png","type":"LAST",
+"requirement":"Level 20"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":30,"defense":30,"spAtk":36,"spDef":56,"speed":50,"total":262},"cards":[{"number":"143","name":"부우부","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/SWSH1_EN_143.png"},{"number":"165","name":"부우부","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/SM11_EN_165.png"},{"number":"106","name":"부우부","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/SM3_EN_106.png"},{"number":"119","name":"부우부","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/XY8_EN_119.png"},{"number":"HGSS05","name":"부우부","expansionName":"HS—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/HSP_EN_HGSS05.png"},{"number":"91","name":"부우부","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/BW9_EN_91.png"},{"number":"66","name":"부우부","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/HGSS1_EN_66.png"},{"number":"59","name":"부우부","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/EX10_EN_59.png"},{"number":"85","name":"부우부","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/163/DP1_EN_85.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/163.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"}
+,{"level":3,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":6,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"}
+,{"level":9,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":12,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":15,"category":"변화","move":"사이코시프트","type":"Psychic","power":"—","accuracy":"100"}
+,{"level":18,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}
+,{"level":21,"category":"특수","move":"신통력","type":"Psychic","power":"80","accuracy":"100"}
+,{"level":24,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":27,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}
+,{"level":30,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}
+,{"level":33,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"}
+,{"level":36,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
+,{"level":39,"category":"특수","move":"꿈먹기","type":"Psychic","power":"100","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":44,"category":"변화","move":"봉인","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":36,"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":49,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워","type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":89,"category":"특수","move":"폭풍","type":"Flying","power":"110","accuracy":"70"}]
+,"egg":[{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"변화","move":"깃털댄스","type":"Flying","power":"—","accuracy":"100"}
+,{"category":"특수","move":"나이트헤드","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat","type":"Flying","power":"40","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

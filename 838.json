@@ -1,0 +1,63 @@
+{"number":"838","name":"탄차곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/838.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/838.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/838/838_main.png"},"types":["Rock","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
+"descriptions":["다리를 고속으로 회전시켜 시속 30km로 달립니다. 섭씨 1000도의 불꽃을 내뿜습니다.","체내에서 석탄을 만들어 냅니다. 과거의 가라르에서는 떨어뜨린 석탄을 생활에 이용했습니다."],
+"specie":"석탄","height":"78.0 kg (172.0 lbs)","weight":"1.1 m (3′07″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"144",
+"growthRate":"중간 느림"},"abilities":[{"name":"불꽃몸","description":"접촉한 상대에게 화상을 입힐 때가 있다."},{"name":"증기기관","description":"Boosts the Pokémon's Speed stat drastically if hit by a Fire- or Water-type move."}],"typesEffectiveness":{"Normal":"½","Fire":"0","Water":"4","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"½","Ground":"4","Flying":"½","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"837","name":"탄동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/837.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/837.png","type":"FIRST"},{"number":"838","name":"탄차곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/838.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/838.png","type":"MIDDLE","requirement":"Level 18"},{"number":"839","name":"석탄산","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/839.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/839.png","type":"LAST","requirement":"Level 34"}],"previousEvolutions":[{"number":"837","name":"탄동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/837.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/837.png"
+,"type":"FIRST"}],"nextEvolutions":[{"number":"839","name":"석탄산","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/839.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/839.png"
+,"type":"LAST",
+"requirement":"Level 34"}],"superEvolutions":[],"baseStats":{"hp":80,"attack":60,"defense":90,"spAtk":60,"spDef":70,"speed":50,"total":410},"cards":[{"number":"79","name":"탄차곤","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH5_EN_79.png"},{"number":"SV068","name":"탄차곤","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH45_EN_SV068.png"},{"number":"106","name":"탄차곤","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/838/SWSH2_EN_106.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/838.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":1,"category":"물리","move":"떨어뜨리기","type":"Rock","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":15,"category":"변화","move":"록커트","type":"Rock","power":"—","accuracy":"—"},{"level":20,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"},{"level":27,"category":"특수","move":"불태우기","type":"Fire","power":"60","accuracy":"100"},{"level":35,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":41,"category":"물리","move":"히트스탬프","type":"Fire","power":"—","accuracy":"100"},{"level":48,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"},{"level":55,"category":"특수","move":"불사르기","type":"Fire","power":"130","accuracy":"100"}],"technicalMachine":[{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"},{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사"
+,"type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":15,"category":"특수","move":"불대문자"
+,"type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기"
+,"type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":43,"category":"특수","move":"오버히트"
+,"type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":55,"category":"물리","move":"플레어드라이브"
+,"type":"Fire","power":"120","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":88,"category":"물리","move":"히트스탬프"
+,"type":"Fire","power":"—","accuracy":"100"},
+{"technicalRecord":94,"category":"물리","move":"10만마력"
+,"type":"Ground","power":"95","accuracy":"95"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
+,"type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"블록"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"대폭발"
+,"type":"Normal","power":"250","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기"
+,"type":"Ground","power":"20","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"Meteor Beam"
+,"type":"Rock","power":"120","accuracy":"90"}
+,{"category":"특수","move":"열사의대지"
+,"type":"Ground","power":"70","accuracy":"100"}]
+,"evolution":[{"category":"물리","move":"니트로차지"
+,"type":"Fire","power":"50","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

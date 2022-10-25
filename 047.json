@@ -1,0 +1,41 @@
+{"number":"047","name":"파라섹트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/047.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/047.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/047/047_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/047/047_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/047/047_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/047/047_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/047/047_back_shiny_animated.gif"},"types":["Bug","식물"],"weaknesses":["Fire","Flying","Ice","Poison","Rock","Bug"],
+"descriptions":["벌레 숙주는 등에 있는 버섯에 의해 에너지가 고갈됩니다. 버섯이 모든 생각을 하는 것처럼 보입니다."],
+"specie":"버섯","height":"29.5 kg (65.0 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"egg":{"groups":["벌레","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 공격, 1 방어","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"142",
+"growthRate":"중간 빠름"},"abilities":[{"name":"포자","description":"스치면 독, 마비, 잠듦 상태가 될 때가 있다."},{"name":"건조피부","description":"Restores HP in rain or when hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."}],"typesEffectiveness":{"Normal":"1","Fire":"4","Water":"½","Electric":"½","Grass":"¼","Ice":"2","Fighting":"½","Poison":"2","Ground":"¼","Flying":"4","Psychic":"1","Bug":"2","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"046","name":"파라스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/046.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/046.png","type":"FIRST"},{"number":"047","name":"파라섹트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/047.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/047.png","type":"LAST",
+"requirement":"Level 24"}],"previousEvolutions":[{"number":"046","name":"파라스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/046.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/046.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":95,"defense":80,"spAtk":60,"spDef":80,"speed":30,"total":405},"cards":[{"number":"4","name":"파라섹트","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SWSH3_EN_4.png"},{"number":"7","name":"파라섹트","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SM9_EN_7.png"},{"number":"5","name":"파라섹트","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/SM1_EN_5.png"},{"number":"7","name":"파라섹트","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/G1_EN_7.png"},{"number":"2","name":"파라섹트","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/XY8_EN_2.png"},{"number":"48","name":"파라섹트","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/HGSS1_EN_48.png"},{"number":"43","name":"파라섹트","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/EX6_EN_43.png"},{"number":"58","name":"파라섹트","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/DP2_EN_58.png"},{"number":"38","name":"파라섹트","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/047/PL3_EN_38.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/047.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"}
+,{"level":1,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":1,"category":"변화","move":"수면가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":1,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":2,"category":"변화","move":"수면가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":4,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":6,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":9,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":12,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"}
+,{"level":15,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":19,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":23,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
+,{"level":33,"category":"변화","move":"버섯포자","type":"Grass","power":"—","accuracy":"100"}
+,{"level":43,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":13,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":24,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":45,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":52,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

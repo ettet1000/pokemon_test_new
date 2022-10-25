@@ -1,0 +1,66 @@
+{"number":"793","name":"텅비드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/793.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/793.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/793/793_main.png"},"types":["Rock","Poison"],"weaknesses":["Steel","Water","Psychic","Ground"],
+"descriptions":["울트라홀을 통해 이 세계에 나타났습니다. 포켓몬이나 인간에게 기생해서 사는 듯합니다.","UB라고 불리는 다른 세계의 생명체입니다. 강한 신경독을 갖고 있을 것으로 추정됩니다."],
+"specie":"기생","height":"55.5 kg (122.4 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"257",
+"growthRate":"느린"},"abilities":[{"name":"비스트부스트","description":"The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."}],"typesEffectiveness":{"Normal":"½","Fire":"½","Water":"2","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"¼","Ground":"4","Flying":"½","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"½"},"evolutionChain":[{"number":"793","name":"텅비드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/793.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/793.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":109,"attack":53,"defense":47,"spAtk":127,"spDef":131,"speed":103,"total":570},"cards":[{"number":"SV62","name":"텅비드-GX","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/793/SMA_EN_SV62.png"},{"number":"106","name":"텅비드","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/793/SM8_EN_106.png"},{"number":"103","name":"텅비드-GX","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/793/SM4_EN_103.png"},{"number":"114","name":"텅비드-GX","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/793/SM4_EN_114.png"},{"number":"49","name":"텅비드-GX","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/793/SM4_EN_49.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/793.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"},{"level":5,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":10,"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"},{"level":15,"category":"특수","move":"애시드봄","type":"Poison","power":"40","accuracy":"100"},{"level":20,"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"},{"level":25,"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"},{"level":25,"category":"변화","move":"파워셰어","type":"Psychic","power":"—","accuracy":"—"},{"level":30,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"},{"level":35,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":40,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},{"level":45,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"},{"level":50,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"},{"level":55,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":60,"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"},{"level":65,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"},{"level":70,"category":"물리","move":"양날박치기","type":"Rock","power":"150","accuracy":"80"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":71,"category":"변화","move":"원더룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌"
+,"type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크"
+,"type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크"
+,"type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":63,"category":"특수","move":"파워젬"
+,"type":"Rock","power":"80","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":81,"category":"물리","move":"속임수"
+,"type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

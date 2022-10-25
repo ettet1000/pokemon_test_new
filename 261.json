@@ -1,0 +1,73 @@
+{"number":"261","name":"포챠나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/261.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/261.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/261/261_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/261/261_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/261/261_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/261/261_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/261/261_back_shiny_animated.gif"},"types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
+"descriptions":["포챠나는 잡식성으로 무엇이든 잘 먹습니다. 구별되는 특징은 몸에 비해 송곳니가 얼마나 큰지입니다. 꼬리털을 흩날리며 위협하는 포켓몬입니다.","포챠나는 움직이는 것은 무엇이든 물어뜯습니다. 희생자가 지칠 때까지 먹이를 쫓는 포켓몬입니다. 그러나 먹이가 반격하면 꼬리를 돌릴 수 있습니다."],
+"specie":"물어뜯기","height":"13.6 kg (30.0 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"56",
+"growthRate":"중간 빠름"},"abilities":[{"name":"도주","description":"야생 포켓몬으로부터 반드시 도망칠 수 있다."},{"name":"속보","description":"Boosts the Speed stat if the Pokémon has a status condition."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"0","Bug":"2","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"261","name":"포챠나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/261.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/261.png","type":"FIRST"},{"number":"262","name":"그라에나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/262.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/262.png","type":"LAST",
+"requirement":"Level 18"}],"previousEvolutions":[],"nextEvolutions":[{"number":"262","name":"그라에나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/262.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/262.png","type":"LAST",
+"requirement":"Level 18"}],"superEvolutions":[],"baseStats":{"hp":35,"attack":55,"defense":35,"spAtk":30,"spDef":30,"speed":35,"total":220},"cards":[{"number":"103","name":"포챠나","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/SWSH4_EN_103.png"},{"number":"86","name":"포챠나","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/SM9_EN_86.png"},{"number":"16","name":"Team Aqua's 포챠나","expansionName":"Double Crisis","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/DC1_EN_16.png"},{"number":"17","name":"Team Magma's 포챠나","expansionName":"Double Crisis","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/DC1_EN_17.png"},{"number":"53","name":"포챠나","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/XY4_EN_53.png"},{"number":"16","name":"포챠나","expansionName":"XY—Kalos Starter Set","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/XY0_EN_16.png"},{"number":"63","name":"포챠나","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/EX1_EN_63.png"},{"number":"70","name":"포챠나","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/EX8_EN_70.png"},{"number":"64","name":"포챠나","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/EX1_EN_64.png"},{"number":"79","name":"포챠나","expansionName":"EX Delta Species","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/261/EX11_EN_79.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/261.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
+,{"level":7,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":10,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":13,"category":"변화","move":"냄새구별","type":"Normal","power":"—","accuracy":"—"}
+,{"level":16,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":19,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"level":22,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":25,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":28,"category":"변화","move":"금제","type":"Dark","power":"—","accuracy":"100"}
+,{"level":31,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"level":34,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":37,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}
+,{"level":40,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":43,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}
+,{"level":46,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":30,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":41,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":63,"category":"변화","move":"금제","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":66,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":95,"category":"특수","move":"바크아웃","type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":97,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"}
+,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"선취","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}
+,{"category":"물리","move":"독엄니","type":"Poison","power":"50","accuracy":"100"}
+,{"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"가로챔","type":"Dark","power":"—","accuracy":"—"}
+,{"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}
+,{"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"변화","move":"가로챔","type":"Dark","power":"—","accuracy":"—"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"원한","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"물리","move":"분노의앞니","type":"Normal","power":"—","accuracy":"90"}
+,{"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

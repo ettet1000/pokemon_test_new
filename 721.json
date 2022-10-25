@@ -1,0 +1,77 @@
+{"number":"721","name":"볼케니온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/721.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/721.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/721/721_main.png"},"types":["Fire","Water"],"weaknesses":["Ground","Electric","Rock"],
+"descriptions":["등의 팔에서 내부의 증기를 배출합니다. 산을 날려 버릴 정도의 위력을 가지고 있습니다.","자욱한 김을 내뿜으며 짙은 안개 속으로 사라집니다. 사람이 밟지 않는 산에 산다고 합니다."],
+"specie":"스팀","height":"195.0 kg (429.9 lbs)","weight":"1.7 m (5′07″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 특수공격","catchRate":"3 (0.4% 포켓볼과 함께,풀 HP)","baseFriendship":"100 (보통보다 높음)","baseExp":"270",
+"growthRate":"느린"},"abilities":[{"name":"저수","description":"물을 받으면 회복한다."}],"typesEffectiveness":{"Normal":"1","Fire":"¼","Water":"0","Electric":"2","Grass":"1","Ice":"¼","Fighting":"1","Poison":"1","Ground":"2","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"¼","Fairy":"½"},"evolutionChain":[{"number":"721","name":"볼케니온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/721.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/721.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":80,"attack":110,"defense":120,"spAtk":130,"spDef":90,"speed":70,"total":600},"cards":[{"number":"162","name":"볼케니온 V","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SWSH6_EN_162.png"},{"number":"25","name":"볼케니온 V","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SWSH6_EN_25.png"},{"number":"25","name":"볼케니온","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SWSH45_EN_25.png"},{"number":"25","name":"볼케니온","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SM10_EN_25.png"},{"number":"31","name":"볼케니온 ◇","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SM6_EN_31.png"},{"number":"27","name":"Shining 볼케니온","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SM35_EN_27.png"},{"number":"SM179","name":"볼케니온","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/SMP_EN_SM179.png"},{"number":"107","name":"볼케니온-EX","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/XY11_EN_107.png"},{"number":"25","name":"볼케니온","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/XY11_EN_25.png"},{"number":"26","name":"볼케니온-EX","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/721/XY11_EN_26.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/721.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":6,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":12,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"},{"level":18,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"},{"level":24,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":30,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":36,"category":"특수","move":"불태우기","type":"Fire","power":"60","accuracy":"100"},{"level":42,"category":"물리","move":"짓밟기","type":"Normal","power":"65","accuracy":"100"},{"level":48,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},{"level":54,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"},{"level":60,"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"},{"level":60,"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"},{"level":66,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},{"level":72,"category":"특수","move":"Steam Eruption","type":"Water","power":"110","accuracy":"95"},{"level":78,"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"},{"level":84,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"},{"level":90,"category":"물리","move":"대폭발","type":"Normal","power":"250","accuracy":"100"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼"
+,"type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏"
+,"type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":66,"category":"물리","move":"번개엄니"
+,"type":"Electric","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":89,"category":"변화","move":"미스트필드"
+,"type":"Fairy","power":"—","accuracy":"—"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기"
+,"type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":2,"category":"특수","move":"화염방사"
+,"type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프"
+,"type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":10,"category":"물리","move":"지진"
+,"type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":13,"category":"변화","move":"기충전"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":15,"category":"특수","move":"불대문자"
+,"type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":43,"category":"특수","move":"오버히트"
+,"type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":55,"category":"물리","move":"플레어드라이브"
+,"type":"Fire","power":"120","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘"
+,"type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":88,"category":"물리","move":"히트스탬프"
+,"type":"Fire","power":"—","accuracy":"100"},
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크"
+,"type":"Water","power":"85","accuracy":"100"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
+,"type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

@@ -1,0 +1,68 @@
+{"number":"213","name":"단단지","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/213.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/213.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/213/213_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/213/213_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/213/213_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/213/213_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/213/213_back_shiny_animated.gif"},"types":["Bug","Rock"],"weaknesses":["Steel","Water","Rock"],
+"descriptions":["꽃병 같은 껍질에 보관된 열매는 결국 걸쭉하고 과육이 풍부한 과즙이 됩니다.","껍질 안에 열매를 저장합니다. 공격을 피하기 위해 바위 아래에 숨어 완전히 움직이지 않습니다."],
+"specie":"발효","height":"20.5 kg (45.2 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어, 1 특수방어","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"177",
+"growthRate":"중간 느림"},"abilities":[{"name":"옹골참","description":"일격으로 쓰러지지 않는다."},{"name":"먹보","description":"Makes the Pokémon eat a held Berry when its HP drops to half or less, which is sooner than usual."}],"typesEffectiveness":{"Normal":"½","Fire":"1","Water":"2","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"213","name":"단단지","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/213.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/213.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":20,"attack":10,"defense":230,"spAtk":10,"spDef":230,"speed":5,"total":505},"cards":[{"number":"85","name":"단단지","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SWSH4_EN_85.png"},{"number":"5","name":"단단지","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SWSH2_EN_5.png"},{"number":"17","name":"단단지-GX","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SM8_EN_17.png"},{"number":"195","name":"단단지-GX","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SM8_EN_195.png"},{"number":"215","name":"단단지-GX","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SM8_EN_215.png"},{"number":"16","name":"단단지","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/SM8_EN_16.png"},{"number":"1","name":"단단지","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/XY10_EN_1.png"},{"number":"HGSS15","name":"단단지","expansionName":"HS—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/HSP_EN_HGSS15.png"},{"number":"3","name":"단단지","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/BW11_EN_3.png"},{"number":"11","name":"단단지","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/213/HGSS1_EN_11.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/213.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"껍질에숨기","type":"Water","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"}
+,{"level":5,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
+,{"level":10,"category":"특수","move":"벌레의저항","type":"Bug","power":"50","accuracy":"100"}
+,{"level":15,"category":"물리","move":"돌떨구기","type":"Rock","power":"50","accuracy":"90"}
+,{"level":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"level":25,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":30,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"level":35,"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":35,"category":"변화","move":"파워셰어","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":40,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"level":45,"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"}
+,{"level":50,"category":"변화","move":"끈적끈적네트","type":"Bug","power":"—","accuracy":"—"}
+,{"level":55,"category":"변화","move":"파워트릭","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":60,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}
+,{"level":65,"category":"변화","move":"껍질깨기","type":"Normal","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"}
+,{"category":"변화","move":"경혈찌르기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"}
+,{"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}]
+,"tutor":[{"category":"특수","move":"Meteor Beam","type":"Rock","power":"120","accuracy":"90"}
+,{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}
+,{"category":"물리","move":"아이언롤러","type":"Steel","power":"130","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

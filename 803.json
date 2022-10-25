@@ -1,0 +1,48 @@
+{"number":"803","name":"베베놈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/803.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/803.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/803/803_main.png"},"types":["Poison"],"weaknesses":["Psychic","Ground"],
+"descriptions":["다른 세계에 사는 울트라비스트. 머리의 독침에서 나온 독액을 상대에게 끼얹고 깔깔 웃습니다.","다른 세계에서는 여행 파트너로 삼을 정도로 친근한 울트라비스트입니다."],
+"specie":"독침","height":"1.8 kg (4.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"1 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"189",
+"growthRate":"느린"},"abilities":[{"name":"비스트부스트","description":"The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"803","name":"베베놈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/803.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/803.png","type":"FIRST"},{"number":"804","name":"아고용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/804.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/804.png","type":"LAST","requirement":"용의파동을 배운 뒤"}],"previousEvolutions":[],"nextEvolutions":[{"number":"804","name":"아고용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/804.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/804.png"
+,"type":"LAST",
+"requirement":"용의파동을 배운 뒤"}],"superEvolutions":[],"baseStats":{"hp":67,"attack":73,"defense":67,"spAtk":73,"spDef":67,"speed":73,"total":420},"cards":[{"number":"SV19","name":"베베놈","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/803/SMA_EN_SV19.png"},{"number":"102","name":"베베놈","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/803/SM11_EN_102.png"},{"number":"107","name":"베베놈","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/803/SM8_EN_107.png"},{"number":"55","name":"베베놈","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/803/SM6_EN_55.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/803.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":7,"category":"물리","move":"마구찌르기","type":"Normal","power":"15","accuracy":"85"},{"level":14,"category":"물리","move":"마지막일침","type":"Bug","power":"50","accuracy":"100"},{"level":21,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"level":28,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"},{"level":35,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"},{"level":42,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":49,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},{"level":56,"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"},{"level":63,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}],"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":29,"category":"변화","move":"애교부리기"
+,"type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크"
+,"type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩"
+,"type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

@@ -1,0 +1,47 @@
+{"number":"489","name":"피오네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/489.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/489.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/489/489_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/489/489_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/489/489_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/489/489_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/489/489_back_shiny_animated.gif"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["그것은 따뜻한 바다에서 표류합니다. 아무리 멀리 표류해도 항상 태어난 곳으로 돌아갑니다.", "물이 따뜻해지면 머리에 있는 부양 주머니를 부풀려 떼를 지어 바다 위를 나른하게 떠돌아다닙니다."],
+"specie":"해양","height":"3.1 kg (6.8 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["요정","수중1"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"1 HP","catchRate":"30 (3.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"216",
+"growthRate":"느린"},"abilities":[{"name":"촉촉바디","description":"Heals status conditions if it's raining."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"489","name":"피오네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/489.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/489.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":80,"attack":80,"defense":80,"spAtk":80,"spDef":80,"speed":80,"total":480},"cards":[{"number":"57","name":"피오네","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/SM12_EN_57.png"},{"number":"30","name":"피오네","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/SM75_EN_30.png"},{"number":"SM220","name":"피오네","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/SMP_EN_SM220.png"},{"number":"36","name":"피오네","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/BW11_EN_36.png"},{"number":"12","name":"피오네","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/DP5_EN_12.png"},{"number":"27","name":"피오네","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/489/DP5_EN_27.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/489.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"거품","type":"Water","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"물놀이","type":"Water","power":"—","accuracy":"—"}
+,{"level":9,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"level":16,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":24,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":31,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"}
+,{"level":39,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"level":46,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"level":54,"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"}
+,{"level":61,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"level":69,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":7,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":13,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"}
+,{"technicalMachine":14,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":77,"category":"변화","move":"자기암시","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":89,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":94,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":99,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

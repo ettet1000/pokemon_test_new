@@ -1,0 +1,75 @@
+{"number":"141","name":"투구푸스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/141.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/141.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/141/141_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/141/141_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/141/141_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/141/141_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/141/141_back_shiny_animated.gif"},"types":["Rock","Water"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+"descriptions":["이 종의 멸종 원인은 알려져 있지 않습니다. 투구푸스는 따뜻한 바다에 서식하는 공격적인 포켓몬이었습니다.","투구푸스는 먹이를 쪼개어 체액을 빨아들입니다. 버려진 신체 부위는 다른 포켓몬의 먹이가 됩니다."],
+"specie":"껍질","height":"40.5 kg (89.3 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"egg":{"groups":["수중1","수중3"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"2 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"173",
+"growthRate":"중간 빠름"},"abilities":[{"name":"쓱쓱","description":"비가 올 때 스피드가 올라간다."},{"name":"전투무장","description":"상대의 공격이 급소에 맞지 않는다."}],"typesEffectiveness":{"Normal":"½","Fire":"¼","Water":"1","Electric":"2","Grass":"4","Ice":"½","Fighting":"2","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"140","name":"투구","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/140.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/140.png","type":"FIRST"},{"number":"141","name":"투구푸스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/141.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/141.png","type":"LAST",
+"requirement":"Level 40"}],"previousEvolutions":[{"number":"140","name":"투구","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/140.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/140.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":115,"defense":105,"spAtk":65,"spDef":70,"speed":80,"total":495},"cards":[{"number":"78","name":"투구푸스","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/SM9_EN_78.png"},{"number":"39","name":"투구푸스","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/XY10_EN_39.png"},{"number":"97","name":"투구푸스 ex","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/EX2_EN_97.png"},{"number":"7","name":"투구푸스","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/EX12_EN_7.png"},{"number":"9","name":"투구푸스 δ","expansionName":"EX Holon Phantoms","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/EX13_EN_9.png"},{"number":"10","name":"투구푸스","expansionName":"EX Power Keepers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/EX16_EN_10.png"},{"number":"6","name":"투구푸스","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/DP5_EN_6.png"},{"number":"4","name":"투구푸스","expansionName":"Platinum 아르세우스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/141/PL4_EN_4.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/141.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":1,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
+,{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
+,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":15,"category":"물리","move":"아쿠아제트","type":"Water","power":"40","accuracy":"100"}
+,{"level":20,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":25,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"level":30,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
+,{"level":35,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"level":43,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"level":49,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
+,{"level":56,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"}
+,{"level":63,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"}
+,{"level":70,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터","type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":83,"category":"물리","move":"셸블레이드","type":"Water","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":18,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_I"}

@@ -1,0 +1,212 @@
+{"number":"902",
+"name":"대쓰여너",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_main.png"},
+"types":["Water","Ghost"],"weaknesses":["Ghost","Grass","Electric","Dark"],
+"descriptions":["물길을 거슬러 오르는 여정에서 뜻을 이루지 못하고 죽은 동료들의 혼을 두르고 있습니다. 히스이에 흐르는 하천에서는 대적할 자가 없습니다."],
+"specie":"큰물고기","height":"110.0 kg (242.5 lbs)","weight":"3.0 m (9′10″)","breeding":{
+"egg":{"groups":["수중2"],"cycle":"미확인"},"genders":[{"type":"MALE","percentage":"50%"},
+{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 HP","catchRate":"135","baseFriendship":"","baseExp":"",
+"growthRate":"중간 빠름"},"abilities":[{"name":"주눅",
+"description":"명중률이 떨어지지 않는다."},{"name":"적응력",
+"description":"Raises evasiveness if the Pokémon is confused."}],
+"typesEffectiveness":{"Normal":"","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"","Poison":"½"
+,"Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"1"},
+"evolutionChain":[
+{"number":"550","name":"배쓰나이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png","type":"FIRST"},
+{"number":"902","name":"대쓰여너","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/902_thumb.png","type":"LAST"
+,"requirement":"누적 반동 데미지 294 이상에서 레벨업"}
+],
+"previousEvolutions":[
+{"number":"550","name":"배쓰나이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/550.png","type":"FIRST"}],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":120,"attack":112,"defense":65,"spAtk":80,"spDef":75,"speed":78,"total":530},
+"cards":[{"number":"45","name":"대쓰여너","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_45.png"},
+{"number":"44","name":"대쓰여너","expansionName":"소드&실드 강화 확장팩 「배틀리전」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_44.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/902 Basculegion.ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"몸통박치기",
+        "type":"Normal",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 6,
+        "move":"아쿠아제트",
+        "type":"Water",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"물기",
+        "type":"Dark",
+        "category":"물리",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"병상첨병",
+        "type":"Ghost",
+        "category":"특수",
+        "power":"65",
+        "accuracy":"100"
+     },
+     {
+        "level": 18,
+        "move":"사념의박치기",
+        "type":"Psychic",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"90"
+     },
+     {
+        "level": 25,
+        "move":"깨물어부수기",
+        "type":"Dark",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 25,
+        "move":"섀도볼",
+        "type":"Ghost",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 34,
+        "move":"웨이브태클",
+        "type":"Water",
+        "category":"물리",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "level": 43,
+        "move":"이판사판태클",
+        "type":"Normal",
+        "category":"물리",
+        "power":"100",
+        "accuracy":"100"
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"아쿠아테일",
+        "type":"Water",
+        "category":"물리",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"명상",
+        "type":"Psychic",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"기가임팩트",
+        "type":"Normal",
+        "category":"물리",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"파괴광선",
+        "type":"Normal",
+        "category":"특수",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"냉동빔",
+        "type":"Ice",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"얼음엄니",
+        "type":"Ice",
+        "category":"물리",
+        "power":"65",
+        "accuracy":"95"
+     },
+     {
+        "move":"얼다바람",
+        "type":"Ice",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "move":"괴상한바람",
+        "type":"Ghost",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "move":"사이코키네시스",
+        "type":"Psychic",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"잠자기",
+        "type":"Psychic",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"섀도볼",
+        "type":"Ghost",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"스피드스타",
+        "type":"Normal",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"물의파동",
+        "type":"Water",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"사념의박치기",
+        "type":"Psychic",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"90"
+     }  
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

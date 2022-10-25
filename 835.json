@@ -1,0 +1,52 @@
+{"number":"835","name":"멍파치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/835.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/835.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/835/835_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["간식에 끌려 사람의 일을 돕는 먹보입니다. 탁탁 튀는 전기를 두르고 계속 달립니다.","달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 냅니다. 가라르에서는 양치기로 인기가 많습니다."],
+"specie":"강아지","height":"13.5 kg (29.8 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"54",
+"growthRate":"빠름"},"abilities":[{"name":"볼줍기","description":"If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"835","name":"멍파치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/835.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/835.png","type":"FIRST"},{"number":"836","name":"펄스멍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/836.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/836.png","type":"LAST","requirement":"Level 25"}],"previousEvolutions":[],"nextEvolutions":[{"number":"836","name":"펄스멍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/836.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/836.png"
+,"type":"LAST",
+"requirement":"Level 25"}],"superEvolutions":[],"baseStats":{"hp":59,"attack":45,"defense":50,"spAtk":40,"spDef":50,"speed":26,"total":270},"cards":[{"number":"52","name":"멍파치","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/835/SWSH5_EN_52.png"},{"number":"SV039","name":"멍파치","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/835/SWSH45_EN_SV039.png"},{"number":"73","name":"멍파치","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/835/SWSH1_EN_73.png"},{"number":"74","name":"멍파치","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/835/SWSH1_EN_74.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/835.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":5,"category":"물리","move":"볼부비부비","type":"Electric","power":"20","accuracy":"100"},{"level":10,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":15,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"},{"level":26,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"level":30,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":35,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},{"level":45,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}],"technicalMachine":[{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":66,"category":"물리","move":"번개엄니"
+,"type":"Electric","power":"65","accuracy":"95"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니"
+,"type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지"
+,"type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
+,"type":"Dark","power":"55","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":80,"category":"특수","move":"일렉트릭볼"
+,"type":"Electric","power":"—","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"}]
+,"egg":[{"category":"특수","move":"방전"
+,"type":"Electric","power":"80","accuracy":"100"}
+,{"category":"물리","move":"이판사판태클"
+,"type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"니트로차지"
+,"type":"Fire","power":"50","accuracy":"100"}
+,{"category":"변화","move":"멀리짖음"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"모래뿌리기"
+,"type":"Ground","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"라이징볼트"
+,"type":"Electric","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

@@ -1,0 +1,67 @@
+{"number":"125","name":"에레브","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/125.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/125.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/125/125_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/125/125_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/125/125_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/125/125_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/125/125_back_shiny_animated.gif"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["폭풍우가 몰아치면 많은 포켓몬들이 키 큰 나무 아래에 모여 앉아 번개가 칠 때까지 기다리게 됩니다.","많은 발전소가 전기를 찾아 오는 에레브에 대한 방어 수단으로 땅타입 포켓몬을 주변에 두게 됩니다."],
+"specie":"전기","height":"30.0 kg (66.1 lbs)","weight":"1.1 m (3′07″)","breeding":{
+"egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
+"training":{"evYield":"2 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"172",
+"growthRate":"중간 빠름"},"abilities":[{"name":"정전기","description":"접촉한 상대를 마비시킬 때가 있다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"239","name":"에레키드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/239.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/239.png","type":"FIRST"},{"number":"125","name":"에레브","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/125.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/125.png","type":"MIDDLE",
+"requirement":"Level 30"},{"number":"466","name":"에레키블","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/466.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/466.png","type":"LAST",
+"requirement":"에레키부스터를 지니게 한 뒤 통신교환"}],"previousEvolutions":[{"number":"239","name":"에레키드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/239.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/239.png","type":"FIRST"}],
+"nextEvolutions":[{"number":"466","name":"에레키블","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/466.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/466.png","type":"LAST",
+"requirement":"에레키부스터를 지니게 한 뒤 통신교환"}],"superEvolutions":[],"baseStats":{"hp":65,"attack":83,"defense":57,"spAtk":95,"spDef":85,"speed":105,"total":490},"cards":[{"number":"44","name":"에레브","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/SWSH5_EN_44.png"},{"number":"58","name":"에레브","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/SWSH2_EN_58.png"},{"number":"71","name":"에레브","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/SM8_EN_71.png"},{"number":"43","name":"에레브","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/SM5_EN_43.png"},{"number":"42","name":"에레브","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/SM3_EN_42.png"},{"number":"41","name":"에레브","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/XY12_EN_41.png"},{"number":"42","name":"에레브","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/XY9_EN_42.png"},{"number":"29","name":"에레브","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/XY3_EN_29.png"},{"number":"53","name":"에레브","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/BW7_EN_53.png"},{"number":"33","name":"에레브","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/125/HGSS4_EN_33.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/125.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":12,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"level":16,"category":"특수","move":"전격파","type":"Electric","power":"60","accuracy":"∞"}
+,{"level":20,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":28,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"level":34,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}
+,{"level":40,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":46,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"level":52,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":58,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}
+,{"level":64,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":75,"category":"물리","move":"로킥","type":"Fighting","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":80,"category":"특수","move":"일렉트릭볼","type":"Electric","power":"—","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

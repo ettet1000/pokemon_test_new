@@ -1,0 +1,32 @@
+{"number":"079","name":"야돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/079.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/079.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/079/079_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/079/079_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/079/079_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/079/079_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/079/079_back_shiny_animated.gif"},"types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
+"descriptions":["이 포켓몬의 꼬리는 물에 담그면 단맛이 납니다. 야돈은 이 특성으로 다른 포켓몬을 유인하고 낚습니다. 꼬리가 다시 자라도 눈치채지 못합니다."],
+"specie":"얼간이","height":"36.0 kg (79.4 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"63",
+"growthRate":"중간 빠름"},"abilities":[{"name":"둔감","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"마이페이스","description":"혼란 상태가 되지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"079","name":"야돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/079.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/079.png","type":"FIRST"},{"number":"080","name":"야도란","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/080.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/080.png","type":"LAST",
+"requirement":"Level 37"},{"number":"199","name":"야도킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/199.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/199.png","type":"LAST",
+"requirement":"왕의징표석을 지니게 한 뒤 통신교환"}],"previousEvolutions":[],
+"nextEvolutions":[{"number":"080","name":"야도란","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/080.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/080.png","type":"LAST",
+"requirement":"Level 37"},{"number":"199","name":"야도킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/199.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/199.png","type":"LAST",
+"requirement":"왕의징표석을 지니게 한 뒤 통신교환"}],"superEvolutions":[],"baseStats":{"hp":90,"attack":65,"defense":65,"spAtk":40,"spDef":40,"speed":15,"total":315},"cards":[{"number":"54","name":"Galarian 야돈","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SWSH6_EN_54.png"},{"number":"54","name":"Galarian 야돈","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SWSH5_EN_54.png"},{"number":"12","name":"야돈","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM115_EN_12.png"},{"number":"217","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM11_EN_217.png"},{"number":"218","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM11_EN_218.png"},{"number":"239","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM11_EN_239.png"},{"number":"35","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM11_EN_35.png"},{"number":"42","name":"야돈","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM10_EN_42.png"},{"number":"54","name":"야돈","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM8_EN_54.png"},{"number":"48","name":"야돈","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/079/SM2_EN_48.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/079.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":3,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":6,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":9,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":15,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":18,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"level":21,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":24,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"}
+,{"level":27,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":30,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"level":33,"category":"변화","move":"태만함","type":"Normal","power":"—","accuracy":"—"}
+,{"level":36,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"level":39,"category":"변화","move":"자기암시","type":"Normal","power":"—","accuracy":"—"}
+,{"level":42,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"level":45,"category":"변화","move":"치유파동","type":"Psychic","power":"—","accuracy":"—"}],"technicalMachine":[],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

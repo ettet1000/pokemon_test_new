@@ -1,0 +1,63 @@
+{"number":"298","name":"루리리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/298.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/298.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/298/298_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/298/298_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/298/298_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/298/298_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/298/298_back_shiny_animated.gif"},"types":["Normal","Fairy"],"weaknesses":["Steel","Poison"],
+"descriptions":["루리리는 원래 온순하지만 화난 놈은 꼬리에 달린 큰 공을 휘두르며 상대를 부수려고 합니다.","루리의 꼬리에 달린 공은 고무공처럼 튕겨져 나와 포켓몬의 영양분이 가득합니다."],
+"specie":"물방울","height":"2.0 kg (4.4 lbs)","weight":"0.2 m (0′08″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},
+"training":{"evYield":"1 HP","catchRate":"150 (19.6% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"38",
+"growthRate":"빠름"},"abilities":[{"name":"두꺼운지방","description":"불꽃과 얼음타입의 기술에 강하다."},{"name":"천하장사","description":"물리공격의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"0","Ice":"1","Fighting":"1","Poison":"2","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"0","Dragon":"0","Dark":"½","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"298","name":"루리리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/298.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/298.png","type":"FIRST"},{"number":"183","name":"마릴","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/183.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/183.png","type":"MIDDLE",
+"requirement":"친밀도가 220 이상일 때"},{"number":"184","name":"마릴리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/184.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/184.png","type":"LAST",
+"requirement":"Level 18"}],"previousEvolutions":[],"nextEvolutions":[{"number":"183","name":"마릴","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/183.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/183.png","type":"MIDDLE",
+"requirement":"친밀도가 220 이상일 때"},{"number":"184","name":"마릴리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/184.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/184.png","type":"LAST",
+"requirement":"Level 18"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":20,"defense":40,"spAtk":20,"spDef":40,"speed":20,"total":190},"cards":[{"number":"146","name":"루리리","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/298/SM12_EN_146.png"},{"number":"31","name":"루리리","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/298/EX2_EN_31.png"},{"number":"20","name":"루리리","expansionName":"EX Delta Species","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/298/EX11_EN_20.png"},{"number":"69","name":"루리리","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/298/DP1_EN_69.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/298.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"튀어오르기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":3,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":6,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":9,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"level":12,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}
+,{"level":15,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}]
+,"technicalMachine":[{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"물리","move":"아쿠아제트","type":"Water","power":"40","accuracy":"100"}
+,{"category":"변화","move":"배북","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"멸망의노래","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
+,{"category":"변화","move":"노래하기","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"변화","move":"물붓기","type":"Water","power":"—","accuracy":"100"}
+,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

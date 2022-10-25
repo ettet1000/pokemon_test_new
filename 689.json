@@ -1,0 +1,87 @@
+{"number":"689","name":"거북손데스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/689.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/689.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/689/689_main.png"},"types":["Rock","Water"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+"descriptions":["각 손바닥에 눈이 있으면 모든 방향에서 시계를 유지할 수 있습니다. 꼬집어, 적의 패배를 확실히 하기 위해 사지가 스스로 행동하기 시작합니다.", "일곱 거북손손이 모여 하나의 거북손데스를 이룹니다. 손과 발에도 뇌가 있어 멋대로 움직일 수 있지만 보통은 머리인 거북손데스의 명령에 따릅니다."],
+"specie":"집합","height":"96.0 kg (211.6 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"175",
+"growthRate":"중간 빠름"},"abilities":[{"name":"스나이퍼","description":"Powers up moves if they become critical hits when attacking."},{"name":"단단한발톱","description":"Powers up moves that make direct contact."}],"typesEffectiveness":{"Normal":"½","Fire":"¼","Water":"1","Electric":"2","Grass":"4","Ice":"½","Fighting":"2","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"688","name":"거북손손","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/688.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/688.png","type":"FIRST"},{"number":"689","name":"거북손데스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/689.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/689.png","type":"LAST","requirement":"Level 39"}],"previousEvolutions":[{"number":"688","name":"거북손손","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/688.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/688.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":72,"attack":105,"defense":115,"spAtk":54,"spDef":86,"speed":68,"total":500},"cards":[{"number":"104","name":"거북손데스","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/689/SWSH2_EN_104.png"},{"number":"67","name":"거북손데스","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/689/SM6_EN_67.png"},{"number":"23","name":"거북손데스","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/689/XY10_EN_23.png"},{"number":"49","name":"거북손데스","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/689/XY2_EN_49.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/689.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"로케트박치기","type":"Normal","power":"130","accuracy":"100"},{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"껍질에숨기","type":"Water","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":16,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"},{"level":20,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"},{"level":24,"category":"변화","move":"록커트","type":"Rock","power":"—","accuracy":"—"},{"level":28,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":32,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"},{"level":36,"category":"물리","move":"셸블레이드","type":"Water","power":"75","accuracy":"95"},{"level":42,"category":"변화","move":"껍질깨기","type":"Normal","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"크로스촙","type":"Fighting","power":"100","accuracy":"80"},{"level":54,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"},{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"},{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"},{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":83,"category":"물리","move":"셸블레이드"
+,"type":"Water","power":"75","accuracy":"95"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":4,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진"
+,"type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류"
+,"type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":47,"category":"물리","move":"드래곤크루"
+,"type":"Dragon","power":"80","accuracy":"100"},
+{"technicalRecord":48,"category":"변화","move":"벌크업"
+,"type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스"
+,"type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘"
+,"type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브"
+,"type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크"
+,"type":"Water","power":"85","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"깜짝베기"
+,"type":"Dark","power":"70","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기"
+,"type":"Ground","power":"—","accuracy":"100"}
+,{"category":"변화","move":"바꿔치기"
+,"type":"Dark","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"Meteor Beam"
+,"type":"Rock","power":"120","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

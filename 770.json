@@ -1,0 +1,63 @@
+{"number":"770","name":"모래성이당","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/770.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/770.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/770/770_main.png"},"types":["Ghost","Ground"],"weaknesses":["Ghost","Dark","Grass","Water","Ice"],
+"descriptions":["해변에 살지만 물을 싫어합니다. 세찬 비를 맞으면 성의 형태를 유지하지 못합니다.","해변의 악몽이라고도 불립니다. 모래를 조종하여 먹이를 가라앉힌 뒤 영혼을 흡수합니다."],
+"specie":"모래성","height":"250.0 kg (551.2 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"egg":{"groups":["부정형"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"168",
+"growthRate":"중간 빠름"},"abilities":[{"name":"꾸덕꾸덕굳기","description":"Boosts the Pokémon's Defense stat sharply when hit by a Water-type move."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"2","Electric":"0","Grass":"2","Ice":"2","Fighting":"0","Poison":"¼","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"½","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"769","name":"모래꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/769.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/769.png","type":"FIRST"},{"number":"770","name":"모래성이당","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/770.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/770.png","type":"LAST","requirement":"Level 42"}],"previousEvolutions":[{"number":"769","name":"모래꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/769.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/769.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":85,"attack":75,"defense":110,"spAtk":100,"spDef":75,"speed":35,"total":480},"cards":[{"number":"82","name":"모래성이당","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/770/SWSH2_EN_82.png"},{"number":"127","name":"모래성이당","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/770/SM12_EN_127.png"},{"number":"82","name":"모래성이당-GX","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/770/SM7_EN_82.png"},{"number":"62","name":"모래성이당","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/770/SM3_EN_62.png"},{"number":"75","name":"모래성이당","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/770/SM1_EN_75.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/770.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"},{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"},{"level":15,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"},{"level":20,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"},{"level":25,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"},{"level":30,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"},{"level":35,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"level":40,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":47,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":54,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},{"level":61,"category":"변화","move":"모래모으기","type":"Ground","power":"—","accuracy":"—"},{"level":68,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"},{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"},{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"},{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":10,"category":"물리","move":"지진"
+,"type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":17,"category":"변화","move":"망각술"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄"
+,"type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭"
+,"type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘"
+,"type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"}]
+,"egg":[{"category":"특수","move":"원시의힘"
+,"type":"Rock","power":"60","accuracy":"100"}
+,{"category":"변화","move":"저주"
+,"type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"변화","move":"길동무"
+,"type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"특수","move":"토해내기"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"비축하기"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"꿀꺽"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Poltergeist"
+,"type":"Ghost","power":"110","accuracy":"90"}
+,{"category":"특수","move":"열사의대지"
+,"type":"Ground","power":"70","accuracy":"100"}
+,{"category":"특수","move":"Terrain Pulse"
+,"type":"Normal","power":"50","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

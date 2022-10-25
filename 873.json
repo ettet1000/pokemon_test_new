@@ -1,0 +1,66 @@
+{"number":"873","name":"모스노우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/873.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/873.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/873/873_main.png"},"types":["Ice","Bug"],"weaknesses":["Fire","Steel","Flying","Rock"],
+"descriptions":["산과 들을 황폐하게 만들면 용서하지 않습니다. 차가운 날개로 날아다니며 눈보라를 일으켜 응징합니다.","날개의 온도는 영하 180도. 냉기가 담긴 인분을 눈처럼 흩뿌리며 산과 들을 날아다닙니다."],
+"specie":"얼음나방","height":"42.0 kg (92.6 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"166",
+"growthRate":"중간 빠름"},"abilities":[{"name":"인분","description":"기술의 추가 효과를 받지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"4","Water":"1","Electric":"1","Grass":"½","Ice":"½","Fighting":"1","Poison":"1","Ground":"½","Flying":"2","Psychic":"1","Bug":"1","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"872","name":"누니머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/872.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/872.png","type":"FIRST"},{"number":"873","name":"모스노우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/873.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/873.png","type":"LAST","requirement":"친밀도가 220 이상일 때, 밤에"}],"previousEvolutions":[{"number":"872","name":"누니머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/872.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/872.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":70,"attack":65,"defense":60,"spAtk":125,"spDef":90,"speed":65,"total":475},"cards":[{"number":"SV034","name":"모스노우","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/873/SWSH45_EN_SV034.png"},{"number":"30","name":"모스노우","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/873/SWSH45_EN_30.png"},{"number":"SWSH007","name":"모스노우","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/873/SWSHP_EN_SWSH007.png"},{"number":"204","name":"모스노우","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/873/SWSH2_EN_204.png"},{"number":"64","name":"모스노우","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/873/SWSH1_EN_64.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/873.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"level":1,"category":"특수","move":"눈싸라기","type":"Ice","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"벌레의저항","type":"Bug","power":"50","accuracy":"100"},{"level":4,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"},{"level":8,"category":"특수","move":"엉겨붙기","type":"Bug","power":"20","accuracy":"100"},{"level":12,"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"},{"level":16,"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"},{"level":21,"category":"변화","move":"깃털댄스","type":"Flying","power":"—","accuracy":"100"},{"level":24,"category":"특수","move":"오로라빔","type":"Ice","power":"65","accuracy":"100"},{"level":28,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"},{"level":32,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"},{"level":36,"category":"변화","move":"오로라베일","type":"Ice","power":"—","accuracy":"—"},{"level":40,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},{"level":44,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"},{"level":48,"category":"변화","move":"와이드가드","type":"Rock","power":"—","accuracy":"—"},{"level":52,"category":"변화","move":"나비춤","type":"Bug","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":35,"category":"변화","move":"싸라기눈"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":44,"category":"변화","move":"봉인"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼"
+,"type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침"
+,"type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태"
+,"type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
+,"type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":18,"category":"물리","move":"흡혈"
+,"type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석"
+,"type":"Bug","power":"90","accuracy":"100"},
+{"technicalRecord":89,"category":"특수","move":"폭풍"
+,"type":"Flying","power":"110","accuracy":"70"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"벌레먹음"
+,"type":"Bug","power":"60","accuracy":"100"}
+,{"category":"특수","move":"요정의바람"
+,"type":"Fairy","power":"40","accuracy":"100"}
+,{"category":"특수","move":"미러코트"
+,"type":"Psychic","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat"
+,"type":"Flying","power":"40","accuracy":"90"}
+,{"category":"물리","move":"Skitter Smack"
+,"type":"Bug","power":"70","accuracy":"90"}
+,{"category":"물리","move":"Triple Axel"
+,"type":"Ice","power":"20","accuracy":"90"}]
+,"evolution":[{"category":"특수","move":"얼다바람"
+,"type":"Ice","power":"55","accuracy":"95"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

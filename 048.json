@@ -1,0 +1,32 @@
+{"number":"048","name":"콘팡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/048.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/048.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/048/048_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/048/048_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/048/048_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/048/048_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/048/048_back_shiny_animated.gif"},"types":["Bug","Poison"],"weaknesses":["Fire","Psychic","Flying","Rock"],
+"descriptions":["밝은 곳에서 큰 눈은 레이더 역할을 합니다. 당신은 그것들이 많은 작은 눈의 클러스터임을 알 수 있습니다."],
+"specie":"곤충","height":"30.0 kg (66.1 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 특수방어","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"복안","description":"기술의 명중률이 올라간다."},{"name":"색안경","description":"The Pokémon can use \"not very effective\" moves to deal regular damage."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"¼","Ice":"1","Fighting":"¼","Poison":"½","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"048","name":"콘팡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/048.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/048.png","type":"FIRST"},{"number":"049","name":"도나리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/049.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/049.png","type":"LAST",
+"requirement":"Level 31"}],"previousEvolutions":[],"nextEvolutions":[{"number":"049","name":"도나리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/049.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/049.png","type":"LAST",
+"requirement":"Level 31"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":55,"defense":50,"spAtk":40,"spDef":55,"speed":45,"total":305},"cards":[{"number":"10","name":"콘팡","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/SM10_EN_10.png"},{"number":"9","name":"콘팡","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/SM10_EN_9.png"},{"number":"1","name":"콘팡","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/XY4_EN_1.png"},{"number":"81","name":"콘팡","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/HGSS4_EN_81.png"},{"number":"84","name":"콘팡","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/EX6_EN_84.png"},{"number":"116","name":"콘팡","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/048/DP3_EN_116.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/048.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":8,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":12,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":14,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":16,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":20,"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"level":24,"category":"변화","move":"수면가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":28,"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
+,{"level":32,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":40,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"technicalMachine":45,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":52,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

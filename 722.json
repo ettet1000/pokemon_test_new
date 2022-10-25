@@ -1,0 +1,59 @@
+{"number":"722","name":"나몰빼미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/722/722_main.png"},"types":["Grass","비행"],"weaknesses":["Fire","Flying","Ice","Poison","Rock"],
+"descriptions":["낮 동안에는 광합성으로 힘을 비축하고 밤이 되면 소리 없이 날며 먹이를 찾습니다","우아한 날개로 소리 없이 납니다. 단검에 비견되는 예리한 깃털을 정교하게 날리는 기술을 갖추고 있습니다."],
+"specie":"풀깃","height":"1.5 kg (3.3 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 HP","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"64",
+"growthRate":"중간 느림"},"abilities":[{"name":"심록","description":"위급할 때 풀타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"1","Grass":"¼","Ice":"4","Fighting":"½","Poison":"2","Ground":"0","Flying":"2","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"722","name":"나몰빼미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","type":"FIRST"},{"number":"723","name":"빼미스로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","type":"MIDDLE","requirement":"Level 17"},{"number":"724","name":"모크나이퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png","type":"LAST","requirement":"Level 34"}],"previousEvolutions":[],"nextEvolutions":[{"number":"723","name":"빼미스로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png"
+,"type":"MIDDLE",
+"requirement":"Level 17"},{"number":"724","name":"모크나이퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png"
+,"type":"LAST",
+"requirement":"Level 34"}],"superEvolutions":[],"baseStats":{"hp":68,"attack":55,"defense":55,"spAtk":50,"spDef":50,"speed":42,"total":320},"cards":[{"number":"SV001","name":"나몰빼미","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SWSH45_EN_SV001.png"},{"number":"6","name":"나몰빼미","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SWSH45_EN_6.png"},{"number":"11","name":"나몰빼미","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SWSH3_EN_11.png"},{"number":"17","name":"나몰빼미","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM12_EN_17.png"},{"number":"18","name":"나몰빼미","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM12_EN_18.png"},{"number":"SV2","name":"나몰빼미","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SMA_EN_SV2.png"},{"number":"237","name":"나몰빼미 & Alolan 나시-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM11_EN_237.png"},{"number":"1","name":"나몰빼미 & Alolan 나시-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM11_EN_1.png"},{"number":"214","name":"나몰빼미 & Alolan 나시-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM11_EN_214.png"},{"number":"215","name":"나몰빼미 & Alolan 나시-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/722/SM11_EN_215.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/722.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":3,"category":"물리","move":"나뭇잎","type":"Grass","power":"40","accuracy":"100"},{"level":6,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":9,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":12,"category":"물리","move":"야습","type":"Ghost","power":"40","accuracy":"100"},{"level":15,"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"},{"level":18,"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"},{"level":21,"category":"물리","move":"쪼아대기","type":"Flying","power":"60","accuracy":"100"},{"level":24,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},{"level":27,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":30,"category":"물리","move":"리프블레이드","type":"Grass","power":"90","accuracy":"100"},{"level":33,"category":"변화","move":"깃털댄스","type":"Flying","power":"—","accuracy":"100"},{"level":36,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타"
+,"type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":50,"category":"물리","move":"리프블레이드"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄"
+,"type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":66,"category":"물리","move":"브레이브버드"
+,"type":"Flying","power":"120","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"변화","move":"이상한빛"
+,"type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"안개제거"
+,"type":"Flying","power":"—","accuracy":"—"}
+,{"category":"변화","move":"그림자분신"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탁쳐서떨구기"
+,"type":"Dark","power":"65","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat"
+,"type":"Flying","power":"40","accuracy":"90"}
+,{"category":"물리","move":"Grassy Glide"
+,"type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

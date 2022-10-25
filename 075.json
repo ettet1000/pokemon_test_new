@@ -1,0 +1,44 @@
+{"number":"075","name":"데구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/075.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/075.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/075/075_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/075/075_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/075/075_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/075/075_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/075/075_back_shiny_animated.gif"},"types":["Rock","Ground"],"weaknesses":["Steel","Fighting","Water","Ice","Grass","Ground"],
+"descriptions":["산길을 굴러가는 모습을 종종 볼 수 있습니다. 장애물은 피해야 할 것이 아니라 넘어야 할 대상일 뿐입니다."],
+"specie":"암석","height":"105.0 kg (231.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"137",
+"growthRate":"중간 느림"},"abilities":[{"name":"돌머리","description":"Protects the Pokémon from recoil damage."},{"name":"옹골참","description":"일격으로 쓰러지지 않는다."}],"typesEffectiveness":{"Normal":"½","Fire":"½","Water":"4","Electric":"0","Grass":"4","Ice":"2","Fighting":"2","Poison":"¼","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"074","name":"꼬마돌","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/074.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/074.png","type":"FIRST"},{"number":"075","name":"데구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/075.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/075.png","type":"MIDDLE",
+"requirement":"Level 25"},{"number":"076","name":"딱구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/076.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/076.png","type":"LAST",
+"requirement":"통신교환"}],"previousEvolutions":[{"number":"074","name":"꼬마돌","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/074.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/074.png","type":"FIRST"}],"nextEvolutions":[{"number":"076","name":"딱구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/076.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/076.png","type":"LAST",
+"requirement":"통신교환"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":95,"defense":115,"spAtk":45,"spDef":45,"speed":35,"total":390},"cards":[{"number":"34","name":"데구리","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/SM115_EN_34.png"},{"number":"88","name":"데구리","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/SM10_EN_88.png"},{"number":"36","name":"Alolan 데구리","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/SM9_EN_36.png"},{"number":"33","name":"Alolan 데구리","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/SM4_EN_33.png"},{"number":"41","name":"Alolan 데구리","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/SM2_EN_41.png"},{"number":"44","name":"데구리","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/G1_EN_44.png"},{"number":"46","name":"데구리","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/XY2_EN_46.png"},{"number":"29","name":"데구리","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/EX3_EN_29.png"},{"number":"30","name":"데구리","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/EX3_EN_30.png"},{"number":"34","name":"데구리","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/075/EX12_EN_34.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/075.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"참기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":3,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":6,"category":"물리","move":"참기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":9,"category":"물리","move":"돌떨구기","type":"Rock","power":"50","accuracy":"90"}
+,{"level":12,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"}
+,{"level":15,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":19,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"level":23,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"level":31,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"level":39,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"level":47,"category":"물리","move":"대폭발","type":"Normal","power":"250","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":13,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"지구던지기","type":"Fighting","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":31,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":37,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"technicalMachine":41,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"}
+,{"technicalMachine":49,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"technicalMachine":56,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

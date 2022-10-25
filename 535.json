@@ -1,0 +1,57 @@
+{"number":"535","name":"동챙이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/535.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/535.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/535/535_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/535/535_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/535/535_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/535/535_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/535/535_back_shiny_animated.gif"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["그것은 음파를 사용하여 동종의 다른 사람들과 의사 소통합니다. 사람이나 다른 포켓몬들은 그 경고의 울음소리를 들을 수 없습니다.","수면에 흐르는 잔잔한 물결은 아래에서 동챙이가 높은 목소리로 노래하고 있다는 확실한 신호입니다."],
+"specie":"올챙이","height":"4.5 kg (9.9 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"59",
+"growthRate":"중간 느림"},"abilities":[{"name":"촉촉바디","description":"Heals status conditions if it's raining."},{"name":"쓱쓱","description":"비가 올 때 스피드가 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"0","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"535","name":"동챙이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/535.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/535.png","type":"FIRST"},{"number":"536","name":"두까비","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/536.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/536.png","type":"MIDDLE",
+"requirement":"Level 25"},{"number":"537","name":"두빅굴","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/537.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/537.png","type":"LAST",
+"requirement":"Level 36"}],"previousEvolutions":[],"nextEvolutions":[{"number":"536","name":"두까비","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/536.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/536.png","type":"MIDDLE",
+"requirement":"Level 25"},{"number":"537","name":"두빅굴","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/537.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/537.png","type":"LAST",
+"requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":50,"defense":40,"spAtk":50,"spDef":40,"speed":64,"total":294},"cards":[{"number":"42","name":"동챙이","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/SWSH7_EN_42.png"},{"number":"44","name":"동챙이","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/SWSH2_EN_44.png"},{"number":"58","name":"동챙이","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/SM12_EN_58.png"},{"number":"33","name":"동챙이","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/XY9_EN_33.png"},{"number":"40","name":"동챙이","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/BW11_EN_40.png"},{"number":"24","name":"동챙이","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/BW9_EN_24.png"},{"number":"34","name":"동챙이","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/BW6_EN_34.png"},{"number":"31","name":"동챙이","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/BW5_EN_31.png"},{"number":"22","name":"동챙이","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/535/BW3_EN_22.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/535.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":4,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"}
+,{"level":8,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":12,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"level":16,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"level":20,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"level":28,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}
+,{"level":32,"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"}
+,{"level":36,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"}
+,{"level":40,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"}
+,{"level":44,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"level":48,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}]
+,"technicalMachine":[{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"}
+,{"category":"특수","move":"진흙뿌리기","type":"Ground","power":"20","accuracy":"100"}
+,{"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

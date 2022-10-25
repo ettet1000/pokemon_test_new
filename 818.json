@@ -1,0 +1,77 @@
+{"number":"818","name":"인텔리레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/818.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/818.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/818/818_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["저격 실력이 굉장합니다. 15km 떨어진 곳에 굴러다니는 나무열매를 관통하는 것도 누워서 떡 먹기입니다.","물대포의 속도는 마하7입니다. 머리의 볏으로 바람과 기운을 감지하면서 조준을 맞춥니다."],
+"specie":"에이전트","height":"45.2 kg (99.6 lbs)","weight":"1.9 m (6′03″)","breeding":{
+"egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"3 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"265",
+"growthRate":"중간 느림"},"abilities":[{"name":"급류","description":"위급할 때 물타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"816","name":"울머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/816.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/816.png","type":"FIRST"},{"number":"817","name":"누겔레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/817.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/817.png","type":"MIDDLE","requirement":"Level 16"},{"number":"818","name":"인텔리레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/818.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/818.png","type":"LAST","requirement":"Level 35"}],"previousEvolutions":[{"number":"816","name":"울머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/816.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/816.png","type":"FIRST"},{"number":"817","name":"누겔레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/817.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/817.png"
+,"type":"MIDDLE",
+"requirement":"Level 16"}],"nextEvolutions":[],"superEvolutions":[{"name":"거다이맥스 인텔리레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/818_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/818_gigantamax_1.png"
+,"type":"GIGANTAMAX"}],"baseStats":{"hp":70,"attack":85,"defense":65,"spAtk":125,"spDef":65,"speed":120,"total":530},"cards":[{"number":"43","name":"인텔리레온","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH6_EN_43.png"},{"number":"SV027","name":"인텔리레온","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH45_EN_SV027.png"},{"number":"SWSH016","name":"인텔리레온 V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSHP_EN_SWSH016.png"},{"number":"180","name":"인텔리레온 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH2_EN_180.png"},{"number":"195","name":"인텔리레온 VMAX","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH2_EN_195.png"},{"number":"49","name":"인텔리레온 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH2_EN_49.png"},{"number":"50","name":"인텔리레온 VMAX","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH2_EN_50.png"},{"number":"58","name":"인텔리레온","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH1_EN_58.png"},{"number":"59","name":"인텔리레온","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/818/SWSH1_EN_59.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/818.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"},{"level":1,"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"특수","move":"노려맞히기","type":"Water","power":"80","accuracy":"100"},{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"},{"level":12,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":19,"category":"변화","move":"눈물그렁그렁","type":"Normal","power":"—","accuracy":"—"},{"level":24,"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"},{"level":30,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"},{"level":38,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"},{"level":46,"category":"변화","move":"물붓기","type":"Water","power":"—","accuracy":"100"},{"level":54,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"level":62,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"},{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":51,"category":"물리","move":"고드름침","type":"Ice","power":"25","accuracy":"100"},{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"},{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"},{"technicalMachine":56,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
+,"type":"Flying","power":"75","accuracy":"95"}
+,{"technicalMachine":99,"category":"물리","move":"와이드브레이커"
+,"type":"Dragon","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프"
+,"type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":13,"category":"변화","move":"기충전"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류"
+,"type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크"
+,"type":"Water","power":"85","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"아쿠아제트"
+,"type":"Water","power":"40","accuracy":"100"}
+,{"category":"변화","move":"아쿠아링"
+,"type":"Water","power":"—","accuracy":"—"}
+,{"category":"변화","move":"그림자분신"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"마지막일침"
+,"type":"Bug","power":"50","accuracy":"100"}
+,{"category":"변화","move":"흑안개"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"category":"물리","move":"얼음뭉치"
+,"type":"Ice","power":"40","accuracy":"100"}
+,{"category":"변화","move":"흰안개"
+,"type":"Ice","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Scale Shot"
+,"type":"Dragon","power":"25","accuracy":"90"}]
+,"evolution":[{"category":"특수","move":"노려맞히기"
+,"type":"Water","power":"80","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

@@ -1,0 +1,76 @@
+{"number":"437","name":"동탁군","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/437.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/437.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/437/437_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/437/437_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/437/437_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/437/437_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/437/437_back_shiny_animated.gif"},"types":["Steel","Psychic"],"weaknesses":["Ghost","Fire","Dark","Ground"],
+"descriptions":["많은 과학자들은 이 포켓몬이 몸의 문양으로 보아 가라르 지방 이외의 지역에서 유래한 것으로 추측하고 있습니다.","일각에서는 비구름을 부르는 신으로 믿고 있습니다. 화를 내면 종소리처럼 울리는 경고음이 울립니다."],
+"specie":"동탁","height":"187.0 kg (412.3 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"1 방어, 1 특수방어","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"175",
+"growthRate":"중간 빠름"},"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."},{"name":"내열","description":"The heatproof body of the Pokémon halves the damage from Fire-type moves that hit it."}],"typesEffectiveness":{"Normal":"½","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"½","Fighting":"1","Poison":"0","Ground":"2","Flying":"½","Psychic":"¼","Bug":"1","Rock":"½","Ghost":"2","Dragon":"½","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"436","name":"동미러","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/436.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/436.png","type":"FIRST"},{"number":"437","name":"동탁군","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/437.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/437.png","type":"LAST",
+"requirement":"Level 33"}],"previousEvolutions":[{"number":"436","name":"동미러","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/436.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/436.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":67,"attack":89,"defense":116,"spAtk":79,"spDef":116,"speed":33,"total":500},"cards":[{"number":"223","name":"동탁군","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SWSH6_EN_223.png"},{"number":"102","name":"동탁군","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SWSH5_EN_102.png"},{"number":"SWSH091","name":"동탁군","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SWSHP_EN_SWSH091.png"},{"number":"130","name":"동탁군","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SWSH2_EN_130.png"},{"number":"101","name":"동탁군","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SM9_EN_101.png"},{"number":"87","name":"동탁군","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/SM5_EN_87.png"},{"number":"62","name":"동탁군 BREAK","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/XY10_EN_62.png"},{"number":"61","name":"동탁군","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/XY10_EN_61.png"},{"number":"96","name":"동탁군","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/XY8_EN_96.png"},{"number":"61","name":"동탁군","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/437/XY4_EN_61.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/437.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"블록","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":1,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"level":1,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"level":12,"category":"변화","move":"봉인","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":16,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"}
+,{"level":20,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
+,{"level":24,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"level":28,"category":"특수","move":"신통력","type":"Psychic","power":"80","accuracy":"100"}
+,{"level":32,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
+,{"level":38,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"}
+,{"level":44,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"}
+,{"level":50,"category":"특수","move":"미래예지","type":"Psychic","power":"120","accuracy":"100"}
+,{"level":56,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"봉인","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":60,"category":"변화","move":"파워스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":61,"category":"변화","move":"가드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":62,"category":"변화","move":"스피드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":91,"category":"변화","move":"사이코필드","type":"Psychic","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":34,"category":"특수","move":"미래예지","type":"Psychic","power":"120","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[{"category":"변화","move":"블록","type":"Normal","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_IV"}

@@ -1,0 +1,65 @@
+{"number":"884","name":"두랄루돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/884.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/884.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/884/884_main.png"},"types":["Steel","드래곤"],"weaknesses":["Fighting","Ground"],
+"descriptions":["금속으로 된 특수한 몸은 가벼워서 몸놀림이 뛰어납니다. 비를 싫어해 동굴에 삽니다.","윤이 나는 금속과도 같은 몸은 가벼우면서도 튼튼하지만 녹슬기 쉽다는 것이 흠입니다."],
+"specie":"합금","height":"40.0 kg (88.2 lbs)","weight":"1.8 m (5′11″)","breeding":{
+"egg":{"groups":["드래곤","광물"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"187",
+"growthRate":"중간 빠름"},"abilities":[{"name":"라이트메탈","description":"Halves the Pokémon's weight."},{"name":"헤비메탈","description":"Doubles the Pokémon's weight."}],"typesEffectiveness":{"Normal":"½","Fire":"1","Water":"½","Electric":"½","Grass":"¼","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"884","name":"두랄루돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/884.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/884.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[{"name":"거다이맥스 두랄루돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/884_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/884_gigantamax_1.png","type":"GIGANTAMAX"}],"baseStats":{"hp":70,"attack":95,"defense":115,"spAtk":120,"spDef":50,"speed":85,"total":535},"cards":[{"number":"123","name":"두랄루돈 VMAX","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH7_EN_123.png"},{"number":"197","name":"두랄루돈 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH7_EN_197.png"},{"number":"198","name":"두랄루돈 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH7_EN_198.png"},{"number":"122","name":"두랄루돈 V","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH7_EN_122.png"},{"number":"SV092","name":"두랄루돈","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH45_EN_SV092.png"},{"number":"129","name":"두랄루돈","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH4_EN_129.png"},{"number":"47","name":"두랄루돈 V","expansionName":"Champion’s Path","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH35_EN_47.png"},{"number":"SWSH028","name":"두랄루돈","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSHP_EN_SWSH028.png"},{"number":"SWSH060","name":"두랄루돈","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSHP_EN_SWSH060.png"},{"number":"138","name":"두랄루돈","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/884/SWSH2_EN_138.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/884.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"},{"level":6,"category":"물리","move":"바위깨기","type":"Fighting","power":"40","accuracy":"100"},{"level":12,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"},{"level":18,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"},{"level":24,"category":"물리","move":"와이드브레이커","type":"Dragon","power":"60","accuracy":"100"},{"level":30,"category":"물리","move":"드래곤테일","type":"Dragon","power":"60","accuracy":"90"},{"level":36,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":42,"category":"변화","move":"예민해지기","type":"Normal","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"드래곤크루","type":"Dragon","power":"80","accuracy":"100"},{"level":54,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},{"level":60,"category":"물리","move":"메탈버스트","type":"Steel","power":"—","accuracy":"100"},{"level":66,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
+,"type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기"
+,"type":"Ground","power":"75","accuracy":"100"}
+,{"technicalMachine":99,"category":"물리","move":"와이드브레이커"
+,"type":"Dragon","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":24,"category":"물리","move":"역린"
+,"type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":47,"category":"물리","move":"드래곤크루"
+,"type":"Dragon","power":"80","accuracy":"100"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":81,"category":"물리","move":"속임수"
+,"type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
+,"type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"미러코트"
+,"type":"Psychic","power":"—","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기"
+,"type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"베어가르기"
+,"type":"Normal","power":"70","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"아이언롤러"
+,"type":"Steel","power":"130","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

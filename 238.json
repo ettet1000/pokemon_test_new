@@ -1,0 +1,72 @@
+{"number":"238","name":"뽀뽀라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/238.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/238.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/238/238_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/238/238_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/238/238_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/238/238_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/238/238_back_shiny_animated.gif"},"types":["Ice","Psychic"],"weaknesses":["Steel","Ghost","Fire","Dark","Rock","Bug"],
+"descriptions":["호기심이 많은 포켓몬입니다. 뽀뽀라는 입술로 물건을 만지며 좋아하고 싫어하는 것을 결정합니다.","얼굴이 조금 더러워지면 즉시 목욕을 합니다. 하지만 몸이 더러워지면 뽀뽀라는 별로 개의치 ​​않는 것 같습니다."],
+"specie":"뽀뽀","height":"6.0 kg (13.2 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"1 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"둔감","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"예지몽","description":"When it enters a battle, the Pokémon can tell one of the moves an opposing Pokémon has."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"238","name":"뽀뽀라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/238.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/238.png","type":"FIRST"},{"number":"124","name":"루주라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/124.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/124.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[],"nextEvolutions":[{"number":"124","name":"루주라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/124.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/124.png","type":"LAST",
+"requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":30,"defense":15,"spAtk":85,"spDef":65,"speed":65,"total":305},"cards":[{"number":"HGSS13","name":"뽀뽀라","expansionName":"HS—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/238/HSP_EN_HGSS13.png"},{"number":"30","name":"뽀뽀라","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/238/HGSS1_EN_30.png"},{"number":"31","name":"뽀뽀라","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/238/EX10_EN_31.png"},{"number":"64","name":"뽀뽀라 δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/238/EX15_EN_64.png"},{"number":"67","name":"뽀뽀라","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/238/DP3_EN_67.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/238.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"핥기","type":"Ghost","power":"30","accuracy":"100"}
+,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"특수","move":"눈싸라기","type":"Ice","power":"40","accuracy":"100"}
+,{"level":8,"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":16,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"level":20,"category":"변화","move":"노래하기","type":"Normal","power":"—","accuracy":"55"}
+,{"level":24,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"level":28,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"level":32,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"level":36,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"}
+,{"level":40,"category":"변화","move":"검은눈빛","type":"Normal","power":"—","accuracy":"—"}
+,{"level":44,"category":"변화","move":"멸망의노래","type":"Normal","power":"—","accuracy":"—"}
+,{"level":48,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태","type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":72,"category":"변화","move":"매직룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워","type":"Psychic","power":"20","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
+,{"category":"변화","move":"역할","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

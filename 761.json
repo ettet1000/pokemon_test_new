@@ -1,0 +1,52 @@
+{"number":"761","name":"달콤아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/761/761_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+"descriptions":["공격을 받으면 달콤하고 맛있는 땀을 분비합니다. 그 냄새는 더 많은 적을 부를뿐입니다.","그 몸은 새 포켓몬에게 매우 식욕을 돋우는 달콤하고 과일 향이납니다."],
+"specie":"후르츠","height":"3.2 kg (7.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"1 HP","catchRate":"235 (30.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"42",
+"growthRate":"중간 느림"},"abilities":[{"name":"둔감","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"리프가드","description":"Prevents status conditions in harsh sunlight."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"761","name":"달콤아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","type":"FIRST"},{"number":"762","name":"달무리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png","type":"MIDDLE","requirement":"Level 18"},{"number":"763","name":"달코퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png","type":"LAST","requirement":"짓밟기를 배우고"}],"previousEvolutions":[],"nextEvolutions":[{"number":"762","name":"달무리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png"
+,"type":"MIDDLE",
+"requirement":"Level 18"},{"number":"763","name":"달코퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png"
+,"type":"LAST",
+"requirement":"짓밟기를 배우고"}],"superEvolutions":[],"baseStats":{"hp":42,"attack":30,"defense":38,"spAtk":30,"spDef":38,"speed":32,"total":210},"cards":[{"number":"13","name":"달콤아","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/761/SWSH6_EN_13.png"},{"number":"14","name":"달콤아","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/761/SWSH3_EN_14.png"},{"number":"17","name":"달콤아","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/761/SM11_EN_17.png"},{"number":"18","name":"달콤아","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/761/SM1_EN_18.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/761.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"튀어오르기","type":"Normal","power":"—","accuracy":"—"},{"level":4,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"},{"level":8,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":12,"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"},{"level":16,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"},{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":28,"category":"변화","move":"흔들흔들댄스","type":"Normal","power":"—","accuracy":"100"},{"level":32,"category":"변화","move":"아로마미스트","type":"Fairy","power":"—","accuracy":"—"},{"level":36,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":10,"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청"
+,"type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다"
+,"type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스"
+,"type":"Fairy","power":"50","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄"
+,"type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"경혈찌르기"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"죽기살기"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"광합성"
+,"type":"Grass","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Grassy Glide"
+,"type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

@@ -1,0 +1,69 @@
+{"number":"764","name":"큐아링","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/764.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/764.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/764/764_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+"descriptions":["이 포켓몬은 냄새가 아주 좋습니다. 큐아링은 꽃이 다 달라서 포켓몬마다 향이 있습니다", "큐아링은 덩굴로 꽃을 따서 장식합니다. 꽃은 왠지 큐아링에 붙으면 시들지 않습니다."],
+"specie":"꽃따기","height":"0.3 kg (0.7 lbs)","weight":"0.1 m (0′04″)","breeding":{
+"egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},
+"training":{"evYield":"2 특수방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"170",
+"growthRate":"빠름"},"abilities":[{"name":"플라워베일","description":"Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."},{"name":"힐링시프트","description":"Gives priority to a healing move."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"2","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"764","name":"큐아링","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/764.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/764.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":51,"attack":52,"defense":90,"spAtk":82,"spDef":110,"speed":100,"total":485},"cards":[{"number":"93","name":"큐아링","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/764/SM2_EN_93.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/764.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"},{"level":3,"category":"물리","move":"덩굴채찍","type":"Grass","power":"45","accuracy":"100"},{"level":6,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"level":9,"category":"특수","move":"드레인키스","type":"Fairy","power":"50","accuracy":"100"},{"level":12,"category":"변화","move":"플라워가드","type":"Fairy","power":"—","accuracy":"—"},{"level":15,"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"},{"level":18,"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"},{"level":21,"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"},{"level":24,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},{"level":27,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"},{"level":30,"category":"변화","move":"플라워힐","type":"Fairy","power":"—","accuracy":"—"},{"level":33,"category":"물리","move":"꽃보라","type":"Grass","power":"90","accuracy":"100"},{"level":36,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"},{"level":39,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},{"level":42,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"},{"level":45,"category":"특수","move":"꽃잎댄스","type":"Grass","power":"120","accuracy":"100"},{"level":48,"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":50,"category":"물리","move":"기관총"
+,"type":"Grass","power":"25","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스"
+,"type":"Fairy","power":"50","accuracy":"100"}
+,{"technicalMachine":88,"category":"변화","move":"그래스필드"
+,"type":"Grass","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":17,"category":"변화","move":"망각술"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜"
+,"type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭"
+,"type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄"
+,"type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워"
+,"type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"},
+{"technicalRecord":96,"category":"특수","move":"꽃가루경단"
+,"type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"당신먼저"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"그래스믹서"
+,"type":"Grass","power":"65","accuracy":"90"}
+,{"category":"변화","move":"고민씨"
+,"type":"Grass","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Grassy Glide"
+,"type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

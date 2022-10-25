@@ -1,0 +1,57 @@
+{"number":"627","name":"수리둥보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/627.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/627.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/627/627_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/627/627_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/627/627_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/627/627_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/627/627_back_shiny_animated.gif"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+"descriptions":["전투 포켓몬, 누구와도 싸울 준비가 되어 있습니다. 단단한 열매를 부술 수 있는 발톱이 있습니다.","강한 포켓몬을 염탐하면 전투에 도전하는 것을 거부할 수 없습니다. 그러나 지면 큰 소리로 울기 시작합니다."],
+"specie":"새끼독수리","height":"10.5 kg (23.1 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
+"training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"70",
+"growthRate":"느린"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"우격다짐","description":"Removes additional effects to increase the power of moves when attacking."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"627","name":"수리둥보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/627.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/627.png","type":"FIRST"},{"number":"628","name":"워글","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/628.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/628.png","type":"LAST","requirement":"Level 54"}],"previousEvolutions":[],"nextEvolutions":[{"number":"628","name":"워글","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/628.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/628.png"
+,"type":"LAST",
+"requirement":"Level 54"}],"superEvolutions":[],"baseStats":{"hp":70,"attack":83,"defense":50,"spAtk":37,"spDef":50,"speed":60,"total":350},"cards":[{"number":"136","name":"수리둥보","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/SWSH7_EN_136.png"},{"number":"177","name":"수리둥보","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/SM12_EN_177.png"},{"number":"92","name":"수리둥보","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/XY11_EN_92.png"},{"number":"129","name":"수리둥보","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/XY8_EN_129.png"},{"number":"115","name":"수리둥보","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/BW8_EN_115.png"},{"number":"111","name":"수리둥보","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/BW6_EN_111.png"},{"number":"86","name":"수리둥보","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/BW2_EN_86.png"},{"number":"87","name":"수리둥보","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/627/BW2_EN_87.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/627.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":6,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"날개치기","type":"Flying","power":"60","accuracy":"100"},{"level":18,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"},{"level":24,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":30,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":36,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":42,"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"브레이크크루","type":"Normal","power":"75","accuracy":"95"},{"level":55,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"},{"level":60,"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"},{"level":66,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"},{"level":72,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청"
+,"type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타"
+,"type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인"
+,"type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
+,"type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":48,"category":"변화","move":"벌크업"
+,"type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":53,"category":"물리","move":"인파이트"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":66,"category":"물리","move":"브레이브버드"
+,"type":"Flying","power":"120","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":89,"category":"특수","move":"폭풍"
+,"type":"Flying","power":"110","accuracy":"70"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

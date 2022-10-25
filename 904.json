@@ -1,0 +1,221 @@
+{"number":"904",
+"name":"장침바루",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_main.png"},
+"types":["Dark","Poison"],"weaknesses":["Ground"],
+"descriptions":["창과 같은 침과 흉포한 성질 때문에 바다 도깨비라는 이명이 있는 포켓몬. 독을 마셔서 자신의 양식으로 삼습니다."],
+"specie":"침붕","height":"60.5 kg (133.4 lbs)","weight":"2.5 m (8′02″)","breeding":{
+"egg":{"groups":["수중2"],"cycle":"5140 걸음"},"genders":[{"type":"MALE","percentage":"50%"},
+{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격력","catchRate":"135","baseFriendship":"","baseExp":"",
+"growthRate":"중간 빠름"},"abilities":[{"name":"독가시",
+"description":"명중률이 떨어지지 않는다."},{"name":"쓱쓱",
+"description":"Raises evasiveness if the Pokémon is confused."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½"
+,"Ground":"2","Flying":"1","Psychic":"","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
+"evolutionChain":[
+{"number":"211","name":"침바루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/211.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/211.png","type":"FIRST"},
+{"number":"904","name":"장침바루","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_thumb.png","type":"LAST"
+,"requirement":"독침천발을 강공으로 20번 사용"}
+],
+"previousEvolutions":[
+{"number":"211","name":"침바루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/211.png"
+,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/211.png","type":"FIRST"}],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":85,"attack":115,"defense":95,"spAtk":65,"spDef":65,"speed":85,"total":510},
+"cards":[{"number":"90","name":"히스이 장침바루 HP130","expansionName":"소드&실드 강화 확장팩 「배틀리전」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_90.png"},
+{"number":"91","name":"히스이 장침바루 HP130","expansionName":"소드 & 실드 스타터 세트 VSTAR 「다크라이」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_91.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/904 Overqwil.ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"독침",
+        "type":"Poison",
+        "category":"물리",
+        "power":"30",
+        "accuracy":"100"
+     },
+     {
+        "level": 5,
+        "move":"압정뿌리기",
+        "type":"Ground",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 9,
+        "move":"바늘미사일",
+        "type":"Bug",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 15,
+        "move":"독침천발",
+        "type":"Poison",
+        "category":"물리",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 21,
+        "move":"물의파동",
+        "type":"Water",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "level": 26,
+        "move":"악의파동",
+        "type":"Dark",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"—"
+     },
+     {
+        "level": 29,
+        "move":"독찌르기",
+        "type":"Poison",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 37,
+        "move":"아쿠아테일",
+        "type":"Water",
+        "category":"물리",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "level": 47,
+        "move":"이판사판태클",
+        "type":"Normal",
+        "category":"물리",
+        "power":"100",
+        "accuracy":"100"
+     },
+     {
+        "level": 57,
+        "move":"자폭",
+        "type":"Normal",
+        "category":"물리",
+        "power":"150",
+        "accuracy":"100",
+        "undefined":""
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"아쿠아테일",
+        "type":"Water",
+        "category":"물리",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"악의파동",
+        "type":"Dark",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"—"
+     },
+     {
+        "move":"기가임팩트",
+        "type":"Normal",
+        "category":"물리",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"파괴광선",
+        "type":"Normal",
+        "category":"특수",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"아이스볼",
+        "type":"Ice",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"90"
+     },
+     {
+        "move":"냉동빔",
+        "type":"Ice",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"얼다바람",
+        "type":"Ice",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"95"
+     },
+     {
+        "move":"독찌르기",
+        "type":"Poison",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"잠자기",
+        "type":"Psychic",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"섀도볼",
+        "type":"Ghost",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"오물폭탄",
+        "type":"Poison",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"압정뿌리기",
+        "type":"Ground",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "move":"스피드스타",
+        "type":"Normal",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"—"
+     },
+     {
+        "move":"물의파동",
+        "type":"Water",
+        "category":"특수",
+        "power":"60",
+        "accuracy":"—"
+     }   
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

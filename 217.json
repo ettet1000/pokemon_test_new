@@ -1,0 +1,95 @@
+{"number":"217","name":"링곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/217.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/217.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/217/217_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/217/217_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/217/217_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/217/217_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/217/217_back_shiny_animated.gif"},"types":["Normal"],"weaknesses":["Fighting"],
+"descriptions":["링곰이 사는 숲에는 시냇물이 많고 우뚝 솟은 나무가 있어 먹이를 모았다고 합니다. 이 포켓몬은 매일 먹이를 모으기 위해 숲 속을 걸어다닙니다."],
+"specie":"동면","height":"125.8 kg (277.3 lbs)","weight":"1.8 m (5′11″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"175",
+"growthRate":"중간 빠름"},"abilities":[{"name":"근성","description":"상태 이상이 되면 공격이 올라간다."},{"name":"속보","description":"Boosts the Speed stat if the Pokémon has a status condition."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"216","name":"깜지곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/216.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/216.png","type":"FIRST"},{"number":"217","name":"링곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/217.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/217.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[{"number":"216","name":"깜지곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/216.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/216.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":90,"attack":130,"defense":75,"spAtk":75,"spDef":75,"speed":55,"total":500},"cards":[{"number":"127","name":"링곰","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/SWSH7_EN_127.png"},{"number":"139","name":"링곰","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/SWSH3_EN_139.png"},{"number":"172","name":"링곰","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/SM12_EN_172.png"},{"number":"122","name":"링곰","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/XY8_EN_122.png"},{"number":"RC16","name":"링곰","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/BW11_EN_RC16.png"},{"number":"76","name":"링곰","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/BW10_EN_76.png"},{"number":"37","name":"링곰","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/COL1_EN_37.png"},{"number":"27","name":"링곰","expansionName":"HS—Unleashed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/HGSS2_EN_27.png"},{"number":"89","name":"링곰","expansionName":"HS—Unleashed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/HGSS2_EN_89.png"},{"number":"18","name":"링곰","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/217/EX10_EN_18.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/217.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"level":1,"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"암해머","type":"Fighting","power":"100","accuracy":"90"}
+,{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"핥기","type":"Ghost","power":"30","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":8,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":15,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":22,"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":25,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":29,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":38,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":47,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":49,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"level":58,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}
+,{"level":67,"category":"물리","move":"암해머","type":"Fighting","power":"100","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":8,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":23,"category":"물리","move":"떨어뜨리기","type":"Rock","power":"50","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":52,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":66,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":71,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":78,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"배북","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"야금야금","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"크로스촙","type":"Fighting","power":"100","accuracy":"80"}
+,{"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
+,{"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}
+,{"category":"물리","move":"지구던지기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"물리","move":"더스트슈트","type":"Poison","power":"120","accuracy":"80"}
+,{"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"}
+,{"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"category":"변화","move":"예민해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"뒀다쓰기","type":"Normal","power":"140","accuracy":"100"}
+,{"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}
+,{"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}
+,{"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}]
+,"evolution":[],"preEvolution":[{"category":"변화","move":"초롱초롱눈동자","type":"Fairy","power":"—","accuracy":"100","method":"Level up"}
+,{"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100","method":"Level up"}
+,{"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100","method":"Level up"}]},"generation":"GENERATION_II"}

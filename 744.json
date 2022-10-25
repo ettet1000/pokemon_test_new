@@ -1,0 +1,60 @@
+{"number":"744","name":"암멍이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/744.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/744.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/744/744_main.png"},"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
+"descriptions":["잘 따르지만 무는 버릇이 있어 계속 기르기에는 상당한 노력이 필요합니다.","목의 바위를 땅에 세게 부딪쳐서 상대를 위협합니다. 풀이 죽는 순간에 덮칩니다."],
+"specie":"강아지","height":"9.2 kg (20.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"56",
+"growthRate":"중간 빠름"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"의기양양","description":"The Pokémon is full of vitality, and that prevents it from falling asleep."}],"typesEffectiveness":{"Normal":"½","Fire":"½","Water":"2","Electric":"1","Grass":"2","Ice":"1","Fighting":"2","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"744","name":"암멍이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/744.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/744.png","type":"FIRST"},{"number":"745","name":"루가루암(한낮)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png","type":"LAST","requirement":"Level 25, 낮, 포켓몬스터 썬, 울트라썬"},{"number":"745","name":"루가루암(한밤)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png","type":"LAST","requirement":"Level 25, 밤, 포켓몬스터 문, 울트라문"},{"number":"745","name":"루가루암(황혼)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png","type":"LAST","requirement":"Level 25, 17:00~17:59, 마이페이스"}],"previousEvolutions":[],"nextEvolutions":[{"number":"745","name":"루가루암(한낮)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png"
+,"type":"LAST",
+"requirement":"Level 25, 낮, 포켓몬스터 썬, 울트라썬"},{"number":"745","name":"루가루암(한밤)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png"
+,"type":"LAST",
+"requirement":"Level 25, 밤, 포켓몬스터 문, 울트라문"},{"number":"745","name":"루가루암(황혼)","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png"
+,"type":"LAST",
+"requirement":"Level 25, 17:00~17:59, 마이페이스"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":65,"defense":40,"spAtk":30,"spDef":40,"speed":60,"total":280},"cards":[{"number":"86","name":"암멍이","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SWSH6_EN_86.png"},{"number":"94","name":"암멍이","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SWSH4_EN_94.png"},{"number":"29","name":"암멍이","expansionName":"Champion’s Path","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SWSH35_EN_29.png"},{"number":"123","name":"암멍이","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SM12_EN_123.png"},{"number":"SV23","name":"암멍이","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SMA_EN_SV23.png"},{"number":"75","name":"암멍이","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SM6_EN_75.png"},{"number":"73","name":"암멍이","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SM2_EN_73.png"},{"number":"SM06","name":"암멍이","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SMP_EN_SM06.png"},{"number":"SM120","name":"암멍이","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/744/SMP_EN_SM120.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/744.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":4,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"},{"level":8,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"level":12,"category":"물리","move":"돌떨구기","type":"Rock","power":"50","accuracy":"90"},{"level":16,"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"},{"level":20,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":24,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"level":28,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"},{"level":32,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"level":36,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":40,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":44,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},{"level":48,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}],"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":66,"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니"
+,"type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
+,"type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기"
+,"type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘"
+,"type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"}]
+,"egg":[{"category":"물리","move":"죽기살기"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"뒀다쓰기"
+,"type":"Normal","power":"140","accuracy":"100"}
+,{"category":"물리","move":"난동부리기"
+,"type":"Normal","power":"120","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

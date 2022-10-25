@@ -1,0 +1,88 @@
+{"number":"272","name":"로파파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/272.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/272.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/272/272_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/272/272_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/272/272_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/272/272_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/272/272_back_shiny_animated.gif"},"types":["Water","식물"],"weaknesses":["Flying","Bug","Poison"],
+"descriptions":["축제 음악을 들으면 그 힘을 증폭시키기 위해 리듬에 맞춰 움직이기 시작합니다.","밝고 축제 음악의 리듬이 로파파의 세포를 활성화시켜 더 강력하게 만듭니다."],
+"specie":"행복하기","height":"55.0 kg (121.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
+"egg":{"groups":["식물","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"3 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"216",
+"growthRate":"중간 느림"},"abilities":[{"name":"쓱쓱","description":"비가 올 때 스피드가 올라간다."},{"name":"젖은접시","description":"비가 올 때 조금씩 HP를 회복한다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"¼","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"270","name":"연꽃몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/270.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/270.png","type":"FIRST"},{"number":"271","name":"로토스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/271.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/271.png","type":"MIDDLE",
+"requirement":"Level 14"},{"number":"272","name":"로파파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/272.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/272.png","type":"LAST",
+"requirement":"물의돌 사용"}],"previousEvolutions":[{"number":"270","name":"연꽃몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/270.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/270.png","type":"FIRST"},{"number":"271","name":"로토스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/271.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/271.png","type":"MIDDLE",
+"requirement":"Level 14"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":80,"attack":70,"defense":70,"spAtk":90,"spDef":100,"speed":70,"total":480},"cards":[{"number":"34","name":"로파파","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/SWSH7_EN_34.png"},{"number":"9","name":"로파파","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/SWSH2_EN_9.png"},{"number":"2","name":"로파파","expansionName":"Detective 피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/DET_EN_2.png"},{"number":"38","name":"로파파","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/SM7_EN_38.png"},{"number":"12","name":"로파파","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/XY5_EN_12.png"},{"number":"37","name":"로파파","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/XY5_EN_37.png"},{"number":"31","name":"로파파","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/BW8_EN_31.png"},{"number":"7","name":"로파파","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/EX2_EN_7.png"},{"number":"10","name":"로파파","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/EX8_EN_10.png"},{"number":"19","name":"로파파","expansionName":"EX Deoxys","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/272/EX8_EN_19.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/272.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"}
+,{"level":1,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":1,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"level":1,"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":1,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
+,{"level":1,"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"level":1,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"흰안개","type":"Ice","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"흔들흔들댄스","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":50,"category":"물리","move":"기관총","type":"Grass","power":"25","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":71,"category":"특수","move":"리프스톰","type":"Grass","power":"130","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"}
+,{"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"}
+,{"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"흔들흔들댄스","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Grassy Glide","type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

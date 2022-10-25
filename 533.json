@@ -1,0 +1,73 @@
+{"number":"533","name":"토쇠골","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/533.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/533.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/533/533_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/533/533_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/533/533_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/533/533_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/533/533_back_shiny_animated.gif"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+"descriptions":["토쇠골은 철거에 탁월하지만 건설은 특기가 아닙니다. 어쨌든 이 포켓몬은 금속 빔을 휘두르는 기술이 있습니다.","근육몬를 비롯한 동료들에게 근육을 과시합니다. 다른 포켓몬에 못 미치면 잠시 눕습니다."],"specie":"근골","height":"40.0 kg (88.2 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
+"training":{"evYield":"2 공격","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"142",
+"growthRate":"중간 느림"},"abilities":[{"name":"근성","description":"상태 이상이 되면 공격이 올라간다."},{"name":"우격다짐","description":"Removes additional effects to increase the power of moves when attacking."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"532","name":"으랏차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/532.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/532.png","type":"FIRST"},{"number":"533","name":"토쇠골","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/533.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/533.png","type":"MIDDLE",
+"requirement":"Level 25"},{"number":"534","name":"노보청","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/534.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/534.png","type":"LAST",
+"requirement":"통신교환"}],"previousEvolutions":[{"number":"532","name":"으랏차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/532.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/532.png","type":"FIRST"}],"nextEvolutions":[{"number":"534","name":"노보청","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/534.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/534.png","type":"LAST",
+"requirement":"통신교환"}],"superEvolutions":[],"baseStats":{"hp":85,"attack":105,"defense":85,"spAtk":40,"spDef":50,"speed":40,"total":405},"cards":[{"number":"74","name":"토쇠골","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/SWSH5_EN_74.png"},{"number":"66","name":"토쇠골","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/XY1_EN_66.png"},{"number":"80","name":"토쇠골","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/BW8_EN_80.png"},{"number":"59","name":"토쇠골","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/BW5_EN_59.png"},{"number":"63","name":"토쇠골","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/BW3_EN_63.png"},{"number":"60","name":"토쇠골","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/533/BW1_EN_60.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/533.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"돌떨구기","type":"Rock","power":"50","accuracy":"90"}
+,{"level":12,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":16,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"}
+,{"level":20,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"level":24,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}
+,{"level":30,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":36,"category":"물리","move":"폭발펀치","type":"Fighting","power":"100","accuracy":"50"}
+,{"level":42,"category":"물리","move":"암해머","type":"Fighting","power":"100","accuracy":"90"}
+,{"level":48,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"}
+,{"level":54,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"level":60,"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":75,"category":"물리","move":"로킥","type":"Fighting","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":7,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":48,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":53,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":94,"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"}]
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"변화","move":"판별","type":"Fighting","power":"—","accuracy":"—"}
+,{"category":"물리","move":"마하펀치","type":"Fighting","power":"40","accuracy":"100"}
+,{"category":"물리","move":"그로우펀치","type":"Fighting","power":"40","accuracy":"100"}
+,{"category":"변화","move":"와이드가드","type":"Rock","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"변화","move":"Coaching","type":"Fighting","power":"—","accuracy":"—"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

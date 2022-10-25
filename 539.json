@@ -1,0 +1,67 @@
+{"number":"539","name":"타격귀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/539.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/539.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/539/539_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/539/539_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/539/539_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/539/539_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/539/539_back_shiny_animated.gif"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+"descriptions":["극한까지 단련한 카라테 찹은 바다 자체도 쪼갤 수 있습니다", "한결같이 강인함만을 추구하며 산에서 수련하는 모습을 보면 조용히 지나치는 것이 좋습니다."],
+"specie":"태권도","height":"51.0 kg (112.4 lbs)","weight":"1.4 m (4′07″)","breeding":{
+"egg":{"groups":["인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
+"training":{"evYield":"2 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"163",
+"growthRate":"중간 빠름"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"옹골참","description":"일격으로 쓰러지지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"539","name":"타격귀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/539.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/539.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":75,"attack":125,"defense":75,"spAtk":30,"spDef":75,"speed":85,"total":465},"cards":[{"number":"72","name":"타격귀","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/539/SM3_EN_72.png"},{"number":"52","name":"타격귀","expansionName":"Black & White—Plasma Blast","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/539/BW10_EN_52.png"},{"number":"69","name":"타격귀","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/539/BW6_EN_69.png"},{"number":"59","name":"타격귀","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/539/BW2_EN_59.png"},{"number":"62","name":"타격귀","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/539/BW1_EN_62.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/539.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"바위깨기","type":"Fighting","power":"40","accuracy":"100"}
+,{"level":5,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":10,"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"level":15,"category":"변화","move":"퍼스트가드","type":"Fighting","power":"—","accuracy":"—"}
+,{"level":20,"category":"물리","move":"로킥","type":"Fighting","power":"65","accuracy":"100"}
+,{"level":25,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"}
+,{"level":30,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":35,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"level":40,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":45,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":50,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":55,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":75,"category":"물리","move":"로킥","type":"Fighting","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":7,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":48,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":53,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬","type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

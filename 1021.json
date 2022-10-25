@@ -1,0 +1,191 @@
+{"number":"1021","name":"질뻐기",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1021.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_test/images/1021_thumb.png",
+"sprites":{
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1021_main.png",
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1021.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1021.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1021.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test/images/1021.gif"},
+"types":["Poison","Dark"],"weaknesses":["Psychic","Ground"],
+"descriptions":["제일 좋아하는 쓰레기를 배불리 먹은 질뻐기일수록 몸의 무늬가 선명한 색을 띈다."],
+"specie":"진흙","height":"30.0 kg (66.1 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP, 1 공격","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"175",
+"growthRate":"중간 빠름"},
+"abilities":[{"name":"독수","description":"악취 때문에 상대가 풀죽을 때가 있다."},{"name":"먹보","description":"달라붙어서 도구를 지킨다."}],
+"typesEffectiveness":{
+"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½","Ground":"2","Flying":"1","Psychic":"0","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"1020","name":"질퍽이",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1020.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1020_thumb.png","type":"FIRST"},{"number":"1021","name":"질뻐기",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1021.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1021_thumb.png","type":"LAST",
+"requirement":"Level 38"}],"previousEvolutions":[{"number":"1020","name":"질퍽이",
+"imageUrl":"https://ettet1000.github.io/pokemon_test/images/1020.png","thumbUrl":"https://ettet1000.github.io/pokemon_test/images/1020_thumb.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":105,"attack":105,"defense":75,"spAtk":65,"spDef":100,"speed":50,"total":500},"cards":[{"number":"101","name":"질뻐기","expansionName":"Darkness Ablaze",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SWSH3_EN_101.png"},{"number":"131","name":"알로라 질뻐기","expansionName":"Cosmic Eclipse",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM12_EN_131.png"},{"number":"196","name":"질뻐기 & 알로라 질뻐기-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_196.png"},{"number":"197","name":"질뻐기 & 알로라 질뻐기-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_197.png"},{"number":"220","name":"질뻐기 & 알로라 질뻐기-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_220.png"},{"number":"61","name":"질뻐기 & 알로라 질뻐기-GX","expansionName":"Unbroken Bonds",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM10_EN_61.png"},{"number":"63","name":"질뻐기","expansionName":"Team Up",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM9_EN_63.png"},{"number":"84","name":"알로라 질뻐기","expansionName":"Team Up",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM9_EN_84.png"},{"number":"138","name":"알로라 질뻐기-GX","expansionName":"Burning Shadows",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM3_EN_138.png"},{"number":"157","name":"알로라 질뻐기-GX","expansionName":"Burning Shadows",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/089/SM3_EN_157.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/089.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"}
+,{"level":1,"category":"변화","move":"독가스","type":"Poison","power":"—","accuracy":"90"}
+,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":6,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":18,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":24,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":30,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":36,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":48,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"}
+,{"level":60,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":2,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":3,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":13,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":20,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":31,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":35,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":37,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":43,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"}
+,{"technicalMachine":48,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":52,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}],"technicalRecords":[]
+,"egg":[
+    {"move":"승부굳히기",
+    "type":"Dark",
+    "category":"물리",
+    "power":"60",
+    "accuracy":"100"},
+    {"move":"클리어스모그",
+    "type":"Poison",
+    "category":"특수",
+    "power":"50",
+    "accuracy":"—"},
+    {"move":"저주",
+    "type":"Ghost",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"봉인",
+    "type":"Psychic",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"검은눈빛",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"따라가때리기",
+    "type":"Dark",
+    "category":"물리",
+    "power":"40",
+    "accuracy":"100"},
+    {"move":"겁나는얼굴",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"야습",
+    "type":"Ghost",
+    "category":"물리",
+    "power":"40",
+    "accuracy":"100"},
+    {"move":"원한",
+    "type":"Ghost",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"토해내기",
+    "type":"Normal",
+    "category":"특수",
+    "power":"—",
+    "accuracy":"100"},
+    {"move":"비축하기",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"꿀꺽",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"그로우펀치*",
+    "type":"Fighting",
+    "category":"물리",
+    "power":"40",
+    "accuracy":"100"}
+]
+,"tutor":[
+    {"move":"기가드레인",
+    "type":"Grass",
+    "category":"특수",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"냉동펀치",
+    "type":"Ice",
+    "category":"물리",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"더스트슈트",
+    "type":"Poison",
+    "category":"물리",
+    "power":"120",
+    "accuracy":"80"},
+    {"move":"번개펀치",
+    "type":"Electric",
+    "category":"물리",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"불꽃펀치",
+    "type":"Fire",
+    "category":"물리",
+    "power":"75",
+    "accuracy":"100"},
+    {"move":"블록",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"아픔나누기",
+    "type":"Normal",
+    "category":"변화",
+    "power":"—",
+    "accuracy":"—"},
+    {"move":"전격파",
+    "type":"Electric",
+    "category":"특수",
+    "power":"60",
+    "accuracy":"—"},
+    {"move":"코골기",
+    "type":"Normal",
+    "category":"특수",
+    "power":"50",
+    "accuracy":"100"},
+    {"move":"힘껏펀치",
+    "type":"Fighting",
+    "category":"물리",
+    "power":"150",
+    "accuracy":"100"}
+]
+,"evolution":[],"preEvolution":[]},"generation":"ALOLA"}

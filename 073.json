@@ -1,0 +1,73 @@
+{"number":"073","name":"독파리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/073.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/073.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/073/073_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/073/073_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/073/073_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/073/073_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/073/073_back_shiny_animated.gif"},"types":["Water","Poison"],"weaknesses":["Psychic","Electric","Ground"],
+"descriptions":["80개의 촉수가 자유롭게 늘어나거나 줄어들 수 있습니다. 독파리는 먹이를 뻗은 촉수 그물에 가두고 독침을 가합니다.", "독독의 머리에 있는 붉은 구체가 밝게 빛날 때, 조심하세요. 포켓몬이 초음파 폭발을 일으키려고 합니다."],
+"specie":"해파리","height":"55.0 kg (121.3 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"180",
+"growthRate":"느린"},"abilities":[{"name":"클리어바디","description":"상대가 능력을 떨어뜨릴 수 없다."},{"name":"해감액","description":"The oozed liquid has a strong stench, which damages attackers using any draining move."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"1","Ice":"½","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"072","name":"왕눈해","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/072.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/072.png","type":"FIRST"},{"number":"073","name":"독파리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/073.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/073.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[{"number":"072","name":"왕눈해","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/072.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/072.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":80,"attack":70,"defense":65,"spAtk":80,"spDef":120,"speed":100,"total":515},"cards":[{"number":"27","name":"독파리","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SWSH7_EN_27.png"},{"number":"41","name":"독파리","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM10_EN_41.png"},{"number":"61","name":"독파리","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM9_EN_61.png"},{"number":"24","name":"독파리","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/SM2_EN_24.png"},{"number":"72","name":"독파리","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/XY5_EN_72.png"},{"number":"50","name":"독파리","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/HGSS4_EN_50.png"},{"number":"51","name":"독파리","expansionName":"EX Hidden Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/EX5_EN_51.png"},{"number":"45","name":"독파리","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/EX12_EN_45.png"},{"number":"75","name":"독파리","expansionName":"Diamond & Pearl—Legends Awakened","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/073/DP6_EN_75.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/073.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"용해액","type":"Poison","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
+,{"level":1,"category":"변화","move":"미러타입","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"}
+,{"level":12,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":16,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"level":20,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":24,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":28,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"}
+,{"level":34,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"}
+,{"level":40,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"level":46,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"level":52,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"}
+,{"level":58,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":78,"category":"특수","move":"오물웨이브","type":"Poison","power":"95","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"경혈찌르기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"}
+,{"category":"특수","move":"오로라빔","type":"Ice","power":"65","accuracy":"100"}
+,{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}
+,{"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"변화","move":"Corrosive Gas","type":"Poison","power":"—","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

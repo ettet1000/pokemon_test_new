@@ -1,0 +1,70 @@
+{"number":"563","name":"데스니칸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/563.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/563.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/563/563_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/563/563_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/563/563_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/563/563_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/563/563_back_shiny_animated.gif"},"types":["Ghost"],"weaknesses":["Ghost","Dark"],
+"descriptions":["데스니칸이 고대 무덤을 장식하는 모습이 많이 묘사되어 있습니다. 옛날 왕의 부를 상징합니다.","금빛 몸을 가진 포켓몬입니다. 사람들은 그것이 한때 인간이었다는 것을 더 이상 기억하지 못한다고 말합니다."],
+"specie":"관","height":"76.5 kg (168.7 lbs)","weight":"1.7 m (5′07″)","breeding":{
+"egg":{"groups":["부정형","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"169",
+"growthRate":"중간 빠름"},"abilities":[{"name":"미라","description":"Contact with the Pokémon changes the attacker's Ability to Mummy."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"562","name":"데스마스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/562.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/562.png","type":"FIRST"},{"number":"563","name":"데스니칸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/563.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/563.png","type":"LAST","requirement":"Level 34"}],"previousEvolutions":[{"number":"562","name":"데스마스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/562.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/562.png"
+,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":58,"attack":50,"defense":145,"spAtk":95,"spDef":105,"speed":30,"total":483},"cards":[{"number":"100","name":"데스니칸","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/SM8_EN_100.png"},{"number":"56","name":"데스니칸","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/BW9_EN_56.png"},{"number":"57","name":"데스니칸","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/BW9_EN_57.png"},{"number":"52","name":"데스니칸","expansionName":"Black & White—Dark Explorers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/BW5_EN_52.png"},{"number":"46","name":"데스니칸","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/BW3_EN_46.png"},{"number":"47","name":"데스니칸","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/563/BW3_EN_47.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/563.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"나이트헤드","type":"Ghost","power":"—","accuracy":"100"},{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"},{"level":12,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"},{"level":16,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"level":20,"category":"변화","move":"트릭가드","type":"Fairy","power":"—","accuracy":"—"},{"level":24,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"},{"level":28,"category":"변화","move":"검은눈빛","type":"Normal","power":"—","accuracy":"—"},{"level":32,"category":"변화","move":"원념","type":"Ghost","power":"—","accuracy":"—"},{"level":38,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":44,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":50,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"},{"level":56,"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"},{"level":56,"category":"변화","move":"파워셰어","type":"Psychic","power":"—","accuracy":"—"},{"level":62,"category":"변화","move":"길동무","type":"Ghost","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":44,"category":"변화","move":"봉인"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":47,"category":"변화","move":"거짓울음"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":60,"category":"변화","move":"파워스웹"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":61,"category":"변화","move":"가드스웹"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":86,"category":"물리","move":"고스트다이브"
+,"type":"Ghost","power":"90","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭"
+,"type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":54,"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
+,"type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"추억의선물"
+,"type":"Dark","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Poltergeist"
+,"type":"Ghost","power":"110","accuracy":"90"}]
+,"evolution":[{"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_V"}

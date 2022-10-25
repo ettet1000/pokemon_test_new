@@ -1,0 +1,64 @@
+{"number":"844","name":"사다이사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/844.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/844.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/844/844_main.png"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+"descriptions":["몸 주위를 고속으로 회전하는 모래는 고층 빌딩도 산산조각낼 정도의 파괴력입니다.","모래주머니도 매우 거대해졌습니다. 몸 주변에 소용돌이치는 모래는 100만 톤을 넘습니다."],
+"specie":"모래뱀","height":"65.5 kg (144.4 lbs)","weight":"3.8 m (12′06″)","breeding":{
+"egg":{"groups":["드래곤","육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"179",
+"growthRate":"중간 빠름"},"abilities":[{"name":"탈피","description":"상태 이상을 회복할 때가 있다."},{"name":"모래뿜기","description":"The Pokémon creates a sandstorm when it's hit by an attack."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"0","Grass":"2","Ice":"2","Fighting":"1","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"843","name":"모래뱀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/843.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/843.png","type":"FIRST"},{"number":"844","name":"사다이사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/844.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/844.png","type":"LAST","requirement":"Level 36"}],"previousEvolutions":[{"number":"843","name":"모래뱀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/843.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/843.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[{"name":"거다이맥스 사다이사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/844_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/844_gigantamax_1.png"
+,"type":"GIGANTAMAX"}],"baseStats":{"hp":72,"attack":107,"defense":125,"spAtk":65,"spDef":70,"speed":71,"total":510},"cards":[{"number":"206","name":"사다이사 VMAX","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH6_EN_206.png"},{"number":"89","name":"사다이사 V","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH6_EN_89.png"},{"number":"90","name":"사다이사 VMAX","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH6_EN_90.png"},{"number":"175","name":"사다이사 V","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH6_EN_175.png"},{"number":"82","name":"사다이사","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH5_EN_82.png"},{"number":"SV071","name":"사다이사","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH45_EN_SV071.png"},{"number":"108","name":"사다이사 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH2_EN_108.png"},{"number":"184","name":"사다이사 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH2_EN_184.png"},{"number":"109","name":"사다이사","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH1_EN_109.png"},{"number":"110","name":"사다이사","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/844/SWSH1_EN_110.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/844.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"},{"level":1,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"로케트박치기","type":"Normal","power":"130","accuracy":"100"},{"level":1,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"},{"level":15,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"},{"level":20,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":25,"category":"변화","move":"뱀눈초리","type":"Normal","power":"—","accuracy":"100"},{"level":30,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"level":35,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"level":42,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"},{"level":49,"category":"변화","move":"똬리틀기","type":"Poison","power":"—","accuracy":"—"},{"level":51,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"},{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"},{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니"
+,"type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":10,"category":"물리","move":"지진"
+,"type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":24,"category":"물리","move":"역린"
+,"type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘"
+,"type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록"
+,"type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너"
+,"type":"Ground","power":"80","accuracy":"95"},
+{"technicalRecord":89,"category":"특수","move":"폭풍"
+,"type":"Flying","power":"110","accuracy":"70"},
+{"technicalRecord":94,"category":"물리","move":"10만마력"
+,"type":"Ground","power":"95","accuracy":"95"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스"
+,"type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"트림"
+,"type":"Poison","power":"120","accuracy":"90"}
+,{"category":"물리","move":"드래곤다이브"
+,"type":"Dragon","power":"100","accuracy":"75"}
+,{"category":"물리","move":"뒀다쓰기"
+,"type":"Normal","power":"140","accuracy":"100"}
+,{"category":"특수","move":"진흙뿌리기"
+,"type":"Ground","power":"20","accuracy":"100"}
+,{"category":"물리","move":"포이즌테일*"
+,"type":"Poison","power":"50","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Scale Shot"
+,"type":"Dragon","power":"25","accuracy":"90"}
+,{"category":"특수","move":"열사의대지"
+,"type":"Ground","power":"70","accuracy":"100"}
+,{"category":"물리","move":"Skitter Smack"
+,"type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

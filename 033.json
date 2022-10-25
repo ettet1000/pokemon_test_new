@@ -1,0 +1,58 @@
+{"number":"033","name":"니드리노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/033.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/033.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/033/033_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/033/033_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/033/033_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/033/033_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/033/033_back_shiny_animated.gif"},"types":["Poison"],"weaknesses":["Psychic","Ground"],
+"descriptions":["긴장하고 공격적으로 행동하는 것이 빠릅니다. 체내의 아드레날린 수치에 따라 독의 위력이 높아집니다.","다이아몬드보다 단단한 뿔을 가지고 돌을 부수며 돌을 찾아 돌아다닙니다."],
+"specie":"독침","height":"19.5 kg (43.0 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"egg":{"groups":["육상","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
+"training":{"evYield":"2 공격","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"128",
+"growthRate":"중간 느림"},"abilities":[{"name":"독가시","description":"접촉한 상대를 중독시킬 때가 있다."},{"name":"투쟁심","description":"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"032","name":"니드런♂","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/032.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/032.png","type":"FIRST"},{"number":"033","name":"니드리노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/033.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/033.png","type":"MIDDLE",
+"requirement":"Level 16"},{"number":"034","name":"니드킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/034.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/034.png","type":"LAST",
+"requirement":"달의돌 사용"}],"previousEvolutions":[{"number":"032","name":"니드런♂","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/032.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/032.png","type":"FIRST"}],"nextEvolutions":[{"number":"034","name":"니드킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/034.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/034.png","type":"LAST",
+"requirement":"달의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":61,"attack":72,"defense":57,"spAtk":55,"spDef":55,"speed":65,"total":365},"cards":[{"number":"58","name":"니드리노","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/SM9_EN_58.png"},{"number":"44","name":"니드리노","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/XY12_EN_44.png"},{"number":"44","name":"니드리노","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/XY11_EN_44.png"},{"number":"44","name":"니드리노","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/BW9_EN_44.png"},{"number":"46","name":"니드리노","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/HGSS4_EN_46.png"},{"number":"41","name":"니드리노","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/EX6_EN_41.png"},{"number":"35","name":"니드리노 δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/EX15_EN_35.png"},{"number":"57","name":"니드리노","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/DP3_EN_57.png"},{"number":"74","name":"니드리노","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/033/PL2_EN_74.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/033.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
+,{"level":15,"category":"물리","move":"마구찌르기","type":"Normal","power":"15","accuracy":"85"}
+,{"level":22,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"}
+,{"level":29,"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"level":36,"category":"물리","move":"뿔찌르기","type":"Normal","power":"65","accuracy":"100"}
+,{"level":43,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":50,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":57,"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"}
+,{"level":64,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"level":71,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":96,"category":"물리","move":"스마트호른","type":"Steel","power":"70","accuracy":"—"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너","type":"Ground","power":"80","accuracy":"95"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

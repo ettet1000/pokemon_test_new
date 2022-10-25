@@ -1,0 +1,66 @@
+{"number":"058","name":"가디","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/058.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/058.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/058/058_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/058/058_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/058/058_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/058/058_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/058/058_back_shiny_animated.gif"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+"descriptions":["충성심이 매우 강하여 어떤 적에게도 두려움 없이 짖어 자신의 트레이너를 해로부터 보호합니다.","용감하고 믿음직스러운 성격을 가지고 있습니다. 더 크고 더 강한 적들에게 두려움 없이 맞서 싸웁니다."],
+"specie":"강아지","height":"19.0 kg (41.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
+"training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"70",
+"growthRate":"느린"},"abilities":[{"name":"위협","description":"상대의 공격을 떨어뜨린다."},{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"1","Poison":"1","Ground":"2","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"058","name":"가디","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/058.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/058.png","type":"FIRST"},{"number":"059","name":"윈디","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/059.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/059.png","type":"LAST",
+"requirement":"불꽃의돌 사용"}],"previousEvolutions":[],"nextEvolutions":[{"number":"059","name":"윈디","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/059.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/059.png","type":"LAST",
+"requirement":"불꽃의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":70,"defense":45,"spAtk":70,"spDef":50,"speed":60,"total":350},"cards":[{"number":"27","name":"가디","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/SWSH2_EN_27.png"},{"number":"21","name":"가디","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/SM10_EN_21.png"},{"number":"21","name":"가디","expansionName":"Sun & Moon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/SM1_EN_21.png"},{"number":"17","name":"가디","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/XY12_EN_17.png"},{"number":"10","name":"가디","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/XY9_EN_10.png"},{"number":"RC4","name":"가디","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/BW11_EN_RC4.png"},{"number":"10","name":"가디","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/BW4_EN_10.png"},{"number":"11","name":"가디","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/BW4_EN_11.png"},{"number":"65","name":"가디","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/HGSS1_EN_65.png"},{"number":"65","name":"가디","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/058/EX2_EN_65.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/058.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":4,"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
+,{"level":8,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":12,"category":"물리","move":"화염자동차","type":"Fire","power":"60","accuracy":"100"}
+,{"level":16,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":20,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":24,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"level":28,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":36,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":40,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"level":44,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":48,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}
+,{"level":52,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":56,"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃","type":"Dark","power":"55","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":15,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":24,"category":"물리","move":"역린","type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":36,"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":43,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":53,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":55,"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":97,"category":"물리","move":"사이코팽","type":"Psychic","power":"85","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"category":"변화","move":"아침햇살","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

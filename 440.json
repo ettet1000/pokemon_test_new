@@ -1,0 +1,57 @@
+{"number":"440","name":"핑복","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/440.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/440.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/440/440_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/440/440_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/440/440_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/440/440_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/440/440_back_shiny_animated.gif"},"types":["Normal"],"weaknesses":["Fighting"],
+"descriptions":["핑복은 소중한 동그란 돌을 친한 사람에게 기꺼이 빌려주는데, 돌을 돌려주지 않으면 핑복이 울고 화를 냅니다.","핑복은 배 주머니에 달걀 모양의 돌을 넣어줍니다. 핑복은 이 돌을 소중히 여길 것입니다."],
+"specie":"소꿉놀이","height":"24.4 kg (53.8 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"1 HP","catchRate":"130 (17.0% 포켓볼과 함께,풀 HP)","baseFriendship":"140 (보통보다 높음)","baseExp":"110",
+"growthRate":"빠름"},"abilities":[{"name":"자연회복","description":"배틀에서 일단 물러나면 상태 이상이 회복된다."},{"name":"하늘의은총","description":"기술의 추가 효과가 나오기 쉽다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"440","name":"핑복","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/440.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/440.png","type":"FIRST"},{"number":"113","name":"럭키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/113.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/113.png","type":"MIDDLE",
+"requirement":"동글동글돌을 지니고, 낮"},{"number":"242","name":"해피너스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/242.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/242.png","type":"LAST",
+"requirement":"친밀도가 220 이상일 때"}],"previousEvolutions":[],"nextEvolutions":[{"number":"113","name":"럭키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/113.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/113.png","type":"MIDDLE",
+"requirement":"동글동글돌을 지니고, 낮"},{"number":"242","name":"해피너스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/242.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/242.png","type":"LAST",
+"requirement":"친밀도가 220 이상일 때"}],"superEvolutions":[],"baseStats":{"hp":100,"attack":5,"defense":5,"spAtk":15,"spDef":65,"speed":30,"total":220},"cards":[{"number":"161","name":"핑복","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/440/SM10_EN_161.png"},{"number":"52","name":"핑복","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/440/DP2_EN_52.png"},{"number":"76","name":"핑복","expansionName":"Platinum","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/440/PL1_EN_76.png"},{"number":"14","name":"핑복","expansionName":"POP Series 8","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/440/POP_8_14.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/440.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":8,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"}
+,{"level":12,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
+,{"level":16,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"level":20,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":15,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워","type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"중력","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
+,{"category":"물리","move":"지구던지기","type":"Fighting","power":"—","accuracy":"100"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

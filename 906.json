@@ -1,0 +1,30 @@
+{"number":"906",
+"name":"나오하",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/906.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/906_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/906_main.png"},
+"types":["Grass"],"weaknesses":["Poison","Rock","Steel","Electric","Ice"],
+"descriptions":["앞발을 꾹꾹 문질러서 주변에 달콤한 향기를 퍼뜨리는 것으로 상대를 매료시킵니다. 향기에는 아로마 테라피 효과가 있어서, 상대의 전의를 상실하게 만듭니다.","부드러운 털의 성분은 식물에 가까워서, 햇빛을 흡수해서 에너지를 만들 수 있습니다. 그루밍으로 털에 수분을 공급해서 광합성이 잘 되게 합니다."],
+"specie":"풀고양이","height":"4.1 kg (9.0 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":[""],"cycle":""},"genders":[{"type":"MALE","percentage":"0%"},
+{"type":"FEMALE","percentage":"0%"}]},
+"training":{"evYield":"","catchRate":"","baseFriendship":"","baseExp":"",
+"growthRate":""},"abilities":[{"name":"심록",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2"
+,"Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},
+"evolutionChain":[
+{"number":"906","name":"나오하","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/906.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/906_thumb.png","type":"FIRST"}
+],
+"previousEvolutions":[],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":0,"attack":0,"defense":0,"spAtk":0,"spDef":0,"speed":0,"total":0},
+"cards":[],
+"moves":{
+"levelUp":[],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IX"}

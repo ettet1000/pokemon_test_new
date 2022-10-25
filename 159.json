@@ -1,0 +1,85 @@
+{"number":"159","name":"엘리게이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/159.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/159.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/159/159_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/159/159_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/159/159_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/159/159_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/159/159_back_shiny_animated.gif"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["엘리게이는 한번 턱을 적에게 붙이면 절대 놓지 않습니다. 송곳니의 끝이 가시 낚싯바늘처럼 뒤로 갈려져 있기 때문에 가라앉으면 제거할 수 없게 됩니다."],
+"specie":"큰턱","height":"25.0 kg (55.1 lbs)","weight":"1.1 m (3′07″)","breeding":{
+"egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 공격, 1 방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"142",
+"growthRate":"중간 느림"},"abilities":[{"name":"급류","description":"위급할 때 물타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"158","name":"리아코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/158.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/158.png","type":"FIRST"},{"number":"159","name":"엘리게이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/159.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/159.png","type":"MIDDLE",
+"requirement":"Level 18"},{"number":"160","name":"장크로다일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/160.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/160.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[{"number":"158","name":"리아코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/158.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/158.png","type":"FIRST"}],"nextEvolutions":[{"number":"160","name":"장크로다일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/160.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/160.png","type":"LAST",
+"requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":65,"attack":80,"defense":80,"spAtk":59,"spDef":63,"speed":58,"total":405},"cards":[{"number":"23","name":"엘리게이","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/SM75_EN_23.png"},{"number":"19","name":"엘리게이","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/SM35_EN_19.png"},{"number":"16","name":"엘리게이","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/XY4_EN_16.png"},{"number":"41","name":"엘리게이","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/COL1_EN_41.png"},{"number":"38","name":"엘리게이","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/HGSS1_EN_38.png"},{"number":"38","name":"엘리게이","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/EX10_EN_38.png"},{"number":"27","name":"엘리게이 δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/EX15_EN_27.png"},{"number":"44","name":"엘리게이","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/159/DP2_EN_44.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/159.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":6,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":8,"category":"물리","move":"분노","type":"Normal","power":"20","accuracy":"100"}
+,{"level":13,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":15,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":21,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"level":24,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"level":30,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":33,"category":"물리","move":"야금야금","type":"Normal","power":"70","accuracy":"100"}
+,{"level":39,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":42,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":48,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}
+,{"level":51,"category":"물리","move":"아쿠아테일","type":"Water","power":"90","accuracy":"90"}
+,{"level":57,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"level":60,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":2,"category":"물리","move":"드래곤크루","type":"Dragon","power":"80","accuracy":"100"}
+,{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":7,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":13,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"}
+,{"technicalMachine":14,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":94,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
+,{"category":"물리","move":"아쿠아제트","type":"Water","power":"40","accuracy":"100"}
+,{"category":"변화","move":"블록","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"}
+,{"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
+,{"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"category":"물리","move":"메탈크로우","type":"Steel","power":"50","accuracy":"95"}
+,{"category":"변화","move":"흙놀이","type":"Ground","power":"—","accuracy":"—"}
+,{"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"category":"변화","move":"물놀이","type":"Water","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"아쿠아테일","type":"Water","power":"90","accuracy":"90"}
+,{"category":"변화","move":"블록","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"원한","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"}
+,{"category":"특수","move":"물의맹세","type":"Water","power":"80","accuracy":"100"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

@@ -1,0 +1,74 @@
+{"number":"054","name":"고라파덕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/054.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/054.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/054/054_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/054/054_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/054/054_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/054/054_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/054/054_back_shiny_animated.gif"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["고라파덕은 스트레스를 받을수록 두통이 심해집니다. 주변 사람들을 압도하기 위해 강렬한 정신력을 사용합니다.","고라파덕은 늘 두통에 시달립니다. 포켓몬이 이상한 힘을 폭발시키면 고통이 잠시 가라앉습니다."],
+"specie":"오리","height":"19.6 kg (43.2 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 특수공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"64",
+"growthRate":"중간 빠름"},"abilities":[{"name":"습기","description":"누구도 폭발 할 수 없게 된다."},{"name":"날씨부정","description":"날씨의 영향이 없어진다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"054","name":"고라파덕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/054.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/054.png","type":"FIRST"},{"number":"055","name":"골덕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/055.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/055.png","type":"LAST",
+"requirement":"Level 33"}],"previousEvolutions":[],"nextEvolutions":[{"number":"055","name":"골덕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/055.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/055.png","type":"LAST",
+"requirement":"Level 33"}],"superEvolutions":[],"baseStats":{"hp":50,"attack":52,"defense":48,"spAtk":65,"spDef":50,"speed":55,"total":320},"cards":[{"number":"24","name":"고라파덕","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SWSH7_EN_24.png"},{"number":"40","name":"고라파덕","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM12_EN_40.png"},{"number":"11","name":"고라파덕","expansionName":"Hidden Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM115_EN_11.png"},{"number":"217","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM11_EN_217.png"},{"number":"218","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM11_EN_218.png"},{"number":"239","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM11_EN_239.png"},{"number":"35","name":"야돈 & 고라파덕-GX","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM11_EN_35.png"},{"number":"SM199","name":"고라파덕","expansionName":"Detective 피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/DET_EN_SM199.png"},{"number":"7","name":"고라파덕","expansionName":"Detective 피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/DET_EN_7.png"},{"number":"26","name":"고라파덕","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/054/SM9_EN_26.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/054.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":3,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":6,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"level":9,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":12,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"level":15,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":18,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"}
+,{"level":21,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":24,"category":"물리","move":"아쿠아테일","type":"Water","power":"90","accuracy":"90"}
+,{"level":27,"category":"변화","move":"물붓기","type":"Water","power":"—","accuracy":"100"}
+,{"level":30,"category":"변화","move":"자기암시","type":"Normal","power":"—","accuracy":"—"}
+,{"level":34,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":36,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
+,{"level":39,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":2,"category":"물리","move":"고양이돈받기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":34,"category":"특수","move":"미래예지","type":"Psychic","power":"120","accuracy":"100"},
+{"technicalRecord":49,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"}
+,{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"물리","move":"크로스촙","type":"Fighting","power":"100","accuracy":"80"}
+,{"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"}
+,{"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"category":"변화","move":"심플빔","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

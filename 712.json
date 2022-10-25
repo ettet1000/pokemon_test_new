@@ -1,0 +1,56 @@
+{"number":"712","name":"꽁어름","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/712/712_main.png"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+"descriptions":["혹한의 지역에 서식합니다. 크레베이스의 등에 자신의 발을 얼어붙게 해 고정합니다.","그들은 주변 공기를 화씨 -150도까지 식히고 공기 중의 물을 얼음으로 얼려 갑옷으로 사용합니다."],
+"specie":"얼음덩이","height":"99.5 kg (219.4 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"마이페이스","description":"혼란 상태가 되지 않는다."},{"name":"아이스바디","description":"The Pokémon gradually regains HP in a hailstorm."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},"evolutionChain":[{"number":"712","name":"꽁어름","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png","type":"FIRST"},{"number":"713","name":"크레베이스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/713.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/713.png","type":"LAST","requirement":"Level 37"}],"previousEvolutions":[],"nextEvolutions":[{"number":"713","name":"크레베이스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/713.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/713.png"
+,"type":"LAST",
+"requirement":"Level 37"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":69,"defense":85,"spAtk":32,"spDef":35,"speed":28,"total":304},"cards":[{"number":"44","name":"꽁어름","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/SWSH7_EN_44.png"},{"number":"29","name":"꽁어름","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/SM6_EN_29.png"},{"number":"36","name":"꽁어름","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/XY11_EN_36.png"},{"number":"30","name":"꽁어름","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/712/XY2_EN_30.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/712.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"단단해지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":3,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":6,"category":"특수","move":"눈싸라기","type":"Ice","power":"40","accuracy":"100"},{"level":9,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":12,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"level":15,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":18,"category":"물리","move":"눈사태","type":"Ice","power":"60","accuracy":"100"},{"level":21,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"},{"level":24,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"},{"level":27,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":30,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"},{"level":33,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},{"level":36,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"},{"level":39,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},{"level":42,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기"
+,"type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인"
+,"type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":51,"category":"물리","move":"고드름침"
+,"type":"Ice","power":"25","accuracy":"100"}
+,{"technicalMachine":64,"category":"물리","move":"눈사태"
+,"type":"Ice","power":"60","accuracy":"100"}
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니"
+,"type":"Ice","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":4,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지"
+,"type":"Rock","power":"100","accuracy":"80"}]
+,"egg":[{"category":"변화","move":"오로라베일"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"category":"특수","move":"미러코트"
+,"type":"Psychic","power":"—","accuracy":"100"}
+,{"category":"변화","move":"흰안개"
+,"type":"Ice","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

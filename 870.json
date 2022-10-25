@@ -1,0 +1,60 @@
+{"number":"870","name":"대여르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/870.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/870.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/870/870_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+"descriptions":["6마리가 1마리의 포켓몬입니다. 대열을 바꿔가며 팀워크로 싸웁니다.","리더라고 불리는 1마리와 멤버라고 불리는 5마리로 이루어져 있습니다. 리더의 명령은 절대적입니다."],
+"specie":"진형","height":"62.0 kg (136.7 lbs)","weight":"3.0 m (9′10″)","breeding":{
+"egg":{"groups":["요정","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"2 공격, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"165",
+"growthRate":"중간 빠름"},"abilities":[{"name":"전투무장","description":"상대의 공격이 급소에 맞지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"870","name":"대여르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/870.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/870.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":65,"attack":100,"defense":100,"spAtk":70,"spDef":60,"speed":75,"total":470},"cards":[{"number":"83","name":"대여르","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH5_EN_83.png"},{"number":"SV074","name":"대여르","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH45_EN_SV074.png"},{"number":"SV115","name":"대여르 V","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH45_EN_SV115.png"},{"number":"109","name":"대여르","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH2_EN_109.png"},{"number":"110","name":"대여르 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH2_EN_110.png"},{"number":"185","name":"대여르 V","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/870/SWSH2_EN_185.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/870.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"물리","move":"바위깨기","type":"Fighting","power":"40","accuracy":"100"},{"level":10,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},{"level":15,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":20,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"},{"level":25,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},{"level":30,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},{"level":35,"category":"물리","move":"만나자마자","type":"Bug","power":"90","accuracy":"100"},{"level":40,"category":"변화","move":"배수의진","type":"Fighting","power":"—","accuracy":"—"},{"level":45,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":50,"category":"물리","move":"인파이트","type":"Fighting","power":"120","accuracy":"100"},{"level":55,"category":"물리","move":"메가폰","type":"Bug","power":"120","accuracy":"85"},{"level":60,"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다"
+,"type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인"
+,"type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":96,"category":"물리","move":"스마트호른"
+,"type":"Steel","power":"70","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":13,"category":"변화","move":"기충전"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":28,"category":"물리","move":"메가폰"
+,"type":"Bug","power":"120","accuracy":"85"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":48,"category":"변화","move":"벌크업"
+,"type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":53,"category":"물리","move":"인파이트"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기"
+,"type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기"
+,"type":"Dark","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

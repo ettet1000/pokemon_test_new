@@ -1,0 +1,66 @@
+{"number":"608","name":"램프라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/608.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/608.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/608/608_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/608/608_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/608/608_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/608/608_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/608/608_back_shiny_animated.gif"},"types":["Ghost","Fire"],"weaknesses":["Ghost","Dark","Ground","Water","Rock"],
+"descriptions":["등불인 척하며 도시에 숨어 있습니다. 죽음이 임박한 사람을 찾으면 조용히 뒤를 쫓습니다.","죽기 직전에 나타나기 때문에 죽음의 사자로 두려워합니다."],
+"specie":"램프","height":"13.0 kg (28.7 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"130",
+"growthRate":"중간 느림"},"abilities":[{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."},{"name":"불꽃몸","description":"접촉한 상대에게 화상을 입힐 때가 있다."}],"typesEffectiveness":{"Normal":"0","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"607","name":"불켜미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/607.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/607.png","type":"FIRST"},{"number":"608","name":"램프라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/608.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/608.png","type":"MIDDLE","requirement":"Level 41"},{"number":"609","name":"샹델라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/609.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/609.png","type":"LAST","requirement":"어둠의돌 사용"}],"previousEvolutions":[{"number":"607","name":"불켜미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/607.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/607.png"
+,"type":"FIRST"}],"nextEvolutions":[{"number":"609","name":"샹델라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/609.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/609.png"
+,"type":"LAST",
+"requirement":"어둠의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":40,"defense":60,"spAtk":95,"spDef":60,"speed":55,"total":370},"cards":[{"number":"32","name":"램프라","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/SWSH2_EN_32.png"},{"number":"29","name":"램프라","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/SM11_EN_29.png"},{"number":"102","name":"램프라","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/SM8_EN_102.png"},{"number":"12","name":"램프라","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/SM2_EN_12.png"},{"number":"49","name":"램프라","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/XY11_EN_49.png"},{"number":"42","name":"램프라","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/XY4_EN_42.png"},{"number":"15","name":"램프라","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/BW9_EN_15.png"},{"number":"22","name":"램프라","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/BW8_EN_22.png"},{"number":"19","name":"램프라","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/BW4_EN_19.png"},{"number":"59","name":"램프라","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/608/BW3_EN_59.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/608.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"},{"level":1,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"작아지기","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"특수","move":"스모그","type":"Poison","power":"30","accuracy":"70"},{"level":12,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"},{"level":16,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"},{"level":20,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"level":24,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"level":28,"category":"특수","move":"나이트헤드","type":"Ghost","power":"—","accuracy":"100"},{"level":32,"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"},{"level":36,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":40,"category":"특수","move":"연옥","type":"Fire","power":"100","accuracy":"50"},{"level":46,"category":"변화","move":"봉인","type":"Psychic","power":"—","accuracy":"—"},{"level":52,"category":"변화","move":"아픔나누기","type":"Normal","power":"—","accuracy":"—"},{"level":58,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"},{"level":64,"category":"변화","move":"추억의선물","type":"Dark","power":"—","accuracy":"100"}],"technicalMachine":[{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":13,"category":"특수","move":"회오리불꽃","type":"Fire","power":"35","accuracy":"85"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":44,"category":"변화","move":"봉인","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":92,"category":"특수","move":"매지컬플레임"
+,"type":"Fire","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":2,"category":"특수","move":"화염방사"
+,"type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":15,"category":"특수","move":"불대문자"
+,"type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭"
+,"type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":43,"category":"특수","move":"오버히트"
+,"type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지"
+,"type":"Psychic","power":"—","accuracy":"—"}]
+,"egg":[{"category":"변화","move":"녹기"
+,"type":"Poison","power":"—","accuracy":"—"}
+,{"category":"특수","move":"클리어스모그"
+,"type":"Poison","power":"50","accuracy":"—"}
+,{"category":"변화","move":"흑안개"
+,"type":"Ice","power":"—","accuracy":"—"}
+,{"category":"변화","move":"파워셰어"
+,"type":"Psychic","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"특수","move":"질투의불꽃"
+,"type":"Fire","power":"70","accuracy":"100"}
+,{"category":"물리","move":"Poltergeist"
+,"type":"Ghost","power":"110","accuracy":"90"}
+,{"category":"물리","move":"Skitter Smack"
+,"type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

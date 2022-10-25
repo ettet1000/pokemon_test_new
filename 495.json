@@ -1,0 +1,79 @@
+{"number":"495","name":"주리비얀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/495.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/495.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/495/495_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/495/495_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/495/495_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/495/495_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/495/495_back_shiny_animated.gif"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+"descriptions":["꼬리를 햇빛에 목욕시켜 광합성을 합니다. 몸이 좋지 않을 때는 꼬리가 처집니다.","햇빛에 노출되면 움직임이 빨라집니다. 손보다 덩굴을 더 능숙하게 사용합니다."],
+"specie":"풀뱀","height":"8.1 kg (17.9 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["육상","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"62",
+"growthRate":"중간 느림"},"abilities":[{"name":"심록","description":"위급할 때 풀타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"495","name":"주리비얀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/495.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/495.png","type":"FIRST"},{"number":"496","name":"샤비","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/496.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/496.png","type":"MIDDLE",
+"requirement":"Level 17"},{"number":"497","name":"샤로다","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/497.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/497.png","type":"LAST",
+"requirement":"Level 36"}],"previousEvolutions":[],"nextEvolutions":[{"number":"496","name":"샤비","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/496.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/496.png","type":"MIDDLE",
+"requirement":"Level 17"},{"number":"497","name":"샤로다","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/497.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/497.png","type":"LAST",
+"requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":45,"defense":55,"spAtk":45,"spDef":55,"speed":63,"total":308},"cards":[{"number":"1","name":"Venusaur & 주리비얀-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/SM12_EN_1.png"},{"number":"210","name":"Venusaur & 주리비얀-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/SM12_EN_210.png"},{"number":"249","name":"Venusaur & 주리비얀-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/SM12_EN_249.png"},{"number":"SM229","name":"Venusaur & 주리비얀-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/SMP_EN_SM229.png"},{"number":"5","name":"주리비얀","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/XY10_EN_5.png"},{"number":"BW01","name":"주리비얀","expansionName":"BW—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/BWP_EN_BW01.png"},{"number":"BW06","name":"주리비얀","expansionName":"BW—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/BWP_EN_BW06.png"},{"number":"6","name":"주리비얀","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/BW11_EN_6.png"},{"number":"RC1","name":"주리비얀","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/BW11_EN_RC1.png"},{"number":"11","name":"주리비얀","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/495/BW7_EN_11.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/495.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":7,"category":"물리","move":"덩굴채찍","type":"Grass","power":"45","accuracy":"100"}
+,{"level":10,"category":"물리","move":"김밥말이","type":"Normal","power":"15","accuracy":"90"}
+,{"level":13,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"}
+,{"level":16,"category":"특수","move":"그래스믹서","type":"Grass","power":"65","accuracy":"90"}
+,{"level":19,"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"}
+,{"level":22,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}
+,{"level":25,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}
+,{"level":28,"category":"물리","move":"리프블레이드","type":"Grass","power":"90","accuracy":"100"}
+,{"level":31,"category":"변화","move":"똬리틀기","type":"Poison","power":"—","accuracy":"—"}
+,{"level":34,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"level":37,"category":"특수","move":"쥐어짜기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":40,"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"}
+,{"level":43,"category":"특수","move":"리프스톰","type":"Grass","power":"130","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":4,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"트집","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":96,"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"유혹","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"뱀눈초리","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"}
+,{"category":"변화","move":"검은눈빛","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}
+,{"category":"물리","move":"자연의은혜","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"따라가때리기","type":"Dark","power":"40","accuracy":"100"}
+,{"category":"변화","move":"달콤한향기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"회오리","type":"Dragon","power":"40","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"아쿠아테일","type":"Water","power":"90","accuracy":"90"}
+,{"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"}
+,{"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"}
+,{"category":"변화","move":"위액","type":"Poison","power":"—","accuracy":"100"}
+,{"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"category":"특수","move":"풀의맹세","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"변화","move":"가로챔","type":"Dark","power":"—","accuracy":"—"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}

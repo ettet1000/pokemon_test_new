@@ -1,0 +1,65 @@
+{"number":"462","name":"자포코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/462.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/462.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/462/462_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/462/462_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/462/462_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/462/462_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/462/462_back_shiny_animated.gif"},"types":["Electric","Steel"],"weaknesses":["Fire","Fighting","Ground"],
+"descriptions":["특수한 자기장이 이 포켓몬의 몸의 분자 구조를 변화시켜 포켓몬의 진화를 이끈 것으로 생각됩니다.", "자포코일은 머리에 달린 안테나를 통해 우주에서 오는 신호를 받아 어떤 신비한 존재에게 조종당하고 있다는 이야기도 있습니다."],
+"specie":"자기장","height":"180.0 kg (396.8 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 특수공격","catchRate":"30 (3.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"241",
+"growthRate":"중간 빠름"},"abilities":[{"name":"옹골참","description":"일격으로 쓰러지지 않는다."},{"name":"자력","description":"강철의 포켓몬을 도망칠 수 없게 한다."}],"typesEffectiveness":{"Normal":"½","Fire":"2","Water":"1","Electric":"½","Grass":"½","Ice":"½","Fighting":"2","Poison":"0","Ground":"4","Flying":"¼","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"½","Dark":"1","Steel":"¼","Fairy":"½"},"evolutionChain":[{"number":"081","name":"코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/081.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/081.png","type":"FIRST"},{"number":"082","name":"레어코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/082.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/082.png","type":"MIDDLE",
+"requirement":"Level 30"},{"number":"462","name":"자포코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/462.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/462.png","type":"LAST",
+"requirement":"특수한 자기장이 있는 곳에서 레벨업"}],"previousEvolutions":[{"number":"081","name":"코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/081.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/081.png","type":"FIRST"},{"number":"082","name":"레어코일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/082.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/082.png","type":"MIDDLE",
+"requirement":"Level 30"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":70,"attack":70,"defense":115,"spAtk":130,"spDef":90,"speed":60,"total":535},"cards":[{"number":"SV29","name":"자포코일","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/SMA_EN_SV29.png"},{"number":"60","name":"자포코일","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/SM11_EN_60.png"},{"number":"36","name":"자포코일","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/SM6_EN_36.png"},{"number":"83","name":"자포코일","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/SM5_EN_83.png"},{"number":"54","name":"자포코일","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/XY8_EN_54.png"},{"number":"101","name":"자포코일-EX","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/XY2_EN_101.png"},{"number":"35","name":"자포코일-EX","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/XY2_EN_35.png"},{"number":"46","name":"자포코일","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/BW8_EN_46.png"},{"number":"47","name":"자포코일","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/BW8_EN_47.png"},{"number":"96","name":"자포코일","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/462/HGSS4_EN_96.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/462.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"자기장조작","type":"Electric","power":"—","accuracy":"—"}
+,{"level":1,"category":"특수","move":"미러코트","type":"Psychic","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"level":1,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"}
+,{"level":12,"category":"특수","move":"일렉트릭볼","type":"Electric","power":"—","accuracy":"100"}
+,{"level":16,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"}
+,{"level":20,"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"}
+,{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":28,"category":"변화","move":"전자부유","type":"Electric","power":"—","accuracy":"—"}
+,{"level":34,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"}
+,{"level":40,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}
+,{"level":46,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"}
+,{"level":52,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":58,"category":"변화","move":"록온","type":"Normal","power":"—","accuracy":"—"}
+,{"level":64,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}
+,{"technicalMachine":90,"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":19,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":80,"category":"특수","move":"일렉트릭볼","type":"Electric","power":"—","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

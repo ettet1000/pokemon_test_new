@@ -1,0 +1,200 @@
+{"number":"905",
+"name":"러브로스",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905.png",
+"thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png"
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_main.png"},
+"types":["Fairy","Flying"],"weaknesses":["Poison","Rock","Steel","Electric","Ice"],
+"descriptions":["바다를 건너 날아와 혹독한 겨울의 끝을 알립니다. 자애로움이 히스이 땅에 새로운 생명을 싹틔우게 했다는 전승이 있습니다. (화신폼)","여인의 형상에서 변한 모습. 목숨을 함부로 여기는 자가 있으면 운해로부터 나타나서 자비 없는 분노의 벌을 내립니다. (영물폼)"],
+"specie":"애증","height":"48.0 kg (105.8 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"30840 걸음"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"3 특수공격","catchRate":"","baseFriendship":"","baseExp":"",
+"growthRate":"느림"},"abilities":[{"name":"치유의마음",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"¼","Poison":"2"
+,"Ground":"","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"1","Dragon":"","Dark":"½","Steel":"2","Fairy":"1"},
+"evolutionChain":[
+{"number":"905","name":"러브로스","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905.png"
+,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png","type":"FIRST"}
+],
+"previousEvolutions":[],
+"nextEvolutions":[],"superEvolutions":[],
+"baseStats":{"hp":74,"attack":115,"defense":70,"spAtk":135,"spDef":80,"speed":106,"total":580},
+"cards":[{"number":"178","name":"러브로스","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_178.png"},
+{"number":"TG18","name":"러브로스","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_TG18.png"},
+{"number":"82","name":"러브로스 V","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_82.png"}
+],
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/905 Enamorus (Incarnate).ogg","moves":{
+"levelUp":[
+    {
+        "level": 1,
+        "move":"몸통박치기",
+        "type":"Normal",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 7,
+        "move":"물기",
+        "type":"Dark",
+        "category":"물리",
+        "power":"60",
+        "accuracy":"100"
+     },
+     {
+        "level": 11,
+        "move":"회오리",
+        "type":"Dragon",
+        "category":"특수",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "level": 14,
+        "move":"드레인키스",
+        "type":"Fairy",
+        "category":"특수",
+        "power":"50",
+        "accuracy":"100"
+     },
+     {
+        "level": 22,
+        "move":"철벽",
+        "type":"Steel",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "level": 31,
+        "move":"신통력",
+        "type":"Psychic",
+        "category":"특수",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "level": 41,
+        "move":"깨물어부수기",
+        "type":"Dark",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "level": 47,
+        "move":"문포스",
+        "type":"Fairy",
+        "category":"특수",
+        "power":"85",
+        "accuracy":"100"
+     },
+     {
+        "level": 52,
+        "move":"봄의폭풍",
+        "type":"Fairy",
+        "category":"특수",
+        "power":"95",
+        "accuracy":"80"
+     }
+],
+"technicalMachine":[],
+"technicalRecords":[]
+,"egg":[]
+,"tutor":[
+    {
+        "move":"명상",
+        "type":"Psychic",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"매지컬샤인",
+        "type":"Fairy",
+        "category":"특수",
+        "power":"75",
+        "accuracy":"100"
+     },
+     {
+        "move":"대지의힘",
+        "type":"Ground",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"기가임팩트",
+        "type":"Normal",
+        "category":"물리",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"파괴광선",
+        "type":"Normal",
+        "category":"특수",
+        "power":"120",
+        "accuracy":"90"
+     },
+     {
+        "move":"매지컬플레임",
+        "type":"Fire",
+        "category":"특수",
+        "power":"70",
+        "accuracy":"100"
+     },
+     {
+        "move":"치근거리기",
+        "type":"Fairy",
+        "category":"물리",
+        "power":"85",
+        "accuracy":"90"
+     },
+     {
+        "move":"파워시프트",
+        "type":"Normal",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"사이코키네시스",
+        "type":"Psychic",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"잠자기",
+        "type":"Psychic",
+        "category":"변화",
+        "power":"—",
+        "accuracy":"—"
+     },
+     {
+        "move":"바위깨기",
+        "type":"Fighting",
+        "category":"물리",
+        "power":"40",
+        "accuracy":"100"
+     },
+     {
+        "move":"오물폭탄",
+        "type":"Poison",
+        "category":"특수",
+        "power":"80",
+        "accuracy":"100"
+     },
+     {
+        "move":"사념의박치기",
+        "type":"Psychic",
+        "category":"물리",
+        "power":"80",
+        "accuracy":"90"
+     }  
+]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

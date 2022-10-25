@@ -1,0 +1,60 @@
+{"number":"795","name":"페로코체","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/795.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/795.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/795/795_main.png"},"types":["Bug","Fighting"],"weaknesses":["Fire","Psychic","Flying","요정"],
+"descriptions":["이 세계와는 성질이 다르고 위험하지만 원래 살던 세계에서는 흔히 볼 수 있는 생물인 듯합니다.","다른 세계에 사는 생명체입니다. 가늘고 부드러운 몸이지만, 강한 파워를 간직하고 있는 듯합니다."],
+"specie":"염미","height":"25.0 kg (55.1 lbs)","weight":"1.8 m (5′11″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"257",
+"growthRate":"느린"},"abilities":[{"name":"비스트부스트","description":"The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"1","Ground":"½","Flying":"4","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"795","name":"페로코체","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/795.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/795.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":71,"attack":137,"defense":37,"spAtk":137,"spDef":37,"speed":151,"total":570},"cards":[{"number":"SV5","name":"페로코체","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SMA_EN_SV5.png"},{"number":"192","name":"페로코체 & 매시붕-GX","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM10_EN_192.png"},{"number":"215","name":"페로코체 & 매시붕-GX","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM10_EN_215.png"},{"number":"1","name":"페로코체 & 매시붕-GX","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM10_EN_1.png"},{"number":"191","name":"페로코체 & 매시붕-GX","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM10_EN_191.png"},{"number":"11","name":"페로코체","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM6_EN_11.png"},{"number":"140","name":"페로코체-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM5_EN_140.png"},{"number":"158","name":"페로코체-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SM5_EN_158.png"},{"number":"SM115","name":"페로코체","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SMP_EN_SM115.png"},{"number":"SM66","name":"페로코체-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/795/SMP_EN_SM66.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/795.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"},{"level":1,"category":"물리","move":"고속스핀","type":"Normal","power":"50","accuracy":"100"},{"level":5,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":10,"category":"변화","move":"퍼스트가드","type":"Fighting","power":"—","accuracy":"—"},{"level":15,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"},{"level":20,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"},{"level":25,"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"},{"level":30,"category":"물리","move":"Triple Kick","type":"Fighting","power":"10","accuracy":"90"},{"level":35,"category":"물리","move":"짓밟기","type":"Normal","power":"65","accuracy":"100"},{"level":40,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":45,"category":"물리","move":"덤벼들기","type":"Bug","power":"80","accuracy":"100"},{"level":50,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"},{"level":55,"category":"변화","move":"스피드스웹","type":"Psychic","power":"—","accuracy":"—"},{"level":60,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"},{"level":65,"category":"변화","move":"나비춤","type":"Bug","power":"—","accuracy":"—"},{"level":70,"category":"물리","move":"무릎차기","type":"Fighting","power":"130","accuracy":"90"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":52,"category":"물리","move":"뛰어오르다"
+,"type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":62,"category":"변화","move":"스피드스웹"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":75,"category":"물리","move":"로킥"
+,"type":"Fighting","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트"
+,"type":"Electric","power":"55","accuracy":"95"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":24,"category":"물리","move":"역린"
+,"type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":53,"category":"물리","move":"인파이트"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석"
+,"type":"Bug","power":"90","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":81,"category":"물리","move":"속임수"
+,"type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":87,"category":"물리","move":"드릴라이너"
+,"type":"Ground","power":"80","accuracy":"95"},
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기"
+,"type":"Dark","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

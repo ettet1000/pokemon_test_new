@@ -1,0 +1,57 @@
+{"number":"490","name":"마나피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/490.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/490.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/490/490_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/490/490_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/490/490_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/490/490_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/490/490_back_shiny_animated.gif"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["어떤 포켓몬과도 결속할 수 있는 놀라운 힘으로 인생을 시작합니다.","어떤 포켓몬과도 결속할 수 있는 놀라운 힘을 갖고 태어납니다."],
+"specie":"회유","height":"1.4 kg (3.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["요정","수중1"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 HP","catchRate":"3 (0.4% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"270",
+"growthRate":"느린"},"abilities":[{"name":"촉촉바디","description":"Heals status conditions if it's raining."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"490","name":"마나피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/490.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/490.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":100,"attack":100,"defense":100,"spAtk":100,"spDef":100,"speed":100,"total":600},"cards":[{"number":"24","name":"마나피","expansionName":"Shining Fates","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/SWSH45_EN_24.png"},{"number":"42","name":"마나피","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/SM5_EN_42.png"},{"number":"25","name":"마나피","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/SM35_EN_25.png"},{"number":"116","name":"마나피-EX","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/XY9_EN_116.png"},{"number":"32","name":"마나피-EX","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/XY9_EN_32.png"},{"number":"56","name":"마나피","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/XY5_EN_56.png"},{"number":"XY113","name":"마나피","expansionName":"XY—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/XYP_EN_XY113.png"},{"number":"34","name":"마나피","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/BW8_EN_34.png"},{"number":"3","name":"마나피","expansionName":"HS—Unleashed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/HGSS2_EN_3.png"},{"number":"9","name":"마나피","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/490/DP1_EN_9.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/490.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"거품","type":"Water","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"반딧불","type":"Bug","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"물놀이","type":"Water","power":"—","accuracy":"—"}
+,{"level":9,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"level":16,"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"level":24,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":31,"category":"변화","move":"녹기","type":"Poison","power":"—","accuracy":"—"}
+,{"level":39,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"level":46,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}
+,{"level":54,"category":"변화","move":"아쿠아링","type":"Water","power":"—","accuracy":"—"}
+,{"level":61,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"level":69,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"level":76,"category":"변화","move":"하트스웹","type":"Psychic","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":4,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":7,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":13,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"}
+,{"technicalMachine":14,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"}
+,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":29,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"}
+,{"technicalMachine":30,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":77,"category":"변화","move":"자기암시","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":89,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":94,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":99,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

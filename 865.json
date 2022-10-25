@@ -1,0 +1,68 @@
+{"number":"865","name":"창파나이트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/865.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/865.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/865/865_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+"descriptions":["단단한 파잎으로 공격을 받아넘기고 날카로운 줄기로 반격합니다. 파는 무기인 동시에 식재료입니다.","많은 싸움에서 살아남은 자만이 이 모습으로 진화합니다. 파가 시들면 전장을 떠납니다."],
+"specie":"청둥오리","height":"117.0 kg (257.9 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["육상","비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"177",
+"growthRate":"중간 빠름"},"abilities":[{"name":"불굴의마음","description":"The Pokémon's determination boosts the Speed stat each time the Pokémon flinches."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":62,"attack":135,"defense":95,"spAtk":68,"spDef":82,"speed":65,"total":507},"cards":[{"number":"79","name":"Galarian Sirfetch’d","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSH6_EN_79.png"},{"number":"SV064","name":"Galarian Sirfetch’d","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSH45_EN_SV064.png"},{"number":"174","name":"Galarian Sirfetch’d V","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSH4_EN_174.png"},{"number":"98","name":"Galarian Sirfetch’d","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSH3_EN_98.png"},{"number":"SWSH043","name":"Galarian Sirfetch’d V","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSHP_EN_SWSH043.png"},{"number":"95","name":"Galarian 창파나이트","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/865/SWSH2_EN_95.png"}],"moves":{
+"levelUp":[{"level":1,"category":"물리","move":"만나자마자","type":"Bug","power":"90","accuracy":"100"},{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":1,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"},{"level":15,"category":"물리","move":"바위깨기","type":"Fighting","power":"40","accuracy":"100"},{"level":20,"category":"물리","move":"세차게휘두르기","type":"Dark","power":"60","accuracy":"100"},{"level":25,"category":"변화","move":"판별","type":"Fighting","power":"—","accuracy":"—"},{"level":30,"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"},{"level":35,"category":"변화","move":"안개제거","type":"Flying","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"level":45,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},{"level":50,"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"},{"level":55,"category":"물리","move":"리프블레이드","type":"Grass","power":"90","accuracy":"100"},{"level":60,"category":"특수","move":"목숨걸기","type":"Fighting","power":"—","accuracy":"100"},{"level":65,"category":"물리","move":"브레이브버드","type":"Flying","power":"120","accuracy":"100"},{"level":70,"category":"물리","move":"스타어설트","type":"Fighting","power":"150","accuracy":"100"}],"technicalMachine":[{"technicalMachine":12,"category":"물리","move":"솔라블레이드","type":"Grass","power":"125","accuracy":"100"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":79,"category":"물리","move":"원수갚기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":13,"category":"변화","move":"기충전"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":50,"category":"물리","move":"리프블레이드"
+,"type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":53,"category":"물리","move":"인파이트"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기"
+,"type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":66,"category":"물리","move":"브레이브버드"
+,"type":"Flying","power":"120","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":95,"category":"물리","move":"지옥찌르기"
+,"type":"Dark","power":"80","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"카운터"
+,"type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"물리","move":"탐내다"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"category":"변화","move":"저주"
+,"type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"이판사판태클"
+,"type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"페인트"
+,"type":"Normal","power":"30","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"깜짝베기"
+,"type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"전광석화"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"category":"변화","move":"퍼스트가드"
+,"type":"Fighting","power":"—","accuracy":"—"}
+,{"category":"변화","move":"심플빔"
+,"type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"불새"
+,"type":"Flying","power":"140","accuracy":"90"}]
+,"tutor":[{"category":"변화","move":"Coaching"
+,"type":"Fighting","power":"—","accuracy":"—"}
+,{"category":"물리","move":"Dual Wingbeat"
+,"type":"Flying","power":"40","accuracy":"90"}
+,{"category":"물리","move":"Grassy Glide"
+,"type":"Grass","power":"70","accuracy":"100"}]
+,"evolution":[{"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VIII"}

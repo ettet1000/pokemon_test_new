@@ -1,0 +1,63 @@
+{"number":"029","name":"니드런♀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/029.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/029.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/029/029_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/029/029_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/029/029_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/029/029_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/029/029_back_shiny_animated.gif"},"types":["Poison"],"weaknesses":["Psychic","Ground"],
+"descriptions":["단단한 앞니를 사용하여 열매를 부수고 먹습니다. 암컷 니드런의 뿔 끝은 수컷의 뿔보다 조금 더 둥급니다.","암컷은 수컷보다 냄새에 더 민감합니다. 먹이를 찾는 동안 그들은 수염을 사용하여 바람의 방향을 확인하고 포식자의 바람을 피합니다."],
+"specie":"독침","height":"7.0 kg (15.4 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["육상","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"1 HP","catchRate":"235 (30.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"55",
+"growthRate":"중간 느림"},"abilities":[{"name":"독가시","description":"접촉한 상대를 중독시킬 때가 있다."},{"name":"투쟁심","description":"Becomes competitive and deals more damage to Pokémon of the same gender, but deals less to Pokémon of the opposite gender."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½","Ground":"2","Flying":"1","Psychic":"2","Bug":"½","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"029","name":"니드런♀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/029.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/029.png","type":"FIRST"},{"number":"030","name":"니드리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/030.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/030.png","type":"MIDDLE",
+"requirement":"Level 16"},{"number":"031","name":"니드퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/031.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/031.png","type":"LAST",
+"requirement":"달의돌 사용"}],"previousEvolutions":[],"nextEvolutions":[{"number":"030","name":"니드리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/030.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/030.png","type":"MIDDLE",
+"requirement":"Level 16"},{"number":"031","name":"니드퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/031.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/031.png","type":"LAST",
+"requirement":"달의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":55,"attack":47,"defense":52,"spAtk":40,"spDef":40,"speed":41,"total":275},"cards":[{"number":"54","name":"니드런♀","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/SM9_EN_54.png"},{"number":"66","name":"니드런♀","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/XY5_EN_66.png"},{"number":"40","name":"니드런♀","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/BW9_EN_40.png"},{"number":"69","name":"니드런♀","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/HGSS4_EN_69.png"},{"number":"70","name":"니드런♀","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/EX6_EN_70.png"},{"number":"56","name":"니드런♀ δ","expansionName":"EX Dragon Frontiers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/EX15_EN_56.png"},{"number":"91","name":"니드런♀","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/DP2_EN_91.png"},{"number":"71","name":"니드런♀","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/029/PL2_EN_71.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/029.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
+,{"level":5,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":10,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":15,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":20,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"}
+,{"level":25,"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"}
+,{"level":30,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":35,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":40,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":45,"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"}
+,{"level":50,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":55,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":37,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":91,"category":"변화","move":"베놈트랩","type":"Poison","power":"—","accuracy":"100"}]
+,"egg":[{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"독엄니","type":"Poison","power":"50","accuracy":"100"}
+,{"category":"물리","move":"포이즌테일*","type":"Poison","power":"50","accuracy":"100"}
+,{"category":"물리","move":"로케트박치기","type":"Normal","power":"130","accuracy":"100"}
+,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

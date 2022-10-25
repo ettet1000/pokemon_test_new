@@ -1,0 +1,69 @@
+{"number":"138","name":"암나이트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/138.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/138.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/138/138_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/138/138_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/138/138_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/138/138_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/138/138_back_shiny_animated.gif"},"types":["Rock","Water"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+"descriptions":["이 포켓몬은 고대 멸종된 종의 일원입니다. 10개의 촉수로 물 위를 노를 저으며 마치 표류하는 것처럼 보입니다.","일부 암나이트가 복원된 후 탈출하거나 사람에 의해 야생으로 방출되기 때문에 이 종들이 문제가 되고 있습니다."],
+"specie":"소용돌이","height":"7.5 kg (16.5 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["수중1","수중3"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"71",
+"growthRate":"중간 빠름"},"abilities":[{"name":"조가비갑옷","description":"A hard shell protects the Pokémon from critical hits."},{"name":"쓱쓱","description":"비가 올 때 스피드가 올라간다."}],"typesEffectiveness":{"Normal":"½","Fire":"¼","Water":"1","Electric":"2","Grass":"4","Ice":"½","Fighting":"2","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"138","name":"암나이트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/138.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/138.png","type":"FIRST"},{"number":"139","name":"암스타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/139.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/139.png","type":"LAST",
+"requirement":"Level 40"}],"previousEvolutions":[],"nextEvolutions":[{"number":"139","name":"암스타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/139.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/139.png","type":"LAST",
+"requirement":"Level 40"}],"superEvolutions":[],"baseStats":{"hp":35,"attack":40,"defense":100,"spAtk":90,"spDef":55,"speed":35,"total":355},"cards":[{"number":"75","name":"암나이트","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/SM9_EN_75.png"},{"number":"17","name":"암나이트","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/XY10_EN_17.png"},{"number":"70","name":"암나이트","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/EX2_EN_70.png"},{"number":"60","name":"암나이트","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/EX12_EN_60.png"},{"number":"74","name":"암나이트 δ","expansionName":"EX Holon Phantoms","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/EX13_EN_74.png"},{"number":"56","name":"암나이트","expansionName":"EX Power Keepers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/EX16_EN_56.png"},{"number":"69","name":"암나이트","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/DP5_EN_69.png"},{"number":"70","name":"암나이트","expansionName":"Platinum 아르세우스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/138/PL4_EN_70.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/138.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"조이기","type":"Normal","power":"15","accuracy":"85"}
+,{"level":1,"category":"변화","move":"껍질에숨기","type":"Water","power":"—","accuracy":"—"}
+,{"level":5,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
+,{"level":10,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":15,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":20,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":25,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"level":30,"category":"특수","move":"원시의힘","type":"Rock","power":"60","accuracy":"100"}
+,{"level":35,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"level":41,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"level":45,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"level":50,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"}
+,{"level":55,"category":"변화","move":"껍질깨기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":60,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}]
+,"technicalMachine":[{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":54,"category":"물리","move":"락블레스트","type":"Rock","power":"25","accuracy":"90"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":23,"category":"변화","move":"압정뿌리기","type":"Ground","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":46,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"오로라빔","type":"Ice","power":"65","accuracy":"100"}
+,{"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"category":"변화","move":"미러타입","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"힘껏치기","type":"Normal","power":"80","accuracy":"75"}
+,{"category":"변화","move":"초음파","type":"Normal","power":"—","accuracy":"55"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"Meteor Beam","type":"Rock","power":"120","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

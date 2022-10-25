@@ -1,0 +1,67 @@
+{"number":"233","name":"폴리곤2","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/233.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/233.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/233/233_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/233/233_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/233/233_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/233/233_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/233/233_back_shiny_animated.gif"},"types":["Normal"],"weaknesses":["Fighting"],
+"descriptions":["폴리곤2에 인공지능이 구현된 후, 포켓몬은 다른 폴리곤2만이 이해할 수 있는 이상한 언어를 사용하기 시작했습니다.","특수 데이터로 업데이트 된 폴리곤입니다. 폴리곤2는 다양한 주제를 스스로 배우며 성장합니다."],
+"specie":"가상","height":"32.5 kg (71.7 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"2 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"180",
+"growthRate":"중간 빠름"},"abilities":[{"name":"트레이스","description":"상대와 같은 특성이 된다."},{"name":"다운로드","description":"Compares an opposing Pokémon's Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"137","name":"폴리곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/137.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/137.png","type":"FIRST"},{"number":"233","name":"폴리곤2","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/233.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/233.png","type":"MIDDLE",
+"requirement":"업그레이드를 지니게 한 뒤 통신교환"},{"number":"474","name":"폴리곤-Z","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/474.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/474.png","type":"LAST",
+"requirement":"괴상한패치를 지니게 한 뒤 통신교환"}],"previousEvolutions":[{"number":"137","name":"폴리곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/137.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/137.png","type":"FIRST"}],"nextEvolutions":[{"number":"474","name":"폴리곤-Z","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/474.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/474.png","type":"LAST",
+"requirement":"괴상한패치를 지니게 한 뒤 통신교환"}],"superEvolutions":[],"baseStats":{"hp":85,"attack":80,"defense":90,"spAtk":105,"spDef":95,"speed":60,"total":515},"cards":[{"number":"117","name":"폴리곤2","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/SWSH6_EN_117.png"},{"number":"156","name":"폴리곤2","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/SM10_EN_156.png"},{"number":"104","name":"폴리곤2","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/SM3_EN_104.png"},{"number":"65","name":"폴리곤2","expansionName":"XY—Ancient Origins","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/XY7_EN_65.png"},{"number":"HGSS23","name":"폴리곤2","expansionName":"HS—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/HSP_EN_HGSS23.png"},{"number":"12","name":"폴리곤2","expansionName":"EX Unseen Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/EX10_EN_12.png"},{"number":"25","name":"폴리곤2","expansionName":"EX Delta Species","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/EX11_EN_25.png"},{"number":"49","name":"폴리곤2","expansionName":"Diamond & Pearl—Great Encounters","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/233/DP4_EN_49.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/233.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"텍스처","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"전자부유","type":"Electric","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"리사이클","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":15,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":20,"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"}
+,{"level":25,"category":"변화","move":"텍스처2","type":"Normal","power":"—","accuracy":"—"}
+,{"level":30,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":35,"category":"변화","move":"HP회복","type":"Normal","power":"—","accuracy":"—"}
+,{"level":40,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}
+,{"level":45,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"}
+,{"level":50,"category":"변화","move":"매직코트","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":55,"category":"변화","move":"록온","type":"Normal","power":"—","accuracy":"—"}
+,{"level":60,"category":"특수","move":"전자포","type":"Electric","power":"120","accuracy":"50"}
+,{"level":65,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":60,"category":"변화","move":"파워스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":61,"category":"변화","move":"가드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":62,"category":"변화","move":"스피드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}
+,{"technicalMachine":93,"category":"변화","move":"괴전파","type":"Electric","power":"—","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":19,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":81,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

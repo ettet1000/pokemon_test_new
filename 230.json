@@ -1,0 +1,72 @@
+{"number":"230","name":"킹드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/230.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/230.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/230/230_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/230/230_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/230/230_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/230/230_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/230/230_back_shiny_animated.gif"},"types":["Water","Dragon"],"weaknesses":["Fairy","Dragon"],
+"descriptions":["이 포켓몬이 흘린 비늘은 왕족에게 선물로 주어질 정도로 화려합니다.","바다에 폭풍우가 몰아치면 이 포켓몬은 수면에 모습을 드러냅니다. 킹드라와 망나뇽이 만나면 치열한 전투가 벌어집니다."],
+"specie":"드래곤","height":"152.0 kg (335.1 lbs)","weight":"1.8 m (5′11″)","breeding":{
+"egg":{"groups":["드래곤","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격, 1 특수공격, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"243",
+"growthRate":"중간 빠름"},"abilities":[{"name":"쓱쓱","description":"비가 올 때 스피드가 올라간다."},{"name":"스나이퍼","description":"Powers up moves if they become critical hits when attacking."}],"typesEffectiveness":{"Normal":"1","Fire":"¼","Water":"¼","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"½","Fairy":"2"},"evolutionChain":[{"number":"116","name":"쏘드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/116.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/116.png","type":"FIRST"},{"number":"117","name":"시드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/117.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/117.png","type":"MIDDLE",
+"requirement":"Level 32"},{"number":"230","name":"킹드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/230.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/230.png","type":"LAST",
+"requirement":"용의비늘을 지니게 한 뒤 통신교환"}],"previousEvolutions":[{"number":"116","name":"쏘드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/116.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/116.png","type":"FIRST"},{"number":"117","name":"시드라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/117.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/117.png","type":"MIDDLE",
+"requirement":"Level 32"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":75,"attack":95,"defense":95,"spAtk":95,"spDef":95,"speed":85,"total":540},"cards":[{"number":"33","name":"킹드라","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/SWSH5_EN_33.png"},{"number":"18","name":"킹드라-GX","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/SM75_EN_18.png"},{"number":"66","name":"킹드라-GX","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/SM75_EN_66.png"},{"number":"31","name":"킹드라","expansionName":"Burning Shadows","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/SM3_EN_31.png"},{"number":"SM155","name":"킹드라-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/SMP_EN_SM155.png"},{"number":"122","name":"킹드라-EX","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/XY10_EN_122.png"},{"number":"73","name":"킹드라-EX","expansionName":"XY—Fates Collide","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/XY10_EN_73.png"},{"number":"107","name":"킹드라","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/XY5_EN_107.png"},{"number":"108","name":"킹드라","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/XY5_EN_108.png"},{"number":"XY39","name":"킹드라","expansionName":"XY—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/230/XYP_EN_XY39.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/230.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"회오리","type":"Dragon","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"물대포","type":"Water","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"level":1,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}
+,{"level":15,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":20,"category":"특수","move":"용의숨결","type":"Dragon","power":"60","accuracy":"100"}
+,{"level":25,"category":"특수","move":"거품광선","type":"Water","power":"65","accuracy":"100"}
+,{"level":30,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":37,"category":"변화","move":"예민해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":44,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"}
+,{"level":51,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}
+,{"level":58,"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"}
+,{"level":65,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"변화","move":"싸라기눈","type":"Ice","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":45,"category":"물리","move":"다이빙","type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":52,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}
+,{"technicalMachine":55,"category":"특수","move":"소금물","type":"Water","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":99,"category":"물리","move":"와이드브레이커","type":"Dragon","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":13,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":16,"category":"물리","move":"폭포오르기","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":24,"category":"물리","move":"역린","type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":51,"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"},
+{"technicalRecord":62,"category":"특수","move":"용의파동","type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":84,"category":"특수","move":"열탕","type":"Water","power":"80","accuracy":"100"},
+{"technicalRecord":89,"category":"특수","move":"폭풍","type":"Flying","power":"110","accuracy":"70"},
+{"technicalRecord":98,"category":"물리","move":"아쿠아브레이크","type":"Water","power":"85","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"오로라빔","type":"Ice","power":"65","accuracy":"100"}
+,{"category":"특수","move":"클리어스모그","type":"Poison","power":"50","accuracy":"—"}
+,{"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"대포무노포","type":"Water","power":"65","accuracy":"85"}
+,{"category":"변화","move":"튀어오르기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Flip Turn","type":"Water","power":"60","accuracy":"100"}
+,{"category":"물리","move":"Scale Shot","type":"Dragon","power":"25","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

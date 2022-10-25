@@ -1,0 +1,77 @@
+{"number":"657","name":"개굴반장","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/657.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/657.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/657/657_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+"descriptions":["그 신속성은 타의 추종을 불허합니다. 1분 만에 2,000피트 이상의 타워를 확장할 수 있습니다.","정확한 제어로 거품으로 덮인 자갈을 던질 수 있으며 최대 100피트 떨어진 빈 캔을 칠 수 있습니다."],
+"specie":"거품개구리","height":"10.9 kg (24.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"2 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"142",
+"growthRate":"중간 느림"},"abilities":[{"name":"급류","description":"위급할 때 물타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"656","name":"개구마르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/656.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/656.png","type":"FIRST"},{"number":"657","name":"개굴반장","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/657.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/657.png","type":"MIDDLE","requirement":"Level 16"},{"number":"658","name":"개굴닌자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/658.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/658.png","type":"LAST","requirement":"Level 36"}],"previousEvolutions":[{"number":"656","name":"개구마르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/656.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/656.png"
+,"type":"FIRST"}],"nextEvolutions":[{"number":"658","name":"개굴닌자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/658.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/658.png"
+,"type":"LAST",
+"requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":54,"attack":63,"defense":52,"spAtk":83,"spDef":56,"speed":97,"total":405},"cards":[{"number":"SV12","name":"개굴반장","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/SMA_EN_SV12.png"},{"number":"52","name":"개굴반장","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/SM10_EN_52.png"},{"number":"23","name":"개굴반장","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/SM6_EN_23.png"},{"number":"39","name":"개굴반장","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/XY9_EN_39.png"},{"number":"47","name":"개굴반장","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/XY8_EN_47.png"},{"number":"13","name":"개굴반장","expansionName":"XY—Kalos Starter Set","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/XY0_EN_13.png"},{"number":"40","name":"개굴반장","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/657/XY1_EN_40.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/657.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"거품","type":"Water","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"막치기","type":"Normal","power":"40","accuracy":"100"},{"level":5,"category":"특수","move":"거품","type":"Water","power":"40","accuracy":"100"},{"level":8,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":10,"category":"물리","move":"핥기","type":"Ghost","power":"30","accuracy":"100"},{"level":14,"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"},{"level":19,"category":"변화","move":"연막","type":"Normal","power":"—","accuracy":"100"},{"level":23,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"},{"level":28,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"},{"level":33,"category":"물리","move":"떨어뜨리기","type":"Rock","power":"50","accuracy":"100"},{"level":40,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},{"level":45,"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"},{"level":50,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"level":56,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"}],"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"},{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"},{"technicalMachine":12,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":13,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},{"technicalMachine":14,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":23,"category":"물리","move":"떨어뜨리기","type":"Rock","power":"50","accuracy":"100"},{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":46,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":48,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":49,"category":"특수","move":"에코보이스"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":55,"category":"특수","move":"열탕"
+,"type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기"
+,"type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":62,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":80,"category":"물리","move":"스톤샤워"
+,"type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기"
+,"type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기"
+,"type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":89,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":94,"category":"특수","move":"파도타기"
+,"type":"Water","power":"90","accuracy":"100"}
+,{"technicalMachine":97,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"폭포오르기"
+,"type":"Water","power":"80","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기"
+,"type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"기프트패스"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"보호색"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"마음의눈"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"흙놀이"
+,"type":"Ground","power":"—","accuracy":"—"}
+,{"category":"물리","move":"그로우펀치"
+,"type":"Fighting","power":"40","accuracy":"100"}
+,{"category":"변화","move":"독압정"
+,"type":"Poison","power":"—","accuracy":"—"}
+,{"category":"변화","move":"물놀이"
+,"type":"Water","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"뛰어오르다"
+,"type":"Flying","power":"85","accuracy":"85"}
+,{"category":"물리","move":"더스트슈트"
+,"type":"Poison","power":"120","accuracy":"80"}
+,{"category":"물리","move":"냉동펀치"
+,"type":"Ice","power":"75","accuracy":"100"}
+,{"category":"특수","move":"얼다바람"
+,"type":"Ice","power":"55","accuracy":"95"}
+,{"category":"물리","move":"안다리걸기"
+,"type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"역할"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"변화","move":"가로챔"
+,"type":"Dark","power":"—","accuracy":"—"}
+,{"category":"특수","move":"코골기"
+,"type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"원한"
+,"type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"특수","move":"물의맹세"
+,"type":"Water","power":"80","accuracy":"100"}
+,{"category":"특수","move":"물의파동"
+,"type":"Water","power":"60","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

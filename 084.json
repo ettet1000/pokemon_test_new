@@ -1,0 +1,30 @@
+{"number":"084","name":"두두","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/084.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/084.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/084/084_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/084/084_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/084/084_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/084/084_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/084/084_back_shiny_animated.gif"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+"descriptions":["짧은 날개는 비행을 어렵게 합니다. 대신, 이 포켓몬은 발달된 다리로 고속으로 달립니다."],
+"specie":"쌍둥이새","height":"39.2 kg (86.4 lbs)","weight":"1.4 m (4′07″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"62",
+"growthRate":"중간 빠름"},"abilities":[{"name":"도주","description":"야생 포켓몬으로부터 반드시 도망칠 수 있다."},{"name":"일찍기상","description":"잠듦 상태에서 빨리 깨어난다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"084","name":"두두","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/084.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/084.png","type":"FIRST"},{"number":"085","name":"두트리오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/085.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/085.png","type":"LAST",
+"requirement":"Level 31"}],"previousEvolutions":[],"nextEvolutions":[{"number":"085","name":"두트리오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/085.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/085.png","type":"LAST",
+"requirement":"Level 31"}],"superEvolutions":[],"baseStats":{"hp":35,"attack":85,"defense":45,"spAtk":35,"spDef":35,"speed":75,"total":310},"cards":[{"number":"150","name":"두두","expansionName":"Unbroken Bonds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/SM10_EN_150.png"},{"number":"112","name":"Imakuni?'s 두두","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/XY12_EN_112.png"},{"number":"69","name":"두두","expansionName":"XY—Evolutions","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/XY12_EN_69.png"},{"number":"55","name":"두두","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/G1_EN_55.png"},{"number":"115","name":"두두","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/XY8_EN_115.png"},{"number":"116","name":"두두","expansionName":"XY–BREAKthrough","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/XY8_EN_116.png"},{"number":"98","name":"두두","expansionName":"XY","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/XY1_EN_98.png"},{"number":"99","name":"두두","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/BW8_EN_99.png"},{"number":"45","name":"두두","expansionName":"HS—Undaunted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/HGSS3_EN_45.png"},{"number":"60","name":"두두","expansionName":"EX Hidden Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/084/EX5_EN_60.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/084.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"}
+,{"level":5,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":10,"category":"물리","move":"분노","type":"Normal","power":"20","accuracy":"100"}
+,{"level":16,"category":"물리","move":"마구찌르기","type":"Normal","power":"15","accuracy":"85"}
+,{"level":22,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":27,"category":"물리","move":"회전부리","type":"Flying","power":"80","accuracy":"100"}
+,{"level":32,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"level":38,"category":"물리","move":"점프킥","type":"Fighting","power":"100","accuracy":"95"}
+,{"level":44,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":9,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":14,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":50,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

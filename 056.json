@@ -1,0 +1,47 @@
+{"number":"056","name":"망키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/056.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/056.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/056/056_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/056/056_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/056/056_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/056/056_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/056/056_back_shiny_animated.gif"},"types":["Fighting"],"weaknesses":["Psychic","Flying","Fairy"],
+"descriptions":["나무에 사는 민첩한 포켓몬. 쉽게 화를 내며 무엇이든 공격하는 것을 주저하지 않습니다."],
+"specie":"돈숭이","height":"28.0 kg (61.7 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"61",
+"growthRate":"중간 빠름"},"abilities":[{"name":"의기양양","description":"The Pokémon is full of vitality, and that prevents it from falling asleep."},{"name":"분노의경혈","description":"The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"056","name":"망키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/056.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/056.png","type":"FIRST"},{"number":"057","name":"성원숭","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/057.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/057.png","type":"LAST",
+"requirement":"Level 28"}],"previousEvolutions":[],"nextEvolutions":[{"number":"057","name":"성원숭","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/057.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/057.png","type":"LAST",
+"requirement":"Level 28"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":80,"defense":35,"spAtk":35,"spDef":45,"speed":70,"total":305},"cards":[{"number":"66","name":"망키","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/SWSH5_EN_66.png"},{"number":"71","name":"망키","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/SM9_EN_71.png"},{"number":"50","name":"망키","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/SM4_EN_50.png"},{"number":"52","name":"망키","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/XY11_EN_52.png"},{"number":"59","name":"망키","expansionName":"Black & White—Plasma Freeze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/BW9_EN_59.png"},{"number":"53","name":"망키","expansionName":"HS—Unleashed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/HGSS2_EN_53.png"},{"number":"38","name":"망키","expansionName":"EX Fire Red & Leaf Green","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/EX6_EN_38.png"},{"number":"70","name":"망키 δ","expansionName":"EX Holon Phantoms","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/EX13_EN_70.png"},{"number":"79","name":"망키","expansionName":"Diamond & Pearl—Great Encounters","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/DP4_EN_79.png"},{"number":"112","name":"망키","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/056/PL3_EN_112.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/056.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"할퀴기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":5,"category":"변화","move":"기충전","type":"Normal","power":"—","accuracy":"—"}
+,{"level":8,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"level":13,"category":"물리","move":"태권당수","type":"Fighting","power":"50","accuracy":"100"}
+,{"level":16,"category":"물리","move":"마구할퀴기","type":"Normal","power":"18","accuracy":"80"}
+,{"level":21,"category":"물리","move":"안다리걸기","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":24,"category":"물리","move":"지구던지기","type":"Fighting","power":"—","accuracy":"100"}
+,{"level":29,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"level":32,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":37,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}
+,{"level":40,"category":"물리","move":"역린","type":"Dragon","power":"120","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":2,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":3,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":7,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":8,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":10,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":12,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":13,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":15,"category":"물리","move":"지구던지기","type":"Fighting","power":"—","accuracy":"100"}
+,{"technicalMachine":18,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":19,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":23,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":26,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":27,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":30,"category":"변화","move":"벌크업","type":"Fighting","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":35,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":36,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":38,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}
+,{"technicalMachine":39,"category":"물리","move":"역린","type":"Dragon","power":"120","accuracy":"100"}
+,{"technicalMachine":41,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"technicalMachine":57,"category":"물리","move":"고양이돈받기","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

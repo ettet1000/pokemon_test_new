@@ -1,0 +1,67 @@
+{"number":"782","name":"짜랑꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/782.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/782.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/782/782_main.png"},"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
+"descriptions":["머리의 비늘을 동료끼리 부딪히며 싸우는 법을 배웁니다. 이를 통해 기술과 정신을 단련합니다.","털이 금속처럼 단단해져서 생긴 비늘을 부딪쳐서 소리를 내고 동료와 소통합니다."],
+"specie":"비늘","height":"29.7 kg (65.5 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"60",
+"growthRate":"느린"},"abilities":[{"name":"방음","description":"소리 기술을 받지 않는다."},{"name":"방탄","description":"Protects the Pokémon from some ball and bomb moves."}],"typesEffectiveness":{"Normal":"1","Fire":"½","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"782","name":"짜랑꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/782.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/782.png","type":"FIRST"},{"number":"783","name":"짜랑고우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/783.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/783.png","type":"MIDDLE","requirement":"Level 35"},{"number":"784","name":"짜랑고우거","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/784.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/784.png","type":"LAST","requirement":"Level 45"}],"previousEvolutions":[],"nextEvolutions":[{"number":"783","name":"짜랑고우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/783.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/783.png"
+,"type":"MIDDLE",
+"requirement":"Level 35"},{"number":"784","name":"짜랑고우거","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/784.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/784.png"
+,"type":"LAST",
+"requirement":"Level 45"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":55,"defense":65,"spAtk":45,"spDef":45,"speed":45,"total":300},"cards":[{"number":"160","name":"짜랑꼬","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SM12_EN_160.png"},{"number":"161","name":"짜랑꼬","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SM12_EN_161.png"},{"number":"52","name":"짜랑꼬","expansionName":"Dragon Majesty","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SM75_EN_52.png"},{"number":"75","name":"짜랑꼬","expansionName":"Crimson Invasion","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SM4_EN_75.png"},{"number":"98","name":"짜랑꼬","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SM2_EN_98.png"},{"number":"SM40","name":"짜랑꼬","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/782/SMP_EN_SM40.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/782.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":4,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"level":8,"category":"물리","move":"드래곤테일","type":"Dragon","power":"60","accuracy":"90"},{"level":12,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"level":16,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"},{"level":20,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"},{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"level":28,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":32,"category":"물리","move":"드래곤크루","type":"Dragon","power":"80","accuracy":"100"},{"level":36,"category":"변화","move":"부르짖기","type":"Normal","power":"—","accuracy":"100"},{"level":40,"category":"변화","move":"용의춤","type":"Dragon","power":"—","accuracy":"—"},{"level":44,"category":"물리","move":"역린","type":"Dragon","power":"120","accuracy":"100"}],"technicalMachine":[{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"},{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"},{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"},{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"},{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":7,"category":"물리","move":"안다리걸기"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진"
+,"type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":24,"category":"물리","move":"역린"
+,"type":"Dragon","power":"120","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일"
+,"type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":47,"category":"물리","move":"드래곤크루"
+,"type":"Dragon","power":"80","accuracy":"100"},
+{"technicalRecord":48,"category":"변화","move":"벌크업"
+,"type":"Fighting","power":"—","accuracy":"—"},
+{"technicalRecord":51,"category":"변화","move":"용의춤"
+,"type":"Dragon","power":"—","accuracy":"—"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스"
+,"type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":62,"category":"특수","move":"용의파동"
+,"type":"Dragon","power":"85","accuracy":"100"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"물리","move":"카운터"
+,"type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"특수","move":"용의숨결"
+,"type":"Dragon","power":"60","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치"
+,"type":"Fighting","power":"150","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"Scale Shot"
+,"type":"Dragon","power":"25","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VII"}

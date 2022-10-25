@@ -1,0 +1,69 @@
+{"number":"451","name":"스콜피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/451.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/451.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/451/451_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/451/451_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/451/451_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/451/451_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/451/451_back_shiny_animated.gif"},"types":["Poison","Bug"],"weaknesses":["Fire","Psychic","Flying","Rock"],
+"descriptions":["꼬리의 발톱으로 공격합니다. 한번 잡으면 독이 스며들어서 움직이지 못합니다.","모래에 파고들어 먹이가 접근하기를 참을성 있게 기다립니다. 이 포켓몬과 태우지네는 공통 혈통을 공유합니다."],
+"specie":"전갈","height":"12.0 kg (26.5 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["벌레","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 방어","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"66",
+"growthRate":"느린"},"abilities":[{"name":"스나이퍼","description":"Powers up moves if they become critical hits when attacking."},{"name":"전투무장","description":"상대의 공격이 급소에 맞지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"¼","Ice":"1","Fighting":"¼","Poison":"½","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"451","name":"스콜피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/451.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/451.png","type":"FIRST"},{"number":"452","name":"드래피온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/452.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/452.png","type":"LAST",
+"requirement":"Level 40"}],"previousEvolutions":[],"nextEvolutions":[{"number":"452","name":"드래피온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/452.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/452.png","type":"LAST",
+"requirement":"Level 40"}],"superEvolutions":[],"baseStats":{"hp":40,"attack":50,"defense":90,"spAtk":30,"spDef":55,"speed":65,"total":330},"cards":[{"number":"121","name":"스콜피","expansionName":"Sword & Shield","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SWSH1_EN_121.png"},{"number":"82","name":"스콜피","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SM11_EN_82.png"},{"number":"54","name":"스콜피","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/SM5_EN_54.png"},{"number":"53","name":"스콜피","expansionName":"XY—BREAKpoint","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/XY9_EN_53.png"},{"number":"38","name":"스콜피","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/XY3_EN_38.png"},{"number":"76","name":"스콜피","expansionName":"HS—Triumphant","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/HGSS4_EN_76.png"},{"number":"99","name":"스콜피","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/DP1_EN_99.png"},{"number":"73","name":"스콜피","expansionName":"Diamond & Pearl—Stormfront","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/DP7_EN_73.png"},{"number":"128","name":"스콜피","expansionName":"Platinum—Supreme Victors","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/451/PL3_EN_128.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/451.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"독침","type":"Poison","power":"15","accuracy":"100"}
+,{"level":3,"category":"변화","move":"손톱갈기","type":"Dark","power":"—","accuracy":"—"}
+,{"level":6,"category":"물리","move":"마지막일침","type":"Bug","power":"50","accuracy":"100"}
+,{"level":9,"category":"물리","move":"독엄니","type":"Poison","power":"50","accuracy":"100"}
+,{"level":12,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":15,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"}
+,{"level":18,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"level":21,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"level":24,"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"level":27,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"level":30,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
+,{"level":33,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":36,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"}
+,{"level":39,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
+,{"level":42,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
+,{"level":45,"category":"변화","move":"경혈찌르기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":48,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":7,"category":"물리","move":"바늘미사일","type":"Bug","power":"25","accuracy":"95"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":73,"category":"물리","move":"크로스포이즌","type":"Poison","power":"70","accuracy":"100"}
+,{"technicalMachine":74,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":22,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":54,"category":"변화","move":"독압정","type":"Poison","power":"—","accuracy":"—"},
+{"technicalRecord":57,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"},
+{"technicalRecord":58,"category":"특수","move":"악의파동","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":60,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"},
+{"technicalRecord":61,"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Skitter Smack","type":"Bug","power":"70","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

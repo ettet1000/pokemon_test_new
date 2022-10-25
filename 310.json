@@ -1,0 +1,66 @@
+{"number":"310","name":"썬더볼트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/310.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/310.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/310/310_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/310/310_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/310/310_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/310/310_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/310/310_back_shiny_animated.gif"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["사람들 앞에 거의 나타나지 않습니다. 번개가 떨어진 곳에 둥지를 틀었다고 합니다.","전기로 자신의 근육을 자극해 빠르게 움직일 수 있습니다. 전기로도 통증을 완화시켜주기 때문에 회복도 빠릅니다."],
+"specie":"방전","height":"40.2 kg (88.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 스피드","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"166",
+"growthRate":"느린"},"abilities":[{"name":"정전기","description":"접촉한 상대를 마비시킬 때가 있다."},{"name":"피뢰침","description":"전기를 끌어모아 특수공격을 올린다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"309","name":"썬더라이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/309.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/309.png","type":"FIRST"},{"number":"310","name":"썬더볼트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/310.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/310.png","type":"LAST",
+"requirement":"Level 26"}],"previousEvolutions":[{"number":"309","name":"썬더라이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/309.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/309.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[{"name":"메가썬더볼트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/310_mega_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/310_mega_1.png","type":"MEGA"}],"baseStats":{"hp":70,"attack":75,"defense":60,"spAtk":105,"spDef":60,"speed":105,"total":475},"cards":[{"number":"52","name":"썬더볼트","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/SWSH4_EN_52.png"},{"number":"59","name":"썬더볼트","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/SWSH3_EN_59.png"},{"number":"52","name":"썬더볼트","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/SM7_EN_52.png"},{"number":"24a","name":"M 썬더볼트-EX","expansionName":"Yellow A Alternate","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XYA_EN_24a.png"},{"number":"SM130","name":"썬더볼트","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/SMP_EN_SM130.png"},{"number":"25","name":"썬더볼트","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XY6_EN_25.png"},{"number":"61","name":"썬더볼트","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XY5_EN_61.png"},{"number":"24","name":"M 썬더볼트-EX","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XY4_EN_24.png"},{"number":"113","name":"썬더볼트-EX","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XY4_EN_113.png"},{"number":"23","name":"썬더볼트-EX","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/310/XY4_EN_23.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/310.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"level":1,"category":"변화","move":"멀리짖음","type":"Normal","power":"—","accuracy":"—"}
+,{"level":1,"category":"변화","move":"째려보기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"level":12,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
+,{"level":16,"category":"특수","move":"전격파","type":"Electric","power":"60","accuracy":"∞"}
+,{"level":20,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":24,"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"level":30,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":36,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}
+,{"level":42,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"}
+,{"level":48,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"level":54,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}
+,{"level":60,"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":66,"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃","type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":90,"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}
+,{"technicalMachine":93,"category":"변화","move":"괴전파","type":"Electric","power":"—","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":12,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":43,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":80,"category":"특수","move":"일렉트릭볼","type":"Electric","power":"—","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":97,"category":"물리","move":"사이코팽","type":"Psychic","power":"85","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"category":"물리","move":"스파크","type":"Electric","power":"65","accuracy":"100"}
+,{"category":"변화","move":"바꿔치기","type":"Dark","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"라이징볼트","type":"Electric","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

@@ -1,0 +1,72 @@
+{"number":"450","name":"하마돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/450.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/450.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/450/450_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/450/450_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/450/450_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/450/450_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/450/450_back_shiny_animated.gif"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+"descriptions":["분노로 폭력을 휘두르면 삼킨 양의 모래를 토해내고 모래폭풍을 일으킵니다.","돌이 몸의 구멍에 끼일 수 있다. 돌살이는 그러한 돌을 제거하는 데 도움이 되므로 하마돈은 이 포켓몬을 돌봅니다."],
+"specie":"중량","height":"300.0 kg (661.4 lbs)","weight":"2.0 m (6′07″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"184",
+"growthRate":"느린"},"abilities":[{"name":"모래날림","description":"배틀에서 모래바람을 일으킨다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"0","Grass":"2","Ice":"2","Fighting":"1","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"449","name":"히포포타스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/449.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/449.png","type":"FIRST"},{"number":"450","name":"하마돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/450.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/450.png","type":"LAST",
+"requirement":"Level 34"}],"previousEvolutions":[{"number":"449","name":"히포포타스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/449.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/449.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":108,"attack":112,"defense":118,"spAtk":68,"spDef":72,"speed":47,"total":525},"cards":[{"number":"85","name":"하마돈","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/SWSH7_EN_85.png"},{"number":"94","name":"하마돈","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/SWSH3_EN_94.png"},{"number":"69","name":"하마돈","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/SM5_EN_69.png"},{"number":"88","name":"하마돈","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/XY5_EN_88.png"},{"number":"66","name":"하마돈","expansionName":"Black & White—Next Destinies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/BW4_EN_66.png"},{"number":"29","name":"하마돈","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/DP1_EN_29.png"},{"number":"21","name":"하마돈","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/DP5_EN_21.png"},{"number":"107","name":"하마돈","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/PL2_EN_107.png"},{"number":"25","name":"하마돈","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/PL2_EN_25.png"},{"number":"42","name":"하마돈 [四]","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/450/PL2_EN_42.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/450.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":1,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"level":1,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"level":1,"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"level":1,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}
+,{"level":16,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"level":20,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
+,{"level":24,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"level":28,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":32,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":38,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":44,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"}
+,{"level":50,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"level":56,"category":"물리","move":"땅가르기","type":"Ground","power":"—","accuracy":"30"}
+,{"level":62,"category":"변화","move":"태만함","type":"Normal","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":15,"category":"물리","move":"구멍파기","type":"Ground","power":"80","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"리벤지","type":"Fighting","power":"60","accuracy":"100"}
+,{"technicalMachine":46,"category":"특수","move":"웨더볼","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":49,"category":"물리","move":"모래지옥","type":"Ground","power":"35","accuracy":"85"}
+,{"technicalMachine":53,"category":"특수","move":"머드숏","type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":66,"category":"물리","move":"번개엄니","type":"Electric","power":"65","accuracy":"95"}
+,{"technicalMachine":67,"category":"물리","move":"얼음엄니","type":"Ice","power":"65","accuracy":"95"}
+,{"technicalMachine":68,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":45,"category":"특수","move":"탁류","type":"Water","power":"90","accuracy":"85"},
+{"technicalRecord":67,"category":"특수","move":"대지의힘","type":"Ground","power":"90","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":75,"category":"물리","move":"스톤에지","type":"Rock","power":"100","accuracy":"80"},
+{"technicalRecord":76,"category":"변화","move":"스텔스록","type":"Rock","power":"—","accuracy":"—"},
+{"technicalRecord":79,"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":94,"category":"물리","move":"10만마력","type":"Ground","power":"95","accuracy":"95"},
+{"technicalRecord":99,"category":"물리","move":"바디프레스","type":"Fighting","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"특수","move":"토해내기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"비축하기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"꿀꺽","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"날려버리기","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"특수","move":"열사의대지","type":"Ground","power":"70","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

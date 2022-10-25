@@ -1,0 +1,65 @@
+{"number":"063","name":"캐이시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/063.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/063.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/063/063_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/063/063_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/063/063_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/063/063_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/063/063_back_shiny_animated.gif"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+"descriptions":["캐이시는 잠자는 동안 순간이동할 수 있습니다. 캐이시가 잠이 깊을수록 텔레포트가 멀어지는 것 같습니다.","잠을 자는 동안 초능력을 사용하는 포켓몬입니다. 캐이시의 꿈의 내용은 포켓몬이 휘두르는 능력에 영향을 미칩니다."],
+"specie":"초능력","height":"19.5 kg (43.0 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"egg":{"groups":["인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
+"training":{"evYield":"1 특수공격","catchRate":"200 (26.1% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"62",
+"growthRate":"중간 느림"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"싱크로","description":"독, 마비, 화상을 상대에게 옮긴다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"063","name":"캐이시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/063.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/063.png","type":"FIRST"},{"number":"064","name":"윤겔라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/064.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/064.png","type":"MIDDLE",
+"requirement":"Level 16"},{"number":"065","name":"후딘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/065.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/065.png","type":"LAST",
+"requirement":"통신교환"}],"previousEvolutions":[],"nextEvolutions":[{"number":"064","name":"윤겔라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/064.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/064.png","type":"MIDDLE",
+"requirement":"Level 16"},{"number":"065","name":"후딘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/065.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/065.png","type":"LAST",
+"requirement":"통신교환"}],"superEvolutions":[],"baseStats":{"hp":25,"attack":20,"defense":15,"spAtk":105,"spDef":55,"speed":90,"total":310},"cards":[{"number":"69","name":"캐이시","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/063/DP2_EN_69.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/063.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"순간이동","type":"Psychic","power":"—","accuracy":"—"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":60,"category":"변화","move":"파워스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":61,"category":"변화","move":"가드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":62,"category":"변화","move":"스피드스웹","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":63,"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":72,"category":"변화","move":"매직룸","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":91,"category":"변화","move":"사이코필드","type":"Psychic","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":19,"category":"특수","move":"트라이어택","type":"Normal","power":"80","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크","type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":38,"category":"변화","move":"트릭","type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":65,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":81,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"},
+{"technicalRecord":83,"category":"변화","move":"사이드체인지","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
+,{"category":"변화","move":"가드셰어","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"변화","move":"매직코트","type":"Psychic","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_I"}

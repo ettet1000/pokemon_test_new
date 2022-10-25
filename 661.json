@@ -1,0 +1,51 @@
+{"number":"661","name":"화살꼬빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/661.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/661.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/661/661_main.png"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+"descriptions":["흥분하면 체온이 급격히 상승합니다. 맨손으로 화살꼬빈을 만지면 화상을 입을 수 있습니다.","그 선율의 울음소리는 사실 경고입니다. 화살꼬빈은 자신의 영역에 들어오는 것은 무엇이든 무자비하게 쪼아먹습니다."],
+"specie":"울새","height":"1.7 kg (3.7 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"56",
+"growthRate":"중간 느림"},"abilities":[{"name":"부풀린가슴","description":"Protects the Pokémon from Defense-lowering effects."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"1","Poison":"1","Ground":"0","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"661","name":"화살꼬빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/661.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/661.png","type":"FIRST"},{"number":"662","name":"불화살빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/662.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/662.png","type":"MIDDLE","requirement":"Level 17"},{"number":"663","name":"파이어로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/663.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/663.png","type":"LAST","requirement":"Level 35"}],"previousEvolutions":[],"nextEvolutions":[{"number":"662","name":"불화살빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/662.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/662.png"
+,"type":"MIDDLE",
+"requirement":"Level 17"},{"number":"663","name":"파이어로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/663.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/663.png"
+,"type":"LAST",
+"requirement":"Level 35"}],"superEvolutions":[],"baseStats":{"hp":45,"attack":50,"defense":43,"spAtk":40,"spDef":38,"speed":62,"total":278},"cards":[{"number":"138","name":"화살꼬빈","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/SWSH7_EN_138.png"},{"number":"151","name":"화살꼬빈","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/SWSH3_EN_151.png"},{"number":"179","name":"화살꼬빈","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/SM11_EN_179.png"},{"number":"109","name":"화살꼬빈","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/SM2_EN_109.png"},{"number":"94","name":"화살꼬빈","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/XY11_EN_94.png"},{"number":"RC25","name":"화살꼬빈","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/G1_EN_RC25.png"},{"number":"82","name":"화살꼬빈","expansionName":"XY—Roaring Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/XY6_EN_82.png"},{"number":"89","name":"화살꼬빈","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/XY4_EN_89.png"},{"number":"86","name":"화살꼬빈","expansionName":"XY—Flashfire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/XY2_EN_86.png"},{"number":"31","name":"화살꼬빈","expansionName":"XY—Kalos Starter Set","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/661/XY0_EN_31.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/661.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"},{"level":1,"category":"물리","move":"쪼기","type":"Flying","power":"35","accuracy":"100"},{"level":5,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"},{"level":10,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"},{"level":15,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"},{"level":20,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"},{"level":25,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":30,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":35,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"},{"level":40,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"level":45,"category":"변화","move":"날개쉬기","type":"Flying","power":"—","accuracy":"—"},{"level":50,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":23,"category":"물리","move":"도둑질","type":"Dark","power":"60","accuracy":"100"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":30,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":38,"category":"변화","move":"도깨비불"
+,"type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타"
+,"type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":56,"category":"물리","move":"유턴"
+,"type":"Bug","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":43,"category":"특수","move":"오버히트"
+,"type":"Fire","power":"130","accuracy":"90"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"변화","move":"안개제거"
+,"type":"Flying","power":"—","accuracy":"—"}
+,{"category":"물리","move":"니트로차지"
+,"type":"Fire","power":"50","accuracy":"100"}
+,{"category":"변화","move":"퍼스트가드"
+,"type":"Fighting","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"Dual Wingbeat"
+,"type":"Flying","power":"40","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VI"}

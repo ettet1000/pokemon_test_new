@@ -1,0 +1,61 @@
+{"number":"172","name":"피츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/172.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/172.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/172/172_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/172/172_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/172/172_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/172/172_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/172/172_back_shiny_animated.gif"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["뺨의 전기 주머니는 작습니다. 전기가 조금만 새어도 충격이 옵니다.","작은 크기에도 불구하고 성인인 사람도 감전시킬 수 있습니다. 그러나 그렇게 하면 자신도 놀라 어찌할 줄 모릅니다."],
+"specie":"아기쥐","height":"2.0 kg (4.4 lbs)","weight":"0.3 m (1′00″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 스피드","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"41",
+"growthRate":"중간 빠름"},"abilities":[{"name":"정전기","description":"접촉한 상대를 마비시킬 때가 있다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"0","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"172","name":"피츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/172.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/172.png","type":"FIRST"},{"number":"025","name":"피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/025.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/025.png","type":"MIDDLE",
+"requirement":"친밀도가 220 이상일 때"},{"number":"026","name":"라이츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/026.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/026.png","type":"LAST",
+"requirement":"알로라 외부에서 천둥의돌 사용"}],"previousEvolutions":[],"nextEvolutions":[{"number":"025","name":"피카츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/025.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/025.png","type":"MIDDLE",
+"requirement":"친밀도가 220 이상일 때"},{"number":"026","name":"라이츄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/026.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/026.png","type":"LAST",
+"requirement":"알로라 외부에서 천둥의돌 사용"}],"superEvolutions":[],"baseStats":{"hp":20,"attack":40,"defense":15,"spAtk":35,"spDef":35,"speed":60,"total":205},"cards":[{"number":"28","name":"피츄","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/HGSS1_EN_28.png"},{"number":"20","name":"피츄","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/EX2_EN_20.png"},{"number":"16","name":"피츄 Bros.","expansionName":"POP Series 3","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/POP%2520Series_3_EN_16.png"},{"number":"59","name":"피츄","expansionName":"EX Emerald","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/EX9_EN_59.png"},{"number":"11","name":"피츄","expansionName":"POP Series 9","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/POP_9_Cards_11.png"},{"number":"76","name":"피츄 δ","expansionName":"EX Holon Phantoms","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/EX13_EN_76.png"},{"number":"21","name":"피츄","expansionName":"EX Power Keepers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/EX16_EN_21.png"},{"number":"93","name":"피츄","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/DP2_EN_93.png"},{"number":"45","name":"피츄","expansionName":"Diamond & Pearl—Stormfront","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/DP7_EN_45.png"},{"number":"25","name":"피츄","expansionName":"Platinum 아르세우스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/172/PL4_EN_25.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/172.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":8,"category":"변화","move":"천사의키스","type":"Fairy","power":"—","accuracy":"75"}
+,{"level":12,"category":"물리","move":"볼부비부비","type":"Electric","power":"20","accuracy":"100"}
+,{"level":16,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"}
+,{"level":20,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":80,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":82,"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}
+,{"technicalMachine":90,"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":31,"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":77,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"},
+{"technicalRecord":86,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90"}]
+,"egg":[{"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"}
+,{"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
+,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"프레젠트","type":"Normal","power":"—","accuracy":"90"}
+,{"category":"변화","move":"간지르기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"변화","move":"희망사항","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

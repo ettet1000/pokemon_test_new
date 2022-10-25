@@ -1,0 +1,65 @@
+{"number":"285","name":"버섯꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/285.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/285.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/285/285_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/285/285_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/285/285_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/285/285_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/285/285_back_shiny_animated.gif"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+"descriptions":["위험을 감지하면 몸을 흔들어 머리 꼭대기에서 포자를 흩뿌립니다. 이 포켓몬의 포자는 독성이 강해 나무와 잡초를 시들게 합니다.","버섯꼬는 깊은 숲속의 축축한 흙에 삽니다. 그들은 종종 낙엽 아래에서 가만히 있는 것을 발견합니다. 이 포켓몬은 떨어진 썩은 잎으로 구성된 퇴비를 먹습니다."],
+"specie":"버섯","height":"4.5 kg (9.9 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["요정","식물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"1 HP","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"59",
+"growthRate":"변동이 심함"},"abilities":[{"name":"포자","description":"스치면 독, 마비, 잠듦 상태가 될 때가 있다."},{"name":"포이즌힐","description":"Restores HP if the Pokémon is poisoned instead of losing HP."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"285","name":"버섯꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/285.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/285.png","type":"FIRST"},{"number":"286","name":"버섯모","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/286.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/286.png","type":"LAST",
+"requirement":"Level 23"}],"previousEvolutions":[],"nextEvolutions":[{"number":"286","name":"버섯모","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/286.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/286.png","type":"LAST",
+"requirement":"Level 23"}],"superEvolutions":[],"baseStats":{"hp":60,"attack":40,"defense":60,"spAtk":40,"spDef":60,"speed":35,"total":295},"cards":[{"number":"5","name":"버섯꼬","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/SM11_EN_5.png"},{"number":"4","name":"버섯꼬","expansionName":"Shining Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/SM35_EN_4.png"},{"number":"RC2","name":"버섯꼬","expansionName":"Generations","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/G1_EN_RC2.png"},{"number":"15","name":"버섯꼬","expansionName":"XY—Primal Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/XY5_EN_15.png"},{"number":"6","name":"버섯꼬","expansionName":"XY—Furious Fists","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/XY3_EN_6.png"},{"number":"69","name":"버섯꼬","expansionName":"EX Ruby & Sapphire","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/EX1_EN_69.png"},{"number":"78","name":"버섯꼬","expansionName":"EX Sandstorm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/EX2_EN_78.png"},{"number":"72","name":"버섯꼬","expansionName":"EX 테오키스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/EX8_EN_72.png"},{"number":"63","name":"버섯꼬","expansionName":"EX Emerald","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/EX9_EN_63.png"},{"number":"108","name":"버섯꼬","expansionName":"Diamond & Pearl—Secret Wonders","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/285/DP3_EN_108.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/285.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"흡수","type":"Grass","power":"20","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":5,"category":"변화","move":"저리가루","type":"Grass","power":"—","accuracy":"75"}
+,{"level":8,"category":"변화","move":"씨뿌리기","type":"Grass","power":"—","accuracy":"90"}
+,{"level":12,"category":"특수","move":"메가드레인","type":"Grass","power":"40","accuracy":"100"}
+,{"level":15,"category":"물리","move":"박치기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":19,"category":"변화","move":"독가루","type":"Poison","power":"—","accuracy":"75"}
+,{"level":22,"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}
+,{"level":26,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"level":29,"category":"변화","move":"성장","type":"Normal","power":"—","accuracy":"—"}
+,{"level":33,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"level":36,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"level":40,"category":"변화","move":"버섯포자","type":"Grass","power":"—","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":9,"category":"특수","move":"베놈쇼크","type":"Poison","power":"65","accuracy":"100"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"오물폭탄","type":"Poison","power":"90","accuracy":"100"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":54,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"물리","move":"기관총","type":"Grass","power":"25","accuracy":"100"}
+,{"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"자연의은혜","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"물리","move":"잠깨움뺨치기","type":"Fighting","power":"70","accuracy":"100"}
+,{"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"드레인펀치","type":"Fighting","power":"75","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"변화","move":"가로챔","type":"Dark","power":"—","accuracy":"—"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_III"}

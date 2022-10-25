@@ -1,0 +1,77 @@
+{"number":"180","name":"보송송","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/180.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/180.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/180/180_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/180/180_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/180/180_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/180/180_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/180/180_back_shiny_animated.gif"},"types":["Electric"],"weaknesses":["Ground"],
+"descriptions":["푹신한 양털에 전기를 저장합니다. 너무 많이 저장하면 그 부분에서 탈모가 시작됩니다.","양털이 자라지 않는 신체 부위는 피부가 고무 같고 전기가 통하지 않습니다. 그 반점은 만지기에 안전합니다."],
+"specie":"솜털","height":"13.3 kg (29.3 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"egg":{"groups":["육상","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 특수공격","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"128",
+"growthRate":"중간 느림"},"abilities":[{"name":"정전기","description":"접촉한 상대를 마비시킬 때가 있다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"½","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"1"},"evolutionChain":[{"number":"179","name":"메리프","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/179.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/179.png","type":"FIRST"},{"number":"180","name":"보송송","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/180.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/180.png","type":"MIDDLE",
+"requirement":"Level 15"},{"number":"181","name":"전룡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/181.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/181.png","type":"LAST",
+"requirement":"Level 30"}],"previousEvolutions":[{"number":"179","name":"메리프","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/179.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/179.png","type":"FIRST"}],"nextEvolutions":[{"number":"181","name":"전룡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/181.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/181.png","type":"LAST",
+"requirement":"Level 30"}],"superEvolutions":[],"baseStats":{"hp":70,"attack":55,"defense":55,"spAtk":80,"spDef":60,"speed":45,"total":365},"cards":[{"number":"55","name":"보송송","expansionName":"Evolving Skies","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/SWSH7_EN_55.png"},{"number":"48","name":"보송송","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/SWSH6_EN_48.png"},{"number":"56","name":"보송송","expansionName":"Darkness Ablaze","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/SWSH3_EN_56.png"},{"number":"42","name":"보송송","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/SM9_EN_42.png"},{"number":"77","name":"보송송","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/SM8_EN_77.png"},{"number":"39","name":"보송송","expansionName":"XY—Steam Siege","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/XY11_EN_39.png"},{"number":"39","name":"보송송","expansionName":"Black & White—Dragons Exalted","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/BW6_EN_39.png"},{"number":"43","name":"보송송","expansionName":"Call of Legends","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/COL1_EN_43.png"},{"number":"42","name":"보송송","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/HGSS1_EN_42.png"},{"number":"27","name":"보송송","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/180/EX3_EN_27.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/180.mp3","moves":{
+"levelUp":[{"level":1,"category":"변화","move":"울음소리","type":"Normal","power":"—","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":1,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"level":4,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"level":8,"category":"특수","move":"전광석화","type":"Electric","power":"40","accuracy":"100"}
+,{"level":11,"category":"변화","move":"목화포자","type":"Grass","power":"—","accuracy":"100"}
+,{"level":16,"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"}
+,{"level":20,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":25,"category":"특수","move":"일렉트릭볼","type":"Electric","power":"—","accuracy":"100"}
+,{"level":29,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
+,{"level":34,"category":"특수","move":"파워젬","type":"Rock","power":"80","accuracy":"100"}
+,{"level":38,"category":"특수","move":"방전","type":"Electric","power":"80","accuracy":"100"}
+,{"level":43,"category":"변화","move":"코튼가드","type":"Grass","power":"—","accuracy":"—"}
+,{"level":47,"category":"특수","move":"시그널빔","type":"Bug","power":"75","accuracy":"100"}
+,{"level":52,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":56,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}]
+,"technicalMachine":[{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":18,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":24,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":25,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":49,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":56,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":57,"category":"특수","move":"차지빔","type":"Electric","power":"50","accuracy":"90"}
+,{"technicalMachine":72,"category":"특수","move":"볼트체인지","type":"Electric","power":"70","accuracy":"100"}
+,{"technicalMachine":73,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":93,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"당신먼저","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
+,{"category":"변화","move":"충전","type":"Electric","power":"—","accuracy":"—"}
+,{"category":"변화","move":"괴전파","type":"Electric","power":"—","accuracy":"100"}
+,{"category":"변화","move":"일렉트릭필드","type":"Electric","power":"—","accuracy":"—"}
+,{"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"변화","move":"냄새구별","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"모래뿌리기","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}]
+,"tutor":[{"category":"변화","move":"당신먼저","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}
+,{"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
+,{"category":"변화","move":"치료방울","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"변화","move":"전자부유","type":"Electric","power":"—","accuracy":"—"}
+,{"category":"특수","move":"전격파","type":"Electric","power":"60","accuracy":"∞"}
+,{"category":"특수","move":"시그널빔","type":"Bug","power":"75","accuracy":"100"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_II"}

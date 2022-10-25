@@ -1,0 +1,56 @@
+{"number":"856","name":"몸지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/856.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/856.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/856/856_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+"descriptions":["인적이 드문 곳을 좋아합니다. 강한 감정이 느껴지면 쏜살같이 도망쳐버립니다.","머리의 돌기로 생물의 기분을 감지합니다. 온화한 자에게만 마음을 엽니다."],
+"specie":"차분","height":"3.4 kg (7.5 lbs)","weight":"0.4 m (1′04″)","breeding":{
+"egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
+"training":{"evYield":"1 특수공격","catchRate":"235 (30.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"53",
+"growthRate":"느린"},"abilities":[{"name":"위험예지","description":"The Pokémon can sense an opposing Pokémon's dangerous moves."},{"name":"치유의마음","description":"Sometimes heals an ally's status condition."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"856","name":"몸지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/856.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/856.png","type":"FIRST"},{"number":"857","name":"손지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/857.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/857.png","type":"MIDDLE","requirement":"Level 32"},{"number":"858","name":"브리무음","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png","type":"LAST","requirement":"Level 42"}],"previousEvolutions":[],"nextEvolutions":[{"number":"857","name":"손지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/857.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/857.png"
+,"type":"MIDDLE",
+"requirement":"Level 32"},{"number":"858","name":"브리무음","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png"
+,"type":"LAST",
+"requirement":"Level 42"}],"superEvolutions":[],"baseStats":{"hp":42,"attack":30,"defense":45,"spAtk":56,"spDef":53,"speed":39,"total":265},"cards":[{"number":"71","name":"몸지브림","expansionName":"Chilling Reign","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/856/SWSH6_EN_71.png"},{"number":"SV054","name":"몸지브림","expansionName":"Shining Fates: Shiny Vault","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/856/SWSH45_EN_SV054.png"},{"number":"18","name":"몸지브림","expansionName":"Champion’s Path","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/856/SWSH35_EN_18.png"},{"number":"SWSH040","name":"몸지브림","expansionName":"Sword & Shield Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/856/SWSHP_EN_SWSH040.png"},{"number":"83","name":"몸지브림","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/856/SWSH2_EN_83.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/856.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"친해지기","type":"Normal","power":"—","accuracy":"—"},{"level":5,"category":"변화","move":"생명의물방울","type":"Water","power":"—","accuracy":"—"},{"level":10,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"},{"level":15,"category":"변화","move":"아로마테라피","type":"Grass","power":"—","accuracy":"—"},{"level":20,"category":"특수","move":"환상빔","type":"Psychic","power":"65","accuracy":"100"},{"level":25,"category":"변화","move":"치유파동","type":"Psychic","power":"—","accuracy":"—"},{"level":30,"category":"특수","move":"매지컬샤인","type":"Fairy","power":"80","accuracy":"100"},{"level":35,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"},{"level":40,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},{"level":45,"category":"변화","move":"치유소원","type":"Psychic","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":10,"category":"특수","move":"메지컬리프","type":"Grass","power":"60","accuracy":"∞"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":28,"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"},{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":44,"category":"변화","move":"봉인"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":87,"category":"특수","move":"드레인키스"
+,"type":"Fairy","power":"50","accuracy":"100"}
+,{"technicalMachine":92,"category":"특수","move":"매지컬플레임"
+,"type":"Fire","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크"
+,"type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":29,"category":"변화","move":"바톤터치"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":40,"category":"변화","move":"스킬스웹"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":82,"category":"특수","move":"어시스트파워"
+,"type":"Psychic","power":"20","accuracy":"100"},
+{"technicalRecord":90,"category":"물리","move":"치근거리기"
+,"type":"Fairy","power":"90","accuracy":"90"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"당신먼저"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"아로마미스트"
+,"type":"Fairy","power":"—","accuracy":"—"}
+,{"category":"물리","move":"볼부비부비"
+,"type":"Electric","power":"20","accuracy":"100"}
+,{"category":"변화","move":"순서미루기"
+,"type":"Dark","power":"—","accuracy":"100"}]
+,"tutor":[{"category":"특수","move":"와이드포스"
+,"type":"Psychic","power":"80","accuracy":"100"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

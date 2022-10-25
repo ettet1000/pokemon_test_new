@@ -1,0 +1,85 @@
+{"number":"446","name":"먹고자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/446.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/446.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/446/446_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/446/446_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/446/446_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/446/446_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/446/446_back_shiny_animated.gif"},"types":["Normal"],"weaknesses":["Fighting"],
+"descriptions":["모피 아래에 음식을 저장합니다. 한 입만 나눠먹을 수도 있겠지만, 정말 당신을 신뢰하는 경우에만 가능합니다.","대량의 음식으로 배를 채우는 것이 유일한 관심사입니다. 음식이 썩었든 신선했든, 맛있든 맛이 없었든 상관하지 않습니다."],
+"specie":"대식가","height":"105.0 kg (231.5 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 HP","catchRate":"50 (6.5% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"78",
+"growthRate":"느린"},"abilities":[{"name":"픽업","description":"도구를 주워올 때가 있다."},{"name":"두꺼운지방","description":"불꽃과 얼음타입의 기술에 강하다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"2","Poison":"1","Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"0","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"446","name":"먹고자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/446.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/446.png","type":"FIRST"},{"number":"143","name":"잠만보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/143.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/143.png","type":"LAST",
+"requirement":"친밀도가 220 이상일 때"}],"previousEvolutions":[],"nextEvolutions":[{"number":"143","name":"잠만보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/143.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/143.png","type":"LAST",
+"requirement":"친밀도가 220 이상일 때"}],"superEvolutions":[],"baseStats":{"hp":135,"attack":85,"defense":40,"spAtk":40,"spDef":85,"speed":5,"total":390},"cards":[{"number":"173","name":"먹고자","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/446/SM11_EN_173.png"},{"number":"33","name":"먹고자","expansionName":"Diamond & Pearl","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/446/DP1_EN_33.png"},{"number":"68","name":"먹고자","expansionName":"Diamond & Pearl—Majestic Dawn","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/446/DP5_EN_68.png"},{"number":"69","name":"먹고자","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/446/PL2_EN_69.png"},{"number":"70","name":"먹고자","expansionName":"Platinum—Rising Rivals","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/446/PL2_EN_70.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/446.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"핥기","type":"Ghost","power":"30","accuracy":"100"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":4,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":8,"category":"변화","move":"리사이클","type":"Normal","power":"—","accuracy":"—"}
+,{"level":12,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"level":16,"category":"물리","move":"물기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":20,"category":"변화","move":"비축하기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":20,"category":"변화","move":"꿀꺽","type":"Normal","power":"—","accuracy":"—"}
+,{"level":24,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"level":28,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
+,{"level":32,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"level":36,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
+,{"level":40,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":44,"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100"}
+,{"level":48,"category":"변화","move":"배북","type":"Normal","power":"—","accuracy":"—"}
+,{"level":52,"category":"물리","move":"뒀다쓰기","type":"Normal","power":"140","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":0,"category":"물리","move":"메가톤펀치","type":"Normal","power":"80","accuracy":"85"}
+,{"technicalMachine":1,"category":"물리","move":"메가톤킥","type":"Normal","power":"120","accuracy":"75"}
+,{"technicalMachine":2,"category":"물리","move":"고양이돈받기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":3,"category":"물리","move":"불꽃펀치","type":"Fire","power":"75","accuracy":"100"}
+,{"technicalMachine":4,"category":"물리","move":"냉동펀치","type":"Ice","power":"75","accuracy":"100"}
+,{"technicalMachine":5,"category":"물리","move":"번개펀치","type":"Electric","power":"75","accuracy":"100"}
+,{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":20,"category":"물리","move":"자폭","type":"Normal","power":"200","accuracy":"100"}
+,{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"}
+,{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"}
+,{"technicalMachine":29,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
+,{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"모래바람","type":"Rock","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기","type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":36,"category":"특수","move":"바다회오리","type":"Water","power":"35","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다","type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":48,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":59,"category":"물리","move":"내던지기","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기","type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":2,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"},
+{"technicalRecord":3,"category":"특수","move":"하이드로펌프","type":"Water","power":"110","accuracy":"80"},
+{"technicalRecord":4,"category":"특수","move":"파도타기","type":"Water","power":"90","accuracy":"100"},
+{"technicalRecord":5,"category":"특수","move":"냉동빔","type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라","type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트","type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개","type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":10,"category":"물리","move":"지진","type":"Ground","power":"100","accuracy":"100"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스","type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":14,"category":"변화","move":"손가락흔들기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":15,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"},
+{"technicalRecord":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":30,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":39,"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":42,"category":"특수","move":"하이퍼보이스","type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":59,"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"},
+{"technicalRecord":69,"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"},
+{"technicalRecord":73,"category":"물리","move":"더스트슈트","type":"Poison","power":"120","accuracy":"80"},
+{"technicalRecord":85,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}]
+,"egg":[{"category":"특수","move":"트림","type":"Poison","power":"120","accuracy":"90"}
+,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
+,{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"물리","move":"땅가르기","type":"Ground","power":"—","accuracy":"30"}]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_IV"}

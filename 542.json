@@ -1,0 +1,92 @@
+{"number":"542","name":"모아머","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/542.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/542.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/542/542_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/542/542_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/542/542_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/542/542_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/542/542_back_shiny_animated.gif"},"types":["Bug","식물"],"weaknesses":["Fire","Flying","Ice","Poison","Rock","Bug"],
+"descriptions":["잎을 발효시키는 열로 알을 따뜻하게 유지합니다. 잎사귀로 두르보를 따뜻하게 감싸주기도 합니다.","작은 포켓몬을 발견하면 입에서 분비되는 끈적끈적한 비단으로 잎사귀로 옷을 짭니다."],
+"specie":"육아","height":"20.5 kg (45.2 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"3 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"225",
+"growthRate":"중간 느림"},"abilities":[{"name":"벌레의알림","description":"Powers up Bug-type moves when the Pokémon's HP is low."},{"name":"엽록소","description":"맑을 때 스피드가 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"4","Water":"½","Electric":"½","Grass":"¼","Ice":"2","Fighting":"½","Poison":"2","Ground":"¼","Flying":"4","Psychic":"1","Bug":"2","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"540","name":"두르보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/540.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/540.png","type":"FIRST"},{"number":"541","name":"두르쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/541.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/541.png","type":"MIDDLE",
+"requirement":"Level 20"},{"number":"542","name":"모아머","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/542.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/542.png","type":"LAST",
+"requirement":"친밀도가 220 이상일 때"}],"previousEvolutions":[{"number":"540","name":"두르보","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/540.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/540.png","type":"FIRST"},{"number":"541","name":"두르쿤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/541.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/541.png","type":"MIDDLE",
+"requirement":"Level 20"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":75,"attack":103,"defense":80,"spAtk":70,"spDef":80,"speed":92,"total":500},"cards":[{"number":"9","name":"모아머","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/SM11_EN_9.png"},{"number":"7","name":"모아머","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/XY4_EN_7.png"},{"number":"12","name":"모아머","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/BW11_EN_12.png"},{"number":"10","name":"모아머","expansionName":"Black & White—Plasma Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/BW8_EN_10.png"},{"number":"3","name":"모아머","expansionName":"Black & White—Noble Victories","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/BW3_EN_3.png"},{"number":"7","name":"모아머","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/BW2_EN_7.png"},{"number":"8","name":"모아머","expansionName":"Black & White—Emerging Powers","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/542/BW2_EN_8.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/542.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"level":1,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":1,"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"}
+,{"level":1,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
+,{"level":1,"category":"변화","move":"실뿜기","type":"Bug","power":"—","accuracy":"95"}
+,{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":8,"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"level":15,"category":"물리","move":"잎날가르기","type":"Grass","power":"55","accuracy":"95"}
+,{"level":22,"category":"특수","move":"벌레의저항","type":"Bug","power":"50","accuracy":"100"}
+,{"level":29,"category":"물리","move":"마지막일침","type":"Bug","power":"50","accuracy":"100"}
+,{"level":32,"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"level":36,"category":"물리","move":"리프블레이드","type":"Grass","power":"90","accuracy":"100"}
+,{"level":39,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
+,{"level":43,"category":"변화","move":"동료만들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":46,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"level":50,"category":"특수","move":"리프스톰","type":"Grass","power":"130","accuracy":"90"}]
+,"technicalMachine":[{"technicalMachine":4,"category":"변화","move":"명상","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":15,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":16,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":20,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":33,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":40,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":51,"category":"물리","move":"강철날개","type":"Steel","power":"70","accuracy":"90"}
+,{"technicalMachine":53,"category":"특수","move":"에너지볼","type":"Grass","power":"90","accuracy":"100"}
+,{"technicalMachine":54,"category":"물리","move":"칼등치기","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루","type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":66,"category":"물리","move":"보복","type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":68,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"}
+,{"technicalMachine":75,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":81,"category":"물리","move":"시저크로스","type":"Bug","power":"80","accuracy":"100"}
+,{"technicalMachine":84,"category":"물리","move":"독찌르기","type":"Poison","power":"80","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"꿈먹기","type":"Psychic","power":"100","accuracy":"100"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":96,"category":"변화","move":"자연의힘","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"}
+,{"category":"변화","move":"바톤터치","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"보호색","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"그래스필드","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"변화","move":"선취","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"마음의눈","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"특수","move":"칼바람","type":"Normal","power":"80","accuracy":"100"}
+,{"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"}
+,{"category":"특수","move":"은빛바람","type":"Bug","power":"60","accuracy":"100"}]
+,"tutor":[{"category":"물리","move":"벌레먹음","type":"Bug","power":"60","accuracy":"100"}
+,{"category":"특수","move":"일렉트릭네트","type":"Electric","power":"55","accuracy":"95"}
+,{"category":"특수","move":"기가드레인","type":"Grass","power":"75","accuracy":"100"}
+,{"category":"변화","move":"치료방울","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"}
+,{"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
+,{"category":"변화","move":"예민해지기","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"매직코트","type":"Psychic","power":"—","accuracy":"—"}
+,{"category":"물리","move":"씨폭탄","type":"Grass","power":"80","accuracy":"100"}
+,{"category":"특수","move":"시그널빔","type":"Bug","power":"75","accuracy":"100"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"변화","move":"광합성","type":"Grass","power":"—","accuracy":"—"}
+,{"category":"물리","move":"지옥찌르기","type":"Dark","power":"80","accuracy":"100"}
+,{"category":"변화","move":"고민씨","type":"Grass","power":"—","accuracy":"100"}]
+,"evolution":[{"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}],"preEvolution":[{"category":"특수","move":"벌레의야단법석","type":"Bug","power":"90","accuracy":"100","method":"Level up"}
+,{"category":"변화","move":"버티기","type":"Normal","power":"—","accuracy":"—","method":"Level up"}
+,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100","method":"Level up"}
+,{"category":"변화","move":"풀피리","type":"Grass","power":"—","accuracy":"55","method":"Level up"}
+,{"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—","method":"Level up"}
+,{"category":"변화","move":"끈적끈적네트","type":"Bug","power":"—","accuracy":"—","method":"Level up"}
+,{"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—","method":"Evolution"}]},"generation":"GENERATION_V"}

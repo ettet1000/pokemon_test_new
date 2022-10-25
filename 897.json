@@ -1,0 +1,58 @@
+{"number":"897","name":"레이스포스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/897.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/897.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/897/897_main.png"},"types":["Ghost"],"weaknesses":["Ghost","Dark"],
+"descriptions":["어두운 밤을 달리며 잠든 자의 생명 에너지를 흡수합니다. 고독과 정적을 좋아합니다.","시각 이외의 오감을 사용해서 동태를 살핍니다. 발에 차인 자는 영혼이 빠져나가 버린다고 합니다."],
+"specie":"빠른말","height":"44.5 kg (98.1 lbs)","weight":"2.0 m (6′07″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 특수공격","catchRate":"3 (0.4% 포켓볼과 함께,풀 HP)","baseFriendship":"35 (보통보다 낮음)","baseExp":"290",
+"growthRate":"느린"},"abilities":[{"name":"흑의울음","description":"When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"897","name":"레이스포스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/897.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/897.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":100,"attack":65,"defense":60,"spAtk":145,"spDef":80,"speed":130,"total":580},
+"cards":[{"number":"81","name":"레이스포스","expansionName":"소드&실드 확장팩 「로스트어비스」"
+,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_81.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/897.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"},{"level":1,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"},{"level":6,"category":"물리","move":"두번치기","type":"Fighting","power":"30","accuracy":"100"},{"level":12,"category":"특수","move":"병상첨병","type":"Ghost","power":"65","accuracy":"100"},{"level":18,"category":"물리","move":"짓밟기","type":"Normal","power":"65","accuracy":"100"},{"level":24,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"},{"level":30,"category":"변화","move":"흑안개","type":"Ice","power":"—","accuracy":"—"},{"level":36,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":42,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"},{"level":48,"category":"변화","move":"고속이동","type":"Psychic","power":"—","accuracy":"—"},{"level":54,"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"},{"level":60,"category":"변화","move":"사슬묶기","type":"Normal","power":"—","accuracy":"100"},{"level":66,"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"},{"level":72,"category":"변화","move":"나쁜음모","type":"Dark","power":"—","accuracy":"—"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"},{"technicalMachine":40,"category":"특수","move":"스피드스타","type":"Normal","power":"60","accuracy":"∞"},{"technicalMachine":53,"category":"특수","move":"머드숏"
+,"type":"Ground","power":"55","accuracy":"95"}
+,{"technicalMachine":57,"category":"물리","move":"보복"
+,"type":"Dark","power":"50","accuracy":"100"}
+,{"technicalMachine":58,"category":"물리","move":"승부굳히기"
+,"type":"Dark","power":"60","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터"
+,"type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":81,"category":"물리","move":"땅고르기"
+,"type":"Ground","power":"60","accuracy":"100"}
+,{"technicalMachine":85,"category":"특수","move":"바크아웃"
+,"type":"Dark","power":"55","accuracy":"95"}
+,{"technicalMachine":86,"category":"물리","move":"고스트다이브"
+,"type":"Ghost","power":"90","accuracy":"100"}
+,{"technicalMachine":98,"category":"물리","move":"분함의발구르기"
+,"type":"Ground","power":"75","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":1,"category":"물리","move":"누르기"
+,"type":"Normal","power":"85","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":32,"category":"물리","move":"깨물어부수기"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":35,"category":"특수","move":"소란피기"
+,"type":"Normal","power":"90","accuracy":"100"},
+{"technicalRecord":37,"category":"변화","move":"도발"
+,"type":"Dark","power":"—","accuracy":"100"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":58,"category":"특수","move":"악의파동"
+,"type":"Dark","power":"80","accuracy":"100"},
+{"technicalRecord":68,"category":"변화","move":"나쁜음모"
+,"type":"Dark","power":"—","accuracy":"—"},
+{"technicalRecord":81,"category":"물리","move":"속임수"
+,"type":"Dark","power":"95","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_VIII"}

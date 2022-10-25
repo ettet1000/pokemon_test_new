@@ -1,0 +1,77 @@
+{"number":"792","name":"루나아라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/792/792_main.png"},"types":["Psychic","Ghost"],"weaknesses":["Ghost","Dark"],
+"descriptions":["달을 현혹하는 짐승이라는 이름을 가졌습니다. 모든 빛을 에너지로 변환해서 살고 있습니다.","주위의 빛을 모두 빼앗아 자신 스스로 만월의 모습이 되어 밤하늘에 빛을 발산합니다."],
+"specie":"월륜","height":"120.0 kg (264.6 lbs)","weight":"4.0 m (13′01″)","breeding":{
+"egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},
+"training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"0 (보통보다 낮음)","baseExp":"306",
+"growthRate":"느린"},"abilities":[{"name":"스펙터가드","description":"Reduces the amount of damage the Pokémon takes while its HP is full."}],"typesEffectiveness":{"Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"½","Bug":"1","Rock":"1","Ghost":"4","Dragon":"1","Dark":"4","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"789","name":"코스모그","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/789.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/789.png","type":"FIRST"},{"number":"790","name":"코스모움","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png","type":"MIDDLE","requirement":"Level 43"},{"number":"792","name":"루나아라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png","type":"LAST","requirement":"Level 53, 포켓몬스터 문, 울트라문, 실드"}],"previousEvolutions":[{"number":"789","name":"코스모그","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/789.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/789.png"
+,"type":"FIRST"},{"number":"790","name":"코스모움","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png"
+,"type":"MIDDLE",
+"requirement":"Level 43"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":137,"attack":113,"defense":89,"spAtk":137,"spDef":107,"speed":97,"total":680},"cards":[{"number":"102","name":"루나아라","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM12_EN_102.png"},{"number":"216","name":"솔가레오 & 루나아라-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM12_EN_216.png"},{"number":"254","name":"솔가레오 & 루나아라-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM12_EN_254.png"},{"number":"75","name":"솔가레오 & 루나아라-GX","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM12_EN_75.png"},{"number":"70","name":"루나아라","expansionName":"Celestial Storm","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM7_EN_70.png"},{"number":"62","name":"루나아라 ◇","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM5_EN_62.png"},{"number":"172","name":"루나아라-GX","expansionName":"Ultra Prism","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM5_EN_172.png"},{"number":"61","name":"루나아라","expansionName":"SM—Guardians Rising","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SM2_EN_61.png"},{"number":"SM103","name":"루나아라-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SMP_EN_SM103.png"},{"number":"SM17","name":"루나아라-GX","expansionName":"Sun & Moon Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/792/SMP_EN_SM17.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/792.mp3","moves":{
+"levelUp":[{"level":1,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"},{"level":1,"category":"변화","move":"코스믹파워","type":"Psychic","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"최면술","type":"Psychic","power":"—","accuracy":"60"},{"level":1,"category":"특수","move":"섀도레이","type":"Ghost","power":"100","accuracy":"100"},{"level":1,"category":"변화","move":"순간이동","type":"Psychic","power":"—","accuracy":"—"},{"level":7,"category":"특수","move":"나이트헤드","type":"Ghost","power":"—","accuracy":"100"},{"level":14,"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"},{"level":21,"category":"특수","move":"에어슬래시","type":"Flying","power":"75","accuracy":"95"},{"level":28,"category":"특수","move":"섀도볼","type":"Ghost","power":"80","accuracy":"100"},{"level":35,"category":"변화","move":"달의불빛","type":"Fairy","power":"—","accuracy":"—"},{"level":42,"category":"특수","move":"나이트버스트","type":"Dark","power":"85","accuracy":"95"},{"level":49,"category":"변화","move":"매직코트","type":"Psychic","power":"—","accuracy":"—"},{"level":56,"category":"특수","move":"문포스","type":"Fairy","power":"95","accuracy":"100"},{"level":63,"category":"물리","move":"고스트다이브","type":"Ghost","power":"90","accuracy":"100"},{"level":70,"category":"특수","move":"꿈먹기","type":"Psychic","power":"100","accuracy":"100"},{"level":77,"category":"변화","move":"와이드가드","type":"Rock","power":"—","accuracy":"—"},{"level":84,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"}],"technicalMachine":[{"technicalMachine":6,"category":"물리","move":"공중날기","type":"Flying","power":"90","accuracy":"95"},{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":11,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"},{"technicalMachine":14,"category":"변화","move":"전기자석파","type":"Electric","power":"—","accuracy":"90"},{"technicalMachine":17,"category":"변화","move":"빛의장막","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":19,"category":"변화","move":"신비의부적","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":26,"category":"변화","move":"겁나는얼굴","type":"Normal","power":"—","accuracy":"100"},{"technicalMachine":27,"category":"특수","move":"얼다바람","type":"Ice","power":"55","accuracy":"95"},{"technicalMachine":34,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"},{"technicalMachine":38,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"},{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":40,"category":"특수","move":"스피드스타"
+,"type":"Normal","power":"60","accuracy":"∞"}
+,{"technicalMachine":41,"category":"변화","move":"도우미"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터"
+,"type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":70,"category":"변화","move":"트릭룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":71,"category":"변화","move":"원더룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":72,"category":"변화","move":"매직룸"
+,"type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":77,"category":"특수","move":"병상첨병"
+,"type":"Ghost","power":"65","accuracy":"100"}
+,{"technicalMachine":78,"category":"물리","move":"애크러뱃"
+,"type":"Flying","power":"55","accuracy":"100"}
+,{"technicalMachine":86,"category":"물리","move":"고스트다이브"
+,"type":"Ghost","power":"90","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
+,"type":"Flying","power":"75","accuracy":"95"}],"technicalRecords":[
+{"technicalRecord":5,"category":"특수","move":"냉동빔"
+,"type":"Ice","power":"90","accuracy":"100"},
+{"technicalRecord":6,"category":"특수","move":"눈보라"
+,"type":"Ice","power":"110","accuracy":"70"},
+{"technicalRecord":8,"category":"특수","move":"10만볼트"
+,"type":"Electric","power":"90","accuracy":"100"},
+{"technicalRecord":9,"category":"특수","move":"번개"
+,"type":"Electric","power":"110","accuracy":"70"},
+{"technicalRecord":11,"category":"특수","move":"사이코키네시스"
+,"type":"Psychic","power":"90","accuracy":"100"},
+{"technicalRecord":12,"category":"변화","move":"고속이동"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":25,"category":"특수","move":"사이코쇼크"
+,"type":"Psychic","power":"80","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":34,"category":"특수","move":"미래예지"
+,"type":"Psychic","power":"120","accuracy":"100"},
+{"technicalRecord":36,"category":"특수","move":"열풍"
+,"type":"Fire","power":"95","accuracy":"90"},
+{"technicalRecord":38,"category":"변화","move":"트릭"
+,"type":"Psychic","power":"—","accuracy":"100"},
+{"technicalRecord":44,"category":"변화","move":"코스믹파워"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":49,"category":"변화","move":"명상"
+,"type":"Psychic","power":"—","accuracy":"—"},
+{"technicalRecord":64,"category":"특수","move":"기합구슬"
+,"type":"Fighting","power":"120","accuracy":"70"},
+{"technicalRecord":85,"category":"변화","move":"분발"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":92,"category":"특수","move":"매지컬샤인"
+,"type":"Fairy","power":"80","accuracy":"100"}]
+,"egg":[]
+,"tutor":[]
+,"evolution":[{"category":"특수","move":"섀도레이","type":"Ghost","power":"100","accuracy":"100"}],"preEvolution":[]},"generation":"GENERATION_VII"}

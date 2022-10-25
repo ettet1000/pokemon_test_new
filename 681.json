@@ -1,0 +1,63 @@
+{"number":"681","name":"킬가르도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/681.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/681.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/681/681_main.png"},"types":["Steel","Ghost"],"weaknesses":["Fire","Ghost","Dark","Ground"],
+"descriptions":["강력한 스펙트럼의 힘으로 다른 사람들을 조종할 수 있습니다. 한때 그 힘을 이용해 사람과 포켓몬이 원하는 대로 왕국을 건설하게 했습니다.","이 수비 자세에서 킬가르도는 강철 몸체와 유령의 힘의 장을 사용하여 모든 공격의 피해를 줄입니다."],
+"specie":"왕검","height":"53.0 kg (116.8 lbs)","weight":"1.7 m (5′07″)","breeding":{
+"egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
+"training":{"evYield":"2 방어, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"234",
+"growthRate":"중간 빠름"},"abilities":[{"name":"배틀스위치","description":"The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King's Shield."}],"typesEffectiveness":{"Normal":"0","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"¼","Rock":"½","Ghost":"2","Dragon":"½","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"679","name":"단칼빙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/679.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/679.png","type":"FIRST"},{"number":"680","name":"쌍검킬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/680.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/680.png","type":"MIDDLE","requirement":"Level 35"},{"number":"681","name":"킬가르도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/681.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/681.png","type":"LAST","requirement":"어둠의돌 사용"}],"previousEvolutions":[{"number":"679","name":"단칼빙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/679.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/679.png"
+,"type":"FIRST"},{"number":"680","name":"쌍검킬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/680.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/680.png"
+,"type":"MIDDLE",
+"requirement":"Level 35"}],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":60,"attack":50,"defense":140,"spAtk":50,"spDef":140,"speed":60,"total":500},"cards":[{"number":"107","name":"킬가르도","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH5_EN_107.png"},{"number":"108","name":"킬가르도","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH5_EN_108.png"},{"number":"126","name":"킬가르도 V","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH4_EN_126.png"},{"number":"127","name":"킬가르도 VMAX","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH4_EN_127.png"},{"number":"177","name":"킬가르도 V","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH4_EN_177.png"},{"number":"190","name":"킬가르도 VMAX","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH4_EN_190.png"},{"number":"135","name":"킬가르도","expansionName":"Rebel Clash","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SWSH2_EN_135.png"},{"number":"95","name":"킬가르도","expansionName":"Unified Minds","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SM11_EN_95.png"},{"number":"109","name":"킬가르도","expansionName":"Team Up","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SM9_EN_109.png"},{"number":"49","name":"킬가르도","expansionName":"Forbidden Light","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/681/SM6_EN_49.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/681.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"제비반환","type":"Flying","power":"60","accuracy":"∞"},{"level":1,"category":"변화","move":"바디퍼지","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"},{"level":1,"category":"물리","move":"양날박치기","type":"Rock","power":"150","accuracy":"80"},{"level":1,"category":"변화","move":"철벽","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"아이언헤드","type":"Steel","power":"80","accuracy":"100"},{"level":1,"category":"변화","move":"King's Shield","type":"Steel","power":"—","accuracy":"—"},{"level":1,"category":"변화","move":"금속음","type":"Steel","power":"—","accuracy":"85"},{"level":1,"category":"물리","move":"깜짝베기","type":"Dark","power":"70","accuracy":"100"},{"level":1,"category":"변화","move":"파워트릭","type":"Psychic","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"원수갚기","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"물리","move":"성스러운칼","type":"Fighting","power":"90","accuracy":"100"},{"level":1,"category":"물리","move":"야습","type":"Ghost","power":"40","accuracy":"100"},{"level":1,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"},{"level":1,"category":"변화","move":"칼춤","type":"Normal","power":"—","accuracy":"—"},{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}],"technicalMachine":[{"technicalMachine":8,"category":"특수","move":"파괴광선","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":9,"category":"물리","move":"기가임팩트","type":"Normal","power":"150","accuracy":"90"},{"technicalMachine":12,"category":"물리","move":"솔라블레이드","type":"Grass","power":"125","accuracy":"100"},{"technicalMachine":16,"category":"변화","move":"싫은소리","type":"Normal","power":"—","accuracy":"85"},{"technicalMachine":18,"category":"변화","move":"리플렉터","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":21,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"},{"technicalMachine":22,"category":"물리","move":"스톤샤워","type":"Rock","power":"75","accuracy":"90"},{"technicalMachine":24,"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"},{"technicalMachine":25,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"},{"technicalMachine":31,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":33,"category":"변화","move":"비바라기"
+,"type":"Water","power":"—","accuracy":"—"}
+,{"technicalMachine":34,"category":"변화","move":"쾌청"
+,"type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":39,"category":"물리","move":"객기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"깨트리다"
+,"type":"Fighting","power":"75","accuracy":"100"}
+,{"technicalMachine":65,"category":"물리","move":"섀도크루"
+,"type":"Ghost","power":"70","accuracy":"100"}
+,{"technicalMachine":69,"category":"물리","move":"사이코커터"
+,"type":"Psychic","power":"70","accuracy":"100"}
+,{"technicalMachine":76,"category":"특수","move":"돌림노래"
+,"type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":79,"category":"물리","move":"원수갚기"
+,"type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":94,"category":"물리","move":"칼등치기"
+,"type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":95,"category":"특수","move":"에어슬래시"
+,"type":"Flying","power":"75","accuracy":"95"}
+,{"technicalMachine":97,"category":"물리","move":"세차게휘두르기"
+,"type":"Dark","power":"60","accuracy":"100"}],"technicalRecords":[
+{"technicalRecord":0,"category":"변화","move":"칼춤"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":20,"category":"변화","move":"대타출동"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":21,"category":"물리","move":"기사회생"
+,"type":"Fighting","power":"—","accuracy":"100"},
+{"technicalRecord":26,"category":"변화","move":"버티기"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":27,"category":"변화","move":"잠꼬대"
+,"type":"Normal","power":"—","accuracy":"—"},
+{"technicalRecord":33,"category":"특수","move":"섀도볼"
+,"type":"Ghost","power":"80","accuracy":"100"},
+{"technicalRecord":46,"category":"변화","move":"철벽"
+,"type":"Steel","power":"—","accuracy":"—"},
+{"technicalRecord":52,"category":"물리","move":"자이로볼"
+,"type":"Steel","power":"—","accuracy":"100"},
+{"technicalRecord":53,"category":"물리","move":"인파이트"
+,"type":"Fighting","power":"120","accuracy":"100"},
+{"technicalRecord":70,"category":"특수","move":"러스터캐논"
+,"type":"Steel","power":"80","accuracy":"100"},
+{"technicalRecord":74,"category":"물리","move":"아이언헤드"
+,"type":"Steel","power":"80","accuracy":"100"}]
+,"egg":[{"category":"변화","move":"블록"
+,"type":"Normal","power":"—","accuracy":"—"}
+,{"category":"변화","move":"길동무"
+,"type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"변화","move":"와이드가드"
+,"type":"Rock","power":"—","accuracy":"—"}]
+,"tutor":[]
+,"evolution":[{"category":"변화","move":"King's Shield","type":"Steel","power":"—","accuracy":"—"}],"preEvolution":[]},"generation":"GENERATION_VI"}

@@ -1,0 +1,78 @@
+{"number":"498","name":"뚜꾸리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/498.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/498.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/498/498_main.png","frontAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/498/498_front_animated.gif","backAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/498/498_back_animated.gif","frontShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/498/498_front_shiny_animated.gif","backShinyAnimatedSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/498/498_back_shiny_animated.gif"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+"descriptions":["구운 딸기를 즐겨 먹는데 가끔 너무 흥분해서 바삭하게 구워먹기도 합니다.","코에서 불덩어리를 쏘면서 적의 공격을 능숙하게 피합니다. 열매를 먹기 전에 볶습니다."],
+"specie":"불돼지","height":"9.9 kg (21.8 lbs)","weight":"0.5 m (1′08″)","breeding":{
+"egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
+"training":{"evYield":"1 HP","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"62",
+"growthRate":"중간 느림"},"abilities":[{"name":"맹화","description":"위급할 때 불꽃타입의 위력이 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"¼","Water":"2","Electric":"1","Grass":"½","Ice":"¼","Fighting":"1","Poison":"1","Ground":"2","Flying":"1","Psychic":"1","Bug":"½","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"498","name":"뚜꾸리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/498.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/498.png","type":"FIRST"},{"number":"499","name":"차오꿀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/499.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/499.png","type":"MIDDLE",
+"requirement":"Level 17"},{"number":"500","name":"염무왕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/500.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/500.png","type":"LAST",
+"requirement":"Level 36"}],"previousEvolutions":[],"nextEvolutions":[{"number":"499","name":"차오꿀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/499.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/499.png","type":"MIDDLE",
+"requirement":"Level 17"},{"number":"500","name":"염무왕","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/500.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/500.png","type":"LAST",
+"requirement":"Level 36"}],"superEvolutions":[],"baseStats":{"hp":65,"attack":63,"defense":45,"spAtk":45,"spDef":45,"speed":45,"total":308},"cards":[{"number":"23","name":"뚜꾸리","expansionName":"Battle Styles","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/SWSH5_EN_23.png"},{"number":"31","name":"뚜꾸리","expansionName":"Cosmic Eclipse","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/SM12_EN_31.png"},{"number":"BW02","name":"뚜꾸리","expansionName":"BW—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BWP_EN_BW02.png"},{"number":"BW07","name":"뚜꾸리","expansionName":"BW—Promo","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BWP_EN_BW07.png"},{"number":"25","name":"뚜꾸리","expansionName":"Black & White—Legendary Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BW11_EN_25.png"},{"number":"24","name":"뚜꾸리","expansionName":"Black & White—Boundaries Crossed","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BW7_EN_24.png"},{"number":"15","name":"뚜꾸리","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BW1_EN_15.png"},{"number":"16","name":"뚜꾸리","expansionName":"Black & White","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/498/BW1_EN_16.png"}],
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/498.mp3","moves":{
+"levelUp":[{"level":1,"category":"물리","move":"몸통박치기","type":"Normal","power":"40","accuracy":"100"}
+,{"level":3,"category":"변화","move":"꼬리흔들기","type":"Normal","power":"—","accuracy":"100"}
+,{"level":7,"category":"특수","move":"불꽃세례","type":"Fire","power":"40","accuracy":"100"}
+,{"level":9,"category":"변화","move":"냄새구별","type":"Normal","power":"—","accuracy":"—"}
+,{"level":13,"category":"변화","move":"웅크리기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":15,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"}
+,{"level":19,"category":"특수","move":"스모그","type":"Poison","power":"30","accuracy":"70"}
+,{"level":21,"category":"물리","move":"구르기","type":"Rock","power":"30","accuracy":"90"}
+,{"level":25,"category":"물리","move":"돌진","type":"Normal","power":"90","accuracy":"85"}
+,{"level":27,"category":"물리","move":"히트스탬프","type":"Fire","power":"—","accuracy":"100"}
+,{"level":31,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
+,{"level":33,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"level":37,"category":"물리","move":"양날박치기","type":"Rock","power":"150","accuracy":"80"}
+,{"level":39,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"level":43,"category":"물리","move":"플레어드라이브","type":"Fire","power":"120","accuracy":"100"}]
+,"technicalMachine":[{"technicalMachine":1,"category":"변화","move":"분발","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":5,"category":"변화","move":"울부짖기","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":6,"category":"변화","move":"맹독","type":"Poison","power":"—","accuracy":"90"}
+,{"technicalMachine":10,"category":"특수","move":"잠재파워","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":11,"category":"변화","move":"쾌청","type":"Fire","power":"—","accuracy":"—"}
+,{"technicalMachine":12,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
+,{"technicalMachine":17,"category":"변화","move":"방어","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":21,"category":"물리","move":"화풀이","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":22,"category":"특수","move":"솔라빔","type":"Grass","power":"120","accuracy":"100"}
+,{"technicalMachine":27,"category":"물리","move":"은혜갚기","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":32,"category":"변화","move":"그림자분신","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":35,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}
+,{"technicalMachine":38,"category":"특수","move":"불대문자","type":"Fire","power":"110","accuracy":"85"}
+,{"technicalMachine":39,"category":"물리","move":"암석봉인","type":"Rock","power":"60","accuracy":"95"}
+,{"technicalMachine":42,"category":"물리","move":"객기","type":"Normal","power":"70","accuracy":"100"}
+,{"technicalMachine":43,"category":"물리","move":"니트로차지","type":"Fire","power":"50","accuracy":"100"}
+,{"technicalMachine":44,"category":"변화","move":"잠자기","type":"Psychic","power":"—","accuracy":"—"}
+,{"technicalMachine":45,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
+,{"technicalMachine":48,"category":"특수","move":"돌림노래","type":"Normal","power":"60","accuracy":"100"}
+,{"technicalMachine":49,"category":"특수","move":"에코보이스","type":"Normal","power":"40","accuracy":"100"}
+,{"technicalMachine":50,"category":"특수","move":"오버히트","type":"Fire","power":"130","accuracy":"90"}
+,{"technicalMachine":61,"category":"변화","move":"도깨비불","type":"Fire","power":"—","accuracy":"85"}
+,{"technicalMachine":74,"category":"물리","move":"자이로볼","type":"Steel","power":"—","accuracy":"100"}
+,{"technicalMachine":86,"category":"특수","move":"풀묶기","type":"Grass","power":"—","accuracy":"100"}
+,{"technicalMachine":87,"category":"변화","move":"뽐내기","type":"Normal","power":"—","accuracy":"85"}
+,{"technicalMachine":88,"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":90,"category":"변화","move":"대타출동","type":"Normal","power":"—","accuracy":"—"}
+,{"technicalMachine":93,"category":"물리","move":"와일드볼트","type":"Electric","power":"90","accuracy":"100"}
+,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
+,"egg":[{"category":"물리","move":"누르기","type":"Normal","power":"85","accuracy":"100"}
+,{"category":"특수","move":"불사르기","type":"Fire","power":"130","accuracy":"100"}
+,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"변화","move":"저주","type":"Ghost","power":"—","accuracy":"—"}
+,{"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"물리","move":"헤비봄버","type":"Steel","power":"—","accuracy":"100"}
+,{"category":"물리","move":"매그니튜드","type":"Ground","power":"—","accuracy":"100"}
+,{"category":"변화","move":"잠꼬대","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"기습","type":"Dark","power":"70","accuracy":"100"}
+,{"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"category":"물리","move":"난동부리기","type":"Normal","power":"120","accuracy":"100"}
+,{"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}]
+,"tutor":[{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
+,{"category":"물리","move":"죽기살기","type":"Normal","power":"—","accuracy":"100"}
+,{"category":"특수","move":"불꽃의맹세","type":"Fire","power":"80","accuracy":"100"}
+,{"category":"특수","move":"열풍","type":"Fire","power":"95","accuracy":"90"}
+,{"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}
+,{"category":"물리","move":"아이언테일","type":"Steel","power":"100","accuracy":"75"}
+,{"category":"특수","move":"코골기","type":"Normal","power":"50","accuracy":"100"}
+,{"category":"물리","move":"분함의발구르기","type":"Ground","power":"75","accuracy":"100"}
+,{"category":"물리","move":"엄청난힘","type":"Fighting","power":"120","accuracy":"100"}
+,{"category":"물리","move":"사념의박치기","type":"Psychic","power":"80","accuracy":"90"}]
+,"evolution":[],"preEvolution":[]},"generation":"GENERATION_V"}
