@@ -15741,51 +15741,6 @@
     "generation": "ALOLA"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
     "number": "1002",
     "name": "라이츄",
     "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1002.png",
@@ -15875,663 +15830,107 @@
     "generation": "ALOLA"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1037",
+    "name": "야돈",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1037.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1037_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1037_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Psychic"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "얼간이",
+    "generation": "GALAR"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1038",
+    "name": "야도란",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1038.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1038_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1038_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Poison",
+    "Psychic"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "기생",
+    "generation": "GALAR"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1039",
+    "name": "프리져",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1039.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1039_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1039_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Psychic",
+    "Flying"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "냉혹",
+    "generation": "GALAR"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1043",
+    "name": "찌리리공",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1043.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1043_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1043_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Electric",
+    "Grass"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "구체",
+    "generation": "HISUI"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1044",
+    "name": "붐볼",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1044.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1044_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1044_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Electric",
+    "Grass"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "구체",
+    "generation": "HISUI"
     },
     {
-    "number": "1001",
+    "number": "1045",
     "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1045.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1045_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1045_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Water",
+    "Poison"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "풍선",
+    "generation": "HISUI"
     },
     {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
+    "number": "1054",
+    "name": "우파",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1054.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1054_thumb.png",
     "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1054_main.png"
     },
     "types": [
-    "Dark",
-    "Normal"
+    "Poison",
+    "Ground"
     ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
-    },
-    {
-    "number": "1001",
-    "name": "레트라",
-    "imageUrl": "https://ettet1000.github.io/pokemon_test/images/1001.png",
-    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test/images/1001_thumb.png",
-    "sprites": {
-    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test/images/1001_main.png"
-    },
-    "types": [
-    "Dark",
-    "Normal"
-    ],
-    "specie": "쥐",
-    "generation": "ALOLA"
+    "specie": "독물고기",
+    "generation": "PALDEA"
     }
-    ]
+]
