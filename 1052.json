@@ -19,11 +19,11 @@
 ,"type":"MIDDLE",
 "requirement":"Level 40"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":80,"attack":100,"defense":100,"spAtk":110,"spDef":150,"speed":60,"total":600},"cards":[{"number":"94","name":"미끄래곤","expansionName":"Forbidden Light",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/706/SM6_EN_94.png"},{"number":"96","name":"미끄래곤","expansionName":"SM—Guardians Rising",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/706/SM2_EN_96.png"},{"number":"60","name":"미끄래곤","expansionName":"XY—Ancient Origins",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/706/XY7_EN_60.png"},{"number":"77","name":"미끄래곤","expansionName":"XY—Phantom Forces",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/706/XY4_EN_77.png"},{"number":"74","name":"미끄래곤","expansionName":"XY—Flashfire",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/706/XY2_EN_74.png"}],
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/706/SM6_EN_94.png"},{"number":"96","name":"미끄래곤","expansionName":"SM—Guardians Rising",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/706/SM2_EN_96.png"},{"number":"60","name":"미끄래곤","expansionName":"XY—Ancient Origins",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/706/XY7_EN_60.png"},{"number":"77","name":"미끄래곤","expansionName":"XY—Phantom Forces",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/706/XY4_EN_77.png"},{"number":"74","name":"미끄래곤","expansionName":"XY—Flashfire",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/706/XY2_EN_74.png"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/706.mp3","moves":{
 "levelUp":[
     {"level":1,

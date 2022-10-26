@@ -15,10 +15,10 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png"
 ,"type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":95,"attack":127,"defense":184,"spAtk":34,"spDef":36,"speed":38,"total":514},"cards":[{"number":"45","name":"크레베이스","expansionName":"Evolving Skies",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/713/SWSH7_EN_45.png"},{"number":"30","name":"크레베이스","expansionName":"Forbidden Light",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/713/SM6_EN_30.png"},{"number":"37","name":"크레베이스","expansionName":"XY—Steam Siege",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/713/XY11_EN_37.png"},{"number":"31","name":"크레베이스","expansionName":"XY—Flashfire",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/cards/713/XY2_EN_31.png"}],
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/SWSH7_EN_45.png"},{"number":"30","name":"크레베이스","expansionName":"Forbidden Light",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/SM6_EN_30.png"},{"number":"37","name":"크레베이스","expansionName":"XY—Steam Siege",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/XY11_EN_37.png"},{"number":"31","name":"크레베이스","expansionName":"XY—Flashfire",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/XY2_EN_31.png"}],
 "soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/713.mp3","moves":{
 "levelUp":[
     {"level":1,
