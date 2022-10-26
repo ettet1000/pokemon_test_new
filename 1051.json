@@ -74,8 +74,8 @@
     "category":"특수",
     "power":"100",
     "accuracy":"85"}
-],
-"technicalMachine":[],"technicalRecords":[]
+],"technicalMachine":[],"technicalRecords":[]
+,"egg":[]
 ,"tutor":[
     {"move":"용성군",
     "type":"Dragon",
