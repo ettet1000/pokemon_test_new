@@ -21,7 +21,7 @@
 "requirement":"친밀도가 220 이상일 때(*LPLE는 Level 28)"}],"previousEvolutions":[],"nextEvolutions":[{"number":"1011","name":"페르시온",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1011.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1011_thumb.png","type":"LAST",
 "requirement":"친밀도가 220 이상일 때(*LPLE는 Level 28)"}],"superEvolutions":[{"name":"거다이맥스 나옹",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/052_gigantamax_1.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/052_gigantamax_1.png","type":"GIGANTAMAX"}],
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/052_gigantamax_1.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/052_gigantamax_1.png","type":"GIGANTAMAX"}],
 "baseStats":{"hp":40,"attack":35,"defense":35,"spAtk":50,"spDef":40,"speed":90,"total":290},"cards":[{"number":"SV086","name":"가라르 나옹","expansionName":"Shining Fates: Shiny Vault",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/052/SWSH45_EN_SV086.png"},{"number":"112","name":"가라르 나옹","expansionName":"Vivid Voltage",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/052/SWSH4_EN_112.png"},{"number":"SWSH004","name":"나옹 V","expansionName":"Sword & Shield Promo",

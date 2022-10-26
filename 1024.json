@@ -3,10 +3,10 @@
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024_thumb.png",
 "sprites":{
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024_main.png",
-"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
-"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
-"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif",
-"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1024.gif"},
+"frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.gif",
+"backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.gif",
+"frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.gif",
+"backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1024.gif"},
 "types":["Poison","Fairy"],"weaknesses":["Psychic","Ground"],
 "descriptions":["공장이 모여 있어 공기가 오염되었던 과거에 무슨 이유에서인지 이 모습으로 변했다."],
 "specie":"독가스","height":"9.5 kg (20.9 lbs)","weight":"1.2 m (3′11″)","breeding":{

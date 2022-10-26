@@ -1,7 +1,7 @@
 {"number":"1047","name":"드레디어",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1047.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1047_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1047_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1047_main.png"},
 "types":["Grass","Fighting"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["눈 덮인 산에 살기 때문에 다릿심이 발달한 것으로 추측된다. 화관을 통해 주위에 있는 이를 고무시키는 향기를 내보낸다."],
 "specie":"스핀","height":"16.3 kg (35.9 lbs)","weight":"1.1 m (3′07″)","breeding":{

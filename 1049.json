@@ -1,7 +1,7 @@
 {"number":"1049","name":"조로아크",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1049.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1049_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1049_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1049_main.png"},
 "types":["Normal","Ghost"],"weaknesses":["Fairy","Bug","Fighting"],
 "descriptions":["백발을 흐트러트린 모습은 마치 사신 같다. 자신의 몸이 찢어질 정도의 강한 원한을 이용해 함께 죽을 각오로 원수의 숨통을 노린다."],
 "specie":"저주여우","height":"81.1 kg (178.8 lbs)","weight":"1.6 m (5′03″)","breeding":{

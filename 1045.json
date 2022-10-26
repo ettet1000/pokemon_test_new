@@ -1,7 +1,7 @@
 {"number":"1045","name":"침바루",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1045_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045_main.png"},
 "types":["Water","Poison"],"weaknesses":["Psychic","Electric","Ground"],
 "descriptions":["침으로 독을 흩뿌리며 귀찮게 하기 때문에 어부들이 몹시 싫어하는 존재다. 다른 지방에서는 다른 모습으로 서식한다."],
 "specie":"풍선","height":"3.9 kg (8.6 lbs)","weight":"0.5 m (1′08″)","breeding":{

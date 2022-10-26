@@ -1,7 +1,7 @@
 {"number":"1051","name":"미끄네일",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/1051_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1051_main.png"},
 "types":["Steel","Dragon"],"weaknesses":["Fairy","Ice","Dragon"],
 "descriptions":["음침한 성격을 가졌다. 히스이 땅에 흐르는 물에 함유된 철이 피부의 점액에 작용하여 금속 껍질로 변한 것으로 추측된다."],
 "specie":"연체","height":"17.5 kg (38.6 lbs)","weight":"0.8 m (2′07″)","breeding":{
