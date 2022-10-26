@@ -14,10 +14,13 @@
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½"
 ,"Ground":"2","Flying":"2","Psychic":"4","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
 "evolutionChain":[
-{"number":"903","name":"포푸니크","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903.png"
-,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903_thumb.png","type":"FIRST"}
+{"number":"1046","name":"포푸니",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1046.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1046_thumb.png","type":"FIRST"},{"number":"903","name":"포푸니크",
+"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903.png","thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903_thumb.png","type":"LAST",
+"requirement":"예리한손톱을 지니게 한 뒤, 낮"}
 ],
-"previousEvolutions":[],
+"previousEvolutions":[{"number":"1046","name":"포푸니",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1046.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1046_thumb.png","type":"FIRST"}],
 "nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":80,"attack":130,"defense":60,"spAtk":40,"spDef":80,"speed":120,"total":510},
 "cards":[{"number":"123","name":"찬란한 히스이 포푸니크","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
