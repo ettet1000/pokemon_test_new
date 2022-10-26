@@ -18,7 +18,7 @@
 "Normal":"1","Fire":"1","Water":"¼","Electric":"¼","Grass":"¼","Ice":"4","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"102","name":"아라리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/102.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/102.png","type":"FIRST"},{"number":"1022","name":"나시",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1022_thumb.png","type":"LAST",
-"requirement":"알로라 외부에서 리프의돌 사용"}],"previousEvolutions":[{"number":"102","name":"아라리",
+"requirement":"알로라 내부에서 리프의돌 사용"}],"previousEvolutions":[{"number":"102","name":"아라리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/102.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/102.png","type":"FIRST"}],"nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":95,"attack":105,"defense":85,"spAtk":125,"spDef":75,"speed":45,"total":530},"cards":[{"number":"5","name":"나시","expansionName":"Vivid Voltage",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/103/SWSH4_EN_5.png"},{"number":"1","name":"나몰빼미 & 알로라 나시-GX","expansionName":"Unified Minds",
