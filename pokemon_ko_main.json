@@ -15830,6 +15830,434 @@
     "generation": "ALOLA"
     },
     {
+    "number": "1008",
+    "name": "닥트리오",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1008.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1008_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1008_main.png"
+    },
+    "types": [
+    "Ground",
+    "Steel"
+    ],
+    "specie": "두더지",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1009",
+    "name": "나옹",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1009.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1009_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1009_main.png"
+    },
+    "types": [
+    "Dark"
+    ],
+    "specie": "요괴고양이",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1010",
+    "name": "나옹",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1010.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1010_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1010_main.png"
+    },
+    "types": [
+    "Steel"
+    ],
+    "specie": "요괴고양이",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1011",
+    "name": "페르시온",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1011.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1011_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1011_main.png"
+    },
+    "types": [
+    "Dark"
+    ],
+    "specie": "샴고양이",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1012",
+    "name": "가디",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1012.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1012_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1012_main.png"
+    },
+    "types": [
+    "Fire",
+    "Rock"
+    ],
+    "specie": "강아지",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1013",
+    "name": "윈디",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1013.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1013_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1013_main.png"
+    },
+    "types": [
+    "Fire",
+    "Rock"
+    ],
+    "specie": "전설",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1014",
+    "name": "꼬마돌",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1014.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1014_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1014_main.png"
+    },
+    "types": [
+    "Rock",
+    "Electric"
+    ],
+    "specie": "암석",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1015",
+    "name": "데구리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1015.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1015_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1015_main.png"
+    },
+    "types": [
+    "Rock",
+    "Electric"
+    ],
+    "specie": "암석",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1016",
+    "name": "딱구리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1016.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1016_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1016_main.png"
+    },
+    "types": [
+    "Rock",
+    "Electric"
+    ],
+    "specie": "메가톤",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1017",
+    "name": "포니타",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1017.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1017_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1017_main.png"
+    },
+    "types": [
+    "Psychic"
+    ],
+    "specie": "불의말",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1018",
+    "name": "날쌩마",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1018.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1018_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1018_main.png"
+    },
+    "types": [
+    "Psychic",
+    "Fairy"
+    ],
+    "specie": "불의말",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1019",
+    "name": "파오리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1019.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1019_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1019_main.png"
+    },
+    "types": [
+    "Fighting"
+    ],
+    "specie": "청둥오리",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1020",
+    "name": "질퍽이",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1020.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1020_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1020_main.png"
+    },
+    "types": [
+    "Poison",
+    "Dark"
+    ],
+    "specie": "진흙",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1021",
+    "name": "질뻐기",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1021.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1021_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1021_main.png"
+    },
+    "types": [
+    "Poison",
+    "Dark"
+    ],
+    "specie": "진흙",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1022",
+    "name": "나시",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1022.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1022_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1022_main.png"
+    },
+    "types": [
+    "Grass",
+    "Dragon"
+    ],
+    "specie": "야자나무",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1023",
+    "name": "텅구리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1023.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1023_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1023_main.png"
+    },
+    "types": [
+    "Fire",
+    "Ghost"
+    ],
+    "specie": "뼈다귀",
+    "generation": "ALOLA"
+    },
+    {
+    "number": "1024",
+    "name": "또도가스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1024.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1024_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1024_main.png"
+    },
+    "types": [
+    "Poison",
+    "Fairy"
+    ],
+    "specie": "독가스",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1025",
+    "name": "마임맨",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1025.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1025_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1025_main.png"
+    },
+    "types": [
+    "Ice",
+    "Psychic"
+    ],
+    "specie": "배리어",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1026",
+    "name": "블레이범",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1026.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1026_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1026_main.png"
+    },
+    "types": [
+    "Fire",
+    "Ghost"
+    ],
+    "specie": "두더지",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1027",
+    "name": "코산호",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1027.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1027_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1027_main.png"
+    },
+    "types": [
+    "Water",
+    "Rock"
+    ],
+    "specie": "산호",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1028",
+    "name": "지그제구리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1028.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1028_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1028_main.png"
+    },
+    "types": [
+    "Dark",
+    "Normal"
+    ],
+    "specie": "앙증너구리",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1029",
+    "name": "직구리",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1029.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1029_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1029_main.png"
+    },
+    "types": [
+    "Dark",
+    "Normal"
+    ],
+    "specie": "돌진",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1030",
+    "name": "대검귀",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1030.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1030_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1030_main.png"
+    },
+    "types": [
+    "Water",
+    "Dark"
+    ],
+    "specie": "관록",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1031",
+    "name": "달막화",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1031.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1031_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1031_main.png"
+    },
+    "types": [
+    "Ice"
+    ],
+    "specie": "달마",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1032",
+    "name": "불비달마",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1032.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1032_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1032_main.png"
+    },
+    "types": [
+    "Ice"
+    ],
+    "specie": "달마",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1033",
+    "name": "불비달마",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1033.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1033_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1033_main.png"
+    },
+    "types": [
+    "Ice",
+    "Fire"
+    ],
+    "specie": "달마",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1034",
+    "name": "데스마스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1034.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1034_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1034_main.png"
+    },
+    "types": [
+    "Ground",
+    "Ghost"
+    ],
+    "specie": "영혼",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1035",
+    "name": "메더",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1035.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1035_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1035_main.png"
+    },
+    "types": [
+    "Ground",
+    "Steel"
+    ],
+    "specie": "두더지",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1036",
+    "name": "모크나이퍼",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1036.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1036_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1036_main.png"
+    },
+    "types": [
+    "Grass",
+    "Fighting"
+    ],
+    "specie": "화살깃",
+    "generation": "HISUI"
+    },
+    {
     "number": "1037",
     "name": "야돈",
     "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1037.png",
@@ -15874,6 +16302,51 @@
     "generation": "GALAR"
     },
     {
+    "number": "1040",
+    "name": "썬더",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1040.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1040_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1040_main.png"
+    },
+    "types": [
+    "Fighting",
+    "Flying"
+    ],
+    "specie": "건각",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1041",
+    "name": "파이어",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1041.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1041_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1041_main.png"
+    },
+    "types": [
+    "Dark",
+    "Flying"
+    ],
+    "specie": "사악",
+    "generation": "GALAR"
+    },
+    {
+    "number": "1042",
+    "name": "야도킹",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1042.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1042_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1042_main.png"
+    },
+    "types": [
+    "Poison",
+    "Psychic"
+    ],
+    "specie": "술사",
+    "generation": "GALAR"
+    },
+    {
     "number": "1043",
     "name": "찌리리공",
     "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1043.png",
@@ -15905,7 +16378,7 @@
     },
     {
     "number": "1045",
-    "name": "레트라",
+    "name": "침바루",
     "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1045.png",
     "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1045_thumb.png",
     "sprites": {
@@ -15916,6 +16389,126 @@
     "Poison"
     ],
     "specie": "풍선",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1046",
+    "name": "포푸니",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1046.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1046_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1046_main.png"
+    },
+    "types": [
+    "Fighting",
+    "Poison"
+    ],
+    "specie": "갈고리손톱",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1047",
+    "name": "드레디어",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1047.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1047_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1047_main.png"
+    },
+    "types": [
+    "Grass",
+    "Fighting"
+    ],
+    "specie": "스핀",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1048",
+    "name": "조로아",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1048.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1048_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1048_main.png"
+    },
+    "types": [
+    "Normal",
+    "Ghost"
+    ],
+    "specie": "원한여우",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1049",
+    "name": "조로아크",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1049.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1049_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1049_main.png"
+    },
+    "types": [
+    "Normal",
+    "Ghost"
+    ],
+    "specie": "저주여우",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1050",
+    "name": "워글",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1050.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1050_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1050_main.png"
+    },
+    "types": [
+    "Psychic",
+    "Flying"
+    ],
+    "specie": "용맹",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1051",
+    "name": "미끄네일",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1051.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1051_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1051_main.png"
+    },
+    "types": [
+    "Steel",
+    "Dragon"
+    ],
+    "specie": "연체",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1052",
+    "name": "미끄래곤",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1052.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1052_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1052_main.png"
+    },
+    "types": [
+    "Steel",
+    "Dragon"
+    ],
+    "specie": "드래곤",
+    "generation": "HISUI"
+    },
+    {
+    "number": "1053",
+    "name": "크레베이스",
+    "imageUrl": "https://ettet1000.github.io/pokemon_test_new/images/1053.png",
+    "thumbnailUrl": "https://ettet1000.github.io/pokemon_test_new/images/1053_thumb.png",
+    "sprites": {
+    "mainSpriteUrl": "https://ettet1000.github.io/pokemon_test_new/images/1053_main.png"
+    },
+    "types": [
+    "Ice",
+    "Rock"
+    ],
+    "specie": "빙산",
     "generation": "HISUI"
     },
     {
