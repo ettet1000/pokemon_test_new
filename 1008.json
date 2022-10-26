@@ -7,13 +7,13 @@
 "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1008.gif",
 "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1008.gif",
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/1008.gif"},
-"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
-"descriptions":["이 디그다 삼둥이는 해수면 아래 60마일 이상을 파냅니다. 언더그라운드는 아무도 모릅니다.","디그다 세쌍둥이 팀! 지하 60마일을 파고들어 거대한 지진을 일으킵니다."],
+"types":["Ground","Steel"],"weaknesses":["Water","Grass","Ice"],
+"descriptions":["3마리는 매우 사이가 좋다. 뛰어난 콤비네이션으로 강적에 맞서 쓰러뜨린다."],
 "specie":"두더지","height":"33.3 kg (73.4 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"50 (6.5% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"149",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"모래숨기","description":"모래바람으로 회피율이 올라간다."},{"name":"개미지옥","description":"Prevents opposing Pokémon from fleeing."}],
+"abilities":[{"name":"모래숨기","description":"모래바람으로 회피율이 올라간다."},{"name":"컬리헤어","description":"Prevents opposing Pokémon from fleeing."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"¼","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"1007","name":"디그다",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1007.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1007_thumb.png","type":"FIRST"},{"number":"1008","name":"닥트리오",
