@@ -15,15 +15,15 @@
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½"
 ,"Ground":"2","Flying":"1","Psychic":"","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
 "evolutionChain":[
-{"number":"1045","name":"침바루",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045_thumb.png","type":"FIRST"},
+{"number":"2045","name":"침바루",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2045.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2045_thumb.png","type":"FIRST"},
 {"number":"904","name":"장침바루","imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904.png"
 ,"thumbUrl":"https://ettet1000.github.io/pokemon_ko_main/images/904_thumb.png","type":"LAST"
 ,"requirement":"독침천발을 강공으로 20번 사용"}
 ],
 "previousEvolutions":[
-{"number":"1045","name":"침바루",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/1045_thumb.png","type":"FIRST"}],
+{"number":"2045","name":"침바루",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2045.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2045_thumb.png","type":"FIRST"}],
 "nextEvolutions":[],"superEvolutions":[],
 "baseStats":{"hp":85,"attack":115,"defense":95,"spAtk":65,"spDef":65,"speed":85,"total":510},
 "cards":[{"number":"90","name":"히스이 장침바루 HP130","expansionName":"소드&실드 강화 확장팩 「배틀리전」"
