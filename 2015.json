@@ -16,7 +16,7 @@
 "abilities":[{"name":"자력","description":"Protects the Pokémon from recoil damage."},{"name":"옹골참","description":"일격으로 쓰러지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"½","Water":"2","Electric":"½","Grass":"2","Ice":"1","Fighting":"2","Poison":"½","Ground":"4","Flying":"¼","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"2014","name":"꼬마돌",
-"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014_thumb.png","type":"FIRST"},{"number":"1015","name":"데구리",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014_thumb.png","type":"FIRST"},{"number":"2015","name":"데구리",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2015.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2015_thumb.png","type":"MIDDLE",
 "requirement":"Level 25"},{"number":"2016","name":"딱구리",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2016.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2016_thumb.png","type":"LAST",
