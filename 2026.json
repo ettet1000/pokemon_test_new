@@ -14,7 +14,7 @@
 "Normal":"0","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"155","name":"브케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/156.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/156.png","type":"MIDDLE",
-"requirement":"Level 14"},{"number":"1026","name":"블레이범",
+"requirement":"Level 14"},{"number":"2026","name":"블레이범",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026_thumb.png","type":"LAST",
 "requirement":"Level 36"}],"previousEvolutions":[{"number":"155","name":"브케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인",
