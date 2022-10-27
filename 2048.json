@@ -26,7 +26,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/570/BWP_EN_BW12.png"},{"number":"72","name":"조로아","expansionName":"XY",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/570/XY1_EN_72.png"},{"number":"89","name":"조로아","expansionName":"Black & White—Legendary Treasures",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/570/BW11_EN_89.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/570.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/570.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"야습",

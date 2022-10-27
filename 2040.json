@@ -25,7 +25,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/145/SM115_EN_44.png"},{"number":"66","name":"파이어 & 썬더 & 프리져-GX","expansionName":"Hidden Fates",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/145/SM115_EN_66.png"},{"number":"69","name":"파이어 & 썬더 & 프리져-GX","expansionName":"Hidden Fates",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/145/SM115_EN_69.png"},{"number":"40","name":"썬더","expansionName":"Team Up",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/145/SM9_EN_40.png"}],"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/145.mp3","moves":{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/145/SM9_EN_40.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/145.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"쪼기",

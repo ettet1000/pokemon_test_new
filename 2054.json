@@ -21,7 +21,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX7_EN_81.png"},{"number":"79","name":"우파","expansionName":"EX Unseen Forces",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX10_EN_79.png"},{"number":"71","name":"우파 δ","expansionName":"EX Dragon Frontiers",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/194/EX15_EN_71.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/194.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/194.mp3","moves":{
 "levelUp":[]
 ,"technicalMachine":[],"technicalRecords":[]
 ,"egg":[]

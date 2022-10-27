@@ -19,7 +19,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/SM6_EN_30.png"},{"number":"37","name":"크레베이스","expansionName":"XY—Steam Siege",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/XY11_EN_37.png"},{"number":"31","name":"크레베이스","expansionName":"XY—Flashfire",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/713/XY2_EN_31.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/713.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/713.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"몸통박치기",

@@ -23,7 +23,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/549/BW3_EN_5.png"},{"number":"14","name":"드레디어","expansionName":"Black & White—Emerging Powers",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/549/BW2_EN_14.png"},{"number":"10","name":"드레디어","expansionName":"Black & White",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/549/BW1_EN_10.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/549.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/549.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"흡수",

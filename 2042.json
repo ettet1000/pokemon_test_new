@@ -29,7 +29,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/199/SM3_EN_48.png"},{"number":"21","name":"야도킹","expansionName":"XY—BREAKpoint",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/199/XY9_EN_21.png"},{"number":"49","name":"야도킹","expansionName":"Black & White—Dark Explorers",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/199/BW5_EN_49.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/199.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/199.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"섬뜩한주문",

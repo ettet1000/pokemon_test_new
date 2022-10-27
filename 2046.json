@@ -28,7 +28,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/XY2_EN_50.png"},{"number":"51","name":"포푸니","expansionName":"XY—Flashfire",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/XY2_EN_51.png"},{"number":"65","name":"포푸니","expansionName":"Black & White—Plasma Freeze",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/215/BW9_EN_65.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/215.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/215.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"전광석화",

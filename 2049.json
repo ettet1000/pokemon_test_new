@@ -25,7 +25,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/571/SM35_EN_53.png"},{"number":"SM84","name":"조로아크-GX","expansionName":"Sun & Moon Promo",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/571/SMP_EN_SM84.png"},{"number":"SM89","name":"조로아크","expansionName":"Sun & Moon Promo",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/571/SMP_EN_SM89.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/571.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/571.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"야습",

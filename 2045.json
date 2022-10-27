@@ -23,7 +23,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/211/HGSS1_EN_50.png"},{"number":"27","name":"침바루","expansionName":"EX Team Rocket Returns",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/211/EX7_EN_27.png"},{"number":"101","name":"침바루","expansionName":"Diamond & Pearl—Secret Wonders",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/211/DP3_EN_101.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/211.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/211.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"독침",

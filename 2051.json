@@ -24,7 +24,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/705/XY7_EN_59.png"},{"number":"76","name":"미끄네일","expansionName":"XY—Phantom Forces",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/705/XY4_EN_76.png"},{"number":"73","name":"미끄네일","expansionName":"XY—Flashfire",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/705/XY2_EN_73.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/705.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/705.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"거품",

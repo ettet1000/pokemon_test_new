@@ -32,7 +32,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/080/BW5_EN_24.png"},{"number":"38","name":"야도란","expansionName":"HS—Undaunted",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/080/HGSS3_EN_38.png"},{"number":"52","name":"야도란","expansionName":"HeartGold & SoulSilver",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/080/HGSS1_EN_52.png"},{"number":"14","name":"야도란","expansionName":"EX Fire Red & Leaf Green",
-"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/080/EX6_EN_14.png"}],"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/080.mp3","moves":{
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/080/EX6_EN_14.png"}],"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/080.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"셸암즈",

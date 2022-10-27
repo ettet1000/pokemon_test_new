@@ -22,7 +22,7 @@
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/628/BW8_EN_116.png"},{"number":"112","name":"워글","expansionName":"Black & White—Dragons Exalted",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/628/BW6_EN_112.png"},{"number":"88","name":"워글","expansionName":"Black & White—Emerging Powers",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/628/BW2_EN_88.png"}],
-"soundUrl":"https://ettet1000.github.io/pokemon_test_new/sounds/628.mp3","moves":{
+"soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/628.mp3","moves":{
 "levelUp":[
     {"level":1,
     "move":"전광석화",
