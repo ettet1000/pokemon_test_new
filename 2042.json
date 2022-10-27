@@ -13,7 +13,7 @@
 "training":{"evYield":"2 특수방어","catchRate":"70 (9.1% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"172",
 "growthRate":"중간 빠름"},"abilities":[{"name":"기묘한약","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"마이페이스","description":"혼란 상태가 되지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"¼","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"1","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"½"},
-"evolutionChain":[{"number":"1037","name":"야돈",
+"evolutionChain":[{"number":"2037","name":"야돈",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2037.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2037_thumb.png","type":"FIRST"},{"number":"2042","name":"야도킹",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2042.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2042_thumb.png","type":"LAST",
 "requirement":"가라두구머리장식 사용"}],"previousEvolutions":[{"number":"2037","name":"야돈",
