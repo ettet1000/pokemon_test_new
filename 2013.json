@@ -5,7 +5,7 @@
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2013_main.png"},
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 날듯이 경쾌하게 달린다."],
-"specie":"전설","height":"155.0 kg (341.7 lbs)","weight":"1.9 m (6′03″)","breeding":{
+"specie":"전설","height":"168.0 kg (370.4 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
 "training":{"evYield":"2 공격","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"194",
 "growthRate":"느린"},

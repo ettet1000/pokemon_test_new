@@ -5,7 +5,7 @@
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026_main.png"},
 "types":["Fire","Ghost"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다."],
-"specie":"화산","height":"79.5 kg (175.3 lbs)","weight":"1.7 m (5′07″)","breeding":{
+"specie":"화산","height":"69.8 kg (153.9 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"240",
 "growthRate":"중간 느림"},

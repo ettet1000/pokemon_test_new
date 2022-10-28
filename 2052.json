@@ -4,7 +4,7 @@
 "sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2052_main.png"},
 "types":["Steel","Dragon"],"weaknesses":["Fairy","Ice","Dragon"],
 "descriptions":["금속 껍질의 강도를 자유롭게 조절할 수 있다. 고독한 것을 싫어하고 집요하여, 좋아하는 이가 자신에게서 떨어지려 하면 분노하여 날뛴다."],
-"specie":"드래곤","height":"150.5 kg (331.8 lbs)","weight":"2.0 m (6′07″)","breeding":{
+"specie":"드래곤","height":"334.1 kg (736.6 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["Dragon"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"3 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"35 (보통보다 낮음)","baseExp":"270",
 "growthRate":"느린"},"abilities":[{"name":"초식","description":"Heals status conditions if it's raining."},{"name":"방진","description":"Boosts the Attack stat if hit by a Grass-type move instead of taking damage."}],

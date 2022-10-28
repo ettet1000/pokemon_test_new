@@ -8,7 +8,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2038.gif"},
 "types":["Poison","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
 "descriptions":["물고 있는 셀러의 혀를 꼭 쥐면 고둥의 끝부분에서 맹독을 띠는 액체가 분사된다."],
-"specie":"기생","height":"78.5 kg (173.1 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"specie":"기생","height":"70.5 kg (155.4 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"172",
 "growthRate":"중간 빠름"},"abilities":[{"name":"퀵드로","description":"헤롱헤롱이나 도발 상태가 되지 않는다."}],

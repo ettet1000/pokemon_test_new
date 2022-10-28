@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2017.gif"},
 "types":["Psychic"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["눈동자를 들여다보고 마음을 읽는다. 비뚤어진 마음을 발견하면 홀연 모습을 감춰버린다."],
-"specie":"불의말","height":"30.0 kg (66.1 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"specie":"불의말","height":"24.0 kg (52.9 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 스피드","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"82",
 "growthRate":"중간 빠름"},

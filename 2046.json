@@ -4,7 +4,7 @@
 "sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2046_main.png"},
 "types":["Fighting","Poison"],"weaknesses":["Steel","Fire","Fighting","Rock","Fairy","Bug"],
 "descriptions":["단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다."],
-"specie":"갈고리손톱","height":"28.0 kg (61.7 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"specie":"갈고리손톱","height":"27.0 kg (59.5 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 스피드","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"35 (보통보다 낮음)","baseExp":"86",
 "growthRate":"중간 느림"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"정신력","description":"풀죽지 않는다."}],

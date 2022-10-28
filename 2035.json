@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2035.gif"},
 "types":["Ground","Steel"],"weaknesses":["Water","Grass","Ice","Ground"],
 "descriptions":["진흙에 숨어 눈에 띄는 입술로 먹이를 유인한다. 들쭉날쭉한 강철 지느러미로 단단히 잡는다."],
-"specie":"트랩","height":"11.0 kg (24.3 lbs)","weight":"0.7 m (2′04″)","breeding":{
+"specie":"트랩","height":"20.5 kg (45.2 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["부정형","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 HP","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"70 (보통보다 높음)","baseExp":"165",
 "growthRate":"중간 빠름"},

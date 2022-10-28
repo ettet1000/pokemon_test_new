@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2032.gif"},
 "types":["Ice"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["온화한 성질로 힘이 세다. 머리의 눈덩이를 단번에 얼려 박치기를 한다."],
-"specie":"달마","height":"92.9 kg (204.8 lbs)","weight":"1.3 m (4′03″)","breeding":{
+"specie":"달마","height":"120.0 kg (264.6 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"168",
 "growthRate":"중간 느림"},

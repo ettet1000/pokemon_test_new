@@ -4,7 +4,7 @@
 "sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2053_main.png"},
 "types":["Ice","Rock"],"weaknesses":["Fire","Steel","Fighting","Rock"],
 "descriptions":["아래턱을 덮고 있는 얼음 갑옷은 강철과 바위를 쉽게 부술 수 있습니다. 이 포켓몬은 가파른 산길을 따라 깊은 눈을 뚫고 달려갑니다."],
-"specie":"빙산","height":"505.0 kg (1113.3 lbs)","weight":"2.0 m (6′07″)","breeding":{
+"specie":"빙산","height":"262.4 kg (578.5 lbs)","weight":"1.4 m (4′07″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"55 (7.2% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"180",
 "growthRate":"중간 빠름"},"abilities":[{"name":"옹골찬턱","description":"혼란 상태가 되지 않는다."}],

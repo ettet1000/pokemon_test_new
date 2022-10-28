@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2024.gif"},
 "types":["Poison","Fairy"],"weaknesses":["Psychic","Ground"],
 "descriptions":["공장이 모여 있어 공기가 오염되었던 과거에 무슨 이유에서인지 이 모습으로 변했다."],
-"specie":"독가스","height":"9.5 kg (20.9 lbs)","weight":"1.2 m (3′11″)","breeding":{
+"specie":"독가스","height":"16.0 kg (35.3 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"172",
 "growthRate":"중간 빠름"},

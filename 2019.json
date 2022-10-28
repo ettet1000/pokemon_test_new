@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2019.gif"},
 "types":["Fighting"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["굵고 긴 가라르의 파를 자유자재로 구사하는 과정에서 독자적인 모습으로 변화한 파오리."],
-"specie":"청둥오리","height":"15.0 kg (33.1 lbs)","weight":"0.8 m (2′07″)","breeding":{
+"specie":"청둥오리","height":"42.0 kg (92.6 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상","Flying"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"132",
 "growthRate":"중간 빠름"},

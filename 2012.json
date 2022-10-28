@@ -5,7 +5,7 @@
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2012_main.png"},
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다."],
-"specie":"강아지","height":"19.0 kg (41.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
+"specie":"강아지","height":"22.7 kg (50.0 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"75%"},{"type":"FEMALE","percentage":"25%"}]},
 "training":{"evYield":"1 공격","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"70",
 "growthRate":"느린"},

@@ -4,7 +4,7 @@
 "sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2050_main.png"},
 "types":["Psychic","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["소름 끼치는 함성을 외쳐서 사냥하는 용맹하고 큰 새. 호수에 충격파를 발산해서 수면에 떠오른 먹잇감을 잡는다."],
-"specie":"용맹","height":"41.0 kg (90.4 lbs)","weight":"1.5 m (4′11″)","breeding":{
+"specie":"용맹","height":"43.4 kg (95.7 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["Flying"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
 "training":{"evYield":"2 공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"179",
 "growthRate":"느린"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"우격다짐","description":"Removes additional effects to increase the power of moves when attacking."}],

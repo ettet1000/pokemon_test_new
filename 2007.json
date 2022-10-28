@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2007.gif"},
 "types":["Ground","Steel"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["3개의 수염은 감정에 따라 형태를 바꿀 수 있어 동료 사이의 커뮤니케이션에 도움이 된다."],
-"specie":"두더지","height":"0.8 kg (1.8 lbs)","weight":"0.2 m (0′08″)","breeding":{
+"specie":"두더지","height":"1.0 kg (2.2 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 스피드","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"53",
 "growthRate":"중간 빠름"},

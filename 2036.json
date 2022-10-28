@@ -5,7 +5,7 @@
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2036_main.png"},
 "types":["Grass","Fighting"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다."],
-"specie":"화살깃","height":"36.6 kg (80.7 lbs)","weight":"1.6 m (5′03″)","breeding":{
+"specie":"화살깃","height":"37.0 kg (81.6 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["Flying"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
 "training":{"evYield":"3 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"239",
 "growthRate":"중간 느림"},

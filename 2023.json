@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2023.gif"},
 "types":["Fire","Ghost"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["뼈에서 불타고 있는 저주의 불꽃은 영원히 치유되지 않는 아픔을 몸과 마음에 남긴다고 한다."],
-"specie":"뼈다귀","height":"45.0 kg (99.2 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"specie":"뼈다귀","height":"34.0 kg (75.0 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"149",
 "growthRate":"중간 빠름"},

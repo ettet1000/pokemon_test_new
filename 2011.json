@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2011.gif"},
 "types":["Dark"],"weaknesses":["Fighting"],
 "descriptions":["뛰어난 신체 능력을 갖추고 있으며 비열한 방식으로 싸우기 때문에 감당할 수 없을 정도로 강하다."],
-"specie":"샴고양이","height":"32.0 kg (70.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"specie":"샴고양이","height":"33.0 kg (72.8 lbs)","weight":"1.1 m (3′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 스피드","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"154",
 "growthRate":"중간 빠름"},

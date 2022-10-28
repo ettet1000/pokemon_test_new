@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2008.gif"},
 "types":["Ground","Steel"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["3마리는 매우 사이가 좋다. 뛰어난 콤비네이션으로 강적에 맞서 쓰러뜨린다."],
-"specie":"두더지","height":"33.3 kg (73.4 lbs)","weight":"0.7 m (2′04″)","breeding":{
+"specie":"두더지","height":"66.6 kg (146.8 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"50 (6.5% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"149",
 "growthRate":"중간 빠름"},

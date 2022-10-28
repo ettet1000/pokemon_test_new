@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2015.gif"},
 "types":["Rock","Electric"],"weaknesses":["Steel","Fighting","Water","Ice","Grass","Ground"],
 "descriptions":["산길을 굴러 내려갈 때 방해되는 것은 모조리 튕겨 버리거나 감전시킨다."],
-"specie":"암석","height":"105.0 kg (231.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
+"specie":"암석","height":"110.0 kg (242.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"137",
 "growthRate":"중간 느림"},

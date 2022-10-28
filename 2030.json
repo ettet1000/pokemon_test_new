@@ -5,7 +5,7 @@
 "mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2030_main.png"},
 "types":["Water","Dark"],"weaknesses":["Grass","Electric"],
 "descriptions":["히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도와 같은 연격은 천 겹의 파도와도 같다."],
-"specie":"관록","height":"94.6 kg (208.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
+"specie":"관록","height":"58.2 kg (128.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"238",
 "growthRate":"중간 느림"},

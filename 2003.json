@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2003.gif"},
 "types":["Ice","Steel"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["남쪽 섬의 설산에 산다. 눈보라가 칠 때는 눈 속에 웅크려 휩쓸리지 않도록 가만히 버틴다."],
-"specie":"쥐","height":"12.0 kg (26.5 lbs)","weight":"0.6 m (2′00″)","breeding":{
+"specie":"쥐","height":"40.0 kg (88.2 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 방어","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"60",
 "growthRate":"중간 빠름"},

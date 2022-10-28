@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2018.gif"},
 "types":["Psychic","Fairy"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["용맹하고 과감하며 자긍심이 높다. 발끝의 털에 사이코 파워를 모아 경쾌하게 숲을 달린다."],
-"specie":"불의말","height":"95.0 kg (209.4 lbs)","weight":"1.7 m (5′07″)","breeding":{
+"specie":"불의말","height":"80.0 kg (176.4 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 스피드","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"175",
 "growthRate":"중간 빠름"},

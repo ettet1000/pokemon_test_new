@@ -9,7 +9,7 @@
 "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2020.gif"},
 "types":["Poison","Dark"],"weaknesses":["Psychic","Ground"],
 "descriptions":["무엇보다 쓰레기를 좋아한다. 바로 소화해서 예쁘게 반짝이는 독소 결정을 만들어낸다."],
-"specie":"진흙","height":"30.0 kg (66.1 lbs)","weight":"0.9 m (2′11″)","breeding":{
+"specie":"진흙","height":"42.0 kg (92.6 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 HP","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"65",
 "growthRate":"중간 빠름"},
