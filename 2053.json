@@ -7,7 +7,7 @@
 "specie":"빙산","height":"262.4 kg (578.5 lbs)","weight":"1.4 m (4′07″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"55 (7.2% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"180",
-"growthRate":"중간 빠름"},"abilities":[{"name":"옹골찬턱","description":"혼란 상태가 되지 않는다."}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"옹골찬턱","description":"혼란 상태가 되지 않는다."},{"name":"아이스바디","description":"혼란 상태가 되지 않는다."}],
 "typesEffectiveness":{"Normal":"½","Fire":"1","Water":"2","Electric":"1","Grass":"2","Ice":"½","Fighting":"4","Poison":"½","Ground":"2","Flying":"½","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"4","Fairy":"1"},
 "evolutionChain":[{"number":"712","name":"꽁어름",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png","type":"FIRST"},{"number":"2053","name":"크레베이스",

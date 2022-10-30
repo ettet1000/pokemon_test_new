@@ -13,7 +13,7 @@
 "egg":{"groups":["수중1","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},
 "training":{"evYield":"1 방어, 1 특수방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"144",
 "growthRate":"빠름"},
-"abilities":[{"name":"자연회복","description":"배틀에서 일단 물러나면 상태 이상이 회복된다."},{"name":"의욕","description":"공격은 높지만 빗나가기 쉽다."}],
+"abilities":[{"name":"깨어진갑옷","description":"배틀에서 일단 물러나면 상태 이상이 회복된다."}],
 "typesEffectiveness":{
 "Normal":"0","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"0","Poison":"½","Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"2027","name":"코산호",

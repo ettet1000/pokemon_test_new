@@ -13,7 +13,7 @@
 "egg":{"groups":["부정형","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 HP","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"70 (보통보다 높음)","baseExp":"165",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"의태","description":"접촉한 상대를 마비시킬 때가 있다."},{"name":"유연","description":"마비 상태가 되지 않는다."}],
+"abilities":[{"name":"의태","description":"접촉한 상대를 마비시킬 때가 있다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"¼","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"2035","name":"메더",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2035.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2035_thumb.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],
