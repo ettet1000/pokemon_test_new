@@ -1,4 +1,4 @@
-{"number":"781","name":"타타륜","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/781.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/781.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/781/781_main.png"},"types":["Ghost","식물"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"781","name":"타타륜","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/781.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/781.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/781/781_main.png"},"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["해저를 떠도는 해초가 침몰선의 부품을 거두어들여서 고스트포켓몬으로 다시 태어났습니다.","바다에 닻을 내려 먹이를 기다립니다. 몸집이 큰 고래왕을 잡아 생기를 빨아들입니다."],
 "specie":"해초조각","height":"210.0 kg (463.0 lbs)","weight":"3.9 m (12′10″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},

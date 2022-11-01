@@ -1,4 +1,4 @@
-{"number":"733","name":"왕큰부리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/733.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/733.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/733/733_main.png"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"733","name":"왕큰부리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/733.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/733.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/733/733_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["화목한 커플을 형성하는 것으로 알려진 이 포켓몬은 결혼식에 행운의 부적으로 가져옵니다.","부적으로 의사소통을 하기 위해 부리를 칩니다. 강도와 히트 횟수는 서로의 느낌을 알려줍니다."],
 "specie":"대포","height":"26.0 kg (57.3 lbs)","weight":"1.1 m (3′07″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

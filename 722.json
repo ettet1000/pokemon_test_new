@@ -1,4 +1,4 @@
-{"number":"722","name":"나몰빼미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/722/722_main.png"},"types":["Grass","비행"],"weaknesses":["Fire","Flying","Ice","Poison","Rock"],
+{"number":"722","name":"나몰빼미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/722.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/722.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/722/722_main.png"},"types":["Grass","Flying"],"weaknesses":["Fire","Flying","Ice","Poison","Rock"],
 "descriptions":["낮 동안에는 광합성으로 힘을 비축하고 밤이 되면 소리 없이 날며 먹이를 찾습니다","우아한 날개로 소리 없이 납니다. 단검에 비견되는 예리한 깃털을 정교하게 날리는 기술을 갖추고 있습니다."],
 "specie":"풀깃","height":"1.5 kg (3.3 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

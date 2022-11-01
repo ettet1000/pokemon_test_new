@@ -1,4 +1,4 @@
-{"number":"717","name":"이벨타르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/717.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/717.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/717/717_main.png"},"types":["Dark","비행"],"weaknesses":["Fairy","Electric","Ice","Rock"],
+{"number":"717","name":"이벨타르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/717.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/717.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/717/717_main.png"},"types":["Dark","Flying"],"weaknesses":["Fairy","Electric","Ice","Rock"],
 "descriptions":["수명이 다하면 모든 생물의 생명력을 흡수하여 다시 고치로 변합니다.","이 전설의 포켓몬은 날개와 꼬리 깃털이 넓게 펼쳐져 붉게 빛날 때 생물의 생명력을 흡수합니다."],
 "specie":"파괴","height":"203.0 kg (447.5 lbs)","weight":"5.8 m (19′00″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

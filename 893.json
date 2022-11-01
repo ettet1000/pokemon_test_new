@@ -1,4 +1,4 @@
-{"number":"893","name":"자루도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/893.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/893.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/893/893_main.png"},"types":["Dark","식물"],"weaknesses":["Fire","Flying","Fighting","Ice","Poison","Fairy","Bug"],
+{"number":"893","name":"자루도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/893.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/893.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/893/893_main.png"},"types":["Dark","Grass"],"weaknesses":["Fire","Flying","Fighting","Ice","Poison","Fairy","Bug"],
 "descriptions":["자루도의 줄기는 어린 시절부터 고아로 자란 인간 아이의 사랑과 보살핌으로 강해졌습니다.","무리를 떠나 사람의 아이를 기릅니다. 아이의 울음을 그치게 하는 냄새가 나는 천을 두르고 있습니다."],
 "specie":"나쁜원숭이","height":"70.0 kg (154.3 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

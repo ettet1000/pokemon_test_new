@@ -1,4 +1,4 @@
-{"number":"731","name":"콕코구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/731.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/731.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/731/731_main.png"},"types":["Normal","비행"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"731","name":"콕코구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/731.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/731.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/731/731_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["가늘게 보일지 모르지만 목 근육은 강력합니다. 1초에 16번 나무를 쫍니다!", "딱딱한 부리로 나무를 쫍니다. 쪼는 리듬에서 기분이나 상태를 알 수 있습니다."],
 "specie":"딱따구리","height":"1.2 kg (2.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

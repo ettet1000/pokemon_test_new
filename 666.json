@@ -1,4 +1,4 @@
-{"number":"666","name":"비비용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/666.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/666.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/666/666_main.png"},"types":["Bug","비행"],"weaknesses":["Fire","Flying","Electric","Ice","Rock"],
+{"number":"666","name":"비비용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/666.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/666.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/666/666_main.png"},"types":["Bug","Flying"],"weaknesses":["Fire","Flying","Electric","Ice","Rock"],
 "descriptions":["이 포켓몬의 날개 패턴은 서식지의 기후와 지형에 따라 다릅니다. 알록달록한 비늘을 흩뿌립니다.","다양한 문양을 가진 비비용은 세계 곳곳에서 찾아볼 수 있습니다. 이러한 패턴은 서식지의 기후에 영향을 받습니다."],
 "specie":"인분","height":"17.0 kg (37.5 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

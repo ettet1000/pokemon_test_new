@@ -1,4 +1,4 @@
-{"number":"741","name":"춤추새","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/741.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/741.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/741/741_main.png"},"types":["Fire","비행"],"weaknesses":["Water","Electric","Rock"],
+{"number":"741","name":"춤추새","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/741.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/741.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/741/741_main.png"},"types":["Fire","Flying"],"weaknesses":["Water","Electric","Rock"],
 "descriptions":["이새는 빨간 과즙을 마셨습니다. 트레이너가 잘못된 명령을 내리면 맹렬히 화를 내는 열정적인 포켓몬입니다.","열정적인 춤으로 적의 마음을 사로잡은 뒤, 방심할 때 타오르는 불길로 불태웁니다."],
 "specie":"댄스","height":"3.4 kg (7.5 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},
