@@ -1,4 +1,4 @@
-{"number":"691","name":"드래캄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/691.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/691.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/691/691_main.png"},"types":["Poison","드래곤"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
+{"number":"691","name":"드래캄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/691.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/691.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/691/691_main.png"},"types":["Poison","Dragon"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
 "descriptions":["드래캄은 머리에 있는 깃털을 해수면 위로 내밀고 햇빛을 쬐어 용의 기운을 만들어냅니다.", "드래캄은 금속을 부식시킬 수 있는 유독성 액체를 사용하여 영토에 들어오는 유조선을 해저로 보냅니다."],
 "specie":"풀모방","height":"81.5 kg (179.7 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["드래곤","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

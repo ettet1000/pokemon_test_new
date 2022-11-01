@@ -1,4 +1,4 @@
-{"number":"860","name":"쏘겨모","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/860.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/860.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/860/860_main.png"},"types":["Dark","요정"],"weaknesses":["Steel","Fairy","Poison"],
+{"number":"860","name":"쏘겨모","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/860.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/860.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/860/860_main.png"},"types":["Dark","Fairy"],"weaknesses":["Steel","Fairy","Poison"],
 "descriptions":["못된 꾀를 내어 밤에 숲으로 꾀어내려 합니다. 농작물을 키우는 힘을 갖고 있는 듯합니다.","납작 엎드려서 사과하는 척하다가 창처럼 뾰족한 뒷머리로 찌르는 전법을 구사합니다."],
 "specie":"성악","height":"12.5 kg (27.6 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["요정","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},

@@ -1,4 +1,4 @@
-{"number":"842","name":"단지래플","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/842.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/842.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/842/842_main.png"},"types":["Grass","드래곤"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
+{"number":"842","name":"단지래플","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/842.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/842.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/842/842_main.png"},"types":["Grass","Dragon"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
 "descriptions":["거다이맥스의 파워에 의해 꿀의 점성이 더 높아져 데미지를 흡수합니다.","체내의 꿀을 대량으로 분사해서 뒤집어쓰게 한 다음 끈적끈적한 점액 속에서 질식하게 합니다."],
 "specie":"사과즙","height":"13.0 kg (28.7 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["드래곤","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

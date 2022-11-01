@@ -1,4 +1,4 @@
-{"number":"708","name":"나목령","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/708.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/708.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/708/708_main.png"},"types":["Ghost","식물"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"708","name":"나목령","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/708.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/708.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/708/708_main.png"},"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["인간의 어린이를 닮은 목소리로 울어 어른을 숲속으로 유인하여 길을 잃게 합니다.", "숲속을 헤매다 목숨을 잃은 아이의 영혼이 나무 그루터기에 씌어 포켓몬으로 다시 태어났습니다."],
 "specie":"그루터기","height":"7.0 kg (15.4 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["부정형","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

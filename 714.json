@@ -1,4 +1,4 @@
-{"number":"714","name":"음뱃","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/714.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/714.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/714/714_main.png"},"types":["Flying","드래곤"],"weaknesses":["Fairy","Rock","Ice","드래곤"],
+{"number":"714","name":"음뱃","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/714.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/714.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/714/714_main.png"},"types":["Flying","Dragon"],"weaknesses":["Fairy","Rock","Ice","드래곤"],
 "descriptions":["해가 지면 둥지인 동굴을 나와 날아다니며 잘 익은 과일을 초음파로 찾습니다.","온갖 주파수의 음파를 조종합니다. 초음파를 맞으면 거대한 몸집의 포켓몬도 견디지 못합니다."],
 "specie":"음파","height":"8.0 kg (17.6 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["드래곤","비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

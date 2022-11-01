@@ -1,4 +1,4 @@
-{"number":"710","name":"호바귀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/710.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/710.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/710/710_main.png"},"types":["Ghost","식물"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"710","name":"호바귀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/710.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/710.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/710/710_main.png"},"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["호박의 구멍에서 나오는 빛은 보는 사람과 포켓몬을 최면에 걸리게 하고 조종할 수 있습니다.","이 세상을 떠도는 정령들을 호바귀의 몸에 집어넣었습니다. 그런 다음 그들은 사후 세계로 이동합니다."],
 "specie":"호박","height":"5.0 kg (11.0 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

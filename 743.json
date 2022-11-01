@@ -1,4 +1,4 @@
-{"number":"743","name":"에리본","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/743.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/743.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/743/743_main.png"},"types":["Bug","요정"],"weaknesses":["Fire","Steel","Flying","Poison","Rock"],
+{"number":"743","name":"에리본","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/743.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/743.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/743/743_main.png"},"types":["Bug","Fairy"],"weaknesses":["Fire","Steel","Flying","Poison","Rock"],
 "descriptions":["꽃가루와 꿀을 섞어서 경단을 만듭니다. 조합하는 종류와 양에 따라 효과가 달라집니다.","비에 젖는 것을 매우 싫어합니다. 흐린 날이 많은 가라르지방에서는 모습을 좀처럼 보기 힘듭니다."],
 "specie":"재니등에","height":"0.5 kg (1.1 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["벌레","요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

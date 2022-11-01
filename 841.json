@@ -1,4 +1,4 @@
-{"number":"841","name":"애프룡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/841.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/841.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/841/841_main.png"},"types":["Grass","드래곤"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
+{"number":"841","name":"애프룡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/841.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/841.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/841/841_main.png"},"types":["Grass","Dragon"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
 "descriptions":["목을 길게 늘이면 강렬하게 달콤한 꿀 냄새가 흘러넘쳐 이 냄새를 맡은 포켓몬을 기절시켜버립니다.","거다이맥스의 파워에 의해 당도가 높아진 결과 거대한 사과의 모습으로 변모했습니다."],
 "specie":"사과날개","height":"1.0 kg (2.2 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["드래곤","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

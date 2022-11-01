@@ -1,4 +1,4 @@
-{"number":"715","name":"음번","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/715.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/715.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/715/715_main.png"},"types":["Flying","드래곤"],"weaknesses":["Fairy","Rock","Ice","드래곤"],
+{"number":"715","name":"음번","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/715.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/715.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/715/715_main.png"},"types":["Flying","Dragon"],"weaknesses":["Fairy","Rock","Ice","드래곤"],
 "descriptions":["어둠 속을 날아다니며 돌을 부술 수 있는 초음파로 적을 약화시킵니다. 송곳니가 싸움을 끝냅니다.","공격적이고 잔혹한 이 포켓몬은 어둠 속에서 무력한 적을 무자비하게 괴롭힙니다."],
 "specie":"음파","height":"85.0 kg (187.4 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["드래곤","비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

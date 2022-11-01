@@ -1,4 +1,4 @@
-{"number":"840","name":"과사삭벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/840.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/840.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/840/840_main.png"},"types":["Grass","드래곤"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
+{"number":"840","name":"과사삭벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/840.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/840.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/840/840_main.png"},"types":["Grass","Dragon"],"weaknesses":["Flying","Ice","Dragon","Poison","Fairy","Bug"],
 "descriptions":["태어나면 사과 안으로 숨어듭니다. 안을 파먹으면서 성장하고 사과 맛이 진화를 결정합니다.","평생을 사과 속에서 지내며 천적인 새 포켓몬과 마주치면 사과인 척을 해서 몸을 지킵니다."],
 "specie":"사과살이","height":"0.5 kg (1.1 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["드래곤","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

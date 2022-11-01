@@ -1,4 +1,4 @@
-{"number":"756","name":"마셰이드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/756.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/756.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/756/756_main.png"},"types":["Grass","요정"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
+{"number":"756","name":"마셰이드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/756.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/756.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/756/756_main.png"},"types":["Grass","Fairy"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
 "descriptions":["한밤중에 숲속에서 빛을 발견하더라도 다가가면 안 됩니다. 마셰이드가 잠들어 버리게 합니다.","깜빡이는 포자의 빛으로 먹이를 유인해서 잠들게 한다. 손끝으로 생기를 흡수합니다."],
 "specie":"발광","height":"11.5 kg (25.4 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,4 @@
-{"number":"702","name":"데덴네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/702.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/702.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/702/702_main.png"},"types":["Electric","요정"],"weaknesses":["Poison","Ground"],
+{"number":"702","name":"데덴네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/702.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/702.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/702/702_main.png"},"types":["Electric","Fairy"],"weaknesses":["Poison","Ground"],
 "descriptions":["데덴네는 자체적으로 많은 전기를 생산하지 못하기 때문에 콘센트나 다른 전기 포켓몬에게서 전기를 훔칩니다.","데덴네의 수염은 다른 데덴네가 보내는 전파를 받아들입니다. 이 포켓몬들은 음식이나 전기의 위치를 ​​서로 공유합니다."],
 "specie":"안테나","height":"2.2 kg (4.9 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["요정","육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

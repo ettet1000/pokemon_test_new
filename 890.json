@@ -1,4 +1,4 @@
-{"number":"890","name":"무한다이노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/890.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/890.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/890/890_main.png"},"types":["Poison","드래곤"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
+{"number":"890","name":"무한다이노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/890.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/890.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/890/890_main.png"},"types":["Poison","Dragon"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
 "descriptions":["거대해진 코어에서 무한한 파워가 방출되기 때문에 주위 시공을 일그러뜨립니다.","로즈의 소행으로 인해 가라르 전역의 에너지를 흡수해서 과부하된 모습입니다."],
 "specie":"거대","height":"950.0 kg (2094.4 lbs)","weight":"20.0 m (65′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

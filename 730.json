@@ -1,4 +1,4 @@
-{"number":"730","name":"누리레느","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/730.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/730.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/730/730_main.png"},"types":["Water","요정"],"weaknesses":["Grass","Electric","Poison"],
+{"number":"730","name":"누리레느","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/730.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/730.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/730/730_main.png"},"types":["Water","Fairy"],"weaknesses":["Grass","Electric","Poison"],
 "descriptions":["입에서 나오는 음파로 물의 벌룬을 조종한다. 음파는 맑고 고운 노랫소리처럼 들립니다.", "싸움은 누리레느의 스테이지입니다. 노래와 벌룬이 흩날리는 모습은 보는 이들을 매료시킵니다."],
 "specie":"솔리스트","height":"44.0 kg (97.0 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["육상","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

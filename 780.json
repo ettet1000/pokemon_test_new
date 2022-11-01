@@ -1,4 +1,4 @@
-{"number":"780","name":"할비롱","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/780.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/780.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/780/780_main.png"},"types":["Normal","드래곤"],"weaknesses":["Fairy","Fighting","Ice","드래곤"],
+{"number":"780","name":"할비롱","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/780.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/780.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/780/780_main.png"},"types":["Normal","Dragon"],"weaknesses":["Fairy","Fighting","Ice","드래곤"],
 "descriptions":["해발 3000m가 넘는 산에 삽니다. 드물게 마을로 내려와 아이들과 놉니다.","사람을 잘 따르고 마음이 착하지만 한번 화가 나면 강풍을 일으켜 모든 것을 쓰러뜨려 버립니다."],
 "specie":"느긋누긋","height":"185.0 kg (407.9 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["드래곤","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

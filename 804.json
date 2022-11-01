@@ -1,4 +1,4 @@
-{"number":"804","name":"아고용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/804.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/804.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/804/804_main.png"},"types":["Poison","드래곤"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
+{"number":"804","name":"아고용","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/804.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/804.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/804/804_main.png"},"types":["Poison","Dragon"],"weaknesses":["Psychic","Ground","Ice","드래곤"],
 "descriptions":["울트라비스트의 일종. 독침에서 점도가 높고 빛나는 독액을 발사합니다.","체내에 수백 리터의 독액을 갖고 있다. UB라고 불리는 생물의 일종입니다."],
 "specie":"독침","height":"150.0 kg (330.7 lbs)","weight":"3.6 m (11′10″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

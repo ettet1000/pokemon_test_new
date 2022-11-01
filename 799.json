@@ -1,4 +1,4 @@
-{"number":"799","name":"악식킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/799.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/799.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/799/799_main.png"},"types":["Dark","드래곤"],"weaknesses":["Fairy","Fighting","Bug","Ice","드래곤"],
+{"number":"799","name":"악식킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/799.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/799.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/799/799_main.png"},"types":["Dark","Dragon"],"weaknesses":["Fairy","Fighting","Bug","Ice","드래곤"],
 "descriptions":["UB라고 불리는 미지의 생명체. 늘 배가 고픈 상태인 것인지 계속해서 무언가를 먹고 있습니다.","이 세계와는 성질이 다르고 위험하지만 원래 살던 세계에서는 흔히 볼 수 있는 생물인 듯합니다."],
 "specie":"악식성","height":"888.0 kg (1957.7 lbs)","weight":"5.5 m (18′01″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

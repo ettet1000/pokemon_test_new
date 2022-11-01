@@ -1,4 +1,4 @@
-{"number":"709","name":"대로트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/709.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/709.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/709/709_main.png"},"types":["Ghost","식물"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"709","name":"대로트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/709.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/709.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/709/709_main.png"},"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["이 포켓몬의 발끝에서 뻗어나온 작은 뿌리는 숲속의 나무에 붙어서 나무를 조종하게 합니다.","숲에서 나무를 베어내려고 하는 사람을 잡아먹는다고 해서 사람들은 두려워합니다. 하지만 숲을 공유하는 포켓몬에게는 상냥합니다."],
 "specie":"고목","height":"71.0 kg (156.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["부정형","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

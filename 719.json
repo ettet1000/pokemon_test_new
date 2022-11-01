@@ -1,4 +1,4 @@
-{"number":"719","name":"디안시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/719.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/719.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/719/719_main.png"},"types":["Rock","요정"],"weaknesses":["Steel","Water","Grass","Ground"],
+{"number":"719","name":"디안시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/719.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/719.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/719/719_main.png"},"types":["Rock","Fairy"],"weaknesses":["Steel","Water","Grass","Ground"],
 "descriptions":["공기 중의 탄소를 손 사이로 압축해 순식간에 많은 다이아몬드를 만들어낼 수 있습니다.", "멜리시의 돌연변이입니다. 분홍빛으로 빛나는 몸은 세계에서 가장 아름답다고 일컬어집니다"],
 "specie":"보석","height":"8.8 kg (19.4 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":""},{"type":"FEMALE","percentage":""}]},

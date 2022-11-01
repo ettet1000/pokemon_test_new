@@ -1,4 +1,4 @@
-{"number":"880","name":"파치래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/880.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/880.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/880/880_main.png"},"types":["Electric","드래곤"],"weaknesses":["Fairy","Ground","Ice","드래곤"],
+{"number":"880","name":"파치래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/880.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/880.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/880/880_main.png"},"types":["Electric","Dragon"],"weaknesses":["Fairy","Ground","Ice","드래곤"],
 "descriptions":["꼬리의 억센 근육으로 발전합니다. 하반신에 비해 상반신이 너무 작습니다.","꽁꽁 언 상반신이 진동하면 전기가 만들어집니다. 걷는 것이 매우 서툽니다."],
 "specie":"화석","height":"190.0 kg (418.9 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"UNKNOWN"}]},
