@@ -3,7 +3,26 @@
 "specie":"긴목","height":"41.5 kg (91.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"159",
-"growthRate":"중간 빠름"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"일찍기상","description":"잠듦 상태에서 빨리 깨어난다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"0","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"0","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"203","name":"키링키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/203.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/203.png","type":"FIRST"}],"previousEvolutions":[],"nextEvolutions":[],"superEvolutions":[],"baseStats":{"hp":70,"attack":80,"defense":65,"spAtk":90,"spDef":65,"speed":85,"total":455},"cards":[{"number":"65","name":"키링키","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/SWSH4_EN_65.png"},{"number":"94","name":"키링키","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/SM8_EN_94.png"},{"number":"82","name":"키링키","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/XY4_EN_82.png"},{"number":"64","name":"키링키","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/HGSS1_EN_64.png"},{"number":"16","name":"키링키","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/EX3_EN_16.png"},{"number":"16","name":"키링키","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/EX12_EN_16.png"},{"number":"49","name":"키링키","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/DP2_EN_49.png"}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"일찍기상","description":"잠듦 상태에서 빨리 깨어난다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"0","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"0","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
+"evolutionChain":[{"number":"203",
+"name":"키링키",
+"imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/203.png",
+"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/203.png",
+"type":"FIRST"},{"number":"981",
+"name":"키키링",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/981.png",
+"thumbUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/981_thumb.png",
+"type":"LAST",
+"requirement":"트윈빔을 배우고 레벨업"}],
+"previousEvolutions":[],
+"nextEvolutions":[{"number":"981",
+"name":"키키링",
+"imageUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/981.png",
+"thumbUrl":"https://ettet1000.github.io/pokemon_test_new_paldea/paldea/981_thumb.png",
+"type":"LAST",
+"requirement":"트윈빔을 배우고 레벨업"}],
+"superEvolutions":[],"baseStats":{"hp":70,"attack":80,"defense":65,"spAtk":90,"spDef":65,"speed":85,"total":455},"cards":[{"number":"65","name":"키링키","expansionName":"Vivid Voltage","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/SWSH4_EN_65.png"},{"number":"94","name":"키링키","expansionName":"Lost Thunder","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/SM8_EN_94.png"},{"number":"82","name":"키링키","expansionName":"XY—Phantom Forces","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/XY4_EN_82.png"},{"number":"64","name":"키링키","expansionName":"HeartGold & SoulSilver","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/HGSS1_EN_64.png"},{"number":"16","name":"키링키","expansionName":"EX Dragon","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/EX3_EN_16.png"},{"number":"16","name":"키링키","expansionName":"EX Legend Maker","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/EX12_EN_16.png"},{"number":"49","name":"키링키","expansionName":"Diamond & Pearl—Mysterious Treasures","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/cards/203/DP2_EN_49.png"}],
 "soundUrl":"https://pokedex.alansantos.dev/assets/pokemons/sounds/203.mp3","moves":{
 "levelUp":[{"level":1,"category":"물리","move":"놀래키기","type":"Ghost","power":"30","accuracy":"100"}
 ,{"level":1,"category":"특수","move":"염동력","type":"Psychic","power":"50","accuracy":"100"}
