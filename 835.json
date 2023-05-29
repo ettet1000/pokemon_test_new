@@ -1,4 +1,9 @@
-{"number":"835","name":"멍파치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/835.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/835.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/835/835_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+{"number":"835","name":"멍파치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/835.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/835.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/835/835_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/835.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/835.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/835s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/835s.gif"
+        },"types":["Electric"],"weaknesses":["Ground"],
 "descriptions":["간식에 끌려 사람의 일을 돕는 먹보입니다. 탁탁 튀는 전기를 두르고 계속 달립니다.","달릴 때 꼬리가 시작되는 부분에서 전기를 만들어 냅니다. 가라르에서는 양치기로 인기가 많습니다."],
 "specie":"강아지","height":"13.5 kg (29.8 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

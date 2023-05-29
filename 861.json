@@ -1,4 +1,9 @@
-{"number":"861","name":"오롱털","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/861.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/861.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/861/861_main.png"},"types":["Dark","Fairy"],"weaknesses":["Steel","Fairy","Poison"],
+{"number":"861","name":"오롱털","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/861.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/861.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/861/861_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/861.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/861.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/861s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/861s.gif"
+        },"types":["Dark","Fairy"],"weaknesses":["Steel","Fairy","Poison"],
 "descriptions":["머리카락은 근섬유의 역할을 하며 매듭이 풀어지면 촉수와 같은 움직임으로 상대를 묶어버립니다.","머릿털을 전신에 휘감아 근력이 올랐습니다. 괴력몬을 압도하는 파워를 발휘합니다."],
 "specie":"벌크업","height":"61.0 kg (134.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["요정","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},

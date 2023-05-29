@@ -1,4 +1,9 @@
-{"number":"825","name":"레돔벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/825.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/825.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/825/825_main.png"},"types":["Bug","Psychic"],"weaknesses":["Ghost","Fire","Flying","Dark","Rock","Bug"],
+{"number":"825","name":"레돔벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/825.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/825.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/825/825_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/825.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/825.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/825s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/825s.gif"
+        },"types":["Bug","Psychic"],"weaknesses":["Ghost","Fire","Flying","Dark","Rock","Bug"],
 "descriptions":["껍질 안에서 성장 중입니다. 사이코 파워로 밖의 상태를 살피며 진화에 대비하고 있습니다.","거의 움직이지 않지만 살아 있습니다. 식음을 전폐하고 껍질에 은둔하는 동안 초능력에 눈을 뜬 모양입니다."],
 "specie":"레이돔","height":"19.5 kg (43.0 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

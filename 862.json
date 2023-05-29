@@ -1,4 +1,9 @@
-{"number":"862","name":"가로막구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/862.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/862.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/862/862_main.png"},"types":["Dark","Normal"],"weaknesses":["Fairy","Bug","Fighting"],
+{"number":"862","name":"가로막구리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/862.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/862.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/862/862_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/862.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/862.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/862s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/862s.gif"
+        },"types":["Dark","Normal"],"weaknesses":["Fairy","Bug","Fighting"],
 "descriptions":["싸움을 반복하면서 진화합니다. 팔을 크로스하고 우렁차게 외치면 어떤 상대라도 풀죽게 됩니다.","엄청난 성량을 가졌습니다. 샤우팅하며 위협하는 모습은 블로킹이라 불립니다."],
 "specie":"정지","height":"46.0 kg (101.4 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

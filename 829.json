@@ -1,4 +1,9 @@
-{"number":"829","name":"꼬모카","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/829.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/829.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/829/829_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"829","name":"꼬모카","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/829.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/829.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/829/829_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/829.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/829.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/829s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/829s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["다리 하나를 땅에 꽂은 채 햇빛을 잔뜩 받으면 꽃잎이 선명한 색을 띠게 됩니다.","산들바람에 빙글빙글 돌면서 즐겁게 노래하는 귀여운 모습에 반해서 키우는 사람이 많습니다."],
 "specie":"꽃장식","height":"2.2 kg (4.9 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"876","name":"에써르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/876.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/876.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/876/876_main.png"},"types":["Psychic","Normal"],"weaknesses":["Dark","Bug"],
+{"number":"876","name":"에써르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/876.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/876.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/876/876_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/876.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/876.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/876s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/876s.gif"
+        },"types":["Psychic","Normal"],"weaknesses":["Dark","Bug"],
 "descriptions":["감사의 마음을 모으기 위해 사람과 포켓몬에게 정성을 쏟습니다. 암컷은 아이 돌보기가 특기입니다.","높은 지능을 가진 포켓몬. 동료끼리 뿔을 맞대어 정보를 교환합니다."],
 "specie":"감정","height":"28.0 kg (61.7 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"100%"},{"type":"FEMALE","percentage":"0%"}]},

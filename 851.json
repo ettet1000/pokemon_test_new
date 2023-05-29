@@ -1,4 +1,9 @@
-{"number":"851","name":"다태우지네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/851.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/851.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/851/851_main.png"},"types":["Fire","Bug"],"weaknesses":["Water","Flying","Rock"],
+{"number":"851","name":"다태우지네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/851.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/851.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/851/851_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/851.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/851.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/851s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/851s.gif"
+        },"types":["Fire","Bug"],"weaknesses":["Water","Flying","Rock"],
 "descriptions":["발열 시의 체온은 약 800도. 몸을 채찍처럼 휘면서 덤벼듭니다.","공격적인 성질을 가졌습니다. 탄 몸도 위험하지만 큰 이빨도 날카롭습니다."],
 "specie":"발열","height":"120.0 kg (264.6 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

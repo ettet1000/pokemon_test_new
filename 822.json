@@ -1,4 +1,9 @@
-{"number":"822","name":"파크로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/822.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/822.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/822/822_main.png"},"types":["Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"822","name":"파크로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/822.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/822.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/822/822_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/822.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/822.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/822s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/822s.gif"
+        },"types":["Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["발로 돌멩이를 쥐어서 던지거나 로프를 상대에게 휘감는 등 도구를 다루는 지혜를 가졌습니다.","혹독한 싸움을 헤쳐 나와 상대의 역량을 정확히 판단하는 힘을 습득했습니다."],
 "specie":"까마귀","height":"16.0 kg (35.3 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

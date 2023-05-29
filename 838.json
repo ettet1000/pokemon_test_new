@@ -1,4 +1,9 @@
-{"number":"838","name":"탄차곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/838.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/838.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/838/838_main.png"},"types":["Rock","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
+{"number":"838","name":"탄차곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/838.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/838.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/838/838_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/838.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/838.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/838s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/838s.gif"
+        },"types":["Rock","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
 "descriptions":["다리를 고속으로 회전시켜 시속 30km로 달립니다. 섭씨 1000도의 불꽃을 내뿜습니다.","체내에서 석탄을 만들어 냅니다. 과거의 가라르에서는 떨어뜨린 석탄을 생활에 이용했습니다."],
 "specie":"석탄","height":"78.0 kg (172.0 lbs)","weight":"1.1 m (3′07″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

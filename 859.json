@@ -1,4 +1,9 @@
-{"number":"859","name":"메롱꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/859.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/859.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/859/859_main.png"},"types":["Dark","Fairy"],"weaknesses":["Steel","Fairy","Poison"],
+{"number":"859","name":"메롱꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/859.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/859.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/859/859_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/859.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/859.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/859s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/859s.gif"
+        },"types":["Dark","Fairy"],"weaknesses":["Steel","Fairy","Poison"],
 "descriptions":["민가에 숨어들어 도둑질을 하고 속상해하는 사람의 마이너스 에너지도 얻습니다.","사람이나 포켓몬이 싫어하는 감정을 가질 때 발생시키는 마이너스 에너지를 코로 빨아들여서 건강해집니다."],
 "specie":"꾀부리기","height":"5.5 kg (12.1 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["요정","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},

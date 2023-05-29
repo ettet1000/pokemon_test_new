@@ -1,4 +1,9 @@
-{"number":"895","name":"레지드래고","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/895.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/895.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/895/895_main.png"},"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
+{"number":"895","name":"레지드래고","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/895.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/895.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/895/895_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/895.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/895.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/895s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/895s.gif"
+        },"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["온몸이 드래곤 에너지의 결정체입니다. 모든 드래곤포켓몬의 힘을 가지고 있는 듯합니다.","팔의 형태가 고대 드래곤포켓몬의 머리라는 학설도 있지만 증명된 바는 없습니다."],
 "specie":"용옥","height":"200.0 kg (440.9 lbs)","weight":"2.1 m (6′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

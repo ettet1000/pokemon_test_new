@@ -1,4 +1,9 @@
-{"number":"844","name":"사다이사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/844.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/844.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/844/844_main.png"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+{"number":"844","name":"사다이사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/844.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/844.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/844/844_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/844.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/844.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/844s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/844s.gif"
+        },"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["몸 주위를 고속으로 회전하는 모래는 고층 빌딩도 산산조각낼 정도의 파괴력입니다.","모래주머니도 매우 거대해졌습니다. 몸 주변에 소용돌이치는 모래는 100만 톤을 넘습니다."],
 "specie":"모래뱀","height":"65.5 kg (144.4 lbs)","weight":"3.8 m (12′06″)","breeding":{
 "egg":{"groups":["드래곤","육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

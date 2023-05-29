@@ -1,4 +1,9 @@
-{"number":"837","name":"탄동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/837.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/837.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/837/837_main.png"},"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
+{"number":"837","name":"탄동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/837.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/837.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/837/837_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/837.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/837.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/837s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/837s.gif"
+        },"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
 "descriptions":["바위투성이의 거친 길을 아무렇지도 않게 일륜차처럼 달립니다. 석탄을 태워서 살고 있습니다.","약 400년 전에 탄광에서 발견되었습니다. 몸의 대부분이 석탄과 같은 성분입니다."],
 "specie":"석탄","height":"12.0 kg (26.5 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

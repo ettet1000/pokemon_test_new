@@ -1,4 +1,9 @@
-{"number":"867","name":"데스판","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/867.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/867.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/867/867_main.png"},"types":["Ground","Ghost"],"weaknesses":["Water","Ghost","Grass","Dark","Ice"],
+{"number":"867","name":"데스판","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/867.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/867.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/867/867_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/867.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/867.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/867s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/867s.gif"
+        },"types":["Ground","Ghost"],"weaknesses":["Water","Ghost","Grass","Dark","Ice"],
 "descriptions":["그림자 같은 몸을 만지면 안됩니다. 그림에 새겨진 무서운 기억을 보기 때문입니다.","강한 저주를 담아 그린 고대의 그림이 데스마스의 영혼을 흡수해서 움직이기 시작했습니다."],
 "specie":"원념","height":"66.6 kg (146.8 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["부정형","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

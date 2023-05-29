@@ -1,4 +1,9 @@
-{"number":"885","name":"드라꼰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/885.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/885.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/885/885_main.png"},"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
+{"number":"885","name":"드라꼰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/885.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/885.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/885/885_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/885.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/885.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/885s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/885s.gif"
+        },"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
 "descriptions":["1마리로는 아이에게도 질 정도로 힘이 약하지만 동료의 협력으로 단련하고 진화하면 강해집니다.","고대의 바다에 살았습니다. 고스트포켓몬으로 되살아나 과거의 보금자리를 떠돌고 있습니다."],
 "specie":"원망","height":"2.0 kg (4.4 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["부정형","드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

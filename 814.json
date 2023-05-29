@@ -1,4 +1,9 @@
-{"number":"814","name":"래비풋","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/814.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/814.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/814/814_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"814","name":"래비풋","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/814.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/814.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/814/814_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/814.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/814.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/814s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/814s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["손을 쓰지 않고 나뭇가지에서 나무열매를 따내고 리프팅 합니다. 발 기술을 연마하는 연습을 합니다.","푹신푹신한 털 덕분에 추위에 강해지고 더 높은 온도의 불꽃 기술도 쓸 수 있게 되었습니다."],
 "specie":"토끼","height":"9.0 kg (19.8 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

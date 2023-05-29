@@ -1,4 +1,9 @@
-{"number":"854","name":"데인차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/854.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/854.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/854/854_main.png"},"types":["Ghost"],"weaknesses":["Ghost","Dark"],
+{"number":"854","name":"데인차","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/854.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/854.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/854/854_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/854.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/854.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/854s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/854s.gif"
+        },"types":["Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["삼켜버린 상대의 생기를 빨아들입니다. 누군가에게 삼켜지기를 기다리지만 맛이 없어서 바로 뱉어지곤 합니다. (진품)","거처로 삼고 있는 찻잔은 유명한 골동품 식기입니다. 위작이 많이 나돌고 있습니다. (가품)"],
 "specie":"홍차","height":"0.2 kg (0.4 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["부정형","광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},

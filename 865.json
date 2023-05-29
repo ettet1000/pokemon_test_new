@@ -1,4 +1,9 @@
-{"number":"865","name":"창파나이트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/865.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/865.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/865/865_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"865","name":"창파나이트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/865.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/865.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/865/865_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/865.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/865.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/865s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/865s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["단단한 파잎으로 공격을 받아넘기고 날카로운 줄기로 반격합니다. 파는 무기인 동시에 식재료입니다.","많은 싸움에서 살아남은 자만이 이 모습으로 진화합니다. 파가 시들면 전장을 떠납니다."],
 "specie":"청둥오리","height":"117.0 kg (257.9 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상","비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

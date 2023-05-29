@@ -1,4 +1,9 @@
-{"number":"892","name":"우라오스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/892.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/892.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/892/892_main.png"},"types":["Fighting","Dark"],"weaknesses":["Fairy","Flying","Fighting"],
+{"number":"892","name":"우라오스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/892.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/892.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/892/892_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/892.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/892.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/892s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/892s.gif"
+        },"types":["Fighting","Dark"],"weaknesses":["Fairy","Flying","Fighting"],
 "descriptions":["먼 지방의 산악지대에 삽니다. 낭떠러지 절벽을 달리며 하체를 단련하고 기술을 연마합니다.","일격필살이 신조입니다. 상대의 품으로 파고들어 단련된 주먹을 질러 넣습니다."],
 "specie":"권법","height":"105.0 kg (231.5 lbs)","weight":"1.9 m (6′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

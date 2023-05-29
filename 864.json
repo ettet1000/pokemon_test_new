@@ -1,4 +1,9 @@
-{"number":"864","name":"산호르곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/864.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/864.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/864/864_main.png"},"types":["Ghost"],"weaknesses":["Ghost","Dark"],
+{"number":"864","name":"산호르곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/864.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/864.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/864/864_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/864.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/864.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/864s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/864s.gif"
+        },"types":["Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["혼을 감싸는 영체의 몸은 주의가 필요합니다. 만지면 돌처럼 움직일 수 없게 됩니다.","영력이 높아져서 껍질에서 해방되었습니다. 영체로 핵이되는 영혼을 지킵니다."],
 "specie":"산호","height":"0.4 kg (0.9 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["수중1","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},

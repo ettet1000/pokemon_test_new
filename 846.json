@@ -1,4 +1,9 @@
-{"number":"846","name":"찌로꼬치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/846.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/846.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/846/846_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"846","name":"찌로꼬치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/846.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/846.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/846/846_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/846.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/846.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/846s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/846s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["배가 불러서 현저히 움직임이 둔해지면 윽우지가 통째로 삼켜버립니다.","날카롭고 뾰족한 턱을 자랑합니다. 조금이라도 움직이는 것을 발견하면 일직선으로 돌격합니다."],
 "specie":"돌격","height":"1.0 kg (2.2 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["수중2"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

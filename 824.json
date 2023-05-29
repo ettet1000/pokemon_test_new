@@ -1,4 +1,9 @@
-{"number":"824","name":"두루지벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/824.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/824.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/824/824_main.png"},"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
+{"number":"824","name":"두루지벌레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/824.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/824.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/824/824_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/824.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/824.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/824s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/824s.gif"
+        },"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
 "descriptions":["밭에서 자주 보이는 포켓몬입니다. 몸에 난 털로 주위에서 일어나는 일을 감지합니다.","언제나 부지런히 정보를 모으기 때문에 똑똑합니다. 단, 힘은 그저 그렇습니다."],
 "specie":"유충","height":"8.0 kg (17.6 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

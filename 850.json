@@ -1,4 +1,9 @@
-{"number":"850","name":"태우지네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/850.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/850.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/850/850_main.png"},"types":["Fire","Bug"],"weaknesses":["Water","Flying","Rock"],
+{"number":"850","name":"태우지네","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/850.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/850.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/850/850_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/850.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/850.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/850s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/850s.gif"
+        },"types":["Fire","Bug"],"weaknesses":["Water","Flying","Rock"],
 "descriptions":["발열된 몸으로 먹이를 세게 조릅니다. 알맞게 구워지면 우적우적 먹어버립니다.","몸속에 모아둔 가연성 가스로 열을 냅니다. 특히 배 쪽의 노란 부분이 뜨겁습니다."],
 "specie":"발열","height":"1.0 kg (2.2 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

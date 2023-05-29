@@ -1,4 +1,9 @@
-{"number":"886","name":"드래런치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/886.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/886.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/886/886_main.png"},"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
+{"number":"886","name":"드래런치","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/886.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/886.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/886/886_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/886.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/886.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/886s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/886s.gif"
+        },"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
 "descriptions":["보살피는 드라꼰을 머리에 태우지 않으면 진정하지 못하고 다른 포켓몬을 태우려고 합니다.","비행 속도는 시속 200km. 드라꼰과 함께 싸우며 무사히 진화할 때까지 돌봅니다."],
 "specie":"돌보미","height":"11.0 kg (24.3 lbs)","weight":"1.4 m (4′07″)","breeding":{
 "egg":{"groups":["부정형","드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

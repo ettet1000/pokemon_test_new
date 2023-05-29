@@ -1,4 +1,9 @@
-{"number":"871","name":"찌르성게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/871.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/871.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/871/871_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+{"number":"871","name":"찌르성게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/871.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/871.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/871/871_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/871.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/871.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/871s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/871s.gif"
+        },"types":["Electric"],"weaknesses":["Ground"],
 "descriptions":["가시 하나하나에 전기를 비축하고 있습니다. 부러진 가시도 3시간 동안 방전을 계속합니다.","가시 끝에서 전기를 발산합니다. 날카로운 이빨로 바위에 붙은 해초를 갉아 먹습니다."],
 "specie":"성게","height":"1.0 kg (2.2 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["부정형","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

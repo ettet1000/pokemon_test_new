@@ -1,4 +1,9 @@
-{"number":"877","name":"모르페코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/877.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/877.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/877/877_main.png"},"types":["Electric","Dark"],"weaknesses":["Fairy","Bug","Fighting","Ground"],
+{"number":"877","name":"모르페코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/877.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/877.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/877/877_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/877.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/877.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/877s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/877s.gif"
+        },"types":["Electric","Dark"],"weaknesses":["Fairy","Bug","Fighting","Ground"],
 "descriptions":["공복 호르몬으로 성질이 변합니다. 배가 채워질 때까지 온갖 못된 짓을 합니다.","볼주머니의 전기가 악타입의 에너지로 변화했습니다. 너무 배가 고파서 매우 흉포합니다."],
 "specie":"양면","height":"3.0 kg (6.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["요정","육상"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

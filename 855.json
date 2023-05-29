@@ -1,4 +1,9 @@
-{"number":"855","name":"포트데스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/855.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/855.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/855/855_main.png"},"types":["Ghost"],"weaknesses":["Ghost","Dark"],
+{"number":"855","name":"포트데스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/855.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/855.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/855/855_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/855.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/855.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/855s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/855s.gif"
+        },"types":["Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["남겨진 홍차를 발견하면 자신의 몸을 흘러 들어가게 합니다. 그 홍차는 포트데스가 됩니다. (진품)","화가 나면 차로 된 몸을 상대의 입으로 날립니다. 마신 상대는 격렬한 오한에 휩싸입니다. (가품)"],
 "specie":"홍차","height":"0.4 kg (0.9 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["부정형","광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"UNKNOWN"}]},

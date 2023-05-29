@@ -1,4 +1,9 @@
-{"number":"843","name":"모래뱀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/843.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/843.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/843/843_main.png"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+{"number":"843","name":"모래뱀","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/843.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/843.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/843/843_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/843.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/843.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/843s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/843s.gif"
+        },"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["콧구멍으로 모래를 분사합니다. 적의 눈을 속이고 그 틈에 땅속으로 숨어들어 몸을 숨깁니다.","굴을 파면서 먹은 모래를 목에 있는 주머니에 저장하는데 8kg이나 되는 모래가 들어갑니다."],
 "specie":"모래뱀","height":"7.6 kg (16.8 lbs)","weight":"2.2 m (7′03″)","breeding":{
 "egg":{"groups":["드래곤","육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

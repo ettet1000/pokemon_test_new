@@ -1,4 +1,9 @@
-{"number":"826","name":"이올브","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/826.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/826.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/826/826_main.png"},"types":["Bug","Psychic"],"weaknesses":["Ghost","Fire","Flying","Dark","Rock","Bug"],
+{"number":"826","name":"이올브","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/826.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/826.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/826/826_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/826.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/826.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/826s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/826s.gif"
+        },"types":["Bug","Psychic"],"weaknesses":["Ghost","Fire","Flying","Dark","Rock","Bug"],
 "descriptions":["파워를 최대한으로 쥐어짜면 주위에 있는 모두의 마음을 조종할 수 있습니다.","뇌를 중심으로 거대화했습니다. 압도적인 지능과 방대한 사이코 에너지를 지니고 있습니다."],
 "specie":"칠성","height":"40.8 kg (89.9 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

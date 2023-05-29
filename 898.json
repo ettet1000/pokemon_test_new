@@ -1,4 +1,9 @@
-{"number":"898","name":"버드렉스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/898.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/898.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/898/898_main.png"},"types":["Psychic","Grass"],"weaknesses":["Ghost","Fire","Flying","Ice","Dark","Poison","Bug"],
+{"number":"898","name":"버드렉스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/898.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/898.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/898/898_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/898.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/898.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/898s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/898s.gif"
+        },"types":["Psychic","Grass"],"weaknesses":["Ghost","Fire","Flying","Ice","Dark","Poison","Bug"],
 "descriptions":["과거와 미래의 전부를 꿰뚫어보는 힘으로 운석의 위험으로부터 숲의 생물을 구했다고 합니다.","황무지를 초록으로 물들이기 위해 유대로 맺어진 포켓몬과 가라르를 뛰어다녔다고 합니다."],
 "specie":"킹","height":"7.7 kg (17.0 lbs)","weight":"1.1 m (3′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

@@ -1,4 +1,9 @@
-{"number":"821","name":"파라꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/821.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/821.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/821/821_main.png"},"types":["Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"821","name":"파라꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/821.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/821.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/821/821_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/821.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/821.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/821s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/821s.gif"
+        },"types":["Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["작은 몸을 기민하게 날려 틈을 노리는 전법으로 몸집이 큰 상대를 농락합니다.","아무리 강한 상대라도 덤벼드는 용감한 성격을 가졌습니다. 도리어 당하면서도 점점 단련되어 갑니다."],
 "specie":"아기새","height":"1.8 kg (4.0 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

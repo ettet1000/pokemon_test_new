@@ -1,4 +1,9 @@
-{"number":"827","name":"훔처우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/827.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/827.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/827/827_main.png"},"types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
+{"number":"827","name":"훔처우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/827.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/827.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/827/827_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/827.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/827.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/827s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/827s.gif"
+        },"types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
 "descriptions":["조심성이 많고 교활합니다. 먹이를 훔치고는 꼬리로 발자국을 지우며 도망갑니다.","다른 포켓몬이 발견한 먹이를 훔치며 삽니다. 푹신푹신한 볼록살 덕분에 발소리가 나지 않습니다."],
 "specie":"여우","height":"8.9 kg (19.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"812","name":"고릴타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/812.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/812.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/812/812_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"812","name":"고릴타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/812.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/812.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/812/812_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/812.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/812.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/812s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/812s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["고릴타는 숲의 드럼과 하나가 되어 가라르 전 지역을 뒤흔드는 드럼 비트를 만들어 냅니다.","거다이맥스의 파워에 의해 그루터기가 성장하여 삼림과도 같은 드럼이 되었습니다."],
 "specie":"드러머","height":"90.0 kg (198.4 lbs)","weight":"2.1 m (6′11″)","breeding":{
 "egg":{"groups":["육상","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

@@ -1,4 +1,9 @@
-{"number":"896","name":"블리자포스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/896.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/896.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/896/896_main.png"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+{"number":"896","name":"블리자포스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/896.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/896.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/896/896_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/896.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/896.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/896s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/896s.gif"
+        },"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
 "descriptions":["굉장한 괴력을 가졌습니다. 얼굴을 덮는 얼음 마스크는 다이아몬드보다 100배 단단합니다.","발굽에서 강력한 냉기를 발산합니다. 원하는 것은 무엇이든 힘으로 빼앗는 폭군입니다."],
 "specie":"사나운말","height":"800.0 kg (1763.7 lbs)","weight":"2.2 m (7′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},

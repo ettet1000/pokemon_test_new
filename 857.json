@@ -1,4 +1,9 @@
-{"number":"857","name":"손지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/857.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/857.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/857/857_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"857","name":"손지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/857.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/857.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/857/857_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/857.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/857.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/857s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/857s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["머리의 술로 상대를 때려 꼼짝 못 하게 합니다. 프로복서조차 한 방에 KO되는 파괴력입니다.","강한 감정을 품은 자라면 누가 됐든 조용하게 만드는데 그 수단이 매우 난폭합니다."],
 "specie":"정숙","height":"4.8 kg (10.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

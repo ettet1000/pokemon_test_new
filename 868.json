@@ -1,4 +1,9 @@
-{"number":"868","name":"마빌크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/868.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/868.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/868/868_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"868","name":"마빌크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/868.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/868.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/868/868_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/868.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/868.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/868s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/868s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["마빌크가 모습을 보인 디저트가게는 크게 번창한다고 전해지고 있습니다.","크림으로 이루어진 몸을 가졌습니다. 공기 중을 떠도는 달콤한 향기의 성분이 모여서 태어났습니다."],
 "specie":"크림","height":"0.3 kg (0.7 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["부정형","요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

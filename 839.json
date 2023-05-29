@@ -1,4 +1,9 @@
-{"number":"839","name":"석탄산","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/839.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/839.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/839/839_main.png"},"types":["Rock","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
+{"number":"839","name":"석탄산","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/839.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/839.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/839/839_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/839.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/839.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/839s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/839s.gif"
+        },"types":["Rock","Fire"],"weaknesses":["Water","Ground","Fighting","Rock"],
 "descriptions":["싸우게 되면 석탄으로 된 산이 새빨갛게 타올라 불똥을 흩뿌려 주위를 태웁니다.","평소에는 온화하지만 인간이 광산을 훼손시키면 격분해서 1500도의 불꽃으로 태워버립니다."],
 "specie":"석탄","height":"310.5 kg (684.5 lbs)","weight":"2.8 m (9′02″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

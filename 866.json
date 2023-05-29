@@ -1,4 +1,9 @@
-{"number":"866","name":"마임꽁꽁","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/866.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/866.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/866/866_main.png"},"types":["Ice","Psychic"],"weaknesses":["Steel","Ghost","Fire","Dark","Rock","Bug"],
+{"number":"866","name":"마임꽁꽁","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/866.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/866.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/866/866_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/866.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/866.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/866s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/866s.gif"
+        },"types":["Ice","Psychic"],"weaknesses":["Steel","Ghost","Fire","Dark","Rock","Bug"],
 "descriptions":["유머러스한 움직임으로 모두에게 인기가 높습니다. 배의 무늬에서 사이코 파워를 방출합니다.","탭 댄스의 달인입니다. 얼음으로 만든 지팡이를 휘두르며 경쾌한 스텝을 선보입니다."],
 "specie":"코미디언","height":"58.2 kg (128.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

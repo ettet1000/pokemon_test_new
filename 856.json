@@ -1,4 +1,9 @@
-{"number":"856","name":"몸지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/856.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/856.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/856/856_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"856","name":"몸지브림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/856.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/856.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/856/856_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/856.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/856.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/856s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/856s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["인적이 드문 곳을 좋아합니다. 강한 감정이 느껴지면 쏜살같이 도망쳐버립니다.","머리의 돌기로 생물의 기분을 감지합니다. 온화한 자에게만 마음을 엽니다."],
 "specie":"차분","height":"3.4 kg (7.5 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

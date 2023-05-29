@@ -1,4 +1,9 @@
-{"number":"894","name":"레지에레키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/894.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/894.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/894/894_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+{"number":"894","name":"레지에레키","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/894.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/894.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/894/894_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/894.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/894.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/894s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/894s.gif"
+        },"types":["Electric"],"weaknesses":["Ground"],
 "descriptions":["온몸이 전기 에너지를 만드는 기관입니다. 가라르 전 지역에서 사용하는 양의 전기를 만들어 낼 수 있습니다.","전기 에너지 덩어리입니다. 몸에 있는 링을 해제하면 숨겨진 힘이 해방된다고 합니다."],
 "specie":"일렉트론","height":"145.0 kg (319.7 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

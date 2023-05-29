@@ -1,4 +1,9 @@
-{"number":"828","name":"폭슬라이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/828.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/828.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/828/828_main.png"},"types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
+{"number":"828","name":"폭슬라이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/828.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/828.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/828/828_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/828.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/828.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/828s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/828s.gif"
+        },"types":["Dark"],"weaknesses":["Fairy","Bug","Fighting"],
 "descriptions":["가벼운 몸과 날카로운 발톱으로 먹이나 알을 훔치며 돌아다닙니다. 펄스멍이 천적입니다.","목표로 한 먹잇감에 슬쩍 마킹을 해둡니다. 냄새를 따라가다 먹이의 주인이 방심하고 있을 때 훔치려듭니다."],
 "specie":"여우","height":"19.9 kg (43.9 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

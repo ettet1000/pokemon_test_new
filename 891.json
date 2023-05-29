@@ -1,4 +1,9 @@
-{"number":"891","name":"치고마","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/891.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/891.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/891/891_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"891","name":"치고마","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/891.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/891.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/891/891_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/891.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/891.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/891s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/891s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["머리의 하얗고 긴 털을 잡아당기면 기세가 고조되어 단전에서 파워가 끓어오릅니다.","혹독한 수련을 거듭하며 기술을 갈고닦습니다. 체득한 기술에 따라 진화했을 때의 모습이 달라집니다."],
 "specie":"권법","height":"12.0 kg (26.5 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

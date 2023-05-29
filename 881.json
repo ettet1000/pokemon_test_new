@@ -1,4 +1,9 @@
-{"number":"881","name":"파치르돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/881.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/881.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/881/881_main.png"},"types":["Electric","Ice"],"weaknesses":["Fire","Ground","Fighting","Rock"],
+{"number":"881","name":"파치르돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/881.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/881.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/881/881_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/881.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/881.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/881s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/881s.gif"
+        },"types":["Electric","Ice"],"weaknesses":["Fire","Ground","Fighting","Rock"],
 "descriptions":["고대의 해변에 살며 먹이를 몸의 얼음으로 보존시켰지만 움직임이 둔해 멸종하였습니다.","꽁꽁 언 상반신이 진동하면 전기가 만들어집니다. 걷는 것이 매우 서툽니다."],
 "specie":"화석","height":"150.0 kg (330.7 lbs)","weight":"2.3 m (7′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"UNKNOWN"}]},

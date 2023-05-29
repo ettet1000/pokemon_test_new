@@ -1,4 +1,9 @@
-{"number":"811","name":"채키몽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/811.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/811.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/811/811_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"811","name":"채키몽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/811.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/811.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/811/811_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/811.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/811.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/811s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/811s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["격렬한 비트를 내는데 열중한 나머지 싸움에서 상대가 기절해도 모릅니다.","2개의 스틱으로 격렬한 비트를 만드는 채키몽일수록 동료들에게 존경받습니다."],
 "specie":"비트","height":"14.0 kg (30.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상","식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

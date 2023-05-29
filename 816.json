@@ -1,4 +1,9 @@
-{"number":"816","name":"울머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/816.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/816.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/816/816_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"816","name":"울머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/816.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/816.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/816/816_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/816.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/816.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/816s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/816s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["젖으면 피부색이 변합니다. 위장한 것처럼 모습이 보이지 않게됩니다.","겁을 먹으면 양파 100개와 맞먹는 최루 성분의 눈물을 흘려서 상대도 덩달아 울게 만듭니다."],
 "specie":"물도마뱀","height":"4.0 kg (8.8 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

@@ -1,4 +1,9 @@
-{"number":"836","name":"펄스멍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/836.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/836.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/836/836_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+{"number":"836","name":"펄스멍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/836.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/836.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/836/836_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/836.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/836.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/836s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/836s.gif"
+        },"types":["Electric"],"weaknesses":["Ground"],
 "descriptions":["만든 전기를 다리로 보내서 달리는 것을 돕습니다. 삼 일 밤낮을 쉬지 않고 달릴 수 있습니다.","전기의 힘으로 다릿심을 강하게 키웁니다. 최고 속도는 시속 90km를 가볍게 넘깁니다."],
 "specie":"개","height":"34.0 kg (75.0 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

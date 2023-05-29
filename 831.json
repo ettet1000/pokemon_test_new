@@ -1,4 +1,9 @@
-{"number":"831","name":"우르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/831.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/831.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/831/831_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"831","name":"우르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/831.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/831.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/831/831_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/831.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/831.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/831s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/831s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["털이 많이 자라면 움직이지 못합니다. 우르의 털로 짠 천은 놀라울 정도로 튼튼합니다.","곱슬곱슬한 털은 훌륭한 쿠션 역할을 합니다. 절벽에서 떨어져도 아무렇지도 않습니다."],
 "specie":"양","height":"6.0 kg (13.2 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

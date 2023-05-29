@@ -1,4 +1,9 @@
-{"number":"815","name":"에이스번","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/815.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/815.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/815/815_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"815","name":"에이스번","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/815.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/815.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/815/815_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/815.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/815.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/815s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/815s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["거다이맥스 파워로 인해 화염 볼의 직경은 100m 이상이 되기도 합니다.","에이스번의 타오르는 투지가 담긴 거대 화염볼은 상대를 놓치지 않고 불살라버립니다."],
 "specie":"스트라이커","height":"33.0 kg (72.8 lbs)","weight":"1.4 m (4′07″)","breeding":{
 "egg":{"groups":["육상","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

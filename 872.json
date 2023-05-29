@@ -1,4 +1,9 @@
-{"number":"872","name":"누니머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/872.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/872.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/872/872_main.png"},"types":["Ice","Bug"],"weaknesses":["Fire","Steel","Flying","Rock"],
+{"number":"872","name":"누니머기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/872.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/872.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/872/872_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/872.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/872.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/872s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/872s.gif"
+        },"types":["Ice","Bug"],"weaknesses":["Fire","Steel","Flying","Rock"],
 "descriptions":["땅에 쌓인 눈을 먹습니다. 많이 먹으면 먹을수록 등의 가시는 훌륭하게 자랍니다.","냉기가 서린 실을 뿜습니다. 실로 몸을 가지에 휘감아서 고드름인 척하고 잠듭니다."],
 "specie":"애벌레","height":"3.8 kg (8.4 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

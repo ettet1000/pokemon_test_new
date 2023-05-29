@@ -1,4 +1,9 @@
-{"number":"818","name":"인텔리레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/818.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/818.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/818/818_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"818","name":"인텔리레온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/818.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/818.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/818/818_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/818.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/818.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/818s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/818s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["저격 실력이 굉장합니다. 15km 떨어진 곳에 굴러다니는 나무열매를 관통하는 것도 누워서 떡 먹기입니다.","물대포의 속도는 마하7입니다. 머리의 볏으로 바람과 기운을 감지하면서 조준을 맞춥니다."],
 "specie":"에이전트","height":"45.2 kg (99.6 lbs)","weight":"1.9 m (6′03″)","breeding":{
 "egg":{"groups":["육상","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

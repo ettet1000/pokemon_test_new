@@ -1,4 +1,9 @@
-{"number":"853","name":"케오퍼스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/853.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/853.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/853/853_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"853","name":"케오퍼스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/853.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/853.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/853/853_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/853.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/853.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/853s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/853s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["자신의 실력을 시험하기 위해 육지로 올라가 대전 상대를 찾습니다. 싸움이 끝나면 바다로 돌아갑니다.","온몸이 근육덩어리입니다. 촉수를 사용해서 펼치는 조르기 기술의 위력은 무시무시 합니다."],
 "specie":"유술","height":"39.0 kg (86.0 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["인간형","수중1"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

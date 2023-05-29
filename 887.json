@@ -1,4 +1,9 @@
-{"number":"887","name":"드래펄트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/887.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/887.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/887/887_main.png"},"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
+{"number":"887","name":"드래펄트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/887.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/887.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/887/887_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/887.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/887.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/887s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/887s.gif"
+        },"types":["Dragon","Ghost"],"weaknesses":["Ghost","Dark","Fairy","Ice","드래곤"],
 "descriptions":["뿔에 들어간 드라꼰은 마하의 속도로 날려지기를 기대하고 있는 것 같습니다.","뿔에 있는 구멍에 드라꼰을 넣고 지냅니다. 싸움이 시작되면 마하의 스피드로 드라꼰을 날립니다."],
 "specie":"스텔스","height":"50.0 kg (110.2 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["부정형","드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

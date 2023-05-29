@@ -1,4 +1,9 @@
-{"number":"889","name":"자마젠타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/889.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/889.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/889/889_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"889","name":"자마젠타","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/889.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/889.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/889/889_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/889.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/889.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/889s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/889s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["다이맥스 포켓몬의 일격도 매우 쉽게 막아내는 완전무장한 모습입니다.","어떤 공격도 튕겨내는 모습은 격투왕의 방패라 불리며 두려움과 공경의 대상이었습니다."],
 "specie":"강자","height":"785.0 kg (1730.6 lbs)","weight":"2.9 m (9′06″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

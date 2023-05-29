@@ -1,4 +1,9 @@
-{"number":"882","name":"어래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/882.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/882.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/882/882_main.png"},"types":["Water","Dragon"],"weaknesses":["Fairy","드래곤"],
+{"number":"882","name":"어래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/882.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/882.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/882/882_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/882.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/882.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/882s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/882s.gif"
+        },"types":["Water","Dragon"],"weaknesses":["Fairy","드래곤"],
 "descriptions":["특유의 다릿심으로 시속 60km 이상으로 달릴 수 있지만 물속에서만 호흡할 수 있습니다.","뛰어난 다리와 턱의 힘 덕분에 고대에는 무적이었으나 먹이를 모두 잡아먹어버려서 멸종했습니다."],
 "specie":"화석","height":"215.0 kg (474.0 lbs)","weight":"2.3 m (7′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"UNKNOWN"}]},

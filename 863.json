@@ -1,4 +1,9 @@
-{"number":"863","name":"나이킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/863.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/863.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/863/863_main.png"},"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
+{"number":"863","name":"나이킹","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/863.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/863.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/863/863_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/863.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/863.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/863s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/863s.gif"
+        },"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
 "descriptions":["싸움에 열중해 진화한 결과 펴면 단검으로 변하는 위험한 발톱을 얻었습니다.","머리의 털이 단단해져서 철로 된 헬멧처럼 되었습니다. 매우 호전적인 성질을 가졌습니다."],
 "specie":"바이킹","height":"28.0 kg (61.7 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

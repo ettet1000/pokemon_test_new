@@ -1,4 +1,9 @@
-{"number":"832","name":"배우르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/832.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/832.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/832/832_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"832","name":"배우르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/832.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/832.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/832/832_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/832.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/832.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/832s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/832s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["늠름하게 자란 뿔은 이성에게 어필하기 위한 것입니다. 무기로는 사용하지 않습니다.","탄력 있는 털로 짜낸 카펫은 트램펄린 같아서 올라가면 통통 튀어 오르게 됩니다."],
 "specie":"양","height":"43.0 kg (94.8 lbs)","weight":"1.3 m (4′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

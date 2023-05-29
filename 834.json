@@ -1,4 +1,9 @@
-{"number":"834","name":"갈가부기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/834.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/834.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/834/834_main.png"},"types":["Water","Rock"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+{"number":"834","name":"갈가부기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/834.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/834.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/834/834_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/834.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/834.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/834s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/834s.gif"
+        },"types":["Water","Rock"],"weaknesses":["Grass","Electric","Fighting","Ground"],
 "descriptions":["먼 옛날 바위산을 깨물어 부숴 홍수를 막은 일이 가라르지방에 전해 내려오고 있습니다.","거다이맥스의 파워에 의해 뒷발로 일어서게 됐습니다. 상대를 짓누른 뒤 큰 턱으로 마무리합니다."],
 "specie":"물어뜯기","height":"115.5 kg (254.6 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

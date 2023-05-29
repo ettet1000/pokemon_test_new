@@ -1,4 +1,9 @@
-{"number":"833","name":"깨물부기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/833.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/833.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/833/833_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"833","name":"깨물부기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/833.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/833.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/833/833_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/833.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/833.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/833s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/833s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["머리 뿔은 바위처럼 단단합니다. 뿔로 싸우다가 풀이 죽은 틈에 덥석 물고 놓지 않습니다.","눈앞에 있는 것은 바로 물어버리는 습성을 가졌습니다. 나고 있는 앞니가 근질거려서 물게 된다는 듯 합니다."],
 "specie":"물고늘어지기","height":"8.5 kg (18.7 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

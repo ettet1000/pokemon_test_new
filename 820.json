@@ -1,4 +1,9 @@
-{"number":"820","name":"요씽리스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/820.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/820.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/820/820_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"820","name":"요씽리스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/820.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/820.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/820/820_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/820.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/820.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/820s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/820s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["아무리 단단한 나무열매 껍질도 이빨로 아작아작 갉아 먹습니다. 가라르에서 쉽게 볼 수 있는 포켓몬입니다.","꼬리에 나무열매를 모아둡니다. 너무 많이 모아둬서 툭툭 흘리지만 둔감해서 눈치채지 못합니다."],
 "specie":"욕심쟁이","height":"6.0 kg (13.2 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"813","name":"염버니","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/813.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/813.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/813/813_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"813","name":"염버니","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/813.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/813.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/813/813_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/813.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/813.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/813s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/813s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["싸울 준비가 되면 코끝과 발바닥의 볼록살에서 고열을 냅니다.","뛰어다니며 체온을 높이면 불꽃 에너지가 몸 안에 맴돌아 본래의 힘을 발휘할 수 있습니다."],
 "specie":"토끼","height":"4.5 kg (9.9 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["육상","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

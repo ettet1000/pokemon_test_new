@@ -1,4 +1,9 @@
-{"number":"849","name":"스트린더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/849.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/849.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/849/849_main.png"},"types":["Electric","Poison"],"weaknesses":["Psychic","Ground"],
+{"number":"849","name":"스트린더","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/849.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/849.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/849/849_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/849.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/849.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/849s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/849s.gif"
+        },"types":["Electric","Poison"],"weaknesses":["Psychic","Ground"],
 "descriptions":["독이 뇌까지 퍼져 폭주하게 되었습니다. 날뛸 때마다 독으로 된 땀이 사방으로 퍼져 대지를 오염시킵니다.","남아도는 전력이 무기입니다. 비축된 전기의 양은 번개 구름을 능가할 정도입니다."],
 "specie":"펑크","height":"40.0 kg (88.2 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

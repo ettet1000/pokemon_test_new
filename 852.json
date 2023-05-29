@@ -1,4 +1,9 @@
-{"number":"852","name":"때때무노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/852.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/852.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/852/852_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"852","name":"때때무노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/852.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/852.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/852/852_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/852.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/852.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/852s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/852s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["세 살 아이 정도의 지능을 가졌습니다. 촉수는 잘 끊어지지만 재생되기 때문에 신경 쓰지 않습니다.","먹이를 찾아 지상으로 올라옵니다. 호기심이 왕성해서 눈에 들어오는 것은 일단 촉수로 때리고 봅니다."],
 "specie":"떼쟁이","height":"4.0 kg (8.8 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["인간형","수중1"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

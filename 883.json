@@ -1,4 +1,9 @@
-{"number":"883","name":"어치르돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/883.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/883.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/883/883_main.png"},"types":["Water","Ice"],"weaknesses":["Grass","Electric","Fighting","Rock"],
+{"number":"883","name":"어치르돈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/883.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/883.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/883/883_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/883.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/883.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/883s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/883s.gif"
+        },"types":["Water","Ice"],"weaknesses":["Grass","Electric","Fighting","Rock"],
 "descriptions":["어떤 공격에도 상처 입지 않는 얼굴 가죽을 가졌지만 호흡이 자유롭지 않았던 탓에 멸종하였습니다.","주변을 꽁꽁 얼려서 먹이를 잡지만 입이 머리 윗부분에 있어서 먹기 힘듭니다."],
 "specie":"화석","height":"175.0 kg (385.8 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"UNKNOWN"}]},

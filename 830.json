@@ -1,4 +1,9 @@
-{"number":"830","name":"백솜모카","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/830.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/830.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/830/830_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"830","name":"백솜모카","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/830.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/830.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/830/830_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/830.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/830.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/830s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/830s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["머리의 솜털로 만든 실은 윤이 나고 매우 아름답습니다. 가라르지방의 특산품입니다.","솜털이 붙은 씨는 영양 만점입니다. 씨를 바람에 날려서 초목과 포켓몬들을 건강하게 만듭니다."],
 "specie":"솜장식","height":"2.5 kg (5.5 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

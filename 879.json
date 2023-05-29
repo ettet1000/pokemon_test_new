@@ -1,4 +1,9 @@
-{"number":"879","name":"대왕끼리동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/879.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/879.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/879/879_main.png"},"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
+{"number":"879","name":"대왕끼리동","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/879.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/879.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/879/879_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/879.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/879.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/879s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/879s.gif"
+        },"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
 "descriptions":["무리를 지어 생활합니다. 코의 악력은 큰 바위도 산산이 부술 정도로 강합니다.","녹색 피부는 물에도 강합니다. 오래전에 다른 지방에서 오게 되어 사람과 함께 일했습니다."],
 "specie":"동상","height":"650.0 kg (1433.0 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["육상","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

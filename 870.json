@@ -1,4 +1,9 @@
-{"number":"870","name":"대여르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/870.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/870.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/870/870_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"870","name":"대여르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/870.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/870.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/870/870_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/870.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/870.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/870s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/870s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["6마리가 1마리의 포켓몬입니다. 대열을 바꿔가며 팀워크로 싸웁니다.","리더라고 불리는 1마리와 멤버라고 불리는 5마리로 이루어져 있습니다. 리더의 명령은 절대적입니다."],
 "specie":"진형","height":"62.0 kg (136.7 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["요정","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},

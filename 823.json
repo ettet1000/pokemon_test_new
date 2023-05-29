@@ -1,4 +1,9 @@
-{"number":"823","name":"아머까오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/823.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/823.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/823/823_main.png"},"types":["Flying","Steel"],"weaknesses":["Fire","Electric"],
+{"number":"823","name":"아머까오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/823.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/823.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/823/823_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/823.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/823.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/823s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/823s.gif"
+        },"types":["Flying","Steel"],"weaknesses":["Fire","Electric"],
 "descriptions":["블레이드 버드로 불리는 등에 있는 8장의 날개는 본체와 떨어져 단독으로 적을 습격합니다.","거다이맥스의 파워로 날갯짓하면 허리케인을 능가하는 강풍이 모든 것을 날려버립니다."],
 "specie":"까마귀","height":"75.0 kg (165.3 lbs)","weight":"2.2 m (7′03″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

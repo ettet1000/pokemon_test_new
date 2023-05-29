@@ -1,4 +1,9 @@
-{"number":"869","name":"마휘핑","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/869.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/869.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/869/869_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"869","name":"마휘핑","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/869.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/869.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/869/869_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/869.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/869.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/869s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/869s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["밀키루비 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 달콤새큼해졌습니다.","밀키바닐라 : 손에서 나오는 크림은 마휘핑이 행복할 때 단맛과 감칠맛이 깊어집니다.","밀키솔트 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 짭짤해졌습니다.","밀키말차 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 향긋해졌습니다.","루비믹스 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 잘 배합된 맛이 되었습니다.","캐러멜믹스 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 씁쓸해졌습니다.","트리플믹스 : 진화할 때 크림을 만드는 세포가 흔들려서 풍미가 복잡해졌습니다."],
 "specie":"크림","height":"0.5 kg (1.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["부정형","요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

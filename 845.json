@@ -1,4 +1,9 @@
-{"number":"845","name":"윽우지","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/845.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/845.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/845/845_main.png"},"types":["Flying","Water"],"weaknesses":["Electric","Rock"],
+{"number":"845","name":"윽우지","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/845.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/845.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/845/845_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/845.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/845.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/845s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/845s.gif"
+        },"types":["Flying","Water"],"weaknesses":["Electric","Rock"],
 "descriptions":["먹보입니다. 먹이인 찌로꼬치를 통째로 삼키지만 가끔 실수로 다른 포켓몬을 먹어버립니다.","상대를 일격에 쓰러뜨릴 정도로 파워풀하지만 건망증이 심해서 싸우고 있는 상대를 잊어버립니다."],
 "specie":"그대로삼키기","height":"18.0 kg (39.7 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["비행","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"888","name":"자시안","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/888.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/888.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/888/888_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"888","name":"자시안","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/888.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/888.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/888/888_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/888.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/888.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/888s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/888s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["온갖 것을 베어버리는 모습에서 요정왕의 검이라고 불리며 적과 같은 편에게 경외의 대상이 되었습니다.","과거의 무기로 무장했습니다. 거다이맥스 포켓몬도 단칼에 베어 버립니다."],
 "specie":"강자","height":"355.0 kg (782.6 lbs)","weight":"2.8 m (9′02″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

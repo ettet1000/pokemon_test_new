@@ -1,4 +1,9 @@
-{"number":"858","name":"브리무음","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/858/858_main.png"},"types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
+{"number":"858","name":"브리무음","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/858.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/858.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/858/858_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/858.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/858.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/858s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/858s.gif"
+        },"types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
 "descriptions":["촉수에서 번개 같은 빔을 쏟아냅니다. 사나운 여신이라고 불립니다.","50km 떨어져 있는 생물의 기분을 감지합니다. 적의를 느끼면 바로 공격합니다."],
 "specie":"정적","height":"5.0 kg (11.0 lbs)","weight":"2.1 m (6′11″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
