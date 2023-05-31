@@ -1,4 +1,9 @@
-{"number":"787","name":"카푸브루루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/787.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/787.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/787/787_main.png"},"types":["Grass","Fairy"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
+{"number":"787","name":"카푸브루루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/787.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/787.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/787/787_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/787.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/787.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/787s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/787s.gif"
+        },"types":["Grass","Fairy"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
 "descriptions":["꼬리로 소리를 내어 위치를 알림으로써 불필요한 싸움을 피합니다. 초목을 조종하는 울라울라의 수호신.","수호신으로 불리지만 적이라고 간주한 자는 철저하게 때려 부수는 격렬함을 갖고 있습니다."],
 "specie":"토속신","height":"45.5 kg (100.3 lbs)","weight":"1.9 m (6′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"UNKNOWN"}]},

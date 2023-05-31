@@ -1,4 +1,9 @@
-{"number":"805","name":"차곡차곡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/805.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/805.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/805/805_main.png"},"types":["Rock","Steel"],"weaknesses":["Water","Fighting","Ground"],
+{"number":"805","name":"차곡차곡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/805.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/805.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/805/805_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/805.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/805.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/805s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/805s.gif"
+        },"types":["Rock","Steel"],"weaknesses":["Water","Fighting","Ground"],
 "descriptions":["UB 같은 수수께끼의 생명체. 갑자기 움직이기 시작해서 덮쳐온 돌담의 정체는 이 녀석입니다.","울트라홀에서 출현했습니다. 여러 개의 생명이 쌓여 1마리를 형성하고 있는 듯합니다."],
 "specie":"돌담","height":"820.0 kg (1807.8 lbs)","weight":"5.5 m (18′01″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

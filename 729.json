@@ -1,4 +1,9 @@
-{"number":"729","name":"키요공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/729.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/729.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/729/729_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"729","name":"키요공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/729.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/729.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/729/729_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/729.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/729.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/729s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/729s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["자신이 만드는 물풍선을 폭발시켜 적을 때려 공격합니다.","모르는 춤을 보면 들뜹니다. 이 열심히 하는 사람은 그 춤을 배울 수 있을 때까지 열심히 연습합니다."],
 "specie":"아이돌","height":"17.5 kg (38.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

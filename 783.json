@@ -1,4 +1,9 @@
-{"number":"783","name":"짜랑고우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/783.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/783.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/783/783_main.png"},"types":["Dragon","Fighting"],"weaknesses":["Fairy","Flying","Psychic","Ice","드래곤"],
+{"number":"783","name":"짜랑고우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/783.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/783.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/783/783_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/783.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/783.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/783s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/783s.gif"
+        },"types":["Dragon","Fighting"],"weaknesses":["Fairy","Flying","Psychic","Ice","드래곤"],
 "descriptions":["비늘이 떨어진 상처투성이인 몸은 강자라는 증표입니다. 상대를 쓰러뜨린 후 상처를 보여줍니다.","비늘을 부딪쳐 우렁찬 소리를 낸 후 상대에게 덤벼들어 날카로운 손톱으로 갈기갈기 찢습니다."],
 "specie":"비늘","height":"47.0 kg (103.6 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

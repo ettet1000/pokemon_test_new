@@ -1,4 +1,9 @@
-{"number":"758","name":"염뉴트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/758.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/758.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/758/758_main.png"},"types":["Poison","Fire"],"weaknesses":["Water","Psychic","Ground","Rock"],
+{"number":"758","name":"염뉴트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/758.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/758.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/758/758_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/758.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/758.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/758s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/758s.gif"
+        },"types":["Poison","Fire"],"weaknesses":["Water","Psychic","Ground","Rock"],
 "descriptions":["염뉴트들의 싸움은 거느리고 있는 수컷 야도뇽의 수로 승패가 정해지는 듯합니다.","염뉴트는 암컷만이 존재합니다. 페로몬 가스를 발생시켜 수컷 야도뇽을 매료시킵니니다."],
 "specie":"독도마뱀","height":"22.2 kg (48.9 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["드래곤","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

@@ -1,4 +1,9 @@
-{"number":"800","name":"네크로즈마","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/800.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/800.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/800/800_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"800","name":"네크로즈마","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/800.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/800.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/800/800_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/800.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/800.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/800s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/800s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["살기 위해 빛을 찾아 날뛰며 돌아다닙니다. 레이저 광선을 쏘아 온갖 것을 산산조각냅니다.","빛을 에너지원으로 하여 살고 있습니다. 지하에 잠들어있었기 때문에 체내에 쌓인 불순물에 의해 검게 변했습니다."],
 "specie":"프리즘","height":"230.0 kg (507.1 lbs)","weight":"2.4 m (7′10″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

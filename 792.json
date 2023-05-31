@@ -1,4 +1,9 @@
-{"number":"792","name":"루나아라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/792/792_main.png"},"types":["Psychic","Ghost"],"weaknesses":["Ghost","Dark"],
+{"number":"792","name":"루나아라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/792.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/792.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/792/792_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/792.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/792.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/792s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/792s.gif"
+        },"types":["Psychic","Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["달을 현혹하는 짐승이라는 이름을 가졌습니다. 모든 빛을 에너지로 변환해서 살고 있습니다.","주위의 빛을 모두 빼앗아 자신 스스로 만월의 모습이 되어 밤하늘에 빛을 발산합니다."],
 "specie":"월륜","height":"120.0 kg (264.6 lbs)","weight":"4.0 m (13′01″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

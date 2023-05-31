@@ -1,4 +1,9 @@
-{"number":"749","name":"머드나기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/749.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/749.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/749/749_main.png"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+{"number":"749","name":"머드나기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/749.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/749.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/749/749_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/749.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/749.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/749s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/749s.gif"
+        },"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["흙을 먹어서 진흙을 만들고 발 전체에 이 진흙을 발라서 거친 지형을 미끄러지지 않고 걸을 수 있는 그립을 줍니다.","체중의 50배에 달하는 짐을 가볍게 운반할 정도로 힘이 장사입니다. 진흙을 다루는 데에 능합니다."],
 "specie":"당나귀","height":"110.0 kg (242.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

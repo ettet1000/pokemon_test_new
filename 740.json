@@ -1,4 +1,9 @@
-{"number":"740","name":"모단단게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/740.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/740.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/740/740_main.png"},"types":["Fighting","Ice"],"weaknesses":["Steel","Fire","Psychic","Flying","Fighting","요정"],
+{"number":"740","name":"모단단게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/740.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/740.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/740/740_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/740.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/740.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/740s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/740s.gif"
+        },"types":["Fighting","Ice"],"weaknesses":["Steel","Fire","Psychic","Flying","Fighting","요정"],
 "descriptions":["생각하기보다는 일단 때리고 봅니다. 눈사태를 펀치 러시로 되받아쳤다는 기록도 있습니다.","집게 안에 냉기를 모아 때려눕힙니다. 두꺼운 얼음벽도 가루로 만들어 버립니다."],
 "specie":"털게","height":"180.0 kg (396.8 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

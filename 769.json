@@ -1,4 +1,9 @@
-{"number":"769","name":"모래꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/769.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/769.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/769/769_main.png"},"types":["Ghost","Ground"],"weaknesses":["Ghost","Dark","Grass","Water","Ice"],
+{"number":"769","name":"모래꿍","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/769.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/769.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/769/769_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/769.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/769.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/769s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/769s.gif"
+        },"types":["Ghost","Ground"],"weaknesses":["Ghost","Dark","Grass","Water","Ice"],
 "descriptions":["모래산에 죽은 자의 원념이 깃들어 포켓몬이 되었습니다. 머리의 삽을 마음에 들어 합니다.","주로 모래사장에 삽니다. 입안에 손을 넣은 상대를 조종하여 자신을 크게 만듭니다."],
 "specie":"모래산","height":"70.0 kg (154.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

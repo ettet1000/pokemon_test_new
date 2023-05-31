@@ -1,4 +1,9 @@
-{"number":"735","name":"형사구스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/735.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/735.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/735/735_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"735","name":"형사구스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/735.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/735.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/735/735_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/735.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/735.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/735s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/735s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["매우 강한 성질이지만 좋아하는 꼬렛을 발견하면 이성을 잃고 덤벼듭니다.","원래 알로라에 없었지만, 옛날 꼬렛이 대량으로 발생했을 때 데려왔습니다."],
 "specie":"잠복","height":"14.2 kg (31.3 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

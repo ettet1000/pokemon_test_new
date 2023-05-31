@@ -1,4 +1,9 @@
-{"number":"768","name":"갑주무사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/768.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/768.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/768/768_main.png"},"types":["Bug","Water"],"weaknesses":["Flying","Electric","Rock"],
+{"number":"768","name":"갑주무사","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/768.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/768.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/768/768_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/768.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/768.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/768s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/768s.gif"
+        },"types":["Bug","Water"],"weaknesses":["Flying","Electric","Rock"],
 "descriptions":["이기기 위해서는 수단을 가리지 않습니다. 상대의 빈틈을 찌른 뒤 앞발의 작은 발톱으로 마무리합니다.","해저의 굴이나 침몰선이 거처입니다. 케오퍼스와 싸워서 진 쪽이 먹이가 됩니다."],
 "specie":"장갑","height":"108.0 kg (238.1 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["벌레","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

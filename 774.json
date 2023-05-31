@@ -1,4 +1,9 @@
-{"number":"774","name":"메테노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/774.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/774.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/774/774_main.png"},"types":["Rock","Flying"],"weaknesses":["Steel","Water","Electric","Ice","Rock"],
+{"number":"774","name":"메테노","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/774.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/774.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/774/774_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/774.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/774.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/774s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/774s.gif"
+        },"types":["Rock","Flying"],"weaknesses":["Steel","Water","Electric","Ice","Rock"],
 "descriptions":["겉껍질은 매우 튼튼하지만 지상에 낙하할 때의 충격으로 산산이 조각나 버립니다.(유성의 모습)","겉껍질이 벗겨진 모습. 코어의 색이 다른 이유는 먹은 먹이의 성분이 다르기 때문입니다.(코어의 모습)"],
 "specie":"유성","height":"40.0 kg (88.2 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},

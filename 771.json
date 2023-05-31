@@ -1,4 +1,9 @@
-{"number":"771","name":"해무기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/771.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/771.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/771/771_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"771","name":"해무기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/771.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/771.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/771/771_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/771.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/771.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/771s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/771s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["따뜻하고 얕은 여울에 삽니다. 상대와 마주치면 체내 기관을 입으로 뿜어서 때려눕힙니다.","보습 효과가 뛰어난 점액이 피부를 감싸고 있어 며칠을 육지에 있어도 마르지 않습니다."],
 "specie":"해삼","height":"1.2 kg (2.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

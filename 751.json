@@ -1,4 +1,9 @@
-{"number":"751","name":"물거미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/751.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/751.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/751/751_main.png"},"types":["Water","Bug"],"weaknesses":["Flying","Electric","Rock"],
+{"number":"751","name":"물거미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/751.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/751.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/751/751_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/751.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/751.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/751s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/751s.gif"
+        },"types":["Water","Bug"],"weaknesses":["Flying","Electric","Rock"],
 "descriptions":["평소에는 물속에서 생활하지만 먹이를 찾으러 육지로 올라올 때는 수포를 뒤집어씁니다.","엉덩이로 수포를 부풀려서 머리를 감싸줍니다. 동료끼리 수포의 크기를 비교합니다."],
 "specie":"수포","height":"4.0 kg (8.8 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["벌레","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

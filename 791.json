@@ -1,4 +1,9 @@
-{"number":"791","name":"솔가레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/791.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/791.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/791/791_main.png"},"types":["Psychic","Steel"],"weaknesses":["Ghost","Fire","Dark","Ground"],
+{"number":"791","name":"솔가레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/791.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/791.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/791/791_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/791.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/791.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/791s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/791s.gif"
+        },"types":["Psychic","Steel"],"weaknesses":["Ghost","Fire","Dark","Ground"],
 "descriptions":["전신에서 빛을 발산해서 마치 태양 같은 모습이 되면 어둠을 물리치고 세상을 비춥니다.","태양을 삼키는 짐승이라고 불렸습니다. 굉장한 양의 빛 에너지를 방출합니다."],
 "specie":"일륜","height":"230.0 kg (507.1 lbs)","weight":"3.4 m (11′02″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

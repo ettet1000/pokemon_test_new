@@ -1,4 +1,9 @@
-{"number":"775","name":"자말라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/775.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/775.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/775/775_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"775","name":"자말라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/775.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/775.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/775/775_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/775.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/775.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/775s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/775s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["태어날 때부터 계속 자고 있습니다. 깊은 수면에 빠져 있을 때는 일체 움직이지 않습니다.","죽을 때까지 계속 잠들어 있는 이유는 먹이인 잎사귀에 마취 성분이 포함되어 있기 때문입니다."],
 "specie":"꿈결","height":"19.9 kg (43.9 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

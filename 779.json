@@ -1,4 +1,9 @@
-{"number":"779","name":"치갈기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/779.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/779.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/779/779_main.png"},"types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
+{"number":"779","name":"치갈기","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/779.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/779.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/779/779_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/779.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/779.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/779s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/779s.gif"
+        },"types":["Water","Psychic"],"weaknesses":["Ghost","Dark","Grass","Electric","Bug"],
 "descriptions":["모래로 숨어들어 머리의 돌기에서 사이코 파워를 방사합니다. 주변의 상태를 탐지하면서 먹이를 기다립니다.","시마사리의 바늘도 뚫지 못할 정도로 두꺼운 피부를 가졌습니다. 튼튼한 이빨로 어적어적 바늘을 갉아서 먹습니다."],
 "specie":"이갈기","height":"19.0 kg (41.9 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["수중2"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

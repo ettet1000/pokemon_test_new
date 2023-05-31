@@ -1,4 +1,9 @@
-{"number":"808","name":"멜탄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/808.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/808.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/808/808_main.png"},"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
+{"number":"808","name":"멜탄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/808.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/808.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/808/808_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/808.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/808.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/808s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/808s.gif"
+        },"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
 "descriptions":["무리 지어 생활하지만 때가 되면 1마리의 강한 멜탄이 동료들을 흡수해 진화합니다.","금속을 녹여서 먹어버립니다. 액체 금속을 순환시켜서 체내에서 에너지를 만듭니다."],
 "specie":"너트","height":"8.0 kg (17.6 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

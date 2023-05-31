@@ -1,4 +1,9 @@
-{"number":"766","name":"내던숭이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/766.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/766.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/766/766_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"766","name":"내던숭이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/766.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/766.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/766/766_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/766.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/766.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/766s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/766s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["내던숭이는 약 20마리 정도가 모여서 각자 맡은 역할을 합니다. 협동으로 그룹이 살아남습니다.","놀라운 팀워크를 자랑하는 내던숭이는 상사의 지시에 따라 좋아하는 딸기를 찾는 데 일조합니다."],
 "specie":"연계","height":"82.8 kg (182.5 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

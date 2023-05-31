@@ -1,4 +1,9 @@
-{"number":"727","name":"어흥염","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/727.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/727.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/727/727_main.png"},"types":["Fire","Dark"],"weaknesses":["Water","Ground","Fighting","Rock"],
+{"number":"727","name":"어흥염","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/727.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/727.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/727/727_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/727.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/727.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/727s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/727s.gif"
+        },"types":["Fire","Dark"],"weaknesses":["Water","Ground","Fighting","Rock"],
 "descriptions":["투혼이 불타오르면 특히 허리의 불꽃이 거세집니다.","난폭한 거동이 눈에 띄지만 작은 포켓몬을 도와주는 상냥한 일면도 있습니다."],
 "specie":"힐","height":"83.0 kg (183.0 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

@@ -1,4 +1,9 @@
-{"number":"726","name":"냐오히트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/726.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/726.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/726/726_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"726","name":"냐오히트","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/726.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/726.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/726/726_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/810.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/810.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/810s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/810s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["갈기가 끝에 서 있으면 기분이 좋다는 것을 알 수 있습니다. 몸이 좋지 않으면 털은 납작하게 눕습니다.","강적을 상대하게 되면 전투 의욕이 높아지고 동시에 불꽃 방울의 화력도 올라갑니다."],
 "specie":"불고양이","height":"25.0 kg (55.1 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

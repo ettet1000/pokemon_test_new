@@ -1,4 +1,9 @@
-{"number":"806","name":"두파팡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/806.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/806.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/806/806_main.png"},"types":["Fire","Ghost"],"weaknesses":["Water","Ghost","Ground","Dark","Rock"],
+{"number":"806","name":"두파팡","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/806.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/806.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/806/806_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/806.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/806.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/806s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/806s.gif"
+        },"types":["Fire","Ghost"],"weaknesses":["Water","Ghost","Ground","Dark","Rock"],
 "descriptions":["울트라홀에서 나타난 UB. 폭발로 상대를 놀라게 하고 그 틈에 생기를 빼앗습니다.","꿈틀거리며 사람에게 다가오다 느닷없이 머리를 폭발시킵니다. 울트라비스트의 일종인 듯합니다."],
 "specie":"불꽃놀이","height":"13.0 kg (28.7 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

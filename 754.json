@@ -1,4 +1,9 @@
-{"number":"754","name":"라란티스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/754.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/754.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/754/754_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"754","name":"라란티스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/754.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/754.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/754/754_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/754.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/754.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/754s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/754s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["팔의 꽃잎이 가늘고 날카로워 빛을 모으면 레이저를 쏘는 포켓몬입니다.","꽃을 닮았습니다. 알맞게 자란 라란티스는 화려한 색을 띱니다."],
 "specie":"꽃사마귀","height":"18.5 kg (40.8 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

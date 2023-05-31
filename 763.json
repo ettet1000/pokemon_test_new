@@ -1,4 +1,9 @@
-{"number":"763","name":"달코퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/763/763_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"763","name":"달코퀸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/763.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/763.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/763/763_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/763.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/763.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/763s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/763s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["단단하고 뾰족한 발끝으로 킥을 먹여서 상대의 몸과 마음에 지워지지 않는 상처를 남깁니다.","늘씬하게 뻗은 다리와 잔인한 마음씨를 가진 공포의 대상. 상대를 사정없이 짓밟습니다."],
 "specie":"후르츠","height":"21.4 kg (47.2 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

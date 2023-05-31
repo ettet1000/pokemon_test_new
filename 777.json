@@ -1,4 +1,9 @@
-{"number":"777","name":"토게데마루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/777.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/777.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/777/777_main.png"},"types":["Electric","Steel"],"weaknesses":["Fire","Fighting","Ground"],
+{"number":"777","name":"토게데마루","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/777.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/777.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/777/777_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/777.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/777.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/777s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/777s.gif"
+        },"types":["Electric","Steel"],"weaknesses":["Fire","Fighting","Ground"],
 "descriptions":["등에 난 긴 털로 번개나 전기포켓몬의 전격을 받아 전기 주머니에 충전합니다.","위기에 처하면 몸을 둥글게 말고 등의 가시를 곤두세워 마구잡이로 전격을 쏘아댑니다."],
 "specie":"동글동글","height":"3.3 kg (7.3 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["요정","육상"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

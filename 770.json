@@ -1,4 +1,9 @@
-{"number":"770","name":"모래성이당","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/770.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/770.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/770/770_main.png"},"types":["Ghost","Ground"],"weaknesses":["Ghost","Dark","Grass","Water","Ice"],
+{"number":"770","name":"모래성이당","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/770.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/770.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/770/770_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/770.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/770.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/770s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/770s.gif"
+        },"types":["Ghost","Ground"],"weaknesses":["Ghost","Dark","Grass","Water","Ice"],
 "descriptions":["해변에 살지만 물을 싫어합니다. 세찬 비를 맞으면 성의 형태를 유지하지 못합니다.","해변의 악몽이라고도 불립니다. 모래를 조종하여 먹이를 가라앉힌 뒤 영혼을 흡수합니다."],
 "specie":"모래성","height":"250.0 kg (551.2 lbs)","weight":"1.3 m (4′03″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

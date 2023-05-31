@@ -1,4 +1,9 @@
-{"number":"744","name":"암멍이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/744.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/744.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/744/744_main.png"},"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
+{"number":"744","name":"암멍이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/744.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/744.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/744/744_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/744.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/744.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/744s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/744s.gif"
+        },"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
 "descriptions":["잘 따르지만 무는 버릇이 있어 계속 기르기에는 상당한 노력이 필요합니다.","목의 바위를 땅에 세게 부딪쳐서 상대를 위협합니다. 풀이 죽는 순간에 덮칩니다."],
 "specie":"강아지","height":"9.2 kg (20.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

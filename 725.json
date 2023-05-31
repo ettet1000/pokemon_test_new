@@ -1,4 +1,9 @@
-{"number":"725","name":"냐오불","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/725.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/725.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/725/725_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"725","name":"냐오불","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/725.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/725.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/725/725_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/725.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/725.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/725s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/725s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["틈만 나면 털을 핥아서 정리합니다. 뱃속에 쌓인 빠진 털에 불을 붙여서 불꽃 기술을 사용합니다.","냐오불에게 신뢰받기 전에 쓰다듬으려고 하면 날카로운 발톱으로 심하게 할퀴니 주의가 필요합니다."],
 "specie":"불고양이","height":"4.3 kg (9.5 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

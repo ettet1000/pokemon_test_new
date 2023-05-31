@@ -1,4 +1,9 @@
-{"number":"785","name":"카푸꼬꼬꼭","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/785.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/785.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/785/785_main.png"},"types":["Electric","Fairy"],"weaknesses":["Poison","Ground"],
+{"number":"785","name":"카푸꼬꼬꼭","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/785.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/785.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/785/785_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/785.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/785.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/785s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/785s.gif"
+        },"types":["Electric","Fairy"],"weaknesses":["Poison","Ground"],
 "descriptions":["번개를 조종하는 멜레멜레의 수호신. 호기심이 왕성해서 가끔 사람들 앞에 나타납니다.","수호신이라고 불리지만 기분을 해치는 사람이나 포켓몬을 공격하는 난폭한 신이기도 합니다."],
 "specie":"토속신","height":"20.5 kg (45.2 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"UNKNOWN"}]},

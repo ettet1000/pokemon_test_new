@@ -1,4 +1,9 @@
-{"number":"723","name":"빼미스로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/723/723_main.png"},"types":["Grass","Flying"],"weaknesses":["Fire","Flying","Ice","Poison","Rock"],
+{"number":"723","name":"빼미스로우","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/723.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/723.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/723/723_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/723.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/723.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/723s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/723s.gif"
+        },"types":["Grass","Flying"],"weaknesses":["Fire","Flying","Ice","Poison","Rock"],
 "descriptions":["날개 손질을 게을리하지 않습니다. 몸가짐을 정돈하는 이유뿐만 아니라 칼날깃의 날을 유지하기 위해서입니다.","햇빛을 받으며 힘을 비축하는 일이 잦습니다. 냉랭한 기후가 원인인 것으로 추측되나 양 날개에 숨겨진 칼날깃의 예리함에는 변화가 없습니다."],
 "specie":"칼날깃","height":"16.0 kg (35.3 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

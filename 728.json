@@ -1,4 +1,9 @@
-{"number":"728","name":"누리공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/728.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/728.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/728/728_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"728","name":"누리공","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/728.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/728.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/728/728_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/728.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/728.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/728s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/728s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["탄력이 있어 터졌을 때의 충격으로 상대에게 타격을 주는 특별한 벌룬을 만듭니다.","매일 열심히 연습하면 결국에는 커다랗고 성능 좋은 벌룬을 만들 수 있게 됩니다."],
 "specie":"강치","height":"7.5 kg (16.5 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["육상","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

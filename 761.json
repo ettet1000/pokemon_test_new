@@ -1,4 +1,9 @@
-{"number":"761","name":"달콤아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/761/761_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"761","name":"달콤아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/761.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/761.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/761/761_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/761.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/761.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/761s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/761s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["공격을 받으면 달콤하고 맛있는 땀을 분비합니다. 그 냄새는 더 많은 적을 부를뿐입니다.","그 몸은 새 포켓몬에게 매우 식욕을 돋우는 달콤하고 과일 향이납니다."],
 "specie":"후르츠","height":"3.2 kg (7.1 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

@@ -1,4 +1,9 @@
-{"number":"790","name":"코스모움","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/790/790_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"790","name":"코스모움","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/790.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/790.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/790/790_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/790.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/790.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/790s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/790s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["대기의 티끌을 굉장한 기세로 발아들여 진화 에너지를 코어에서 열심히 만들고 있습니다.","인간의 지식을 뛰어넘는 강도를 가진 껍질에 둘러싸여 있습니다. 별의 빛을 받아서 성장합니다."],
 "specie":"원시성","height":"999.9 kg (2204.4 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

@@ -1,4 +1,9 @@
-{"number":"724","name":"모크나이퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/724/724_main.png"},"types":["Grass","Ghost"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"724","name":"모크나이퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/724.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/724.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/724/724_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/724.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/724.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/724s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/724s.gif"
+        },"types":["Grass","Ghost"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["0.1초 만에 화살깃을 날개에 달린 시위에 메겨 발사합니다. 상대가 알아차리기 전에 급소를 꿰뚫어버립니다.", "히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄습니다. 환경이 진화에 영향을 주는 것으로 판명됩니다."],
 "specie":"화살깃","height":"36.6 kg (80.7 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

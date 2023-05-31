@@ -1,4 +1,9 @@
-{"number":"807","name":"제라오라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/807.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/807.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/807/807_main.png"},"types":["Electric"],"weaknesses":["Ground"],
+{"number":"807","name":"제라오라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/807.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/807.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/807/807_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/807.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/807.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/807s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/807s.gif"
+        },"types":["Electric"],"weaknesses":["Ground"],
 "descriptions":["손발의 볼록살에서 전기를 내보냅니다. 제라오라가 달려나가면 번개가 치고 우렛소리가 들립니다.","번개에 필적하는 스피드로 달려나가 고전압의 발톱으로 상대를 갈가리 찢습니다."],
 "specie":"신뢰","height":"44.5 kg (98.1 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

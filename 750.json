@@ -1,4 +1,9 @@
-{"number":"750","name":"만마드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/750.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/750.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/750/750_main.png"},"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
+{"number":"750","name":"만마드","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/750.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/750.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/750/750_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/750.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/750.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/750s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/750s.gif"
+        },"types":["Ground"],"weaknesses":["Water","Grass","Ice"],
 "descriptions":["진흙으로 굳힌 다리는 바위보다도 단단해져서 일격에 트럭을 파괴할 정도의 위력을 보입니다.","10톤이 넘는 짐을 끌고 자지도 쉬지도 않고 가라르지방을 종단할 수 있는 지구력이 있습니다."],
 "specie":"만마","height":"920.0 kg (2028.3 lbs)","weight":"2.5 m (8′02″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

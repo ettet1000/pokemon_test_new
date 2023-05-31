@@ -1,4 +1,9 @@
-{"number":"742","name":"에블리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/742.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/742.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/742/742_main.png"},"types":["Bug","Fairy"],"weaknesses":["Fire","Steel","Flying","Poison","Rock"],
+{"number":"742","name":"에블리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/742.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/742.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/742/742_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/742.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/742.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/742s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/742s.gif"
+        },"types":["Bug","Fairy"],"weaknesses":["Fire","Steel","Flying","Poison","Rock"],
 "descriptions":["꽃가루와 꿀을 아주 좋아합니다. 꼬모카의 꽃가루를 노리고 에블리가 주변을 날아다닙니다.","상대가 내뿜는 오라로 다음 행동을 예측합니다. 공격을 가볍게 피하고 반격합니다."],
 "specie":"재니등에","height":"0.2 kg (0.4 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["벌레","요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

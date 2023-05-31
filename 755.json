@@ -1,4 +1,9 @@
-{"number":"755","name":"자마슈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/755.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/755.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/755/755_main.png"},"types":["Grass","Fairy"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
+{"number":"755","name":"자마슈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/755.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/755.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/755/755_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/755.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/755.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/755s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/755s.gif"
+        },"types":["Grass","Fairy"],"weaknesses":["Steel","Fire","Flying","Ice","Poison"],
 "descriptions":["자마슈는 낮에도 캄캄한 숲 속에 삽니다. 깜박거리는 포자를 흩뿌려 적들을 잠들게 합니다.","숲에 사는 포켓몬들이 자마슈 머리에 있는 맛있는 모자를 먹습니다. 모자는 밤새 다시 자랍니다."],
 "specie":"발광","height":"1.5 kg (3.3 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

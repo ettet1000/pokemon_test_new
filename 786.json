@@ -1,4 +1,9 @@
-{"number":"786","name":"카푸나비나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/786.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/786.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/786/786_main.png"},"types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
+{"number":"786","name":"카푸나비나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/786.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/786.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/786/786_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/786.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/786.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/786s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/786s.gif"
+        },"types":["Psychic","Fairy"],"weaknesses":["Ghost","Steel","Poison"],
 "descriptions":["빛나는 인분을 흩뿌려 사람이나 포켓몬의 상처를 치료합니다. 아칼라에서 모시는 수호신입니다."],
 "specie":"토속신","height":"18.6 kg (41.0 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"UNKNOWN"}]},

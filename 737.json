@@ -1,4 +1,9 @@
-{"number":"737","name":"전지충이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/737.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/737.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/737/737_main.png"},"types":["Bug","Electric"],"weaknesses":["Fire","Rock"],
+{"number":"737","name":"전지충이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/737.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/737.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/737/737_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/737.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/737.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/737s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/737s.gif"
+        },"types":["Bug","Electric"],"weaknesses":["Fire","Rock"],
 "descriptions":["튼튼한 껍질로 몸을 보호합니다. 턱의 끝부분에서 전기를 흘려보내 반격합니다.","먹은 낙엽을 소화할 때 전기가 발생하는 구조로 되어 있습니다. 배의 전기 주머니에 충전됩니다."],
 "specie":"배터리","height":"10.5 kg (23.1 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

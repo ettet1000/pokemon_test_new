@@ -1,4 +1,9 @@
-{"number":"752","name":"깨비물거미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/752.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/752.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/752/752_main.png"},"types":["Water","Bug"],"weaknesses":["Flying","Electric","Rock"],
+{"number":"752","name":"깨비물거미","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/752.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/752.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/752/752_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/752.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/752.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/752s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/752s.gif"
+        },"types":["Water","Bug"],"weaknesses":["Flying","Electric","Rock"],
 "descriptions":["다리로 수포를 날려서 먹이를 감싼 다음 익사시킵니다. 그리고는 시간을 들여 천천히 음미합니다.","머리의 수포 안에 물거미를 넣어 남은 먹이를 먹이면서 돌봐줍니다."],
 "specie":"수포","height":"82.0 kg (180.8 lbs)","weight":"1.8 m (5′11″)","breeding":{
 "egg":{"groups":["벌레","수중1"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"732","name":"크라파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/732.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/732.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/732/732_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"732","name":"크라파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/732.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/732.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/732/732_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/732.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/732.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/732s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/732s.gif"
+        },"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["입에서 먹은 열매의 씨앗을 발사합니다. 흩어진 씨앗은 새로운 식물을 낳습니다.","그것은 부리의 끝을 구부려 100가지가 넘는 다른 울음소리를 마음대로 낼 수 있습니다."],
 "specie":"나팔입","height":"14.8 kg (32.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

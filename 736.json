@@ -1,4 +1,9 @@
-{"number":"736","name":"턱지충이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/736.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/736.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/736/736_main.png"},"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
+{"number":"736","name":"턱지충이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/736.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/736.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/736/736_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/736.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/736.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/736s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/736s.gif"
+        },"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
 "descriptions":["큰 턱을 사용하여 숲 바닥에 둥지를 파고 달콤한 나무 수액을 먹는 것을 좋아합니다.","커다란 턱은 굵은 가지를 부러뜨릴 정도의 위력을 가졌다. 천적인 파라꼬도 견디지 못하고 도망칩니다."],
 "specie":"유충","height":"4.4 kg (9.7 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

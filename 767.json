@@ -1,4 +1,9 @@
-{"number":"767","name":"꼬시레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/767.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/767.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/767/767_main.png"},"types":["Bug","Water"],"weaknesses":["Flying","Electric","Rock"],
+{"number":"767","name":"꼬시레","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/767.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/767.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/767/767_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/767.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/767.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/767s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/767s.gif"
+        },"types":["Bug","Water"],"weaknesses":["Flying","Electric","Rock"],
 "descriptions":["꼬시레는 떼를 지어 모여 끊임없이 위험을 경계합니다. 적의 존재를 감지하는 순간 흩어집니다.","자연이 더 깨끗합니다. 쓰레기와 썩은 것을 포함한 모든 것을 먹습니다. 둥지 근처의 땅은 항상 깨끗합니다."],
 "specie":"주행","height":"12.0 kg (26.5 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["벌레","수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

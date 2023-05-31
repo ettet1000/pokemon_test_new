@@ -1,4 +1,9 @@
-{"number":"739","name":"오기지게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/739.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/739.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/739/739_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"739","name":"오기지게","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/739.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/739.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/739/739_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/739.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/739.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/739s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/739s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["야자나무로 착각하고 나시에 오르는 일도 있습니다. 분노를 사 내동댕이쳐진 다음 짓밟힙니다.","딱딱한 집게는 공격과 수비에 모두 능하다. 오기지게끼리의 싸움은 복싱 같습니다."],
 "specie":"권투","height":"7.0 kg (15.4 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"760","name":"이븐곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/760.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/760.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/760/760_main.png"},"types":["Normal","Fighting"],"weaknesses":["Psychic","Flying","Fairy","Fighting"],
+{"number":"760","name":"이븐곰","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/760.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/760.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/760/760_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/760.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/760.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/760s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/760s.gif"
+        },"types":["Normal","Fighting"],"weaknesses":["Psychic","Flying","Fairy","Fighting"],
 "descriptions":["격투가가 무색할 정도의 기술로 먹이를 잡아 양쪽 겨드랑이에 끼우고 거처로 갖고 갑니다.","동료로 인정하면 애정을 표현하기 위해 껴안으려 하지만 뼈가 으스러질 수 있으므로 위험합니다."],
 "specie":"강한완력","height":"135.0 kg (297.6 lbs)","weight":"2.1 m (6′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

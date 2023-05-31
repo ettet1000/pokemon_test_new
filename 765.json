@@ -1,4 +1,9 @@
-{"number":"765","name":"하랑우탄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/765.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/765.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/765/765_main.png"},"types":["Normal","Psychic"],"weaknesses":["Dark","Bug"],
+{"number":"765","name":"하랑우탄","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/765.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/765.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/765/765_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/765.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/765.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/765s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/765s.gif"
+        },"types":["Normal","Psychic"],"weaknesses":["Dark","Bug"],
 "descriptions":["그것은 숲의 안과 밖을 알고 있습니다. 다친 포켓몬을 만나면 하랑우탄이 약초를 모아 치료합니다.","하랑우탄은 잎사귀와 털로 만든 부채꼴로 다른 포켓몬에게 능숙하게 지시합니다."],
 "specie":"현자","height":"76.0 kg (167.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

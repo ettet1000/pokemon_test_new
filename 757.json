@@ -1,4 +1,9 @@
-{"number":"757","name":"야도뇽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/757.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/757.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/757/757_main.png"},"types":["Poison","Fire"],"weaknesses":["Water","Psychic","Ground","Rock"],
+{"number":"757","name":"야도뇽","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/757.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/757.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/757/757_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/757.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/757.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/757s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/757s.gif"
+        },"types":["Poison","Fire"],"weaknesses":["Water","Psychic","Ground","Rock"],
 "descriptions":["이 교활한 포켓몬은 먹이가 야도뇽이 있다는 것을 깨닫기도 전에 먹이 뒤에 숨어 독가스로 고정시킵니다. 이 과정에서 야도 뇽의 유독 가스가 생성됩니다."],
 "specie":"독도마뱀","height":"4.8 kg (10.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["드래곤","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

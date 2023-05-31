@@ -1,4 +1,9 @@
-{"number":"801","name":"마기아나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/801.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/801.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/801/801_main.png"},"types":["Steel","Fairy"],"weaknesses":["Fire","Ground"],
+{"number":"801","name":"마기아나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/801.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/801.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/801/801_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/801.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/801.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/801s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/801s.gif"
+        },"types":["Steel","Fairy"],"weaknesses":["Fire","Ground"],
 "descriptions":["인조 영혼에 의해 가동됩니다. 화려한 장식은 왕가에 바친 진상품이라는 증거입니다.","500년 전의 모습입니다. 그 몸은 단순한 용기로 인조 영혼이 본체입니다."],
 "specie":"인조","height":"80.5 kg (177.5 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

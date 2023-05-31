@@ -1,4 +1,9 @@
-{"number":"745","name":"루가루암","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/745/745_main.png"},"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
+{"number":"745","name":"루가루암","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/745.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/745.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/745/745_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/745.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/745.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/745s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/745s.gif"
+        },"types":["Rock"],"weaknesses":["Water","Steel","Grass","Fighting","Ground"],
 "descriptions":["평소에는 침착하고 냉정합니다. 한번 싸움이 나면 격렬한 투지를 보여줍니다.","냉정하고 사나운 기질을 가졌습니다. 성미가 까다롭기 때문에 키우기 어려운 포켓몬 중 하나 입니다."],
 "specie":"늑대","height":"25.0 kg (55.1 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

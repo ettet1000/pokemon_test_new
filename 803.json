@@ -1,4 +1,9 @@
-{"number":"803","name":"베베놈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/803.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/803.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/803/803_main.png"},"types":["Poison"],"weaknesses":["Psychic","Ground"],
+{"number":"803","name":"베베놈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/803.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/803.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/803/803_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/803.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/803.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/803s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/803s.gif"
+        },"types":["Poison"],"weaknesses":["Psychic","Ground"],
 "descriptions":["다른 세계에 사는 울트라비스트. 머리의 독침에서 나온 독액을 상대에게 끼얹고 깔깔 웃습니다.","다른 세계에서는 여행 파트너로 삼을 정도로 친근한 울트라비스트입니다."],
 "specie":"독침","height":"1.8 kg (4.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

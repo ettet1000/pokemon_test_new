@@ -1,4 +1,9 @@
-{"number":"784","name":"짜랑고우거","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/784.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/784.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/784/784_main.png"},"types":["Dragon","Fighting"],"weaknesses":["Fairy","Flying","Psychic","Ice","드래곤"],
+{"number":"784","name":"짜랑고우거","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/784.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/784.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/784/784_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/784.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/784.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/784s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/784s.gif"
+        },"types":["Dragon","Fighting"],"weaknesses":["Fairy","Flying","Psychic","Ice","드래곤"],
 "descriptions":["상대와 마주치면 꼬리의 비늘로 소리를 내어 위협합니다. 이에 겁먹지 않은 강자만을 상대로 싸웁니다.","짜랑고우거의 비늘로 만든 갑옷을 두른 고대의 전사가 유적에 그려져 있습니다."],
 "specie":"비늘","height":"78.2 kg (172.4 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

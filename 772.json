@@ -1,4 +1,9 @@
-{"number":"772","name":"타입:널","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/772.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/772.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/772/772_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"772","name":"타입:널","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/772.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/772.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/772/772_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/772.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/772.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/772s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/772s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["극비였던 연구자료가 도난당한 뒤 가라르지방에서 새로 만들어졌다는 소문이 있습니다.","신화 속 포켓몬을 모델로 만들었지만 힘이 폭주하는 것을 억제하는 마스크를 쓰고 있습니다."],
 "specie":"인공","height":"120.5 kg (265.7 lbs)","weight":"1.9 m (6′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

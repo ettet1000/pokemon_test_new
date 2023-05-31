@@ -1,4 +1,9 @@
-{"number":"747","name":"시마사리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/747.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/747.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/747/747_main.png"},"types":["Poison","Water"],"weaknesses":["Psychic","Electric","Ground"],
+{"number":"747","name":"시마사리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/747.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/747.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/747/747_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/747.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/747.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/747s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/747s.gif"
+        },"types":["Poison","Water"],"weaknesses":["Psychic","Electric","Ground"],
 "descriptions":["가시에 찔리면 먼저 저리기 시작하며 이윽고 마구 긁고 싶을 정도의 가려움에 고통받습니다.","알로라지방의 시마사리와 달리 가라르의 시마사리는 코산호의 가지의 맛을 아직 모릅니다."],
 "specie":"깨비사리","height":"8.0 kg (17.6 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

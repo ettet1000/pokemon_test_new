@@ -1,4 +1,9 @@
-{"number":"746","name":"약어리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/746.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/746.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/746/746_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"746","name":"약어리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/746.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/746.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/746/746_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/746.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/746.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/746s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/746s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["1마리는 아주 약하지만 다 같이 힘을 합치면 바다의 마물이라 불리는 존재가 됩니다.", "진형을 만들어 강한 적에 맞섭니다. 싸움에서 상처를 입으면 뿔뿔이 흩어져 1마리로 돌아갑니다."],
 "specie":"잔물고기","height":"0.3 kg (0.7 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["수중2"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

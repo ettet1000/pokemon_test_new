@@ -1,4 +1,9 @@
-{"number":"764","name":"큐아링","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/764.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/764.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/764/764_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"764","name":"큐아링","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/764.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/764.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/764/764_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/764.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/764.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/764s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/764s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["이 포켓몬은 냄새가 아주 좋습니다. 큐아링은 꽃이 다 달라서 포켓몬마다 향이 있습니다", "큐아링은 덩굴로 꽃을 따서 장식합니다. 꽃은 왠지 큐아링에 붙으면 시들지 않습니다."],
 "specie":"꽃따기","height":"0.3 kg (0.7 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"25%"},{"type":"FEMALE","percentage":"75%"}]},

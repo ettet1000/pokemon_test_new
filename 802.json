@@ -1,4 +1,9 @@
-{"number":"802","name":"마샤도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/802.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/802.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/802/802_main.png"},"types":["Fighting","Ghost"],"weaknesses":["Ghost","Psychic","Flying","요정"],
+{"number":"802","name":"마샤도","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/802.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/802.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/802/802_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/802.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/802.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/802s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/802s.gif"
+        },"types":["Fighting","Ghost"],"weaknesses":["Ghost","Psychic","Flying","요정"],
 "descriptions":["모든 그림자 안에 숨어들 수 있는 능력을 갖고 있어 오랫동안 누구에게 발견되지 않았습니다.","권법의 달인의 그림자에 숨어들어 움직임을 복사했기 때문에 궁극의 오의를 익힐 수 있었습니다."],
 "specie":"그림자살이","height":"22.2 kg (48.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

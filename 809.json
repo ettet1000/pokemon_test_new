@@ -1,4 +1,9 @@
-{"number":"809","name":"멜메탈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/809.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/809.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/809/809_main.png"},"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
+{"number":"809","name":"멜메탈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/809.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/809.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/809/809_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/809.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/809.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/809s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/809s.gif"
+        },"types":["Steel"],"weaknesses":["Fire","Fighting","Ground"],
 "descriptions":["배의 구멍에서 큰 전력의 빔을 발사해서 일격에 상대를 증발시켜 버립니다.","먼 지방의 신화에 남아 있는 외눈 거인은 멜메탈이 거다이맥스한 모습이었습니다."],
 "specie":"너트","height":"800.0 kg (1763.7 lbs)","weight":"2.5 m (8′02″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

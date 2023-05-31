@@ -1,4 +1,9 @@
-{"number":"762","name":"달무리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/762/762_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"762","name":"달무리나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/762.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/762.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/762/762_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/762.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/762.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/762s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/sprites/762s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["춤추듯이 회전해서 달콤한 향기를 흩날립니다. 그 향기를 맡으면 행복한 기분이 듭니다.","쪼아대는 파크로우를 머리의 꼭지로 후려치고 예리한 발차기를 먹입니다."],
 "specie":"후르츠","height":"8.2 kg (18.1 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
