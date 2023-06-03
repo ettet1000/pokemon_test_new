@@ -1,4 +1,9 @@
-{"number":"680","name":"쌍검킬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/680.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/680.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/680/680_main.png"},"types":["Steel","Ghost"],"weaknesses":["Fire","Ghost","Dark","Ground"],
+{"number":"680","name":"쌍검킬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/680.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/680.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/680/680_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/680.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/680.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/680s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/680s.gif"
+        },"types":["Steel","Ghost"],"weaknesses":["Fire","Ghost","Dark","Ground"],
 "descriptions":["두 도검은 공격과 수비를 빠르게 번갈아 가며 먹이를 쓰러뜨리는 전략을 구사합니다.","단칼빙은 쌍둥이로 진화합니다. 두 개의 칼날이 서로 비비며 금속성 소리를 내며 상대를 불안하게 합니다."],
 "specie":"도검","height":"4.5 kg (9.9 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

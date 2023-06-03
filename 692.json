@@ -1,4 +1,9 @@
-{"number":"692","name":"완철포","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/692.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/692.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/692/692_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"692","name":"완철포","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/692.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/692.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/692/692_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/692.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/692.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/692s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/692s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["오른쪽 발톱에 축적된 가스를 폭발시켜 물을 총알처럼 발사합니다. 이것이 완철포가 적을 무찌르는 방법입니다.","완철포의 발톱은 전투 중에 떨어질 수 있지만 재생됩니다. 발톱 안의 고기는 가라르의 진미로 유명합니다."],
 "specie":"물대포","height":"8.3 kg (18.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["수중1","수중3"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

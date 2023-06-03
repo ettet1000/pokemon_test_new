@@ -1,4 +1,9 @@
-{"number":"720","name":"후파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/720.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/720.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/720/720_main.png"},"types":["Psychic","Ghost"],"weaknesses":["Ghost","Dark"],
+{"number":"720","name":"후파","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/720.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/720.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/720/720_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/720.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/720.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/720s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/720s.gif"
+        },"types":["Psychic","Ghost"],"weaknesses":["Ghost","Dark"],
 "descriptions":["여섯 개의 고리와 여섯 개의 거대한 팔로 원하는 것은 무엇이든 잡을 수 있다고 합니다. 봉인된 힘으로 훨씬 더 작은 형태로 변신합니다.","진정한 모습 일 때 엄청난 힘을 가지고 있습니다. 그 탐욕에 대한 전설에 따르면 한때 그 안에 숨겨진 보물을 얻기 위해 성을 통째로 가져갔다고 합니다."],
 "specie":"장난","height":"9.0 kg (19.8 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

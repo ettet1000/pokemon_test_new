@@ -1,4 +1,9 @@
-{"number":"656","name":"개구마르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/656.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/656.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/656/656_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"656","name":"개구마르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/656.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/656.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/656/656_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/656.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/656.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/656s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/656s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["섬세한 거품으로 몸을 감싸 피부를 보호합니다. 운이 좋은 공기 아래에서 주변을 경계합니다.","가슴과 등에서는 유연한 거품을 분비합니다. 거품은 공격을 받았을 때 받는 피해를 줄여줍니다."],
 "specie":"거품개구리","height":"7.0 kg (15.4 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

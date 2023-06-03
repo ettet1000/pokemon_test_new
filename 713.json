@@ -1,4 +1,9 @@
-{"number":"713","name":"크레베이스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/713.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/713.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/713/713_main.png"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+{"number":"713","name":"크레베이스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/713.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/713.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/713/713_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/713.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/713.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/713s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/713s.gif"
+        },"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
 "descriptions":["여러 마리의 꽁어름을 등에 태우고 고위도의 차가운 바다를 빙산 속에 섞여 헤엄칩니다","낮 동안의 활동으로 몸의 균열이 깊어지지만 하룻밤 사이에 균열이 없는 몸으로 돌아갑니다"],
 "specie":"빙산","height":"505.0 kg (1113.3 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

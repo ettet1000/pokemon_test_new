@@ -1,4 +1,9 @@
-{"number":"688","name":"거북손손","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/688.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/688.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/688/688_main.png"},"types":["Rock","Water"],"weaknesses":["Grass","Electric","Fighting","Ground"],
+{"number":"688","name":"거북손손","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/688.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/688.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/688/688_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/688.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/688.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/688s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/688s.gif"
+        },"types":["Rock","Water"],"weaknesses":["Grass","Electric","Fighting","Ground"],
 "descriptions":["둘이 잘 어울리지 않으면 공격과 수비가 무너집니다. 좋은 팀워크가 없으면 살아남지 못합니다.","거북손손 두마리는 적당한 크기의 바위를 찾은 후, 그곳에 붙어서 동거합니다. 그들은 밀물 때 음식을 모으기 위해 협력합니다."],
 "specie":"두손","height":"31.0 kg (68.3 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["수중3"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"651","name":"도치보구","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/651.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/651.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/651/651_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"651","name":"도치보구","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/651.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/651.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/651/651_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/651.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/651.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/651s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/651s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["그들은 서로 부딪혀 하체를 강화합니다. 그들은 매우 친절하고 싸움을 시작하지 않습니다.","포식자의 공격을 방어하기 위해 튼튼한 껍질에 의존합니다. 날카로운 가시로 반격합니다."],
 "specie":"가시갑옷","height":"29.0 kg (63.9 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

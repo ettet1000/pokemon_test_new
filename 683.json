@@ -1,4 +1,9 @@
-{"number":"683","name":"프레프티르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/683.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/683.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/683/683_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"683","name":"프레프티르","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/683.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/683.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/683/683_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/683.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/683.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/683s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/683s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["프레프티르의 향기는 아군을 든든하게 해주는 달콤한 냄새부터 상대의 전투 의지를 꺾는 역한 냄새까지 다양합니다."],
 "specie":"방향","height":"15.5 kg (34.2 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

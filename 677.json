@@ -1,4 +1,9 @@
-{"number":"677","name":"냐스퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/677.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/677.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/677/677_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"677","name":"냐스퍼","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/677.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/677.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/677/677_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/677.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/677.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/677s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/677s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["냐스퍼에는 레슬링 선수를 날려버릴 정도의 초능력이 있는데, 이 힘을 제어할 수 없어 냐스퍼는 곤란합니다.", "냐스퍼의 표정은 절대 변하지 않지만, 그 멍한 시선 뒤에는 격렬한 투쟁이 있습니다."],
 "specie":"자제","height":"3.5 kg (7.7 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

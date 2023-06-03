@@ -1,4 +1,9 @@
-{"number":"655","name":"마폭시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/655.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/655.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/655/655_main.png"},"types":["Fire","Psychic"],"weaknesses":["Ghost","Dark","Ground","Water","Rock"],
+{"number":"655","name":"마폭시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/655.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/655.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/655/655_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/655.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/655.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/655s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/655s.gif"
+        },"types":["Fire","Psychic"],"weaknesses":["Ghost","Dark","Ground","Water","Rock"],
 "descriptions":["사이킥 파워를 이용해 화씨 5,400도의 불타는 소용돌이를 발생시켜 이 화염의 소용돌이 속으로 휩쓸린 적을 소각합니다.","가지 끝의 불꽃을 응시하여 초점을 맞춘 상태를 만들어 내면을 볼 수 있게 합니다."],
 "specie":"여우","height":"39.0 kg (86.0 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

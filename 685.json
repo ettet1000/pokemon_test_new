@@ -1,4 +1,9 @@
-{"number":"685","name":"나루림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/685.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/685.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/685/685_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"685","name":"나루림","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/685.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/685.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/685/685_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/685.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/685.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/685s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/685s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["나루림의 털은 공기를 많이 함유하고 있어 촉감이 부드럽고 보기보다 가볍습니다.","사람의 냄새를 맡으면 그 사람의 심신의 상태를 킁킁거릴 수 있습니다. 이 기술이 많은 의료 응용 분야에 활용되기를 바랍니다."],
 "specie":"휩","height":"5.0 kg (11.0 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

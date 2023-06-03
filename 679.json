@@ -1,4 +1,9 @@
-{"number":"679","name":"단칼빙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/679.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/679.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/679/679_main.png"},"types":["Steel","Ghost"],"weaknesses":["Fire","Ghost","Dark","Ground"],
+{"number":"679","name":"단칼빙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/679.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/679.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/679/679_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/679.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/679.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/679s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/679s.gif"
+        },"types":["Steel","Ghost"],"weaknesses":["Fire","Ghost","Dark","Ground"],
 "descriptions":["검의 손보호대에 있는 파란 눈은 단칼빙의 정체입니다. 낡은 천으로 사람의 목숨을 앗아갑니다.","단칼빙의 영혼은 오래전 단칼빙의 몸을 이루는 칼에 맞아 죽은 사람의 것이었습니다."],
 "specie":"도검","height":"2.0 kg (4.4 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

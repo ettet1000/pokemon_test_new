@@ -1,4 +1,9 @@
-{"number":"712","name":"꽁어름","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/712/712_main.png"},"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
+{"number":"712","name":"꽁어름","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/712.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/712.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/712/712_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/712.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/712.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/712s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/712s.gif"
+        },"types":["Ice"],"weaknesses":["Fire","Steel","Fighting","Rock"],
 "descriptions":["혹한의 지역에 서식합니다. 크레베이스의 등에 자신의 발을 얼어붙게 해 고정합니다.","그들은 주변 공기를 화씨 -150도까지 식히고 공기 중의 물을 얼음으로 얼려 갑옷으로 사용합니다."],
 "specie":"얼음덩이","height":"99.5 kg (219.4 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

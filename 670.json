@@ -1,4 +1,9 @@
-{"number":"670","name":"플라엣테","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/670.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/670.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/670/670_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"670","name":"플라엣테","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/670.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/670.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/670/670_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/670.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/670.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/670s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/670s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["그것은 꽃에 자신의 힘을 부여하고 꽃을 돌보는 데 마음을 쏟아 붓습니다. 플라엣테는 화단을 어지럽히는 사람을 절대 용서하지 않습니다.","꽃을 키워 무기로 씁니다. 꽃이 화려할수록 더 많은 힘을 담고 있습니다."],
 "specie":"한송이","height":"0.9 kg (2.0 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

@@ -1,4 +1,9 @@
-{"number":"676","name":"트리미앙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/676.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/676.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/676/676_main.png"},"types":["Normal"],"weaknesses":["Fighting"],
+{"number":"676","name":"트리미앙","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/676.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/676.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/676/676_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/676.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/676.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/676s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/676s.gif"
+        },"types":["Normal"],"weaknesses":["Fighting"],
 "descriptions":["그대로 두면 털은 점점 더 길어지겠지만, 믿을 수 있는 사람만 자를 수 있을 것입니다.","귀족들은 누가 트라미앙의 털을 가장 정교한 스타일로 손질할 수 있는지 경쟁하던 시대가 있었습니다."],
 "specie":"푸들","height":"28.0 kg (61.7 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

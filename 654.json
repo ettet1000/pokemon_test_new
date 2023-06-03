@@ -1,4 +1,9 @@
-{"number":"654","name":"테르나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/654.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/654.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/654/654_main.png"},"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
+{"number":"654","name":"테르나","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/654.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/654.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/654/654_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/654.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/654.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/654s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/654s.gif"
+        },"types":["Fire"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["나뭇가지가 꼬리에서 뽑힐 때 마찰로 인해 나뭇가지에 불이 붙습니다. 불꽃은 아군에게 신호를 보내는 데 사용됩니다.","꼬리에 나뭇가지가 꽂혀 있습니다. 꼬리털의 마찰로 나뭇가지에 불을 붙이고 전투에 나섭니다."],
 "specie":"여우","height":"14.5 kg (32.0 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

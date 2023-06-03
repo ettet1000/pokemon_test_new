@@ -1,4 +1,9 @@
-{"number":"650","name":"도치마론","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/650.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/650.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/650/650_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"650","name":"도치마론","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/650.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/650.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/650/650_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/650.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/650.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/650s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/650s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["이렇게 두터운 나무 껍질이 머리와 등을 덮고 있어서 트럭에서 직접 부딪혀도 흔들리지 않습니다.","머리에 달린 깃펜은 보통 부드럽습니다. 그것을 구부리면 끝이 너무 단단하고 날카로워져서 바위를 뚫을 수 있습니다."],
 "specie":"밤송이","height":"9.0 kg (19.8 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

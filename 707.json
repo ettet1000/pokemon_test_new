@@ -1,4 +1,9 @@
-{"number":"707","name":"클레피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/707.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/707.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/707/707_main.png"},"types":["Steel","Fairy"],"weaknesses":["Fire","Ground"],
+{"number":"707","name":"클레피","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/707.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/707.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/707/707_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/707.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/707.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/707s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/707s.gif"
+        },"types":["Steel","Fairy"],"weaknesses":["Fire","Ground"],
 "descriptions":["못피는 뿔이 머리를 덮고 있는 금속 이온을 빨아들입니다. 열쇠를 너무 좋아한 나머지 흉내를 내서 열쇠를 닮은 모습이 되었다고 합니다.","이 포켓몬은 계속해서 열쇠를 수집하고 있습니다. 중요한 열쇠를 맡기면 어떤 일이 있어도 포켓몬이 그것들을 보호할 것입니다."],
 "specie":"열쇠꾸러미","height":"3.0 kg (6.6 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["광물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

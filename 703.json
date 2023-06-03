@@ -1,4 +1,9 @@
-{"number":"703","name":"멜리시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/703.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/703.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/703/703_main.png"},"types":["Rock","Fairy"],"weaknesses":["Steel","Water","Grass","Ground"],
+{"number":"703","name":"멜리시","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/703.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/703.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/703/703_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/703.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/703.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/703s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/703s.gif"
+        },"types":["Rock","Fairy"],"weaknesses":["Steel","Water","Grass","Ground"],
 "descriptions":["세계 어딘가에는 거대한 멜리시 무리가 잠들어 있는 광맥이 있다고 합니다. 이 무리에는 여왕이 있다고도 합니다.","멜리시는 공격자들의 공격을 받으면 몸에 박힌 보석에서 고에너지 빔을 발사하여 그들을 모두 쓸어버립니다."],
 "specie":"보석","height":"5.7 kg (12.6 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["요정","광물"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"UNKNOWN"}]},

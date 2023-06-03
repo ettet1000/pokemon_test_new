@@ -1,4 +1,9 @@
-{"number":"652","name":"브리가론","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/652.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/652.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/652/652_main.png"},"types":["Grass","Fighting"],"weaknesses":["Fire","Psychic","Flying","Ice","Poison","요정"],
+{"number":"652","name":"브리가론","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/652.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/652.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/652/652_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/652.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/652.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/652s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/652s.gif"
+        },"types":["Grass","Fighting"],"weaknesses":["Fire","Psychic","Flying","Ice","Poison","요정"],
 "descriptions":["주먹으로 얼굴을 가린 채 방어태세를 취하면 폭탄 폭발에도 버틸 수 있습니다.","태클은 50톤 탱크를 뒤집을 정도로 강력합니다. 자신의 몸으로 아군을 위험으로부터 보호합니다."],
 "specie":"가시갑옷","height":"90.0 kg (198.4 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

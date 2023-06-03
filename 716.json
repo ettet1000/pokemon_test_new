@@ -1,4 +1,9 @@
-{"number":"716","name":"제르네아스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/716.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/716.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/716/716_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"716","name":"제르네아스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/716.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/716.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/716/716_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/716.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/716.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/716s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/716s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["머리의 뿔이 일곱 색으로 빛나면 영생을 나눈다고 합니다.","부활하기 전에 나무의 형태로 천 년 동안 잠을 잤습니다."],
 "specie":"생명","height":"215.0 kg (474.0 lbs)","weight":"3.0 m (9′10″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"MALE","percentage":""},{"type":"FEMALE","percentage":""}]},

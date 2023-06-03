@@ -1,4 +1,9 @@
-{"number":"671","name":"플라제스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/671.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/671.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/671/671_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"671","name":"플라제스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/671.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/671.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/671/671_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/671.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/671.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/671s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/671s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["수명은 수백 년에 달할 수 있습니다. 정원을 지키는 데 일생을 바쳤다고 합니다.","자라는 꽃을 통제합니다. 플라제스가 촉발하는 꽃잎 눈보라는 그 아름다움과 위력이 압도적입니다."],
 "specie":"가든","height":"10.0 kg (22.0 lbs)","weight":"1.1 m (3′07″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

@@ -1,4 +1,9 @@
-{"number":"687","name":"칼라마네로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/687.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/687.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/687/687_main.png"},"types":["Dark","Psychic"],"weaknesses":["Fairy","Bug"],
+{"number":"687","name":"칼라마네로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/687.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/687.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/687/687_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/687.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/687.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/687s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/687s.gif"
+        },"types":["Dark","Psychic"],"weaknesses":["Fairy","Bug"],
 "descriptions":["칼라마네로의 최면력은 역사를 바꾸는 어떤 사건에 한 몫을 했다고 합니다.","그 발광점을 바라보면 금세 최면 상태를 유도하여 관찰자를 칼라마네로의 통제 하에 둘 것입니다."],
 "specie":"역전","height":"47.0 kg (103.6 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["수중1","수중2"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

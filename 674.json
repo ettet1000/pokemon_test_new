@@ -1,4 +1,9 @@
-{"number":"674","name":"판짱","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/674.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/674.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/674/674_main.png"},"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
+{"number":"674","name":"판짱","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/674.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/674.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/674/674_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/674.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/674.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/674s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/674s.gif"
+        },"types":["Fighting"],"weaknesses":["Psychic","Flying","요정"],
 "descriptions":["진지하게 받아들이고 싶어서 판짱은 항상 남의 눈치를 살피고 있습니다. 하지만 초점을 맞추지 않으면 웃게 됩니다.","부란다를 형님으로 선택하고 행동을 흉내냅니다. 이것은 먹이를 사냥하고 싸우는 법을 배우는 방법입니다."],
 "specie":"개구쟁이","height":"8.0 kg (17.6 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상","인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

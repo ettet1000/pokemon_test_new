@@ -1,4 +1,9 @@
-{"number":"661","name":"화살꼬빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/661.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/661.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/661/661_main.png"},"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
+{"number":"661","name":"화살꼬빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/661.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/661.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/661/661_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/661.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/661.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/661s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/661s.gif"
+        },"types":["Normal","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["흥분하면 체온이 급격히 상승합니다. 맨손으로 화살꼬빈을 만지면 화상을 입을 수 있습니다.","그 선율의 울음소리는 사실 경고입니다. 화살꼬빈은 자신의 영역에 들어오는 것은 무엇이든 무자비하게 쪼아먹습니다."],
 "specie":"울새","height":"1.7 kg (3.7 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

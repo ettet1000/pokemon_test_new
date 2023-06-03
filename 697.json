@@ -1,4 +1,9 @@
-{"number":"697","name":"견고라스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/697.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/697.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/697/697_main.png"},"types":["Rock","Dragon"],"weaknesses":["Steel","Fighting","Dragon","Ice","Fairy","Ground"],
+{"number":"697","name":"견고라스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/697.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/697.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/697/697_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/697.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/697.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/697s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/697s.gif"
+        },"types":["Rock","Dragon"],"weaknesses":["Steel","Fighting","Dragon","Ice","Fairy","Ground"],
 "descriptions":["견고라스의 거대한 턱은 한 입 베어물면 차를 부숴버릴 것입니다. 이 포켓몬은 고대세계의 왕이었습니다.","이 포켓몬은 약 1억년 전의 포켓몬입니다. 사악하지만 장엄한 왕의 존재가 있습니다."],
 "specie":"폭군","height":"270.0 kg (595.2 lbs)","weight":"2.5 m (8′02″)","breeding":{
 "egg":{"groups":["드래곤","괴수"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

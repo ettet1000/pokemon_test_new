@@ -1,4 +1,9 @@
-{"number":"684","name":"나룸퍼프","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/684.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/684.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/684/684_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"684","name":"나룸퍼프","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/684.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/684.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/684/684_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/684.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/684.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/684s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/684s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["솜사탕 향수의 달콤한 냄새 나룸퍼프의 푹신한 털, 끈끈한 실을 뱉어 적을 묶습니다.","매일 자기 몸무게의 설탕을 먹습니다. 설탕이 충분하지 않으면 엄청나게 심술궂게됩니다."],
 "specie":"솜사탕","height":"3.5 kg (7.7 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

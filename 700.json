@@ -1,4 +1,9 @@
-{"number":"700","name":"님피아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/700.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/700.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/700/700_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"700","name":"님피아","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/700.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/700.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/700/700_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/700.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/700.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/700s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/700s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["무서운 드래곤포켓몬을 아름다운 님피아가 퇴치하는 동화가 가라르지방에 남아있습니다.","그리본 형태의 기관에서 분노를 가라앉히는 기운을 발산합니다. 다투는 이들에게 이것을 휘감으면 머지않아 조용해집니다."],
 "specie":"연결","height":"23.5 kg (51.8 lbs)","weight":"1.0 m (3′03″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"35 (8,739–8,995 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

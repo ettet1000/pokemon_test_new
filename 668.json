@@ -1,4 +1,9 @@
-{"number":"668","name":"화염레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/668.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/668.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/668/668_main.png"},"types":["Fire","Normal"],"weaknesses":["Water","Ground","Fighting","Rock"],
+{"number":"668","name":"화염레오","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/668.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/668.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/668/668_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/668.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/668.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/668s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/668s.gif"
+        },"types":["Fire","Normal"],"weaknesses":["Water","Ground","Fighting","Rock"],
 "descriptions":["숨결의 온도는 화씨 10,000도가 넘지만 먹이에 사용하지 않습니다. 생고기를 즐겨 먹는 포켓몬입니다.","수컷은 평소에는 게으르지만 강한 적에게 공격을 받으면 자신의 안전은 생각하지 않고 동료를 지킵니다."],
 "specie":"임금","height":"81.5 kg (179.7 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"12.5%"},{"type":"FEMALE","percentage":"87.5%"}]},

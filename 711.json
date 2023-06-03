@@ -1,4 +1,9 @@
-{"number":"711","name":"펌킨인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/711.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/711.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/711/711_main.png"},"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
+{"number":"711","name":"펌킨인","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/711.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/711.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/711/711_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/711.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/711.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/711s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/711s.gif"
+        },"types":["Ghost","Grass"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["새벽의 어둠 속에 펌킨인이 찾아옵니다. 질문에 답하는 사람은 사후 세계로 휩쓸려 갈 것입니다.","한밤중에 그 몸에서 섬뜩한 외침이 나옵니다. 그 소리는 사후 세계에서 고통받는 영혼의 통곡이라고 합니다."],
 "specie":"호박","height":"12.5 kg (27.6 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

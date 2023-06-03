@@ -1,4 +1,9 @@
-{"number":"699","name":"아마루르가","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/699.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/699.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/699/699_main.png"},"types":["Rock","Ice"],"weaknesses":["Steel","Fighting","Water","Rock","Grass","Ground"],
+{"number":"699","name":"아마루르가","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/699.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/699.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/699/699_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/699.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/699.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/699s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/699s.gif"
+        },"types":["Rock","Ice"],"weaknesses":["Steel","Fighting","Water","Rock","Grass","Ground"],
 "descriptions":["분노에 사로잡히면 얼어붙은 공기를 뿜어내며 주위를 모두 얼음으로 덮습니다.","아마루르가는 화석에서 복원됐습니다. 이 포켓몬이 하울링하면 밤하늘에 오로라가 나타난다고 합니다."],
 "specie":"툰드라","height":"225.0 kg (496.0 lbs)","weight":"2.7 m (8′10″)","breeding":{
 "egg":{"groups":["괴수"],"cycle":"30 (7,454–7,710 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

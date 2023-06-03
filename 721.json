@@ -1,4 +1,9 @@
-{"number":"721","name":"볼케니온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/721.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/721.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/721/721_main.png"},"types":["Fire","Water"],"weaknesses":["Ground","Electric","Rock"],
+{"number":"721","name":"볼케니온","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/721.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/721.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/721/721_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/721.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/721.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/721s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/721s.gif"
+        },"types":["Fire","Water"],"weaknesses":["Ground","Electric","Rock"],
 "descriptions":["등의 팔에서 내부의 증기를 배출합니다. 산을 날려 버릴 정도의 위력을 가지고 있습니다.","자욱한 김을 내뿜으며 짙은 안개 속으로 사라집니다. 사람이 밟지 않는 산에 산다고 합니다."],
 "specie":"스팀","height":"195.0 kg (429.9 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

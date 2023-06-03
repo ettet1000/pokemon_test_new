@@ -1,4 +1,9 @@
-{"number":"672","name":"메이클","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/672/672_main.png"},"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
+{"number":"672","name":"메이클","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/672.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/672.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/672/672_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/672.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/672.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/672s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/672s.gif"
+        },"types":["Grass"],"weaknesses":["Fire","Flying","Ice","Poison","Bug"],
 "descriptions":["햇빛과 물만 있으면 등의 잎사귀에서 에너지를 낼 수 있기 때문에 먹을 필요가 없습니다.","인간과 공생한 최초의 포켓몬으로 생각되는 온순한 성격을 가지고 있습니다."],
 "specie":"라이드","height":"31.0 kg (68.3 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

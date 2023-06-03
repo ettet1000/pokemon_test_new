@@ -1,4 +1,9 @@
-{"number":"665","name":"분떠도리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/665.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/665.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/665/665_main.png"},"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
+{"number":"665","name":"분떠도리","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/665.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/665.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/665/665_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/665.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/665.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/665s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/665s.gif"
+        },"types":["Bug"],"weaknesses":["Fire","Flying","Rock"],
 "descriptions":["새 포켓몬의 부리는 튼튼한 몸을 긁을 수 없습니다. 자신을 방어하기 위해 가루를 내뿜습니다.","덤불 속에 숨어 삽니다. 포식자가 공격하면 몸을 덮고 있는 털을 빠르게 털고 위협합니다."],
 "specie":"가루뿜기","height":"8.4 kg (18.5 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

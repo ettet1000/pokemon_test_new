@@ -1,4 +1,9 @@
-{"number":"663","name":"파이어로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/663.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/663.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/663/663_main.png"},"types":["Fire","Flying"],"weaknesses":["Water","Electric","Rock"],
+{"number":"663","name":"파이어로","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/663.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/663.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/663/663_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/663.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/663.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/663s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/663s.gif"
+        },"types":["Fire","Flying"],"weaknesses":["Water","Electric","Rock"],
 "descriptions":["파이어로는 최대 310mph의 속도로 먹이를 향해 다이빙하고 강력한 발차기로 먹이를 공격하여 먹이가 탈출할 기회를 주지 않습니다. 적을 위협하기 위해 깃털 사이에서 불씨를 내뿜습니다."],
 "specie":"열화","height":"24.5 kg (54.0 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

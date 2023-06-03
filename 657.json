@@ -1,4 +1,9 @@
-{"number":"657","name":"개굴반장","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/657.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/657.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/657/657_main.png"},"types":["Water"],"weaknesses":["Grass","Electric"],
+{"number":"657","name":"개굴반장","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/657.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/657.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/657/657_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/657.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/657.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/657s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/657s.gif"
+        },"types":["Water"],"weaknesses":["Grass","Electric"],
 "descriptions":["그 신속성은 타의 추종을 불허합니다. 1분 만에 2,000피트 이상의 타워를 확장할 수 있습니다.","정확한 제어로 거품으로 덮인 자갈을 던질 수 있으며 최대 100피트 떨어진 빈 캔을 칠 수 있습니다."],
 "specie":"거품개구리","height":"10.9 kg (24.0 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

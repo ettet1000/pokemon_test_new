@@ -1,4 +1,9 @@
-{"number":"704","name":"미끄메라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/704.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/704.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/704/704_main.png"},"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
+{"number":"704","name":"미끄메라","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/704.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/704.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/704/704_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/704.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/704.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/704s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/704s.gif"
+        },"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["그들의 뿔은 강력한 센서입니다. 미끄메라는 적의 흔적을 발견하자마자 숨어버립니다.","몸의 대부분이 물이기 때문에 날씨가 너무 건조해지면 말라버립니다. 가장 약한 드래곤 포켓몬으로 간주됩니다."],
 "specie":"연체","height":"2.8 kg (6.2 lbs)","weight":"0.3 m (1′00″)","breeding":{
 "egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

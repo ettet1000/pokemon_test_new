@@ -1,4 +1,9 @@
-{"number":"694","name":"목도리키텔","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/694.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/694.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/694/694_main.png"},"types":["Electric","Normal"],"weaknesses":["Fighting","Ground"],
+{"number":"694","name":"목도리키텔","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/694.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/694.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/694/694_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/694.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/694.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/694s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/694s.gif"
+        },"types":["Electric","Normal"],"weaknesses":["Fighting","Ground"],
 "descriptions":["태양은 이 포켓몬의 발전에 동력을 공급합니다. 그 과정이 중단되면 목도리키텔이 약해질 정도로 스트레스를 받습니다.","머리에 있는 프릴을 펼치면 태양 전지판처럼 작동하여 이 포켓몬의 전기 움직임 뒤에 있는 힘을 발생시킵니다."],
 "specie":"발전","height":"6.0 kg (13.2 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["드래곤","괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

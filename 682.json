@@ -1,4 +1,9 @@
-{"number":"682","name":"슈쁘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/682.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/682.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/682/682_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"682","name":"슈쁘","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/682.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/682.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/682/682_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/682.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/682.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/682s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/682s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["몸에서 나는 냄새는 냄새를 맡는 사람을 황홀하게 만듭니다. 귀족 여성들은 슈쁘에 대한 사랑이 부족했습니다.","이 포켓몬의 몸에 있는 향 주머니는 다양한 향을 만들어냅니다. 식단의 변화는 그것이 생산하는 향기를 바꿀 것입니다."],
 "specie":"향수","height":"0.5 kg (1.1 lbs)","weight":"0.2 m (0′08″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

@@ -1,4 +1,9 @@
-{"number":"669","name":"플라베베","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/669.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/669.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/669/669_main.png"},"types":["Fairy"],"weaknesses":["Steel","Poison"],
+{"number":"669","name":"플라베베","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/669.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/669.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/669/669_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/669.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/669.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/669s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/669s.gif"
+        },"types":["Fairy"],"weaknesses":["Steel","Poison"],
 "descriptions":["플라베베는 꽃에서 채취한 꽃가루로 만든 왕관을 쓰고 있습니다. 왕관에는 치유력이 숨겨져 있습니다.","꽃의 힘이 없으면 안전하지 않지만, 원하는 색과 모양을 찾을 때까지 계속 돌아다닙니다."],
 "specie":"한송이","height":"0.1 kg (0.2 lbs)","weight":"0.1 m (0′04″)","breeding":{
 "egg":{"groups":["요정"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"FEMALE","percentage":"100%"}]},

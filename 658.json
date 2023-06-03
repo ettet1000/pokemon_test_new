@@ -1,4 +1,9 @@
-{"number":"658","name":"개굴닌자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/658.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/658.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/658/658_main.png"},"types":["Water","Dark"],"weaknesses":["Fairy","Grass","Electric","Fighting","Bug"],
+{"number":"658","name":"개굴닌자","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/658.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/658.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/658/658_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/658.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/658.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/658s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/658s.gif"
+        },"types":["Water","Dark"],"weaknesses":["Fairy","Grass","Electric","Fighting","Bug"],
 "descriptions":["닌자의 은총으로 나타났다가 사라집니다. 재빠른 움직임으로 상대를 농락하면서 물의 수리검으로 베어버립니다.","압축된 물로 던지는 별을 만듭니다. 이 별을 회전시켜 고속으로 던지면 이 별들은 금속을 둘로 쪼갤 수 있습니다."],
 "specie":"시노비","height":"40.0 kg (88.2 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["수중1","Undiscovered"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},

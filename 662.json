@@ -1,4 +1,9 @@
-{"number":"662","name":"불화살빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/662.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/662.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/662/662_main.png"},"types":["Fire","Flying"],"weaknesses":["Water","Electric","Rock"],
+{"number":"662","name":"불화살빈","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/662.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/662.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/662/662_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/662.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/662.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/662s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/662s.gif"
+        },"types":["Fire","Flying"],"weaknesses":["Water","Electric","Rock"],
 "descriptions":["불화살빈은 매우 영역적이고 공격적입니다. 이 포켓몬들은 먹이를 놓고 서로 싸웁니다.","불화살빈은 먹이의 굴에 불씨를 던집니다. 먹잇감이 튀어나오면 불화살빈의 날카로운 발톱으로 끝을 맺습니다."],
 "specie":"불티","height":"16.0 kg (35.3 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["비행"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

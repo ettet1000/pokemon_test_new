@@ -1,4 +1,9 @@
-{"number":"705","name":"미끄네일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/705.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/705.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/705/705_main.png"},"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
+{"number":"705","name":"미끄네일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/705.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/705.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/705/705_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/705.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/705.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/705s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/705s.gif"
+        },"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["등에 있는 덩어리에는 작은 뇌가 들어 있습니다. 먹이만 생각하고 적을 피합니다.","강한 편은 아니지만, 몸은 부식성 점액으로 덮여 있어 무엇이든 녹일 수 있기 때문에 피합니다."],
 "specie":"연체","height":"17.5 kg (38.6 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

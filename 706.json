@@ -1,4 +1,9 @@
-{"number":"706","name":"미끄래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/706.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/706.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/706/706_main.png"},"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
+{"number":"706","name":"미끄래곤","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/706.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/706.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/706/706_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/706.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/706.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/706s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/706s.gif"
+        },"types":["Dragon"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["공격의 형태는 뿔을 세게 뻗습니다. 스트라이크는 헤비급 권투 선수의 타격보다 100배 더 세게 내려옵니다.","때로는 지시를 잘못 이해하고 멍해 보이거나 당황한 것처럼 보입니다. 많은 트레이너들이 이 행동이 사랑스럽다고 생각하며 개의치 않습니다."],
 "specie":"드래곤","height":"150.5 kg (331.8 lbs)","weight":"2.0 m (6′07″)","breeding":{
 "egg":{"groups":["드래곤"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

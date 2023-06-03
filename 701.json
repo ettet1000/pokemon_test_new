@@ -1,4 +1,9 @@
-{"number":"701","name":"루차불","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/701.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/701.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/701/701_main.png"},"types":["Fighting","Flying"],"weaknesses":["Psychic","Flying","Fairy","Electric","Ice"],
+{"number":"701","name":"루차불","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/701.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/701.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/701/701_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/701.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/701.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/701s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/701s.gif"
+        },"types":["Fighting","Flying"],"weaknesses":["Psychic","Flying","Fairy","Electric","Ice"],
 "descriptions":["항상 마무리 동작을 하기 전에 포즈를 취합니다. 때로는 적들이 그 시간을 이용해 역습을 하기도 합니다.","기민한 기동으로 상대를 지치게 한 뒤, 화려한 마무리 동작으로 승부를 끝냅니다."],
 "specie":"레슬링","height":"21.5 kg (47.4 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["비행","인간형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},

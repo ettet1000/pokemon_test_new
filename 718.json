@@ -1,4 +1,9 @@
-{"number":"718","name":"지가르데","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/718.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/718.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/718/718_main.png"},"types":["Dragon","Ground"],"weaknesses":["Fairy","Ice","드래곤"],
+{"number":"718","name":"지가르데","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/718.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/718.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/718/718_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/718.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/718.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/718s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/718s.gif"
+        },"types":["Dragon","Ground"],"weaknesses":["Fairy","Ice","드래곤"],
 "descriptions":["생태계를 위협하는 자를 압도적인 힘으로 제압하는 지가르데의 모습입니다.", "100%인 지가르데의 모습. 제르네아스와 이벨타르마저 압도하는 힘을 가졌습니다."],
 "specie":"질서","height":"305.0 kg (672.4 lbs)","weight":"5.0 m (16′05″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"120 (30,584–30,840 걸음)"},"genders":[{"type":"UNKNOWN"}]},

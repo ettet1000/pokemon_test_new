@@ -1,4 +1,9 @@
-{"number":"678","name":"냐오닉스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/678.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/678.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/678/678_main.png"},"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
+{"number":"678","name":"냐오닉스","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/678.png","thumbnailUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/678.png","sprites":{"mainSpriteUrl":"https://pokedex.alansantos.dev/assets/pokemons/sprites/678/678_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/678.gif",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/678.gif",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/678s.gif",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_en_main/sprites/678s.gif"
+        },"types":["Psychic"],"weaknesses":["Ghost","Dark","Bug"],
 "descriptions":["수컷의 방어본능은 강합니다. 자신이나 파트너를 보호할 때 최대의 힘을 발휘합니다.","귀 안쪽에 있는 눈 모양을 드러내면 초능력이 발휘됩니다. 그러나 일반적으로 패턴을 숨긴 상태로 유지합니다."],
 "specie":"억제","height":"8.5 kg (18.7 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"},{"type":"FEMALE","percentage":"0%"}]},
