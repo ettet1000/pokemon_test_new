@@ -31,6 +31,7 @@
 "baseExp":"240",
 "growthRate":"중간 느림"},
 "abilities":[{"name":"맹화",
+"description":"위급할 때 불꽃타입의 위력이 올라간다."},{"name":"선파워 (히든)",
 "description":"위급할 때 불꽃타입의 위력이 올라간다."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"½",
