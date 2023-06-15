@@ -2,7 +2,12 @@
 "name":"사마자르",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_main.png"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/900_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/900.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/900.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/900s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/900s.png"
+        },
 "types":["Bug","Rock"],"weaknesses":["Rock","Steel","Water"],
 "descriptions":["단단한 바위로 몸을 보호하고 투박한 도끼로 거목을 베어 넘깁니다. 성질이 사납기 때문에 황무지에서 만난다면 도망치는 수밖에 없습니다."],
 "specie":"큰도끼","height":"89.0 kg (196.2 lbs)","weight":"1.8 m (5′11″)","breeding":{

@@ -2,7 +2,12 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2036.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2036_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2036_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2036_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2036.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2036.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2036s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2036s.png"
+        },
 "types":["Grass","Fighting"],"weaknesses":["Ghost","Fire","Flying","Dark","Ice"],
 "descriptions":["히스이의 극한의 추위에 견디기 위해 깃털의 심에 공기를 머금어 방한 기능을 갖췄다. 환경이 진화에 영향을 주는 것으로 판명된다."],
 "specie":"화살깃","height":"37.0 kg (81.6 lbs)","weight":"1.6 m (5′03″)","breeding":{

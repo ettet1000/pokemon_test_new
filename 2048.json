@@ -1,7 +1,12 @@
 {"number":"2048","name":"조로아",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2048.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2048_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2048_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2048_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2048.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2048.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2048s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2048s.png"
+        },
 "types":["Normal","Ghost"],"weaknesses":["Fairy","Bug","Fighting"],
 "descriptions":["죽은 영혼이 히스이 땅에서 되살아났다. 원한은 곧 힘이 되어 머리에 피어오르고 상대의 모습으로 변하여 원한을 풀려 한다."],
 "specie":"원한여우","height":"12.5 kg (27.6 lbs)","weight":"0.7 m (2′04″)","breeding":{

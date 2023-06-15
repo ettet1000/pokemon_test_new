@@ -2,7 +2,12 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2026_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2026.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2026.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2026s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2026s.png"
+        },
 "types":["Fire","Ghost"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["히스이 중심에 우뚝 선 영산의 기운에 영향을 받은 모습으로 보인다. 갈 곳 없는 영혼을 자신의 불꽃으로 정화하여 저승으로 인도한다고 한다."],
 "specie":"화산","height":"69.8 kg (153.9 lbs)","weight":"1.6 m (5′03″)","breeding":{

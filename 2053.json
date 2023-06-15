@@ -1,7 +1,12 @@
 {"number":"2053","name":"크레베이스",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2053.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2053_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2053_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2053_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2053.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2053.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2053s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2053s.png"
+        },
 "types":["Ice","Rock"],"weaknesses":["Fire","Steel","Fighting","Rock"],
 "descriptions":["아래턱을 덮고 있는 얼음 갑옷은 강철과 바위를 쉽게 부술 수 있습니다. 이 포켓몬은 가파른 산길을 따라 깊은 눈을 뚫고 달려갑니다."],
 "specie":"빙산","height":"262.4 kg (578.5 lbs)","weight":"1.4 m (4′07″)","breeding":{

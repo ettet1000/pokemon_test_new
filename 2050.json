@@ -1,7 +1,12 @@
 {"number":"2050","name":"워글",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2050.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2050_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2050_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2050_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2050.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2050.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2050s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2050s.png"
+        },
 "types":["Psychic","Flying"],"weaknesses":["Electric","Ice","Rock"],
 "descriptions":["소름 끼치는 함성을 외쳐서 사냥하는 용맹하고 큰 새. 호수에 충격파를 발산해서 수면에 떠오른 먹잇감을 잡는다."],
 "specie":"용맹","height":"43.4 kg (95.7 lbs)","weight":"1.7 m (5′07″)","breeding":{

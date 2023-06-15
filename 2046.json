@@ -1,7 +1,12 @@
 {"number":"2046","name":"포푸니",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2046.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2046_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2046_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2046_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2046.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2046.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2046s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2046s.png"
+        },
 "types":["Fighting","Poison"],"weaknesses":["Steel","Fire","Fighting","Rock","Fairy","Bug"],
 "descriptions":["단단한 갈고리손톱은 가파른 절벽을 오르기에 유리하다. 끄트머리에서 나오는 독액은 먹이를 잡을 때 신경에 침투한다."],
 "specie":"갈고리손톱","height":"27.0 kg (59.5 lbs)","weight":"0.9 m (2′11″)","breeding":{

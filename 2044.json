@@ -1,7 +1,12 @@
 {"number":"2044","name":"붐볼",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2044.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2044_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2044_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2044_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2044.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2044.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2044s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2044s.png"
+        },
 "types":["Electric","Grass"],"weaknesses":["Ground"],
 "descriptions":["신기하게도 표면의 조직이 규토리의 성분과 매우 흡사하다. 화가 났을 때 방출하는 전류는 벼락이 20번 떨어진 것에 필적한다."],
 "specie":"구체","height":"71.0 kg (156.5 lbs)","weight":"1.2 m (3′11″)","breeding":{

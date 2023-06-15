@@ -2,7 +2,12 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2013.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2013_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2013_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2013_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2013.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2013.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2013s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2013s.png"
+        },
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["옛날부터 많은 사람의 마음을 사로잡은 아름다운 포켓몬이다. 날듯이 경쾌하게 달린다."],
 "specie":"전설","height":"168.0 kg (370.4 lbs)","weight":"2.0 m (6′07″)","breeding":{

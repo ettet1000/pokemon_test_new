@@ -1,7 +1,12 @@
 {"number":"2043","name":"찌리리공",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2043.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2043_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2043_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2043_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2043.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2043.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2043s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2043s.png"
+        },
 "types":["Electric","Grass"],"weaknesses":["Ground"],
 "descriptions":["몬스터볼을 닮은 수수께끼의 포켓몬. 흥분하면 배 속에 비축해 둔 전류를 방출하며 크게 웃는다."],
 "specie":"구체","height":"13.0 kg (28.7 lbs)","weight":"0.5 m (1′08″)","breeding":{

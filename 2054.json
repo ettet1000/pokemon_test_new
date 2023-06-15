@@ -1,7 +1,12 @@
 {"number":"2054","name":"우파",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054_thumb.png",
-"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054_main.png"},
+"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2054_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2054.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2054.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2054s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2054s.png"
+        },
 "types":["Poison","Ground"],"weaknesses":["식물"],
 "descriptions":["먼 옛날에는 팔데아지방의 물속에서 살았으나, 영역 다툼에서 밀려 육지의 진흙탕에서 살게 되었다고 합니다. 육지에서 살면서 건조해지는 것을 막기 위해, 독성을 띠는 점막을 몸에 두르게 되었습니다."],
 "specie":"독물고기","height":"11.0 kg (24.3 lbs)","weight":"0.4 m (1′04″)","breeding":{

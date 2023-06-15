@@ -2,7 +2,12 @@
 "name":"포푸니크",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903_main.png"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/903_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/903.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/903.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/903s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/903s.png"
+        },
 "types":["Fighting","Poison"],"weaknesses":["Flying","Ground","Psychic"],
 "descriptions":["다른 종을 압도하는 신체 능력과 맹독을 가지고 있어 한랭한 고지대에서는 맞수가 없습니다. 무리를 이루지 않고 고독함을 즐깁니다."],
 "specie":"클라이밍","height":"43.0 kg (94.8 lbs)","weight":"1.3 m (4′03″)","breeding":{

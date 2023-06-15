@@ -2,7 +2,12 @@
 "name":"러브로스",
 "imageUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_thumb.png"
-,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_main.png"},
+,"sprites":{"mainSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/images/905_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/905.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/905.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/905s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/905s.png"
+        },
 "types":["Fairy","Flying"],"weaknesses":["Poison","Rock","Steel","Electric","Ice"],
 "descriptions":["바다를 건너 날아와 혹독한 겨울의 끝을 알립니다. 자애로움이 히스이 땅에 새로운 생명을 싹틔우게 했다는 전승이 있습니다. (화신폼)","여인의 형상에서 변한 모습. 목숨을 함부로 여기는 자가 있으면 운해로부터 나타나서 자비 없는 분노의 벌을 내립니다. (영물폼)"],
 "specie":"애증","height":"48.0 kg (105.8 lbs)","weight":"1.6 m (5′03″)","breeding":{

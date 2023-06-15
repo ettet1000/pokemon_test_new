@@ -2,7 +2,12 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2012.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2012_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2012_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2012_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2012.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2012.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2012s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2012s.png"
+        },
 "types":["Fire","Rock"],"weaknesses":["Water","Ground","Rock"],
 "descriptions":["충직한 성격으로 자신의 트레이너를 지키기 위해 필사적으로 상대방에게 짖어댄다."],
 "specie":"강아지","height":"22.7 kg (50.0 lbs)","weight":"0.8 m (2′07″)","breeding":{

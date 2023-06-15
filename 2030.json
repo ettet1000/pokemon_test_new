@@ -2,7 +2,12 @@
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2030.png",
 "thumbnailUrl":"https://ettet1000.github.io/pokemon_test_new/images/2030_thumb.png",
 "sprites":{
-"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2030_main.png"},
+"mainSpriteUrl":"https://ettet1000.github.io/pokemon_test_new/images/2030_main.png",
+        "frontAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2030.png",
+        "backAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2030.png",
+        "frontShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2030s.png",
+        "backShinyAnimatedSpriteUrl":"https://ettet1000.github.io/pokemon_ko_main/sprites/2030s.png"
+        },
 "types":["Water","Dark"],"weaknesses":["Grass","Electric"],
 "descriptions":["히스이에서 진화한 희귀한 모습. 비정한 성격과 칼 솜씨를 자랑한다. 성난 파도와 같은 연격은 천 겹의 파도와도 같다."],
 "specie":"관록","height":"58.2 kg (128.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
