@@ -3,7 +3,10 @@
 "specie":"꽃","height":"5.8 kg (12.8 lbs)","weight":"0.4 m (1′04″)","breeding":{
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"3 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"221",
-"growthRate":"중간 느림"},"abilities":[{"name":"엽록소","description":"맑을 때 스피드가 올라간다."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"043","name":"뚜벅쵸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/043.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/043.png","type":"FIRST"},{"number":"044","name":"냄새꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/044.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/044.png","type":"MIDDLE",
+"growthRate":"중간 느림"},"abilities":[{"name":"엽록소","description":"맑을 때 스피드가 올라간다."},
+{"name":"치유의마음 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"½","Electric":"½","Grass":"½","Ice":"2","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"043","name":"뚜벅쵸","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/043.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/043.png","type":"FIRST"},{"number":"044","name":"냄새꼬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/044.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/044.png","type":"MIDDLE",
 "requirement":"Level 21"},{"number":"182","name":"아르코","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/182.png",
 "thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/182.png","type":"LAST",
 "requirement":"태양의돌 사용"}],"previousEvolutions":[{"number":"043","name":"뚜벅쵸"
