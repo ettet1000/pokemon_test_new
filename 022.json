@@ -29,6 +29,7 @@
 "baseExp":"155",
 "growthRate":"중간 빠름"},
 "abilities":[{"name":"날카로운눈",
+"description":"명중률이 떨어지지 않는다."},{"name":"스나이퍼 (히든)",
 "description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1",
 "Fire":"1",
