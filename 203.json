@@ -3,7 +3,9 @@
 "specie":"긴목","height":"41.5 kg (91.5 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"159",
-"growthRate":"중간 빠름"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"일찍기상","description":"잠듦 상태에서 빨리 깨어난다."}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"정신력","description":"풀죽지 않는다."},{"name":"일찍기상","description":"잠듦 상태에서 빨리 깨어난다."},
+{"name":"초식 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"0","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"0","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"203",
 "name":"키링키",
