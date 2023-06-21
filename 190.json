@@ -63,7 +63,7 @@
 ,{"category":"물리","move":"뛰어오르다","type":"Flying","power":"85","accuracy":"85"}
 ,{"category":"물리","move":"카운터","type":"Fighting","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
-,{"category":"물리","move":"Double Slap","type":"Normal","power":"15","accuracy":"85"}
+,{"category":"물리","move":"연속뺨치기","type":"Normal","power":"15","accuracy":"85"}
 ,{"category":"물리","move":"속이다","type":"Normal","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"따라가때리기","type":"Dark","power":"40","accuracy":"100"}
 ,{"category":"변화","move":"퍼스트가드","type":"Fighting","power":"—","accuracy":"—"}
