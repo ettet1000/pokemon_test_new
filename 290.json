@@ -3,7 +3,7 @@
 "specie":"신참","height":"5.5 kg (12.1 lbs)","weight":"0.5 m (1′08″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 방어","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"53",
-"growthRate":"Erratic"},"abilities":[{"name":"복안","description":"기술의 명중률이 올라간다."},
+"growthRate":"불규칙"},"abilities":[{"name":"복안","description":"기술의 명중률이 올라간다."},
 {"name":"도주 (히든)",
 "description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"2","Fighting":"½","Poison":"½","Ground":"½","Flying":"2","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","type":"FIRST"},{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","type":"LAST",

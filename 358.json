@@ -3,7 +3,8 @@
 "specie":"풍경","height":"1.0 kg (2.2 lbs)","weight":"0.6 m (2′00″)","breeding":{
 "egg":{"groups":["부정형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 특수공격, 1 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"159",
-"growthRate":"빠름"},"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."}],"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"0","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
+"growthRate":"빠름"},"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"0","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[
 {"number":"433","name":"랑딸랑","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/433.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/433.png","type":"FIRST"},
 {"number":"358","name":"치렁","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/358.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/358.png","type":"LAST",

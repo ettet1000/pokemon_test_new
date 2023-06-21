@@ -3,7 +3,7 @@
 "specie":"시노비","height":"12.0 kg (26.5 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 스피드","catchRate":"120 (15.7% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"160",
-"growthRate":"Erratic"},"abilities":[{"name":"가속","description":"조금씩 스피드가 높아진다."},
+"growthRate":"불규칙"},"abilities":[{"name":"가속","description":"조금씩 스피드가 높아진다."},
 {"name":"틈새포착 (히든)",
 "description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"¼","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"2","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"290","name":"토중몬","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/290.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/290.png","type":"FIRST"},{"number":"291","name":"아이스크","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/291.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/291.png","type":"LAST",
