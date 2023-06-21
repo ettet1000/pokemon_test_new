@@ -87,7 +87,7 @@
 ,{"category":"특수","move":"물의파동","type":"Water","power":"60","accuracy":"100"}]
 ,"evolution":[],"preEvolution":[{"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—","method":"Level up"}
 ,{"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100","method":"Level up"}
-,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞","method":"Level up"}
+,{"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞","method":"Level up"}
 ,{"category":"물리","move":"바둥바둥","type":"Normal","power":"—","accuracy":"100","method":"Level up"}
 ,{"category":"물리","move":"치근거리기","type":"Fairy","power":"90","accuracy":"90","method":"Level up"}
 ,{"category":"변화","move":"태만함","type":"Normal","power":"—","accuracy":"—","method":"Level up"}

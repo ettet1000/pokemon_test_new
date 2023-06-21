@@ -14,7 +14,7 @@
 ,{"level":1,"category":"변화","move":"하품","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":6,"category":"변화","move":"앵콜","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":9,"category":"변화","move":"태만함","type":"Normal","power":"—","accuracy":"—"}
-,{"level":14,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":14,"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"level":17,"category":"변화","move":"망각술","type":"Psychic","power":"—","accuracy":"—"}
 ,{"level":22,"category":"물리","move":"탐내다","type":"Normal","power":"60","accuracy":"100"}
 ,{"level":25,"category":"물리","move":"야금야금","type":"Normal","power":"70","accuracy":"100"}

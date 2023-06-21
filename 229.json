@@ -23,7 +23,7 @@
 ,{"level":20,"category":"변화","move":"냄새구별","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":26,"category":"물리","move":"집단구타","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":30,"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
-,{"level":35,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":35,"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"level":41,"category":"변화","move":"금제","type":"Dark","power":"—","accuracy":"100"}
 ,{"level":45,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}
 ,{"level":50,"category":"특수","move":"화염방사","type":"Fire","power":"90","accuracy":"100"}

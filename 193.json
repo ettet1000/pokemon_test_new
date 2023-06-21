@@ -52,7 +52,7 @@
 ,{"technicalMachine":100,"category":"변화","move":"비밀이야기","type":"Normal","power":"—","accuracy":"—"}],"technicalRecords":[]
 ,"egg":[{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
-,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"category":"물리","move":"흡혈","type":"Bug","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"따라가때리기","type":"Dark","power":"40","accuracy":"100"}
 ,{"category":"물리","move":"기사회생","type":"Fighting","power":"—","accuracy":"100"}

@@ -63,7 +63,7 @@
 ,{"category":"변화","move":"판별","type":"Fighting","power":"—","accuracy":"—"}
 ,{"category":"물리","move":"폭발펀치","type":"Fighting","power":"100","accuracy":"50"}
 ,{"category":"물리","move":"페인트","type":"Normal","power":"30","accuracy":"100"}
-,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
 ,{"category":"변화","move":"꿰뚫어보기","type":"Normal","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"도우미","type":"Normal","power":"—","accuracy":"—"}

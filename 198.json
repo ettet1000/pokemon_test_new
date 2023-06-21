@@ -18,7 +18,7 @@
 ,{"level":21,"category":"특수","move":"나이트헤드","type":"Ghost","power":"—","accuracy":"100"}
 ,{"level":25,"category":"물리","move":"승부굳히기","type":"Dark","power":"60","accuracy":"100"}
 ,{"level":31,"category":"변화","move":"도발","type":"Dark","power":"—","accuracy":"100"}
-,{"level":35,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":35,"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"level":41,"category":"변화","move":"검은눈빛","type":"Normal","power":"—","accuracy":"—"}
 ,{"level":45,"category":"물리","move":"속임수","type":"Dark","power":"95","accuracy":"100"}
 ,{"level":50,"category":"변화","move":"순풍","type":"Flying","power":"—","accuracy":"—"}
@@ -64,7 +64,7 @@
 ,{"category":"변화","move":"이상한빛","type":"Ghost","power":"—","accuracy":"100"}
 ,{"category":"물리","move":"회전부리","type":"Flying","power":"80","accuracy":"100"}
 ,{"category":"변화","move":"깃털댄스","type":"Flying","power":"—","accuracy":"100"}
-,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"category":"변화","move":"부추기기","type":"Dark","power":"—","accuracy":"100"}
 ,{"category":"변화","move":"따라하기","type":"Flying","power":"—","accuracy":"—"}
 ,{"category":"변화","move":"멸망의노래","type":"Normal","power":"—","accuracy":"—"}

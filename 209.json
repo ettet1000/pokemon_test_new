@@ -69,7 +69,7 @@
 ,{"category":"물리","move":"깨물어부수기","type":"Dark","power":"80","accuracy":"100"}
 ,{"category":"물리","move":"이판사판태클","type":"Normal","power":"120","accuracy":"100"}
 ,{"category":"변화","move":"거짓울음","type":"Dark","power":"—","accuracy":"100"}
-,{"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"category":"물리","move":"불꽃엄니","type":"Fire","power":"65","accuracy":"95"}
 ,{"category":"물리","move":"힘껏펀치","type":"Fighting","power":"150","accuracy":"100"}
 ,{"category":"변화","move":"치료방울","type":"Normal","power":"—","accuracy":"—"}

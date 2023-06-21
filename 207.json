@@ -16,7 +16,7 @@
 ,{"level":10,"category":"물리","move":"탁쳐서떨구기","type":"Dark","power":"65","accuracy":"100"}
 ,{"level":13,"category":"물리","move":"전광석화","type":"Normal","power":"40","accuracy":"100"}
 ,{"level":16,"category":"물리","move":"연속자르기","type":"Bug","power":"40","accuracy":"95"}
-,{"level":19,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":19,"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"level":22,"category":"물리","move":"애크러뱃","type":"Flying","power":"55","accuracy":"100"}
 ,{"level":27,"category":"물리","move":"베어가르기","type":"Normal","power":"70","accuracy":"100"}
 ,{"level":30,"category":"물리","move":"유턴","type":"Bug","power":"70","accuracy":"100"}

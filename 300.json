@@ -18,9 +18,9 @@
 ,{"level":7,"category":"변화","move":"노래하기","type":"Normal","power":"—","accuracy":"55"}
 ,{"level":10,"category":"변화","move":"헤롱헤롱","type":"Normal","power":"—","accuracy":"100"}
 ,{"level":13,"category":"특수","move":"차밍보이스","type":"Fairy","power":"40","accuracy":"∞"}
-,{"level":16,"category":"물리","move":"Double Slap","type":"Normal","power":"15","accuracy":"85"}
+,{"level":16,"category":"물리","move":"연속뺨치기","type":"Normal","power":"15","accuracy":"85"}
 ,{"level":19,"category":"변화","move":"흉내쟁이","type":"Normal","power":"—","accuracy":"—"}
-,{"level":22,"category":"물리","move":"페인트 Attack","type":"Dark","power":"60","accuracy":"∞"}
+,{"level":22,"category":"물리","move":"보복","type":"Dark","power":"60","accuracy":"∞"}
 ,{"level":25,"category":"변화","move":"애교부리기","type":"Fairy","power":"—","accuracy":"100"}
 ,{"level":28,"category":"물리","move":"잠깨움뺨치기","type":"Fighting","power":"70","accuracy":"100"}
 ,{"level":31,"category":"변화","move":"조수","type":"Normal","power":"—","accuracy":"—"}
