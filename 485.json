@@ -3,7 +3,9 @@
 "specie":"화구","height":"430.0 kg (948.0 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"10 (2,314–2,570 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"3 (0.4% 포켓볼과 함께,풀 HP)","baseFriendship":"100 (보통보다 높음)","baseExp":"270",
-"growthRate":"느린"},"abilities":[{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."}]
+"growthRate":"느린"},"abilities":[{"name":"타오르는불꽃","description":"불꽃을 받으면 불꽃 기술이 강해진다."},
+{"name":"불꽃몸 (히든)",
+"description":"명중률이 떨어지지 않는다."}]
 ,"typesEffectiveness":{"Normal":"½","Fire":"1","Water":"2","Electric":"1","Grass":"¼","Ice":"¼","Fighting":"2","Poison":"0","Ground":"4","Flying":"½","Psychic":"½","Bug":"¼","Rock":"1","Ghost":"1","Dragon":"½","Dark":"1","Steel":"¼","Fairy":"¼"},
 "evolutionChain":[{"number":"485","name":"히드런","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/485.png"
 ,"thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/485.png","type":"FIRST"}],

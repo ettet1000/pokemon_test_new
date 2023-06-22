@@ -3,7 +3,10 @@
 "specie":"나방","height":"23.3 kg (51.4 lbs)","weight":"0.9 m (2′11″)","breeding":{
 "egg":{"groups":["벌레"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
 "training":{"evYield":"1 공격, 1 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"148",
-"growthRate":"중간 빠름"},"abilities":[{"name":"벌레의알림","description":"Powers up Bug-type moves when the Pokémon's HP is low."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"¼","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"2","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},
+"growthRate":"중간 빠름"},"abilities":[{"name":"벌레의알림","description":"Powers up Bug-type moves when the Pokémon's HP is low."},
+{"name":"색안경 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"2","Grass":"¼","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"2","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},
 "evolutionChain":[
 {"number":"412","name":"도롱충이","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/412.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/412.png","type":"FIRST"},
 {"number":"414","name":"나메일","imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/414.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/414.png","type":"LAST",
