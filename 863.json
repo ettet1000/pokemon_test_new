@@ -8,7 +8,10 @@
 "specie":"바이킹","height":"28.0 kg (61.7 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"90 (11.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"154",
-"growthRate":"중간 빠름"},"abilities":[{"name":"전투무장","description":"상대의 공격이 급소에 맞지 않는다."},{"name":"단단한발톱","description":"Powers up moves that make direct contact."}],"typesEffectiveness":{"Normal":"½","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"½","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},
+"growthRate":"중간 빠름"},"abilities":[{"name":"전투무장","description":"상대의 공격이 급소에 맞지 않는다."},{"name":"단단한발톱","description":"Powers up moves that make direct contact."},
+{"name":"강철정신 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"½","Fire":"2","Water":"1","Electric":"1","Grass":"½","Ice":"½","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},
 "evolutionChain":[{"number":"2010","name":"나옹",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2010.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2010_thumb.png","type":"FIRST"},
 {"number":"863","name":"나이킹",

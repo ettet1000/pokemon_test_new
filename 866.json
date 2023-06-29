@@ -8,7 +8,10 @@
 "specie":"코미디언","height":"58.2 kg (128.3 lbs)","weight":"1.5 m (4′11″)","breeding":{
 "egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"182",
-"growthRate":"중간 빠름"},"abilities":[{"name":"갈지자걸음","description":"Raises evasiveness if the Pokémon is confused."},{"name":"배리어프리","description":"When the Pokémon enters a battle, the effects of 빛의장막, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."}],"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"2","Fairy":"1"},
+"growthRate":"중간 빠름"},"abilities":[{"name":"갈지자걸음","description":"Raises evasiveness if the Pokémon is confused."},{"name":"배리어프리","description":"When the Pokémon enters a battle, the effects of 빛의장막, Reflect, and Aurora Veil are nullified for both opposing and ally Pokémon."},
+{"name":"아이스바디 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
+"typesEffectiveness":{"Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"2","Fairy":"1"},
 "evolutionChain":[
 {"number":"439","name":"흉내내",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/439.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/439.png","type":"FIRST"},{"number":"2025","name":"마임맨",

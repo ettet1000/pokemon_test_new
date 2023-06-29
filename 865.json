@@ -8,7 +8,9 @@
 "specie":"청둥오리","height":"117.0 kg (257.9 lbs)","weight":"0.8 m (2′07″)","breeding":{
 "egg":{"groups":["육상","비행"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"177",
-"growthRate":"중간 빠름"},"abilities":[{"name":"불굴의마음","description":"The Pokémon's determination boosts the Speed stat each time the Pokémon flinches."}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"불굴의마음","description":"The Pokémon's determination boosts the Speed stat each time the Pokémon flinches."},
+{"name":"배짱 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},
 "evolutionChain":[{"number":"2019","name":"파오리",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2019.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2019_thumb.png","type":"FIRST"},

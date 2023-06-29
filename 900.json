@@ -16,7 +16,9 @@
 "training":{"evYield":"2 공격력","catchRate":"115","baseFriendship":"","baseExp":"",
 "growthRate":"중간 빠름"},"abilities":[{"name":"벌레의알림",
 "description":"명중률이 떨어지지 않는다."},{"name":"우격다짐",
-"description":"Raises evasiveness if the Pokémon is confused."}],
+"description":"Raises evasiveness if the Pokémon is confused."},
+{"name":"예리함 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"½","Fire":"1","Water":"2","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"½"
 ,"Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"2","Ghost":"1","Dragon":"1","Dark":"1","Steel":"2","Fairy":"1"},
 "evolutionChain":[
@@ -44,7 +46,7 @@
 {"number":"SWSH249","name":"사마자르 VSTAR","expansionName":"소드&실드 확장팩 「스페이스 저글러」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSHP_EN_SWSH249.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/900.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/900 Kleavor.ogg","moves":{
 "levelUp":[
     {
         "level": 1,
