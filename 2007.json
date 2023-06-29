@@ -13,7 +13,9 @@
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 스피드","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"53",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"모래숨기","description":"모래바람으로 회피율이 올라간다."},{"name":"컬리헤어","description":"Prevents opposing Pokémon from fleeing."}],
+"abilities":[{"name":"모래숨기","description":"모래바람으로 회피율이 올라간다."},{"name":"컬리헤어","description":"Prevents opposing Pokémon from fleeing."},
+{"name":"모래의힘 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"2","Water":"2","Electric":"0","Grass":"1","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"¼","Ghost":"1","Dragon":"½","Dark":"1","Steel":"½","Fairy":"½"},
 "evolutionChain":[{"number":"2007","name":"디그다",

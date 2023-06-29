@@ -13,7 +13,9 @@
 "egg":{"groups":["인간형"],"cycle":"25 (6,169–6,425 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"161",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"의기양양","description":"소리 기술을 받지 않는다."},{"name":"배리어프리","description":"Reduces the power of supereffective attacks taken."}],
+"abilities":[{"name":"의기양양","description":"소리 기술을 받지 않는다."},{"name":"배리어프리","description":"Reduces the power of supereffective attacks taken."},
+{"name":"아이스바디 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"2","Water":"1","Electric":"1","Grass":"1","Ice":"½","Fighting":"1","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"2","Fairy":"1"},
 "evolutionChain":[{"number":"439","name":"흉내내",

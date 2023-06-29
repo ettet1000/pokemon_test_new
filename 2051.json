@@ -12,7 +12,9 @@
 "specie":"연체","height":"68.5 kg (151.0 lbs)","weight":"0.7 m (2′04″)","breeding":{
 "egg":{"groups":["Dragon"],"cycle":"40 (10,024–10,280 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"35 (보통보다 낮음)","baseExp":"158",
-"growthRate":"느린"},"abilities":[{"name":"초식","description":"Heals status conditions if it's raining."},{"name":"방진","description":"Boosts the Attack stat if hit by a Grass-type move instead of taking damage."}],
+"growthRate":"느린"},"abilities":[{"name":"초식","description":"Heals status conditions if it's raining."},{"name":"조가비갑옷","description":"Boosts the Attack stat if hit by a Grass-type move instead of taking damage."},
+{"name":"미끈미끈 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"½","Fire":"1","Water":"½","Electric":"½","Grass":"¼","Ice":"1","Fighting":"2","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"1","Steel":"½","Fairy":"2"},
 "evolutionChain":[{"number":"704","name":"미끄메라",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/704.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/704.png","type":"FIRST"},{"number":"2051","name":"미끄네일",

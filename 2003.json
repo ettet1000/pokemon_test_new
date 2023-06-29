@@ -13,7 +13,9 @@
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 방어","catchRate":"255 (33.3% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"60",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"눈숨기","description":"모래바람으로 회피율이 올라간다."}],
+"abilities":[{"name":"눈숨기","description":"모래바람으로 회피율이 올라간다."},
+{"name":"눈치우기 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"4","Water":"1","Electric":"1","Grass":"½","Ice":"¼","Fighting":"4","Poison":"0","Ground":"2","Flying":"½","Psychic":"½","Bug":"½","Rock":"1","Ghost":"1","Dragon":"½","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"2003","name":"모래두지",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2003.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2003_thumb.png","type":"FIRST"},{"number":"2004","name":"고지",

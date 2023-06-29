@@ -13,7 +13,9 @@
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 스피드","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"82",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"도주","description":"야생 포켓몬으로부터 반드시 도망칠 수 있다."},{"name":"파스텔베일","description":"불꽃을 받으면 불꽃 기술이 강해진다."}],
+"abilities":[{"name":"도주","description":"야생 포켓몬으로부터 반드시 도망칠 수 있다."},{"name":"파스텔베일","description":"불꽃을 받으면 불꽃 기술이 강해진다."},
+{"name":"위험예지 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"2017","name":"포니타",

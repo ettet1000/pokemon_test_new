@@ -13,7 +13,9 @@
 "egg":{"groups":["식물"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"186",
 "growthRate":"느린"},
-"abilities":[{"name":"통찰","description":"맑을 때 스피드가 올라간다."}],
+"abilities":[{"name":"통찰","description":"맑을 때 스피드가 올라간다."},
+{"name":"수확 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"¼","Electric":"¼","Grass":"¼","Ice":"4","Fighting":"1","Poison":"2","Ground":"½","Flying":"2","Psychic":"1","Bug":"2","Rock":"1","Ghost":"1","Dragon":"2","Dark":"1","Steel":"1","Fairy":"2"},"evolutionChain":[{"number":"102","name":"아라리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/102.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/102.png","type":"FIRST"},{"number":"2022","name":"나시",

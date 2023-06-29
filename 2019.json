@@ -13,7 +13,9 @@
 "egg":{"groups":["육상","Flying"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"132",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"불굴의마음","description":"명중률이 떨어지지 않는다."}],
+"abilities":[{"name":"불굴의마음","description":"명중률이 떨어지지 않는다."},
+{"name":"배짱 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"1","Poison":"1","Ground":"1","Flying":"2","Psychic":"2","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"2"},
 "evolutionChain":[{"number":"2019","name":"파오리",

@@ -13,7 +13,9 @@
 "egg":{"groups":["괴수"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"75 (9.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"149",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"저주받은바디","description":"Protects the Pokémon from recoil damage."},{"name":"피뢰침","description":"전기를 끌어모아 특수공격을 올린다."}],
+"abilities":[{"name":"저주받은바디","description":"Protects the Pokémon from recoil damage."},{"name":"피뢰침","description":"전기를 끌어모아 특수공격을 올린다."},
+{"name":"돌머리 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"0","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"104","name":"탕구리",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/104.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/104.png","type":"FIRST"},{"number":"2023","name":"텅구리",

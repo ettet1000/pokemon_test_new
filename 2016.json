@@ -13,7 +13,9 @@
 "egg":{"groups":["광물"],"cycle":"15 (3,599–3,855 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"3 방어","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"223",
 "growthRate":"중간 느림"},
-"abilities":[{"name":"자력","description":"Protects the Pokémon from recoil damage."},{"name":"옹골참","description":"일격으로 쓰러지지 않는다."}],
+"abilities":[{"name":"자력","description":"Protects the Pokémon from recoil damage."},{"name":"옹골참","description":"일격으로 쓰러지지 않는다."},
+{"name":"일렉트릭스킨 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"½","Fire":"½","Water":"2","Electric":"½","Grass":"2","Ice":"1","Fighting":"2","Poison":"½","Ground":"4","Flying":"¼","Psychic":"1","Bug":"1","Rock":"1","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},"evolutionChain":[{"number":"2014","name":"꼬마돌",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2014_thumb.png","type":"FIRST"},{"number":"2015","name":"데구리",

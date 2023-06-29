@@ -12,7 +12,9 @@
 "specie":"용맹","height":"43.4 kg (95.7 lbs)","weight":"1.7 m (5′07″)","breeding":{
 "egg":{"groups":["Flying"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"100%"}]},
 "training":{"evYield":"2 공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"179",
-"growthRate":"느린"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"우격다짐","description":"Removes additional effects to increase the power of moves when attacking."}],
+"growthRate":"느린"},"abilities":[{"name":"날카로운눈","description":"명중률이 떨어지지 않는다."},{"name":"우격다짐","description":"Removes additional effects to increase the power of moves when attacking."},
+{"name":"색안경 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"¼","Poison":"1","Ground":"0","Flying":"1","Psychic":"½","Bug":"1","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[{"number":"627","name":"수리둥보",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/627.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/627.png","type":"FIRST"},{"number":"2050","name":"워글",

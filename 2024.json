@@ -13,7 +13,9 @@
 "egg":{"groups":["부정형"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 방어","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"172",
 "growthRate":"중간 빠름"},
-"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."},{"name":"화학변화가스","description":"If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon's Abilities will be nullified or will not be triggered."}],
+"abilities":[{"name":"부유","description":"땅타입의 기술을 받지 않는다."},{"name":"화학변화가스","description":"If the Pokémon with Neutralizing Gas is in the battle, the effects of all Pokémon's Abilities will be nullified or will not be triggered."},
+{"name":"미스트메이커 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"¼","Poison":"1","Ground":"2","Flying":"1","Psychic":"2","Bug":"¼","Rock":"1","Ghost":"1","Dragon":"0","Dark":"½","Steel":"2","Fairy":"½"},"evolutionChain":[{"number":"109","name":"또가스",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/109.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/109.png","type":"FIRST"},{"number":"2024","name":"또도가스",

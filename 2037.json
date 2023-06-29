@@ -11,7 +11,9 @@
 "specie":"얼간이","height":"36.0 kg (79.4 lbs)","weight":"1.2 m (3′11″)","breeding":{
 "egg":{"groups":["괴수","수중1"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 HP","catchRate":"190 (24.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"63",
-"growthRate":"중간 빠름"},"abilities":[{"name":"먹보","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"마이페이스","description":"혼란 상태가 되지 않는다."}],
+"growthRate":"중간 빠름"},"abilities":[{"name":"먹보","description":"헤롱헤롱이나 도발 상태가 되지 않는다."},{"name":"마이페이스","description":"혼란 상태가 되지 않는다."},
+{"name":"재생력 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"1","Ice":"1","Fighting":"½","Poison":"1","Ground":"1","Flying":"1","Psychic":"½","Bug":"2","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"1","Fairy":"1"},
 "evolutionChain":[
 {"number":"2037","name":"야돈",

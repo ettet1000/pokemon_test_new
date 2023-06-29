@@ -14,7 +14,9 @@
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"87.5%"},{"type":"FEMALE","percentage":"12.5%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"45 (5.9% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (보통)","baseExp":"240",
 "growthRate":"중간 느림"},
-"abilities":[{"name":"맹화","description":"위급할 때 불꽃타입의 위력이 올라간다."}],
+"abilities":[{"name":"맹화","description":"위급할 때 불꽃타입의 위력이 올라간다."},
+{"name":"통찰 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"0","Fire":"½","Water":"2","Electric":"1","Grass":"½","Ice":"½","Fighting":"0","Poison":"½","Ground":"2","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"½"},"evolutionChain":[{"number":"155","name":"브케인",
 "imageUrl":"https://pokedex.alansantos.dev/assets/pokemons/images/155.png","thumbUrl":"https://pokedex.alansantos.dev/assets/pokemons/thumbs/155.png","type":"FIRST"},{"number":"156","name":"마그케인",

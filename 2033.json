@@ -13,7 +13,9 @@
 "egg":{"groups":["육상"],"cycle":"20 (4,884–5,140 걸음)"},"genders":[{"type":"MALE","percentage":"50%"},{"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"2 특수공격","catchRate":"60 (7.8% 포켓볼과 함께,풀 HP)","baseFriendship":"50 (노말)","baseExp":"168",
 "growthRate":"중간 느림"},
-"abilities":[{"name":"무아지경","description":"Removes additional effects to increase the power of moves when attacking."}],
+"abilities":[{"name":"무아지경","description":"Removes additional effects to increase the power of moves when attacking."},
+{"name":"달마모드 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{
 "Normal":"1","Fire":"1","Water":"2","Electric":"1","Grass":"½","Ice":"¼","Fighting":"2","Poison":"1","Ground":"2","Flying":"1","Psychic":"1","Bug":"½","Rock":"4","Ghost":"1","Dragon":"1","Dark":"1","Steel":"1","Fairy":"½"},"evolutionChain":[{"number":"2031","name":"달막화",
 "imageUrl":"https://ettet1000.github.io/pokemon_test_new/images/2031.png","thumbUrl":"https://ettet1000.github.io/pokemon_test_new/images/2031_thumb.png","type":"FIRST"},{"number":"2033","name":"불비달마",
