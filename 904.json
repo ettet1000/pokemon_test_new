@@ -16,7 +16,9 @@
 "training":{"evYield":"1 공격력","catchRate":"135","baseFriendship":"","baseExp":"",
 "growthRate":"중간 빠름"},"abilities":[{"name":"독가시",
 "description":"명중률이 떨어지지 않는다."},{"name":"쓱쓱",
-"description":"Raises evasiveness if the Pokémon is confused."}],
+"description":"Raises evasiveness if the Pokémon is confused."},
+{"name":"위협 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"1","Poison":"½"
 ,"Ground":"2","Flying":"1","Psychic":"","Bug":"1","Rock":"1","Ghost":"½","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
 "evolutionChain":[
@@ -36,7 +38,7 @@
 {"number":"91","name":"히스이 장침바루 HP130","expansionName":"소드 & 실드 스타터 세트 VSTAR 「다크라이」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_91.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/904.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/904 Overqwil.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

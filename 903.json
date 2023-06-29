@@ -15,6 +15,8 @@
 {"type":"FEMALE","percentage":"50%"}]},
 "training":{"evYield":"1 공격력, 1 스피드","catchRate":"135","baseFriendship":"","baseExp":"",
 "growthRate":"중간 빠름"},"abilities":[{"name":"프레셔",
+"description":"명중률이 떨어지지 않는다."},
+{"name":"독수 (히든)",
 "description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"1","Grass":"½","Ice":"1","Fighting":"½","Poison":"½"
 ,"Ground":"2","Flying":"2","Psychic":"4","Bug":"½","Rock":"½","Ghost":"1","Dragon":"1","Dark":"½","Steel":"1","Fairy":"1"},
@@ -39,7 +41,7 @@
 {"number":"175","name":"히스이 포푸니크 V HP190","expansionName":"소드&실드 확장팩 「스페이스 저글러」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_175.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/903.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/903 Sneasler.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

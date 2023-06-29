@@ -16,7 +16,9 @@
 "training":{"evYield":"3 공격력","catchRate":"75","baseFriendship":"","baseExp":"",
 "growthRate":"중간 빠름"},"abilities":[{"name":"근성",
 "description":"명중률이 떨어지지 않는다."},{"name":"방탄",
-"description":"Raises evasiveness if the Pokémon is confused."}],
+"description":"Raises evasiveness if the Pokémon is confused."},
+{"name":"긴장감 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"2","Electric":"","Grass":"2","Ice":"2","Fighting":"2","Poison":"½"
 ,"Ground":"1","Flying":"1","Psychic":"1","Bug":"1","Rock":"½","Ghost":"","Dragon":"1","Dark":"1","Steel":"1","Fairy":"1"},
 "evolutionChain":[
@@ -40,7 +42,7 @@
 "cards":[{"number":"124","name":"다투곰","expansionName":"소드&실드 확장팩 「스페이스 저글러」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_124.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/901.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/901 Ursaluna.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

@@ -16,7 +16,9 @@
 "training":{"evYield":"2 HP","catchRate":"135","baseFriendship":"","baseExp":"",
 "growthRate":"중간 빠름"},"abilities":[{"name":"주눅",
 "description":"명중률이 떨어지지 않는다."},{"name":"적응력",
-"description":"Raises evasiveness if the Pokémon is confused."}],
+"description":"Raises evasiveness if the Pokémon is confused."},
+{"name":"틀깨기 (히든)",
+"description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"","Fire":"½","Water":"½","Electric":"2","Grass":"2","Ice":"½","Fighting":"","Poison":"½"
 ,"Ground":"1","Flying":"1","Psychic":"1","Bug":"½","Rock":"1","Ghost":"2","Dragon":"1","Dark":"2","Steel":"½","Fairy":"1"},
 "evolutionChain":[
@@ -36,7 +38,7 @@
 {"number":"44","name":"대쓰여너","expansionName":"소드&실드 강화 확장팩 「배틀리전」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH10_EN_44.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/902.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/902 Basculegion.ogg","moves":{
 "levelUp":[
     {
         "level": 1,

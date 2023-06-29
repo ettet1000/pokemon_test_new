@@ -13,7 +13,9 @@
 "specie":"애증","height":"48.0 kg (105.8 lbs)","weight":"1.6 m (5′03″)","breeding":{
 "egg":{"groups":["알미발견"],"cycle":"30840 걸음"},"genders":[{"type":"FEMALE","percentage":"100%"}]},
 "training":{"evYield":"3 특수공격","catchRate":"","baseFriendship":"","baseExp":"",
-"growthRate":"느림"},"abilities":[{"name":"치유의마음",
+"growthRate":"느림"},"abilities":[{"name":"헤롱헤롱바디",
+"description":"명중률이 떨어지지 않는다."},
+{"name":"심술꾸러기 (히든)",
 "description":"명중률이 떨어지지 않는다."}],
 "typesEffectiveness":{"Normal":"1","Fire":"1","Water":"1","Electric":"2","Grass":"½","Ice":"2","Fighting":"¼","Poison":"2"
 ,"Ground":"","Flying":"1","Psychic":"1","Bug":"¼","Rock":"2","Ghost":"1","Dragon":"","Dark":"½","Steel":"2","Fairy":"1"},
@@ -31,7 +33,7 @@
 {"number":"82","name":"러브로스 V","expansionName":"소드&실드 강화 확장팩 「다크판타스마」"
 ,"imageUrl":"https://ettet1000.github.io/pokemon_ko_main/cards/SWSH11_EN_82.png"}
 ],
-"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/905.mp3","moves":{
+"soundUrl":"https://ettet1000.github.io/pokemon_ko_main/crys/905 Enamorus (Incarnate).ogg","moves":{
 "levelUp":[
     {
         "level": 1,
